@@ -66,8 +66,8 @@ export function Services({ onBookClick }: ServicesProps) {
 
           {/* Cut Card - Tall */}
           <div className="card-hover lg:col-span-5 lg:row-span-2 bg-white border border-accent-peach/30 rounded-5xl p-10 relative overflow-hidden flex flex-col justify-between group hover:border-accent-peach/70 hover:shadow-2xl hover:shadow-accent-peach/10 transition-all">
-            <div className="absolute bottom-0 right-0 text-accent-peach opacity-[0.15] group-hover:opacity-25 transition-all duration-700">
-              <Icon icon="lucide:scissors" className="w-64 h-64 translate-x-12 translate-y-12" />
+            <div className="absolute -bottom-20 -right-20 text-accent-peach opacity-[0.15] group-hover:opacity-25 transition-all duration-700">
+              <Icon icon="lucide:scissors" className="w-64 h-64" />
             </div>
             <div className="relative z-10">
               <div className="w-14 h-14 rounded-2xl border border-accent-peach/40 flex items-center justify-center text-accent-peach mb-8 bg-white shadow-sm">
