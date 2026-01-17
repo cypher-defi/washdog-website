@@ -14,6 +14,7 @@ interface DateTimeSelectProps {
   onSubmit: () => void;
   canSubmit: boolean;
   summary: string;
+  serviceType: 'bath' | 'cut' | null;
 }
 
 export function DateTimeSelect({
@@ -25,6 +26,7 @@ export function DateTimeSelect({
   onSubmit,
   canSubmit,
   summary,
+  serviceType,
 }: DateTimeSelectProps) {
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
@@ -57,6 +59,7 @@ export function DateTimeSelect({
           selectedTime={selectedTime}
           onSelectTime={onSelectTime}
           hasDate={selectedDate !== null}
+          serviceType={serviceType}
         />
       </div>
 

@@ -89,6 +89,7 @@ export function BookingModal({
               onSubmit={onSubmit}
               canSubmit={canSubmit}
               summary={summary}
+              serviceType={state.service}
             />
           )}
         </div>
