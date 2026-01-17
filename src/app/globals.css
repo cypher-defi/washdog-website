@@ -1,26 +1,99 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Custom Colors */
+  --color-primary: #1a1f24;
+  --color-accent-blue: #8FBBD9;
+  --color-accent-green: #BFD8C2;
+  --color-accent-green-dark: #7DA382;
+  --color-accent-peach: #F5BEA6;
+  --color-accent-peach-dark: #E09878;
+  --color-accent-purple: #E2D4F5;
+  --color-accent-purple-dark: #9F87BD;
+  --color-background: #F6F8F9;
+  --color-foreground: #1a1f24;
+  --color-hero-bg: #E8F4FA;
+
+  /* Fonts */
+  --font-sans: var(--font-dm-sans);
+  --font-serif: var(--font-playfair);
+
+  /* Custom z-index */
+  --z-60: 60;
+
+  /* Custom border radius */
+  --radius-4xl: 2rem;
+  --radius-5xl: 2.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+:root {
+  --background: #F6F8F9;
+  --foreground: #1a1f24;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection */
+::selection {
+  background-color: rgba(191, 216, 194, 0.4);
+  color: #1a1f24;
+}
+
+/* Hide scrollbar but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Glass effect for navbar */
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(26, 31, 36, 0.05);
+}
+
+/* Fade in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
   }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Smooth card hover transitions */
+.card-hover {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Calendar day selected state */
+.calendar-day.selected {
+  background-color: #1a1f24;
+  color: white;
+}
+
+/* Time slot selected state */
+.time-slot.selected {
+  border-color: #8FBBD9;
+  background-color: #8FBBD9;
+  color: white;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-dm-sans), sans-serif;
 }
