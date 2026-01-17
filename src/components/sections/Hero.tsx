@@ -55,7 +55,7 @@ export function Hero({ onBookClick, onServicesClick }: HeroProps) {
 
           <button
             onClick={onServicesClick}
-            className='w-full max-w-[280px] sm:w-auto inline-flex items-center justify-center px-10 py-4 rounded-full border border-primary/20 bg-white/60 backdrop-blur-md text-primary hover:bg-white text-xs font-semibold tracking-[0.2em] uppercase transition-all'
+            className='w-full max-w-[280px] sm:w-auto inline-flex items-center justify-center px-10 py-4 rounded-full border-2 border-primary/20 bg-white/60 backdrop-blur-md text-primary hover:bg-white hover:border-accent-blue text-xs font-semibold tracking-[0.2em] uppercase transition-all'
           >
             Ver Servicios
           </button>

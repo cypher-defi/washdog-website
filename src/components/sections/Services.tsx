@@ -58,7 +58,7 @@ export function Services({ onBookClick }: ServicesProps) {
             </div>
             <button
               onClick={onBookClick}
-              className="mt-8 text-xs font-bold text-accent-blue uppercase tracking-widest flex items-center gap-2 group-hover:gap-3 transition-all"
+              className="mt-8 text-xs font-bold text-accent-blue uppercase tracking-widest flex items-center gap-2 group-hover:gap-3 transition-all px-4 py-2 -ml-4 rounded-lg border-2 border-transparent hover:border-accent-blue"
             >
               Reservar <Icon icon="lucide:arrow-right" className="w-4 h-4" />
             </button>
