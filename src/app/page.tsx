@@ -44,9 +44,11 @@ export default function Home() {
         state={booking.state}
         isSuccess={booking.isSuccess}
         onSelectService={booking.selectService}
+        onSelectDogSize={booking.selectDogSize}
         onSelectDate={booking.selectDate}
         onSelectTime={booking.selectTime}
         onReset={booking.resetBooking}
+        onGoBackToSize={booking.goBackToSize}
         onSubmit={booking.submitBooking}
         canSubmit={booking.canSubmit}
         summary={booking.summary}

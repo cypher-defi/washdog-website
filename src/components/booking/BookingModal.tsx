@@ -3,9 +3,10 @@
 import { useEffect } from 'react';
 import { Icon } from '@iconify/react';
 import { ServiceSelect } from './ServiceSelect';
+import { DogSizeSelect } from './DogSizeSelect';
 import { DateTimeSelect } from './DateTimeSelect';
 import { BookingSuccess } from './BookingSuccess';
-import { BookingState } from '@/types';
+import { BookingState, DogSize } from '@/types';
 
 interface BookingModalProps {
   isOpen: boolean;
@@ -13,9 +14,11 @@ interface BookingModalProps {
   state: BookingState;
   isSuccess: boolean;
   onSelectService: (service: 'bath' | 'cut') => void;
-  onSelectDate: (date: number) => void;
+  onSelectDogSize: (size: DogSize) => void;
+  onSelectDate: (date: Date) => void;
   onSelectTime: (time: string) => void;
   onReset: () => void;
+  onGoBackToSize: () => void;
   onSubmit: () => void;
   canSubmit: boolean;
   summary: string;
@@ -27,9 +30,11 @@ export function BookingModal({
   state,
   isSuccess,
   onSelectService,
+  onSelectDogSize,
   onSelectDate,
   onSelectTime,
   onReset,
+  onGoBackToSize,
   onSubmit,
   canSubmit,
   summary,
@@ -48,7 +53,14 @@ export function BookingModal({
 
   if (!isOpen) return null;
 
-  const currentStep = state.service === null ? 'service' : 'datetime';
+  // Determine current step
+  const getCurrentStep = () => {
+    if (state.service === null) return 'service';
+    if (state.dogSize === null) return 'size';
+    return 'datetime';
+  };
+
+  const currentStep = getCurrentStep();
 
   return (
     <div className="fixed inset-0 z-60">
@@ -71,25 +83,41 @@ export function BookingModal({
           </button>
 
           {/* Success View */}
-          {isSuccess && <BookingSuccess onClose={onClose} />}
+          {isSuccess && (
+            <BookingSuccess
+              onClose={onClose}
+              date={state.date}
+              time={state.time}
+            />
+          )}
 
           {/* Step 1: Service Selection */}
           {!isSuccess && currentStep === 'service' && (
             <ServiceSelect onSelectService={onSelectService} />
           )}
 
-          {/* Step 2: Date/Time Selection */}
+          {/* Step 2: Dog Size Selection */}
+          {!isSuccess && currentStep === 'size' && state.service && (
+            <DogSizeSelect
+              serviceType={state.service}
+              onSelectSize={onSelectDogSize}
+              onBack={onReset}
+            />
+          )}
+
+          {/* Step 3: Date/Time Selection */}
           {!isSuccess && currentStep === 'datetime' && (
             <DateTimeSelect
               selectedDate={state.date}
               selectedTime={state.time}
               onSelectDate={onSelectDate}
               onSelectTime={onSelectTime}
-              onBack={onReset}
+              onBack={onGoBackToSize}
               onSubmit={onSubmit}
               canSubmit={canSubmit}
               summary={summary}
               serviceType={state.service}
+              dogSize={state.dogSize}
             />
           )}
         </div>

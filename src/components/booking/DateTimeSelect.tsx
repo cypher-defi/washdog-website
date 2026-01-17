@@ -4,17 +4,32 @@ import { FormEvent } from 'react';
 import { Icon } from '@iconify/react';
 import { Calendar } from './Calendar';
 import { TimeSlots } from './TimeSlots';
+import { DogSize, DOG_SIZE_LABELS, SLOT_DURATIONS } from '@/types';
 
 interface DateTimeSelectProps {
-  selectedDate: number | null;
+  selectedDate: Date | null;
   selectedTime: string | null;
-  onSelectDate: (date: number) => void;
+  onSelectDate: (date: Date) => void;
   onSelectTime: (time: string) => void;
   onBack: () => void;
   onSubmit: () => void;
   canSubmit: boolean;
   summary: string;
   serviceType: 'bath' | 'cut' | null;
+  dogSize: DogSize;
+}
+
+function getDurationLabel(serviceType: 'bath' | 'cut', size: 'small' | 'medium' | 'large'): string {
+  const duration = SLOT_DURATIONS[serviceType][size];
+  if (duration < 60) {
+    return `${duration} min`;
+  } else if (duration === 60) {
+    return '1 hora';
+  } else if (duration === 90) {
+    return '1 hora 30 min';
+  } else {
+    return `${duration / 60} horas`;
+  }
 }
 
 export function DateTimeSelect({
@@ -27,6 +42,7 @@ export function DateTimeSelect({
   canSubmit,
   summary,
   serviceType,
+  dogSize,
 }: DateTimeSelectProps) {
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
@@ -34,6 +50,12 @@ export function DateTimeSelect({
       onSubmit();
     }
   };
+
+  const serviceLabel = serviceType === 'bath' ? 'Baño' : 'Corte';
+  const sizeLabel = dogSize ? DOG_SIZE_LABELS[dogSize] : '';
+  const durationLabel = serviceType && dogSize
+    ? getDurationLabel(serviceType, dogSize as 'small' | 'medium' | 'large')
+    : '';
 
   return (
     <div className="flex flex-col md:flex-row flex-1 h-full">
@@ -45,6 +67,23 @@ export function DateTimeSelect({
         >
           <Icon icon="lucide:arrow-left" className="w-4 h-4" /> Volver
         </button>
+
+        {/* Service summary badge */}
+        <div className="mb-4 flex flex-wrap gap-2">
+          <span className={`
+            px-3 py-1.5 rounded-lg text-[10px] font-bold tracking-widest uppercase
+            ${serviceType === 'bath' ? 'bg-accent-blue/10 text-accent-blue' : 'bg-accent-peach/10 text-accent-peach-dark'}
+          `}>
+            {serviceLabel}
+          </span>
+          <span className="px-3 py-1.5 rounded-lg bg-primary/5 text-primary/70 text-[10px] font-bold tracking-widest uppercase">
+            {sizeLabel}
+          </span>
+          <span className="px-3 py-1.5 rounded-lg bg-primary/5 text-primary/70 text-[10px] font-bold tracking-widest uppercase flex items-center gap-1">
+            <Icon icon="lucide:clock" className="w-3 h-3" /> {durationLabel}
+          </span>
+        </div>
+
         <h3 className="font-bold text-primary mb-4 text-lg">Selecciona horario</h3>
 
         <Calendar selectedDate={selectedDate} onSelectDate={onSelectDate} />
@@ -58,8 +97,9 @@ export function DateTimeSelect({
         <TimeSlots
           selectedTime={selectedTime}
           onSelectTime={onSelectTime}
-          hasDate={selectedDate !== null}
+          selectedDate={selectedDate}
           serviceType={serviceType}
+          dogSize={dogSize}
         />
       </div>
 
@@ -79,6 +119,14 @@ export function DateTimeSelect({
             <input
               type="tel"
               placeholder="Teléfono"
+              required
+              className="w-full px-4 py-3 bg-background border border-primary/10 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-accent-blue/50 focus:border-accent-blue transition-all placeholder:text-primary/30"
+            />
+          </div>
+          <div>
+            <input
+              type="email"
+              placeholder="Email"
               required
               className="w-full px-4 py-3 bg-background border border-primary/10 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-accent-blue/50 focus:border-accent-blue transition-all placeholder:text-primary/30"
             />

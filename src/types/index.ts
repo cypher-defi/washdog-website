@@ -1,10 +1,32 @@
 export type ServiceType = 'bath' | 'cut' | null;
+export type DogSize = 'small' | 'medium' | 'large' | null;
 
 export interface BookingState {
   service: ServiceType;
-  date: number | null;
+  dogSize: DogSize;
+  date: Date | null;
   time: string | null;
 }
+
+// Slot duration in minutes based on service and dog size
+export const SLOT_DURATIONS = {
+  bath: {
+    small: 15,    // 1 token (15 min)
+    medium: 30,   // 2 tokens (30 min)
+    large: 45,    // 3 tokens (45 min)
+  },
+  cut: {
+    small: 60,    // 1 hour
+    medium: 90,   // 1.5 hours
+    large: 120,   // 2 hours
+  },
+} as const;
+
+export const DOG_SIZE_LABELS = {
+  small: '5-10 kgs (pequeño)',
+  medium: '10-20 kgs (mediano)',
+  large: '20-40 kgs (grande)',
+} as const;
 
 export interface BookingContextValue {
   state: BookingState;
