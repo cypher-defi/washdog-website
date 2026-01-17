@@ -18,12 +18,17 @@ export function Footer({ onBookClick }: FooterProps) {
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12 relative z-10">
             {/* Brand & CTA */}
             <div className="md:col-span-5">
-              <h4
+              <button
                 onClick={scrollToTop}
-                className="cursor-pointer font-serif text-white mb-6 text-4xl tracking-tight inline-block hover:opacity-80 transition-opacity"
+                className="flex items-center gap-3 hover:opacity-80 transition-opacity mb-6"
               >
-                Washdog.
-              </h4>
+                <span className="flex items-center justify-center w-8 h-8 rounded-lg bg-white text-primary shadow-md shadow-black/10">
+                  <Icon icon="lucide:dog" className="w-4 h-4" />
+                </span>
+                <span className="font-serif font-medium text-2xl tracking-tight text-white">
+                  Wash<span className="text-accent-blue">dog.</span>
+                </span>
+              </button>
               <p className="text-white/70 mb-10 font-light max-w-sm text-sm leading-relaxed">
                 Agenda fácilmente desde la web. Rápido, simple y sin complicaciones. Tu perro te lo
                 agradecerá.
