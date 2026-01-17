@@ -98,7 +98,7 @@ export function Services({ onBookClick }: ServicesProps) {
               </div>
               <button
                 onClick={onBookClick}
-                className="mt-6 w-full py-4 rounded-xl border border-accent-peach text-accent-peach-dark font-bold hover:bg-accent-peach hover:text-white transition-all text-xs uppercase tracking-widest shadow-lg shadow-accent-peach/10 hover:shadow-accent-peach/30"
+                className="mt-6 px-8 py-4 rounded-xl border border-accent-peach text-accent-peach-dark font-bold hover:bg-accent-peach hover:text-white transition-all text-xs uppercase tracking-widest shadow-lg shadow-accent-peach/10 hover:shadow-accent-peach/30"
               >
                 Reservar Hora
               </button>
