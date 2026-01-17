@@ -90,10 +90,10 @@ export function Services({ onBookClick }: ServicesProps) {
               </p>
             </div>
             <div className="space-y-4 relative z-10">
-              <div className="flex items-center gap-3 text-sm text-primary/80 font-medium bg-white/50 p-2 rounded-lg backdrop-blur-sm">
+              <div className="flex items-center gap-3 text-sm text-primary/80 font-medium">
                 <Icon icon="lucide:check-circle-2" className="text-accent-green w-4 h-4" /> Adaptado a la raza
               </div>
-              <div className="flex items-center gap-3 text-sm text-primary/80 font-medium bg-white/50 p-2 rounded-lg backdrop-blur-sm">
+              <div className="flex items-center gap-3 text-sm text-primary/80 font-medium">
                 <Icon icon="lucide:check-circle-2" className="text-accent-green w-4 h-4" /> Deslanado profesional
               </div>
               <button
