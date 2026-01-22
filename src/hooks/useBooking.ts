@@ -43,6 +43,7 @@ export function useBooking() {
   }, [])
 
   const selectDate = useCallback((date: Date) => {
+    console.log("[useBooking] selectDate called with:", date.toString(), "getDate():", date.getDate())
     setState((prev) => ({ ...prev, date, time: null }))
   }, [])
 
@@ -71,7 +72,16 @@ export function useBooking() {
       // Combine with time as ISO-like string without Z suffix
       const startTimeStr = `${dateStr}T${state.time}:00`
 
-      const res = await createReservation({
+      console.log("[useBooking] submitBooking:", {
+        dateObject: state.date.toString(),
+        year,
+        month,
+        day,
+        dateStr,
+        startTimeStr
+      })
+
+      await createReservation({
         service: state.service,
         size: state.dogSize,
         startTime: startTimeStr,

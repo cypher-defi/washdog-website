@@ -82,6 +82,7 @@ export function Calendar({ selectedDate, onSelectDate }: CalendarProps) {
   const handleDateClick = (day: number) => {
     if (!isDateSelectable(day)) return;
     const date = new Date(currentYear, currentMonth, day);
+    console.log("[Calendar] Click:", { day, currentYear, currentMonth, dateCreated: date.toString(), getDate: date.getDate() });
     onSelectDate(date);
   };
 
