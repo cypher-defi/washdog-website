@@ -110,8 +110,11 @@ export function DateTimeSelect({
         return
       }
 
-      // Always use Santiago timezone for the date
-      const dateStr = selectedDate.toLocaleDateString('en-CA', { timeZone: 'America/Santiago' })
+      // Extract date components directly (Calendar already creates dates with correct day number)
+      const year = selectedDate.getFullYear()
+      const month = String(selectedDate.getMonth() + 1).padStart(2, '0')
+      const day = String(selectedDate.getDate()).padStart(2, '0')
+      const dateStr = `${year}-${month}-${day}`
       try {
         const res = await fetch(
           `/api/reservations?date=${dateStr}&service=${serviceType}`

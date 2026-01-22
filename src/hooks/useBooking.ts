@@ -63,9 +63,12 @@ export function useBooking() {
     if (!state.service || !state.dogSize || !state.date || !state.time) return
 
     try {
-      // Get date in Santiago timezone format (YYYY-MM-DD)
-      const dateStr = state.date.toLocaleDateString('en-CA', { timeZone: 'America/Santiago' })
-      // Combine with time (already in Santiago timezone) as ISO-like string without Z suffix
+      // Extract date components directly (Calendar already creates dates with correct day number)
+      const year = state.date.getFullYear()
+      const month = String(state.date.getMonth() + 1).padStart(2, '0')
+      const day = String(state.date.getDate()).padStart(2, '0')
+      const dateStr = `${year}-${month}-${day}`
+      // Combine with time as ISO-like string without Z suffix
       const startTimeStr = `${dateStr}T${state.time}:00`
 
       const res = await createReservation({
