@@ -1,32 +1,38 @@
-'use client';
+"use client"
 
-import { Navbar, Footer } from '@/components/layout';
-import { Hero, Features, Services, Testimonials, Contact } from '@/components/sections';
-import { BookingModal } from '@/components/booking';
-import { FloatingCTA } from '@/components/ui';
-import { useBooking } from '@/hooks/useBooking';
+import { Navbar, Footer } from "@/components/layout"
+import {
+  Hero,
+  Features,
+  Services,
+  Testimonials,
+  Contact
+} from "@/components/sections"
+import { BookingModal } from "@/components/booking"
+import { FloatingCTA } from "@/components/ui"
+import { useBooking } from "@/hooks/useBooking"
 
 export default function Home() {
-  const booking = useBooking();
+  const booking = useBooking()
 
   const scrollToSection = (id: string) => {
-    const el = document.getElementById(id);
+    const el = document.getElementById(id)
     if (el) {
-      const headerOffset = 80;
-      const elementPosition = el.getBoundingClientRect().top;
-      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
-      window.scrollTo({ top: offsetPosition, behavior: 'smooth' });
+      const headerOffset = 80
+      const elementPosition = el.getBoundingClientRect().top
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset
+      window.scrollTo({ top: offsetPosition, behavior: "smooth" })
     }
-  };
+  }
 
   return (
     <>
       <Navbar onBookClick={booking.openModal} />
 
-      <main className="grow pt-20">
+      <main className='grow pt-20'>
         <Hero
           onBookClick={booking.openModal}
-          onServicesClick={() => scrollToSection('servicios')}
+          onServicesClick={() => scrollToSection("servicios")}
         />
         <Features />
         <Services onBookClick={booking.openModal} />
@@ -52,7 +58,15 @@ export default function Home() {
         onSubmit={booking.submitBooking}
         canSubmit={booking.canSubmit}
         summary={booking.summary}
+        name={booking.name}
+        phoneNumber={booking.phoneNumber}
+        email={booking.email}
+        dogName={booking.dogName}
+        onChangeName={booking.setName}
+        onChangePhoneNumber={booking.setPhoneNumber}
+        onChangeEmail={booking.setEmail}
+        onChangeDogName={booking.setDogName}
       />
     </>
-  );
+  )
 }

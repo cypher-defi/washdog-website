@@ -67,20 +67,36 @@ function isSlotAvailable(
   return true;
 }
 
-// Check if a date is today
+// Get today's date components in Santiago timezone
+function getTodayInSantiago(): { year: number; month: number; day: number } {
+  const now = new Date();
+  const santiagoDateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/Santiago' });
+  const [year, month, day] = santiagoDateStr.split('-').map(Number);
+  return { year, month: month - 1, day }; // month is 0-indexed like Date
+}
+
+// Check if a date is today in Santiago timezone
+// Compare year/month/day directly since the Calendar creates dates with correct components
 function isToday(date: Date): boolean {
-  const today = new Date();
+  const today = getTodayInSantiago();
   return (
-    date.getDate() === today.getDate() &&
-    date.getMonth() === today.getMonth() &&
-    date.getFullYear() === today.getFullYear()
+    date.getFullYear() === today.year &&
+    date.getMonth() === today.month &&
+    date.getDate() === today.day
   );
 }
 
-// Get current time in minutes from midnight
+// Get current time in minutes from midnight in Santiago timezone
 function getCurrentTimeMinutes(): number {
   const now = new Date();
-  return now.getHours() * 60 + now.getMinutes();
+  const santiagoTime = now.toLocaleTimeString('en-US', {
+    timeZone: 'America/Santiago',
+    hour12: false,
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+  const [hours, minutes] = santiagoTime.split(':').map(Number);
+  return hours * 60 + minutes;
 }
 
 // Get available start times based on service duration

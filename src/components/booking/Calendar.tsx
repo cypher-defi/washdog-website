@@ -14,9 +14,16 @@ const MONTHS = [
   'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'
 ];
 
+// Get today's date in Santiago timezone
+function getTodayInSantiago(): Date {
+  const now = new Date();
+  const santiagoDateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/Santiago' });
+  const [year, month, day] = santiagoDateStr.split('-').map(Number);
+  return new Date(year, month - 1, day, 0, 0, 0, 0);
+}
+
 export function Calendar({ selectedDate, onSelectDate }: CalendarProps) {
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
+  const today = getTodayInSantiago();
 
   const [currentMonth, setCurrentMonth] = useState(today.getMonth());
   const [currentYear, setCurrentYear] = useState(today.getFullYear());
