@@ -1,6 +1,7 @@
 "use client"
 
 import { Icon } from "@iconify/react"
+import Link from "next/link"
 
 interface FooterProps {
   onBookClick: () => void
@@ -92,12 +93,12 @@ export function Footer({ onBookClick }: FooterProps) {
           <div className='pt-8 mt-16 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-white/30 font-medium uppercase tracking-widest'>
             <p>© 2026 Washdog</p>
             <div className='flex gap-6'>
-              <a href='#' className='hover:text-white transition-colors'>
+              <Link href='/privacy' className='hover:text-white transition-colors'>
                 Privacidad
-              </a>
-              <a href='#' className='hover:text-white transition-colors'>
+              </Link>
+              <Link href='/terms' className='hover:text-white transition-colors'>
                 Términos
-              </a>
+              </Link>
             </div>
           </div>
         </div>
