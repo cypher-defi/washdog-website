@@ -1,72 +1,45 @@
-"use client"
-
-import { Navbar, Footer } from "@/components/layout"
-import {
-  Hero,
-  Features,
-  Services,
-  Testimonials,
-  Contact
-} from "@/components/sections"
-import { BookingModal } from "@/components/booking"
-import { FloatingCTA } from "@/components/ui"
-import { useBooking } from "@/hooks/useBooking"
+import { Icon } from "@iconify/react"
 
 export default function Home() {
-  const booking = useBooking()
-
-  const scrollToSection = (id: string) => {
-    const el = document.getElementById(id)
-    if (el) {
-      const headerOffset = 80
-      const elementPosition = el.getBoundingClientRect().top
-      const offsetPosition = elementPosition + window.pageYOffset - headerOffset
-      window.scrollTo({ top: offsetPosition, behavior: "smooth" })
-    }
-  }
-
   return (
-    <>
-      <Navbar onBookClick={booking.openModal} />
-
-      <main className='grow pt-20'>
-        <Hero
-          onBookClick={booking.openModal}
-          onServicesClick={() => scrollToSection("servicios")}
+    <main className='relative min-h-screen flex flex-col items-center justify-center overflow-hidden bg-hero-bg'>
+      {/* Background image */}
+      <div className='absolute inset-0'>
+        <img
+          src='/hero-beagle.png'
+          className='w-full h-full object-cover'
+          alt='Beagle dog'
         />
-        <Features />
-        <Services onBookClick={booking.openModal} />
-        <Testimonials />
-        <Contact />
-      </main>
+        <div className='absolute inset-0 bg-primary/60' />
+      </div>
 
-      <Footer onBookClick={booking.openModal} />
+      {/* Content */}
+      <div className='relative z-10 flex flex-col items-center text-center px-6 max-w-2xl'>
+        {/* Logo */}
+        <div className='flex items-center gap-3 mb-12'>
+          <span className='flex items-center justify-center w-10 h-10 rounded-lg bg-white/20 backdrop-blur-sm text-white shadow-lg'>
+            <Icon icon='lucide:dog' className='w-5 h-5' />
+          </span>
+          <span className='font-serif font-medium text-3xl tracking-tight text-white'>
+            Wash<span className='text-accent-blue'>dog.</span>
+          </span>
+        </div>
 
-      <FloatingCTA onClick={booking.openModal} />
+        {/* Message */}
+        <h1 className='font-serif italic text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-6'>
+          Nuestras puertas abrirán muy pronto
+        </h1>
+        <p className='text-lg md:text-xl text-white/80 font-light'>
+          para recibir a sus mejores amigos.
+        </p>
 
-      <BookingModal
-        isOpen={booking.isOpen}
-        onClose={booking.closeModal}
-        state={booking.state}
-        isSuccess={booking.isSuccess}
-        onSelectService={booking.selectService}
-        onSelectDogSize={booking.selectDogSize}
-        onSelectDate={booking.selectDate}
-        onSelectTime={booking.selectTime}
-        onReset={booking.resetBooking}
-        onGoBackToSize={booking.goBackToSize}
-        onSubmit={booking.submitBooking}
-        canSubmit={booking.canSubmit}
-        summary={booking.summary}
-        name={booking.name}
-        phoneNumber={booking.phoneNumber}
-        email={booking.email}
-        dogName={booking.dogName}
-        onChangeName={booking.setName}
-        onChangePhoneNumber={booking.setPhoneNumber}
-        onChangeEmail={booking.setEmail}
-        onChangeDogName={booking.setDogName}
-      />
-    </>
+        {/* Decorative paw prints */}
+        <div className='mt-12 flex items-center gap-2 text-white/40'>
+          <Icon icon='lucide:paw-print' className='w-5 h-5' />
+          <Icon icon='lucide:paw-print' className='w-5 h-5' />
+          <Icon icon='lucide:paw-print' className='w-5 h-5' />
+        </div>
+      </div>
+    </main>
   )
 }
