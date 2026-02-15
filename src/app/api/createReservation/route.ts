@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server"
 import { google } from "googleapis"
+import { sendBusinessNotification } from "@/lib/email"
 
 const SLOT_DURATIONS: Record<string, Record<string, number>> = {
   bath: { small: 15, medium: 30, large: 45 },
@@ -110,11 +111,33 @@ export async function POST(req: NextRequest) {
         description: `Reserva Washdog\n\nServicio: ${serviceLabel}\nTamaño: ${sizeLabel}\n\n${notes || ""}`,
         start: { dateTime: startTime, timeZone: "America/Santiago" },
         end: { dateTime: endTimeStr, timeZone: "America/Santiago" },
-        attendees: email ? [{ email }] : []
+        attendees: [
+          ...(email ? [{ email }] : []),
+          { email: "contacto@washdog.cl" }
+        ]
       }
     })
 
     console.log("[createReservation] Event created:", created.data.id)
+
+    // Parse notes to extract dogName and phoneNumber
+    const dogNameMatch = (notes || "").match(/Dog:\s*([^,]+)/)
+    const phoneMatch = (notes || "").match(/Phone:\s*(.+)/)
+    const dogName = dogNameMatch ? dogNameMatch[1].trim() : ""
+    const phoneNumber = phoneMatch ? phoneMatch[1].trim() : ""
+
+    // Send business notification email (non-blocking)
+    sendBusinessNotification({
+      to: email || "",
+      name,
+      dogName,
+      phoneNumber,
+      service,
+      size,
+      startTime: start,
+      endTime: end
+    }).catch(err => console.error("[createReservation] Business notification failed:", err))
+
     return NextResponse.json({ eventId: created.data.id })
   } catch (err: unknown) {
     console.error("Create reservation error:", err)

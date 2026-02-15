@@ -274,3 +274,50 @@ WashDog - Peluquería Canina
   console.log("Email sent successfully:", result.messageId)
   return result
 }
+
+export async function sendBusinessNotification(data: BookingEmailData) {
+  const serviceLabel = SERVICE_LABELS[data.service]
+  const sizeLabel = SIZE_LABELS[data.size]
+  const dateStr = formatDate(data.startTime)
+  const startTimeStr = formatTime(data.startTime)
+  const endTimeStr = formatTime(data.endTime)
+
+  const text = `Nueva reserva recibida
+
+Cliente: ${data.name}
+Teléfono: ${data.phoneNumber}
+Email: ${data.to}
+Mascota: ${data.dogName}
+Servicio: ${serviceLabel}
+Tamaño: ${sizeLabel}
+Fecha: ${dateStr}
+Horario: ${startTimeStr} - ${endTimeStr}
+`
+
+  const html = `
+<div style="font-family: sans-serif; max-width: 500px; margin: 0 auto; padding: 24px;">
+  <h2 style="color: #1a1f24; margin: 0 0 16px;">Nueva Reserva</h2>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr><td style="padding: 8px 0; color: #64748b;">Cliente</td><td style="padding: 8px 0; font-weight: 600;">${data.name}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Teléfono</td><td style="padding: 8px 0; font-weight: 600;">${data.phoneNumber}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Email</td><td style="padding: 8px 0; font-weight: 600;">${data.to}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Mascota</td><td style="padding: 8px 0; font-weight: 600;">${data.dogName}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Servicio</td><td style="padding: 8px 0; font-weight: 600;">${serviceLabel}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Tamaño</td><td style="padding: 8px 0; font-weight: 600;">${sizeLabel}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Fecha</td><td style="padding: 8px 0; font-weight: 600; text-transform: capitalize;">${dateStr}</td></tr>
+    <tr><td style="padding: 8px 0; color: #64748b;">Horario</td><td style="padding: 8px 0; font-weight: 600;">${startTimeStr} - ${endTimeStr}</td></tr>
+  </table>
+</div>
+`
+
+  const result = await transporter.sendMail({
+    from: `"WashDog" <${process.env.GMAIL_USER}>`,
+    to: "contacto@washdog.cl",
+    subject: `Nueva Reserva - ${data.name} - ${serviceLabel} (${sizeLabel})`,
+    text,
+    html
+  })
+
+  console.log("Business notification sent:", result.messageId)
+  return result
+}
