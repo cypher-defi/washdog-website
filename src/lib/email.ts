@@ -312,7 +312,7 @@ Horario: ${startTimeStr} - ${endTimeStr}
 
   const result = await transporter.sendMail({
     from: `"WashDog" <${process.env.GMAIL_USER}>`,
-    to: "contacto@washdog.cl",
+    to: "contacto@washdog.cl, reservas@washdog.cl",
     subject: `Nueva Reserva - ${data.name} - ${serviceLabel} (${sizeLabel})`,
     text,
     html

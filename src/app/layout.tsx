@@ -40,8 +40,14 @@ export const metadata: Metadata = {
   },
   robots: {
     index: true,
-    follow: true
-  }
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true
+    }
+  },
+  keywords:
+    "baño perros ñuñoa, peluquería canina ñuñoa, baño self service ñuñoa, peluquería perros santiago"
 }
 
 export default function RootLayout({
