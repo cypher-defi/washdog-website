@@ -1,5 +1,6 @@
 "use client"
 
+import Image from "next/image"
 import { Icon } from "@iconify/react"
 
 interface HeroProps {
@@ -15,10 +16,12 @@ export function Hero({ onBookClick, onServicesClick }: HeroProps) {
     <section className='relative w-full h-auto md:h-[85vh] flex items-center justify-center overflow-hidden bg-hero-bg pt-16 pb-12 md:py-0'>
       {/* Background Image Container */}
       <div className='absolute inset-0 z-0 flex items-center justify-center'>
-        <img
+        <Image
           src='/hero-beagle.png'
-          className='w-full h-full object-cover'
-          alt='Beagle dog'
+          alt='Perro beagle disfrutando de un baño profesional en Washdog Ñuñoa'
+          fill
+          className='object-cover'
+          priority
         />
         {/* Blue overlay */}
         <div className='absolute inset-0 bg-accent-blue/35' />

@@ -1,5 +1,6 @@
 "use client"
 
+import dynamic from "next/dynamic"
 import { Navbar, Footer } from "@/components/layout"
 import {
   Hero,
@@ -8,9 +9,14 @@ import {
   Testimonials,
   Contact
 } from "@/components/sections"
-import { BookingModal } from "@/components/booking"
 import { FloatingCTA } from "@/components/ui"
+import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 import { useBooking } from "@/hooks/useBooking"
+
+const BookingModal = dynamic(
+  () => import("@/components/booking").then(mod => mod.BookingModal),
+  { ssr: false }
+)
 
 export default function Home() {
   const booking = useBooking()
@@ -27,6 +33,7 @@ export default function Home() {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <Navbar onBookClick={booking.openModal} />
 
       <main className='grow pt-20'>

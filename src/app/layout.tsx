@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
 import { DM_Sans, Playfair_Display } from "next/font/google"
+import Script from "next/script"
 import "./globals.css"
 import { CookiesBanner } from "@/components/CookiesBanner"
 
@@ -17,9 +18,30 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Washdog | El cuidado que tu amigo se merece",
+  metadataBase: new URL("https://www.washdog.cl"),
+  title: {
+    default: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
+    template: "%s | Washdog Ñuñoa"
+  },
   description:
-    "Baño y peluquería canina en Ñuñoa. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota."
+    "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota. Reserva tu hora fácilmente.",
+  openGraph: {
+    type: "website",
+    locale: "es_CL",
+    url: "https://www.washdog.cl",
+    siteName: "Washdog",
+    title: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
+    description:
+      "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota.",
+    images: ["/hero-beagle.png"]
+  },
+  alternates: {
+    canonical: "https://www.washdog.cl"
+  },
+  robots: {
+    index: true,
+    follow: true
+  }
 }
 
 export default function RootLayout({
@@ -34,6 +56,18 @@ export default function RootLayout({
       >
         {children}
         <CookiesBanner />
+        <Script
+          src='https://www.googletagmanager.com/gtag/js?id=G-95EBGHVYEP'
+          strategy='afterInteractive'
+        />
+        <Script id='ga-init' strategy='afterInteractive'>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-95EBGHVYEP');
+          `}
+        </Script>
       </body>
     </html>
   )

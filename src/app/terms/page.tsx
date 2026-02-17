@@ -1,8 +1,12 @@
+import type { Metadata } from "next"
 import Link from "next/link"
 
-export const metadata = {
-  title: "Términos y Condiciones | Washdog",
-  description: "Términos y condiciones de uso del sitio web Washdog"
+export const metadata: Metadata = {
+  title: "Términos y Condiciones",
+  description: "Términos y condiciones de uso del sitio web Washdog",
+  alternates: {
+    canonical: "https://www.washdog.cl/terms"
+  }
 }
 
 export default function TermsPage() {

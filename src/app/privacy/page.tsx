@@ -1,8 +1,12 @@
+import type { Metadata } from "next"
 import Link from "next/link"
 
-export const metadata = {
-  title: "Política de Privacidad | Washdog",
-  description: "Política de privacidad del sitio web Washdog"
+export const metadata: Metadata = {
+  title: "Política de Privacidad",
+  description: "Política de privacidad del sitio web Washdog",
+  alternates: {
+    canonical: "https://www.washdog.cl/privacy"
+  }
 }
 
 export default function PrivacyPage() {
