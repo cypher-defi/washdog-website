@@ -8,7 +8,7 @@ export function LocalBusinessJsonLd() {
     image: "https://www.washdog.cl/hero-beagle.png",
     "@id": "https://www.washdog.cl",
     url: "https://www.washdog.cl",
-    telephone: "+56977365470",
+    telephone: "+56987230388",
     email: "contacto@washdog.cl",
     address: {
       "@type": "PostalAddress",

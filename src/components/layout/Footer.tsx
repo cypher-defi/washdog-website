@@ -58,14 +58,14 @@ export function Footer({ onBookClick }: FooterProps) {
                 Irarrázaval 2086 B, Ñuñoa
               </a>
               <a
-                href='tel:+56977365470'
+                href='tel:+56987230388'
                 className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'
               >
                 <Icon
                   icon='lucide:phone'
                   className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4'
                 />
-                +56 9 7736 5470
+                +56 9 8723 0388
               </a>
               <a
                 href='mailto:contacto@washdog.cl'

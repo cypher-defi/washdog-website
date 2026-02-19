@@ -14,7 +14,7 @@ export function Contact() {
           Escríbenos por WhatsApp si no sabes qué tratamiento elegir.
         </p>
         <a
-          href="https://wa.me/56977365470"
+          href="https://wa.me/56987230388"
           target="_blank"
           rel="noopener noreferrer"
           className="group inline-flex items-center gap-3 border border-primary/10 bg-white text-primary px-8 py-3 rounded-full hover:border-accent-blue hover:text-accent-blue transition-all text-sm font-medium shadow-sm hover:shadow-md"
