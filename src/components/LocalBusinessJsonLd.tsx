@@ -34,8 +34,8 @@ export function LocalBusinessJsonLd() {
           "Saturday",
           "Sunday"
         ],
-        opens: "09:00",
-        closes: "21:00"
+        opens: "10:00",
+        closes: "20:00"
       }
     ],
     priceRange: "$$"

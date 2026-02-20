@@ -14,8 +14,8 @@ interface TimeSlotsProps {
 
 // Base slot unit is 15 minutes
 const BASE_SLOT_MINUTES = 15;
-const START_HOUR = 9;
-const END_HOUR = 21;
+const START_HOUR = 10;
+const END_HOUR = 20;
 
 // Generate all base 15-minute slots
 function generateBaseSlots(): string[] {

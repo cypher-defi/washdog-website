@@ -84,7 +84,7 @@ export function Footer({ onBookClick }: FooterProps) {
               <h4 className='text-white font-medium text-lg'>Horario</h4>
               <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                 <p>Lun - Dom</p>
-                <p>09:00 - 21:00</p>
+                <p>10:00 - 20:00</p>
               </div>
             </div>
           </div>
