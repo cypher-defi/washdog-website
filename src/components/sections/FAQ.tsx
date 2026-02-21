@@ -3,11 +3,66 @@
 import { useState } from "react"
 import { Icon } from "@iconify/react"
 
-const faqs = [
+const faqs: { question: string; answer: React.ReactNode }[] = [
   {
-    question: "¿Cuánto cuesta un baño?",
-    answer:
-      "El baño vale $10.000 para perros de hasta 20 kg y $16.000 para perros de más de 20 kg. El precio del corte y peluquería se define según la raza y el trabajo requerido — escríbenos por WhatsApp si quieres una cotización."
+    question: "¿Cuánto cuesta el baño?",
+    answer: (
+      <div className='space-y-2'>
+        <p>
+          El baño vale <strong>$10.000</strong> para perros de hasta 20 kg y{" "}
+          <strong>$16.000</strong> para perros de más de 20 kg.
+        </p>
+        <p>
+          Incluye shampoo suave, secado y limpieza básica. Sin químicos
+          agresivos.
+        </p>
+      </div>
+    )
+  },
+  {
+    question: "¿Cuánto cuesta la peluquería?",
+    answer: (
+      <div className='space-y-3'>
+        <p>
+          La peluquería incluye baño, brushing y limpiado de orejas. Los precios
+          según tamaño y tipo de pelo son:
+        </p>
+        <div className='rounded-xl border border-primary/10 overflow-hidden text-xs'>
+          <div className='grid grid-cols-3 bg-primary/5 px-3 py-2'>
+            <span className='font-bold uppercase tracking-widest text-primary/50'>
+              Tamaño
+            </span>
+            <span className='font-bold uppercase tracking-widest text-primary/50 text-center'>
+              Pelo corto
+            </span>
+            <span className='font-bold uppercase tracking-widest text-primary/50 text-right'>
+              Pelo largo
+            </span>
+          </div>
+          {[
+            { label: "Toy", short: "$15.000", long: "$20.000" },
+            { label: "Pequeño", short: "$18.000", long: "$25.000" },
+            { label: "Mediano", short: "$22.000", long: "$30.000" },
+            { label: "Grande", short: "$30.000", long: "$35.000" },
+            { label: "Gigante", short: "$38.000", long: "$50.000" },
+            { label: "Gato", short: "$30.000", long: "—" }
+          ].map((row) => (
+            <div
+              key={row.label}
+              className='grid grid-cols-3 px-3 py-2 border-t border-primary/5'
+            >
+              <span className='font-semibold text-primary/80'>{row.label}</span>
+              <span className='font-bold text-accent-peach-dark text-center'>
+                {row.short}
+              </span>
+              <span className='font-bold text-accent-peach-dark text-right'>
+                {row.long}
+              </span>
+            </div>
+          ))}
+        </div>
+      </div>
+    )
   },
   {
     question: "¿Necesito reservar con anticipación?",
@@ -22,7 +77,7 @@ const faqs = [
   {
     question: "¿Qué pasa si mi perro es nervioso o le tiene miedo al agua?",
     answer:
-      "Somos especialmente pacientes con perros ansiosos. Trabajamos a su ritmo, sin apuros ni jaulas. Muchos de nuestros clientes habituales llegaron la primera vez muy nerviosos y hoy entran solos."
+      "Somos especialmente pacientes con perros ansiosos. Trabajamos a su ritmo, sin apuros. Muchos de nuestros clientes habituales llegaron la primera vez muy nerviosos y hoy entran solos."
   }
 ]
 
@@ -68,10 +123,8 @@ export function FAQ() {
                   />
                 </button>
                 {isOpen && (
-                  <div className='px-6 pb-5'>
-                    <p className='text-primary/70 font-light text-sm leading-relaxed'>
-                      {faq.answer}
-                    </p>
+                  <div className='px-6 pb-5 text-primary/70 font-light text-sm leading-relaxed'>
+                    {faq.answer}
                   </div>
                 )}
               </div>
