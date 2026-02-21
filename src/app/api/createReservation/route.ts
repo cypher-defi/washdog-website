@@ -3,7 +3,7 @@ import { google } from "googleapis"
 import { sendBusinessNotification } from "@/lib/email"
 
 const SLOT_DURATIONS: Record<string, Record<string, number>> = {
-  bath: { toy: 20, small: 20, medium: 20, large: 40, giant: 40, cat: 20 },
+  bath: { toy: 15, small: 15, medium: 15, large: 30, giant: 30, cat: 15 },
   cut:  { toy: 60, small: 60, medium: 90, large: 120, giant: 120, cat: 60 }
 }
 

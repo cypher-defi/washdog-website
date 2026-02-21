@@ -47,7 +47,7 @@ export function Services({ onBookClick }: ServicesProps) {
               </div>
               <div className='flex flex-wrap gap-2 mb-8'>
                 <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-primary/70 text-[10px] font-bold tracking-widest uppercase flex items-center gap-1'>
-                  <Icon icon='lucide:clock' className='w-3 h-3' /> 20–40 min
+                  <Icon icon='lucide:clock' className='w-3 h-3' /> 15–30 min
                 </span>
                 <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-primary/70 text-[10px] font-bold tracking-widest uppercase'>
                   Sin químicos agresivos

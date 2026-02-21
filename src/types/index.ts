@@ -13,12 +13,12 @@ export interface BookingState {
 // Slot duration in minutes based on service and dog size
 export const SLOT_DURATIONS = {
   bath: {
-    toy: 20,
-    small: 20,    // ≤20 kg (20 min)
-    medium: 20,   // same slot as small for bath
-    large: 40,    // >20 kg (40 min, 2 slots)
-    giant: 40,    // >20 kg (40 min, 2 slots)
-    cat: 20,      // cat (20 min)
+    toy: 15,
+    small: 15,    // ≤20 kg (15 min)
+    medium: 15,   // same slot as small for bath
+    large: 30,    // >20 kg (30 min, 2 slots)
+    giant: 30,    // >20 kg (30 min, 2 slots)
+    cat: 15,      // cat (15 min)
   },
   cut: {
     toy: 60,      // 1 hour
