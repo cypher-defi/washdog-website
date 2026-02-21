@@ -3,21 +3,21 @@
 import { useMemo } from 'react';
 import { DogSize, SLOT_DURATIONS } from '@/types';
 
+type ValidSize = NonNullable<DogSize>;
+
 interface TimeSlotsProps {
   selectedTime: string | null;
   onSelectTime: (time: string) => void;
   selectedDate: Date | null;
   serviceType: 'bath' | 'cut' | null;
   dogSize: DogSize;
-  bookedSlots?: string[]; // Array of booked start times for the selected date
+  bookedSlots?: string[];
 }
 
-// Base slot unit is 15 minutes
 const BASE_SLOT_MINUTES = 15;
 const START_HOUR = 10;
 const END_HOUR = 20;
 
-// Generate all base 15-minute slots
 function generateBaseSlots(): string[] {
   const slots: string[] = [];
   for (let hour = START_HOUR; hour < END_HOUR; hour++) {
@@ -28,20 +28,17 @@ function generateBaseSlots(): string[] {
   return slots;
 }
 
-// Convert time string to minutes from midnight
 function timeToMinutes(time: string): number {
   const [hours, minutes] = time.split(':').map(Number);
   return hours * 60 + minutes;
 }
 
-// Convert minutes from midnight to time string
 function minutesToTime(minutes: number): string {
   const hours = Math.floor(minutes / 60);
   const mins = minutes % 60;
   return `${hours.toString().padStart(2, '0')}:${mins.toString().padStart(2, '0')}`;
 }
 
-// Check if a slot can be booked given the duration and booked slots
 function isSlotAvailable(
   startTime: string,
   durationMinutes: number,
@@ -49,34 +46,20 @@ function isSlotAvailable(
 ): boolean {
   const startMinutes = timeToMinutes(startTime);
   const endMinutes = startMinutes + durationMinutes;
-  const maxEndMinutes = END_HOUR * 60;
-
-  // Check if the appointment would extend past closing time
-  if (endMinutes > maxEndMinutes) {
-    return false;
-  }
-
-  // Check each 15-minute base slot that this appointment would occupy
+  if (endMinutes > END_HOUR * 60) return false;
   for (let min = startMinutes; min < endMinutes; min += BASE_SLOT_MINUTES) {
-    const slotTime = minutesToTime(min);
-    if (bookedSlots.includes(slotTime)) {
-      return false;
-    }
+    if (bookedSlots.includes(minutesToTime(min))) return false;
   }
-
   return true;
 }
 
-// Get today's date components in Santiago timezone
 function getTodayInSantiago(): { year: number; month: number; day: number } {
   const now = new Date();
   const santiagoDateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/Santiago' });
   const [year, month, day] = santiagoDateStr.split('-').map(Number);
-  return { year, month: month - 1, day }; // month is 0-indexed like Date
+  return { year, month: month - 1, day };
 }
 
-// Check if a date is today in Santiago timezone
-// Compare year/month/day directly since the Calendar creates dates with correct components
 function isToday(date: Date): boolean {
   const today = getTodayInSantiago();
   return (
@@ -86,7 +69,6 @@ function isToday(date: Date): boolean {
   );
 }
 
-// Get current time in minutes from midnight in Santiago timezone
 function getCurrentTimeMinutes(): number {
   const now = new Date();
   const santiagoTime = now.toLocaleTimeString('en-US', {
@@ -99,30 +81,20 @@ function getCurrentTimeMinutes(): number {
   return hours * 60 + minutes;
 }
 
-// Get available start times based on service duration
 function getAvailableSlots(
   serviceType: 'bath' | 'cut',
-  dogSize: 'small' | 'medium' | 'large',
+  dogSize: ValidSize,
   bookedSlots: string[],
   selectedDate: Date | null
 ): string[] {
   const durationMinutes = SLOT_DURATIONS[serviceType][dogSize];
   const baseSlots = generateBaseSlots();
   const availableSlots: string[] = [];
-
-  // Get current time if selected date is today
   const currentMinutes = selectedDate && isToday(selectedDate) ? getCurrentTimeMinutes() : 0;
 
-  // For services longer than 15 minutes, we still show 15-minute interval start times
-  // but only those where the full duration is available
   for (const slot of baseSlots) {
     const slotMinutes = timeToMinutes(slot);
-
-    // Skip slots that have already passed today
-    if (slotMinutes <= currentMinutes) {
-      continue;
-    }
-
+    if (slotMinutes <= currentMinutes) continue;
     if (isSlotAvailable(slot, durationMinutes, bookedSlots)) {
       availableSlots.push(slot);
     }
@@ -141,12 +113,7 @@ export function TimeSlots({
 }: TimeSlotsProps) {
   const availableTimes = useMemo(() => {
     if (!serviceType || !dogSize) return [];
-    return getAvailableSlots(
-      serviceType,
-      dogSize as 'small' | 'medium' | 'large',
-      bookedSlots,
-      selectedDate
-    );
+    return getAvailableSlots(serviceType, dogSize as ValidSize, bookedSlots, selectedDate);
   }, [serviceType, dogSize, bookedSlots, selectedDate]);
 
   if (!selectedDate) {

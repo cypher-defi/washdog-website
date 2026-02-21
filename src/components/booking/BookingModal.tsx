@@ -4,9 +4,10 @@ import { useEffect } from "react"
 import { Icon } from "@iconify/react"
 import { ServiceSelect } from "./ServiceSelect"
 import { DogSizeSelect } from "./DogSizeSelect"
+import { CoatTypeSelect } from "./CoatTypeSelect"
 import { DateTimeSelect } from "./DateTimeSelect"
 import { BookingSuccess } from "./BookingSuccess"
-import { BookingState, DogSize } from "@/types"
+import { BookingState, DogSize, CoatType } from "@/types"
 
 interface BookingModalProps {
   isOpen: boolean
@@ -15,10 +16,12 @@ interface BookingModalProps {
   isSuccess: boolean
   onSelectService: (service: "bath" | "cut") => void
   onSelectDogSize: (size: DogSize) => void
+  onSelectCoatType: (coat: CoatType) => void
   onSelectDate: (date: Date) => void
   onSelectTime: (time: string) => void
   onReset: () => void
   onGoBackToSize: () => void
+  onGoBackToCoat: () => void
   onSubmit: () => void
   canSubmit: boolean
   summary: string
@@ -39,10 +42,12 @@ export function BookingModal({
   isSuccess,
   onSelectService,
   onSelectDogSize,
+  onSelectCoatType,
   onSelectDate,
   onSelectTime,
   onReset,
   onGoBackToSize,
+  onGoBackToCoat,
   onSubmit,
   canSubmit,
   summary,
@@ -73,6 +78,8 @@ export function BookingModal({
   const getCurrentStep = () => {
     if (state.service === null) return "service"
     if (state.dogSize === null) return "size"
+    // Coat type required for cut service (except cats)
+    if (state.service === "cut" && state.dogSize !== "cat" && state.coatType === null) return "coat"
     return "datetime"
   }
 
@@ -121,14 +128,23 @@ export function BookingModal({
             />
           )}
 
-          {/* Step 3: Date/Time Selection */}
+          {/* Step 3: Coat Type (cut only, non-cat) */}
+          {!isSuccess && currentStep === "coat" && (
+            <CoatTypeSelect
+              dogSize={state.dogSize}
+              onSelectCoat={onSelectCoatType}
+              onBack={onGoBackToSize}
+            />
+          )}
+
+          {/* Step 4: Date/Time Selection */}
           {!isSuccess && currentStep === "datetime" && (
             <DateTimeSelect
               selectedDate={state.date}
               selectedTime={state.time}
               onSelectDate={onSelectDate}
               onSelectTime={onSelectTime}
-              onBack={onGoBackToSize}
+              onBack={state.service === "cut" && state.dogSize !== "cat" ? onGoBackToCoat : onGoBackToSize}
               onSubmit={onSubmit}
               canSubmit={canSubmit}
               summary={summary}

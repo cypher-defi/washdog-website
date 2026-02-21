@@ -7,7 +7,7 @@ const faqs = [
   {
     question: "¿Cuánto cuesta un baño?",
     answer:
-      "El baño vale $8.500 para perros pequeños (5–10 kg), $10.000 para medianos (10–20 kg) y $14.000 para grandes (20–40 kg). El precio del corte y peluquería se define según la raza y el trabajo requerido — escríbenos por WhatsApp si quieres una cotización."
+      "El baño vale $10.000 para perros de hasta 20 kg y $16.000 para perros de más de 20 kg. El precio del corte y peluquería se define según la raza y el trabajo requerido — escríbenos por WhatsApp si quieres una cotización."
   },
   {
     question: "¿Necesito reservar con anticipación?",

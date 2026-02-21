@@ -1,12 +1,13 @@
 "use client"
 
 import { useState, useCallback } from "react"
-import { BookingState, DogSize } from "@/types"
+import { BookingState, DogSize, CoatType } from "@/types"
 import { createReservation } from "@/lib/reservations"
 
 const initialState: BookingState = {
   service: null,
   dogSize: null,
+  coatType: null,
   date: null,
   time: null
 }
@@ -39,7 +40,11 @@ export function useBooking() {
   }, [])
 
   const selectDogSize = useCallback((dogSize: DogSize) => {
-    setState((prev) => ({ ...prev, dogSize, time: null }))
+    setState((prev) => ({ ...prev, dogSize, coatType: null, date: null, time: null }))
+  }, [])
+
+  const selectCoatType = useCallback((coatType: CoatType) => {
+    setState((prev) => ({ ...prev, coatType, date: null, time: null }))
   }, [])
 
   const selectDate = useCallback((date: Date) => {
@@ -57,7 +62,11 @@ export function useBooking() {
   }, [])
 
   const goBackToSize = useCallback(() => {
-    setState((prev) => ({ ...prev, dogSize: null, date: null, time: null }))
+    setState((prev) => ({ ...prev, dogSize: null, coatType: null, date: null, time: null }))
+  }, [])
+
+  const goBackToCoat = useCallback(() => {
+    setState((prev) => ({ ...prev, coatType: null, date: null, time: null }))
   }, [])
 
   const submitBooking = useCallback(async () => {
@@ -81,13 +90,15 @@ export function useBooking() {
         startTimeStr
       })
 
+      const coatNote = state.coatType ? `, Pelo: ${state.coatType === 'short' ? 'corto' : 'largo'}` : ''
+
       await createReservation({
         service: state.service,
         size: state.dogSize,
         startTime: startTimeStr,
         name,
         email,
-        notes: `Dog: ${dogName}, Phone: ${phoneNumber}`
+        notes: `Dog: ${dogName}, Phone: ${phoneNumber}${coatNote}`
       })
 
       setIsSuccess(true)
@@ -102,10 +113,14 @@ export function useBooking() {
     }
   }, [state, name, email, dogName, phoneNumber])
 
+  // Coat type required for cut service (except cats)
+  const needsCoatType = state.service === 'cut' && state.dogSize !== null && state.dogSize !== 'cat'
+
   const canSubmit = !!(
     state.date &&
     state.time &&
     state.dogSize &&
+    (!needsCoatType || state.coatType) &&
     name &&
     phoneNumber &&
     email &&
@@ -130,10 +145,12 @@ export function useBooking() {
     closeModal,
     selectService,
     selectDogSize,
+    selectCoatType,
     selectDate,
     selectTime,
     resetBooking,
     goBackToSize,
+    goBackToCoat,
     submitBooking,
     canSubmit,
     summary,

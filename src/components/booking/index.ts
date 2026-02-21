@@ -1,4 +1,5 @@
 export { BookingModal } from './BookingModal';
+export { CoatTypeSelect } from './CoatTypeSelect';
 export { ServiceSelect } from './ServiceSelect';
 export { DateTimeSelect } from './DateTimeSelect';
 export { Calendar } from './Calendar';

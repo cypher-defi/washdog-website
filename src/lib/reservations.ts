@@ -1,5 +1,5 @@
 export type ServiceType = "bath" | "cut"
-export type DogSize = "small" | "medium" | "large"
+export type DogSize = "toy" | "small" | "medium" | "large" | "giant" | "cat"
 
 interface ReservationData {
   service: ServiceType

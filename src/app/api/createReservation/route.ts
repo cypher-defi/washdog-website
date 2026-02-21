@@ -3,11 +3,15 @@ import { google } from "googleapis"
 import { sendBusinessNotification } from "@/lib/email"
 
 const SLOT_DURATIONS: Record<string, Record<string, number>> = {
-  bath: { small: 15, medium: 30, large: 45 },
-  cut: { small: 60, medium: 90, large: 120 }
+  bath: { toy: 20, small: 20, medium: 20, large: 40, giant: 40, cat: 20 },
+  cut:  { toy: 60, small: 60, medium: 90, large: 120, giant: 120, cat: 60 }
 }
 
-// Checks if two time ranges overla
+const SIZE_LABELS: Record<string, string> = {
+  toy: 'Toy', small: 'Pequeño', medium: 'Mediano', large: 'Grande', giant: 'Gigante', cat: 'Gato'
+}
+
+// Checks if two time ranges overlap
 function overlaps(aStart: Date, aEnd: Date, bStart: Date, bEnd: Date) {
   return aStart < bEnd && aEnd > bStart
 }
@@ -29,11 +33,10 @@ export async function POST(req: NextRequest) {
     // 1️⃣ Validate input
     if (!["bath", "cut"].includes(service))
       return NextResponse.json({ error: "Servicio inválido" }, { status: 400 })
-    if (!["small", "medium", "large"].includes(size))
+    if (!Object.keys(SIZE_LABELS).includes(size))
       return NextResponse.json({ error: "Tamaño inválido" }, { status: 400 })
 
     // startTime is expected as "YYYY-MM-DDTHH:MM:SS" in Santiago timezone (no Z suffix)
-    // Parse it and validate
     const startMatch = startTime.match(/^(\d{4}-\d{2}-\d{2})T(\d{2}):(\d{2})/)
     if (!startMatch)
       return NextResponse.json({ error: "Hora inválida" }, { status: 400 })
@@ -48,20 +51,18 @@ export async function POST(req: NextRequest) {
     const endMin = (endMinutes % 60).toString().padStart(2, '0')
     const endTimeStr = `${dateStr}T${endHour}:${endMin}:00`
 
-    // For overlap checking, we need actual Date objects
-    // Parse as Santiago time by appending offset (approximate, will be close enough for overlap check)
-    const start = new Date(`${startTime}-03:00`)  // Santiago is UTC-3 or UTC-4
+    // Parse as Santiago time for overlap checking
+    const start = new Date(`${startTime}-03:00`)
     const end = new Date(`${endTimeStr}-03:00`)
 
-    // 2️⃣ Select calendar ID based on service
     const calendarId =
       service === "bath"
-        ? process.env.GOOGLE_CALENDAR_BATH_ID
-        : process.env.GOOGLE_CALENDAR_CUT_ID
+        ? process.env.GOOGLE_CALENDAR_BATH_ID!
+        : process.env.GOOGLE_CALENDAR_CUT_ID!
 
     const calendar = await getCalendarClient()
 
-    // 3️⃣ Fetch potential overlapping events
+    // 2️⃣ Check availability on the service calendar
     const existing = await calendar.events.list({
       calendarId,
       timeMin: start.toISOString(),
@@ -69,21 +70,12 @@ export async function POST(req: NextRequest) {
       singleEvents: true
     })
 
-    // 4️⃣ Manual overlap detection
     for (const event of existing.data.items || []) {
-      // Skip events with missing start or end
       if (!event.start || !event.end) continue
-
-      // Use dateTime first, fallback to all-day date
       const startStr = event.start.dateTime || event.start.date
       const endStr = event.end.dateTime || event.end.date
-
       if (!startStr || !endStr) continue
-
-      const eventStart = new Date(startStr)
-      const eventEnd = new Date(endStr)
-
-      if (overlaps(eventStart, eventEnd, start, end)) {
+      if (overlaps(new Date(startStr), new Date(endStr), start, end)) {
         return NextResponse.json(
           { error: "Este horario no está disponible" },
           { status: 409 }
@@ -91,9 +83,9 @@ export async function POST(req: NextRequest) {
       }
     }
 
-    // 5️⃣ Create the event (use local time strings with timezone, not ISO/UTC)
+    // 3️⃣ Create the calendar event
     const serviceLabel = service === "bath" ? "Baño" : "Corte"
-    const sizeLabel = size === "small" ? "Pequeño" : size === "medium" ? "Mediano" : "Grande"
+    const sizeLabel = SIZE_LABELS[size] ?? size
 
     console.log("[createReservation] Creating event:", {
       calendarId,
@@ -105,7 +97,7 @@ export async function POST(req: NextRequest) {
 
     const created = await calendar.events.insert({
       calendarId,
-      sendUpdates: "all", // Send email notifications to attendees
+      sendUpdates: "all",
       requestBody: {
         summary: `${name} - ${serviceLabel} (${sizeLabel})`,
         description: `Reserva Washdog\n\nServicio: ${serviceLabel}\nTamaño: ${sizeLabel}\n\n${notes || ""}`,
@@ -122,7 +114,7 @@ export async function POST(req: NextRequest) {
 
     // Parse notes to extract dogName and phoneNumber
     const dogNameMatch = (notes || "").match(/Dog:\s*([^,]+)/)
-    const phoneMatch = (notes || "").match(/Phone:\s*(.+)/)
+    const phoneMatch = (notes || "").match(/Phone:\s*([^,]+)/)
     const dogName = dogNameMatch ? dogNameMatch[1].trim() : ""
     const phoneNumber = phoneMatch ? phoneMatch[1].trim() : ""
 
