@@ -183,6 +183,7 @@ export function DateTimeSelect({
           serviceType={serviceType}
           dogSize={dogSize}
           bookedSlots={bookedSlots}
+          slotIntervalMinutes={serviceType === 'cut' ? 30 : 15}
         />
       </div>
 

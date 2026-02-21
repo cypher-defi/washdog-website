@@ -12,16 +12,18 @@ interface TimeSlotsProps {
   serviceType: 'bath' | 'cut' | null;
   dogSize: DogSize;
   bookedSlots?: string[];
+  slotIntervalMinutes?: number; // interval between offered start times
 }
 
-const BASE_SLOT_MINUTES = 15;
+// Always check availability in 15-min steps to catch any existing booking
+const AVAILABILITY_CHECK_INTERVAL = 15;
 const START_HOUR = 10;
 const END_HOUR = 20;
 
-function generateBaseSlots(): string[] {
+function generateBaseSlots(intervalMinutes: number): string[] {
   const slots: string[] = [];
   for (let hour = START_HOUR; hour < END_HOUR; hour++) {
-    for (let minute = 0; minute < 60; minute += BASE_SLOT_MINUTES) {
+    for (let minute = 0; minute < 60; minute += intervalMinutes) {
       slots.push(`${hour.toString().padStart(2, '0')}:${minute.toString().padStart(2, '0')}`);
     }
   }
@@ -47,7 +49,8 @@ function isSlotAvailable(
   const startMinutes = timeToMinutes(startTime);
   const endMinutes = startMinutes + durationMinutes;
   if (endMinutes > END_HOUR * 60) return false;
-  for (let min = startMinutes; min < endMinutes; min += BASE_SLOT_MINUTES) {
+  // Check in 15-min steps regardless of slot interval to catch all conflicts
+  for (let min = startMinutes; min < endMinutes; min += AVAILABILITY_CHECK_INTERVAL) {
     if (bookedSlots.includes(minutesToTime(min))) return false;
   }
   return true;
@@ -85,10 +88,11 @@ function getAvailableSlots(
   serviceType: 'bath' | 'cut',
   dogSize: ValidSize,
   bookedSlots: string[],
-  selectedDate: Date | null
+  selectedDate: Date | null,
+  slotIntervalMinutes: number
 ): string[] {
   const durationMinutes = SLOT_DURATIONS[serviceType][dogSize];
-  const baseSlots = generateBaseSlots();
+  const baseSlots = generateBaseSlots(slotIntervalMinutes);
   const availableSlots: string[] = [];
   const currentMinutes = selectedDate && isToday(selectedDate) ? getCurrentTimeMinutes() : 0;
 
@@ -110,11 +114,12 @@ export function TimeSlots({
   serviceType,
   dogSize,
   bookedSlots = [],
+  slotIntervalMinutes = 15,
 }: TimeSlotsProps) {
   const availableTimes = useMemo(() => {
     if (!serviceType || !dogSize) return [];
-    return getAvailableSlots(serviceType, dogSize as ValidSize, bookedSlots, selectedDate);
-  }, [serviceType, dogSize, bookedSlots, selectedDate]);
+    return getAvailableSlots(serviceType, dogSize as ValidSize, bookedSlots, selectedDate, slotIntervalMinutes);
+  }, [serviceType, dogSize, bookedSlots, selectedDate, slotIntervalMinutes]);
 
   if (!selectedDate) {
     return (
