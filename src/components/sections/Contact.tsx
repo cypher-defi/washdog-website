@@ -9,9 +9,9 @@ export function Contact() {
         <div className="inline-flex items-center justify-center w-14 h-14 bg-accent-green/20 rounded-full text-primary mb-6">
           <Icon icon="lucide:message-circle-question" className="w-7 h-7" />
         </div>
-        <h2 className="text-2xl font-bold text-primary mb-3">¿Tienes dudas?</h2>
+        <h2 className="text-2xl font-bold text-primary mb-3">¿Aún tienes dudas?</h2>
         <p className="text-primary/70 mb-8 font-light text-lg">
-          Escríbenos por WhatsApp si no sabes qué tratamiento elegir.
+          Escríbenos por WhatsApp y te ayudamos a elegir el servicio ideal para tu perro. Respondemos rápido.
         </p>
         <a
           href="https://wa.me/56987230388"

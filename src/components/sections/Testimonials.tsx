@@ -35,8 +35,8 @@ export function Testimonials() {
       {/* Header */}
       <div className="max-w-7xl mx-auto px-6 mb-12 flex flex-col md:flex-row md:items-end justify-between gap-6">
         <div>
-          <h2 className="text-3xl font-semibold text-primary tracking-tight">Clientes Felices</h2>
-          <p className="text-primary/50 font-light mt-2">Ellos mueven la cola por nosotros.</p>
+          <h2 className="text-3xl font-semibold text-primary tracking-tight">Lo que dicen los dueños</h2>
+          <p className="text-primary/50 font-light mt-2">Más de 200 perros atendidos en Ñuñoa.</p>
         </div>
         <div className="flex text-accent-peach gap-1">
           {[...Array(5)].map((_, i) => (
@@ -50,7 +50,7 @@ export function Testimonials() {
         {testimonials.map((testimonial) => (
           <div
             key={testimonial.name}
-            className={`min-w-[340px] snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${testimonial.hoverBorder} transition-colors shadow-sm`}
+            className={`min-w-85 snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${testimonial.hoverBorder} transition-colors shadow-sm`}
           >
             <div className="flex items-center gap-4 mb-6">
               <div

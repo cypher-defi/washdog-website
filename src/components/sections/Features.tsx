@@ -5,9 +5,9 @@ import { Icon } from "@iconify/react"
 const features = [
   {
     icon: "lucide:heart-handshake",
-    title: "Trato amoroso",
+    title: "Atención uno a uno",
     description:
-      "Sin jaulas ni estrés. Tratamos a cada mascota con la paciencia que tendríamos con la nuestra.",
+      "Tu perro es atendido de forma individual. Nada de turnos compartidos ni esperas largas - toda la atención es para él.",
     iconBgClass: "bg-accent-blue/10",
     iconColorClass: "text-accent-blue",
     hoverBorderClass: "hover:border-accent-blue/30",
@@ -16,9 +16,9 @@ const features = [
   },
   {
     icon: "lucide:shield-check",
-    title: "Profesionales",
+    title: "Estilistas certificados",
     description:
-      "Estilistas certificados y en constante capacitación para garantizar la seguridad.",
+      "Conocemos cada raza. Nuestros estilistas están capacitados para cuidar el pelaje de tu perro con seguridad y técnica.",
     iconBgClass: "bg-accent-green/20",
     iconColorClass: "text-accent-green-dark",
     hoverBorderClass: "hover:border-accent-green/50",
@@ -27,9 +27,9 @@ const features = [
   },
   {
     icon: "lucide:flask-conical",
-    title: "Productos Premium",
+    title: "Shampoo sin químicos agresivos",
     description:
-      "Cosmética hipoalergénica y libre de parabenos. Lo mejor para su piel.",
+      "Usamos productos hipoalergénicos, sin parabenos. Seguros para pieles sensibles, cachorros y perros alérgicos.",
     iconBgClass: "bg-accent-peach/10",
     iconColorClass: "text-accent-peach-dark",
     hoverBorderClass: "hover:border-accent-peach/50",
@@ -44,10 +44,10 @@ export function Features() {
       <div className='max-w-7xl mx-auto'>
         <div className='text-center mb-16'>
           <span className='text-[10px] font-bold uppercase tracking-[0.25em] text-accent-blue mb-3 block'>
-            Nuestro Cuidado
+            Por qué elegirnos
           </span>
           <h2 className='text-3xl md:text-4xl font-semibold text-primary tracking-tight'>
-            Bienestar sin estrés
+            Por qué los perros de Ñuñoa prefieren Washdog
           </h2>
         </div>
         <div className='grid grid-cols-1 md:grid-cols-3 gap-6'>

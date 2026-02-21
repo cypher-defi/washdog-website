@@ -4,9 +4,11 @@ import dynamic from "next/dynamic"
 import { Navbar, Footer } from "@/components/layout"
 import {
   Hero,
-  Features,
+  HowItWorks,
   Services,
+  Features,
   Testimonials,
+  FAQ,
   Contact
 } from "@/components/sections"
 import { FloatingCTA } from "@/components/ui"
@@ -21,29 +23,18 @@ const BookingModal = dynamic(
 export default function Home() {
   const booking = useBooking()
 
-  const scrollToSection = (id: string) => {
-    const el = document.getElementById(id)
-    if (el) {
-      const headerOffset = 80
-      const elementPosition = el.getBoundingClientRect().top
-      const offsetPosition = elementPosition + window.pageYOffset - headerOffset
-      window.scrollTo({ top: offsetPosition, behavior: "smooth" })
-    }
-  }
-
   return (
     <>
       <LocalBusinessJsonLd />
       <Navbar onBookClick={booking.openModal} />
 
       <main className='grow pt-20'>
-        <Hero
-          onBookClick={booking.openModal}
-          onServicesClick={() => scrollToSection("servicios")}
-        />
-        <Features />
+        <Hero onBookClick={booking.openModal} />
+        <HowItWorks />
         <Services onBookClick={booking.openModal} />
+        <Features />
         <Testimonials />
+        <FAQ />
         <Contact />
       </main>
 
