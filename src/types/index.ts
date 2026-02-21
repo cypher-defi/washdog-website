@@ -28,6 +28,12 @@ export const DOG_SIZE_LABELS = {
   large: '20-40 kgs (grande)',
 } as const;
 
+export const BATH_PRICES: Record<'small' | 'medium' | 'large', string> = {
+  small: '$8.500',
+  medium: '$10.000',
+  large: '$14.000',
+};
+
 export interface BookingContextValue {
   state: BookingState;
   isOpen: boolean;

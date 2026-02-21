@@ -7,7 +7,7 @@ const faqs = [
   {
     question: "¿Cuánto cuesta un baño?",
     answer:
-      "Los baños parten desde $12.000 dependiendo del tamaño y tipo de pelaje de tu perro. El corte completo con baño incluido parte desde $18.000. El precio exacto lo confirmamos al reservar."
+      "El baño vale $8.500 para perros pequeños (5–10 kg), $10.000 para medianos (10–20 kg) y $14.000 para grandes (20–40 kg). El precio del corte y peluquería se define según la raza y el trabajo requerido — escríbenos por WhatsApp si quieres una cotización."
   },
   {
     question: "¿Necesito reservar con anticipación?",

@@ -1,7 +1,7 @@
 'use client';
 
 import { Icon } from '@iconify/react';
-import { DogSize, DOG_SIZE_LABELS, SLOT_DURATIONS } from '@/types';
+import { DogSize, DOG_SIZE_LABELS, SLOT_DURATIONS, BATH_PRICES } from '@/types';
 
 interface DogSizeSelectProps {
   serviceType: 'bath' | 'cut';
@@ -86,6 +86,9 @@ export function DogSizeSelect({ serviceType, onSelectSize, onBack }: DogSizeSele
                   Duración aprox: <span className="font-medium">{duration}</span>
                 </p>
               </div>
+              <span className="text-sm font-bold text-primary/70 group-hover:text-accent-blue transition-colors shrink-0">
+                {serviceType === 'bath' ? BATH_PRICES[sizeKey] : 'A definir'}
+              </span>
               <Icon
                 icon="lucide:chevron-right"
                 className="w-5 h-5 text-primary/20 group-hover:text-accent-blue group-hover:translate-x-1 transition-all"

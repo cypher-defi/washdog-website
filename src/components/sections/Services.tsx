@@ -19,7 +19,7 @@ export function Services({ onBookClick }: ServicesProps) {
             Qué incluye cada servicio
           </h2>
           <p className='text-primary/50 max-w-xl mx-auto font-light text-lg'>
-            Precios claros, sin sorpresas. Todo lo que tu perro necesita en un solo lugar.
+            Todo lo que tu perro necesita, en un solo lugar.
           </p>
         </div>
 
@@ -34,11 +34,19 @@ export function Services({ onBookClick }: ServicesProps) {
               <div className='w-14 h-14 rounded-2xl border border-accent-blue/30 flex items-center justify-center text-accent-blue mb-8 bg-white shadow-sm'>
                 <Icon icon='lucide:bath' className='w-7 h-7' />
               </div>
-              <div className='flex items-baseline gap-3 mb-2'>
-                <h3 className='text-3xl font-semibold text-primary tracking-tight'>
-                  Baño suave
-                </h3>
-                <span className='text-accent-blue font-bold text-lg'>Desde $12.000</span>
+              <h3 className='text-3xl font-semibold text-primary mb-4 tracking-tight'>
+                Baño suave
+              </h3>
+              <div className='flex flex-wrap gap-2 mb-4'>
+                <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-accent-blue text-[10px] font-bold tracking-widest uppercase'>
+                  Pequeño $8.500
+                </span>
+                <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-accent-blue text-[10px] font-bold tracking-widest uppercase'>
+                  Mediano $10.000
+                </span>
+                <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-accent-blue text-[10px] font-bold tracking-widest uppercase'>
+                  Grande $14.000
+                </span>
               </div>
               <div className='flex flex-wrap gap-2 mb-8'>
                 <span className='px-3 py-1.5 rounded-lg bg-accent-blue/10 text-primary/70 text-[10px] font-bold tracking-widest uppercase flex items-center gap-1'>
@@ -72,23 +80,25 @@ export function Services({ onBookClick }: ServicesProps) {
               <div className='w-14 h-14 rounded-2xl border border-accent-peach/40 flex items-center justify-center text-accent-peach mb-8 bg-white shadow-sm'>
                 <Icon icon='lucide:scissors' className='w-7 h-7' />
               </div>
-              <div className='flex items-baseline gap-3 mb-2'>
+              <div className='flex items-baseline gap-3 mb-4'>
                 <h3 className='text-3xl font-semibold text-primary tracking-tight'>
                   Corte y arreglo
                 </h3>
-                <span className='text-accent-peach-dark font-bold text-lg'>Desde $18.000</span>
+                <span className='px-3 py-1.5 rounded-lg bg-accent-peach/20 text-accent-peach-dark text-[10px] font-bold tracking-widest uppercase'>
+                  Valor a definir
+                </span>
               </div>
               <div className='flex flex-wrap gap-2 mb-8'>
                 <span className='px-3 py-1.5 rounded-lg bg-accent-peach/10 text-primary/70 text-[10px] font-bold tracking-widest uppercase'>
                   1–2 hrs
                 </span>
                 <span className='px-3 py-1.5 rounded-lg bg-accent-peach/10 text-primary/70 text-[10px] font-bold tracking-widest uppercase'>
-                  Baño incluido
+                  Tijera / Máquina
                 </span>
               </div>
               <p className='text-primary/70 leading-relaxed font-light mb-10 text-sm md:text-base'>
-                Corte adaptado a tu raza y estilo de vida. Incluye baño completo y
-                retiro del pelo muerto para que no siga botando pelo en casa.
+                Corte adaptado a tu raza y estilo de vida.
+                Retiro del pelo muerto para que no siga botando pelo en casa.
               </p>
             </div>
             <div className='space-y-4 relative z-10'>
