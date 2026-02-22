@@ -67,7 +67,7 @@ const faqs: { question: string; answer: React.ReactNode }[] = [
   {
     question: "¿Necesito reservar con anticipación?",
     answer:
-      "Sí, trabajamos por reserva para garantizar atención individual a cada perro. Puedes reservar fácilmente desde esta página en menos de 2 minutos, sin llamadas ni mensajes."
+      "Sí, trabajamos con reserva para garantizar atención individual a cada perro, pero para auto-lavado puedes llegar y si la máquina está en uso la espera es corta en general. Por comodidad, puedes reservar fácilmente desde esta página en menos de 2 minutos, sin llamadas ni mensajes."
   },
   {
     question: "¿Atienden razas grandes?",
