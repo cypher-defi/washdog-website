@@ -46,7 +46,7 @@ export function Footer({ onBookClick }: FooterProps) {
             <div className='md:col-span-3 md:col-start-8 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <a
-                href='https://maps.app.goo.gl/YtGHwf3oJ6HWo2AD6'
+                href='https://maps.app.goo.gl/m4YwPt8XHwMqrZ3i9'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'
@@ -93,10 +93,16 @@ export function Footer({ onBookClick }: FooterProps) {
           <div className='pt-8 mt-16 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-white/30 font-medium uppercase tracking-widest'>
             <p>© 2026 Washdog</p>
             <div className='flex gap-6'>
-              <Link href='/privacy' className='hover:text-white transition-colors'>
+              <Link
+                href='/privacy'
+                className='hover:text-white transition-colors'
+              >
                 Privacidad
               </Link>
-              <Link href='/terms' className='hover:text-white transition-colors'>
+              <Link
+                href='/terms'
+                className='hover:text-white transition-colors'
+              >
                 Términos
               </Link>
             </div>
