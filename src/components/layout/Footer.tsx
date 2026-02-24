@@ -46,7 +46,7 @@ export function Footer({ onBookClick }: FooterProps) {
             <div className='md:col-span-3 md:col-start-8 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <a
-                href='https://maps.app.goo.gl/m4YwPt8XHwMqrZ3i9'
+                href='https://share.google/8t1bo1xyYIfTKyDAw'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'

@@ -39,7 +39,7 @@ export function LocalBusinessJsonLd() {
       }
     ],
     priceRange: "$$",
-    sameAs: ["https://maps.app.goo.gl/m4YwPt8XHwMqrZ3i9"]
+    sameAs: ["https://share.google/8t1bo1xyYIfTKyDAw"]
   }
 
   return (
