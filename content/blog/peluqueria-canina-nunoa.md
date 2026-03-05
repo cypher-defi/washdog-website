@@ -65,3 +65,7 @@ Sí, contamos con [peluquería para gatos en Ñuñoa](/servicios/peluqueria-gato
 - [Corte y arreglo canino](/servicios/corte)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
 - [Peluquería para gatos en Ñuñoa](/servicios/peluqueria-gatos-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

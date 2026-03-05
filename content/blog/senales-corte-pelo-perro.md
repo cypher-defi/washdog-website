@@ -37,3 +37,7 @@ Nuestro servicio de corte y arreglo incluye baño con shampoo suave, brushing co
 - [Corte y arreglo canino en Ñuñoa](/servicios/corte)
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

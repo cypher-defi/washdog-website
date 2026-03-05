@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { getAllPosts } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
+import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 
 export const metadata: Metadata = {
   title: "Blog | Consejos para el cuidado de tu perro",
@@ -21,6 +22,7 @@ export default function BlogPage() {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}

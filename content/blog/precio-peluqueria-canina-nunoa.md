@@ -69,3 +69,7 @@ Sí, en la [página de precios](/servicios/precio-peluqueria-nunoa) están todos
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Baño suave para perros](/servicios/bano)
 - [Peluquería para gatos en Ñuñoa](/servicios/peluqueria-gatos-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

@@ -5,6 +5,7 @@ import Link from "next/link"
 import { Icon } from "@iconify/react"
 import { Navbar } from "@/components/layout"
 import { useBooking } from "@/hooks/useBooking"
+import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 
 const BookingModal = dynamic(
   () => import("@/components/booking").then(mod => mod.BookingModal),
@@ -48,6 +49,7 @@ export default function BanoPage() {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <Navbar onBookClick={booking.openModal} />
       <main className='min-h-screen bg-background pt-20'>
         {/* Hero */}

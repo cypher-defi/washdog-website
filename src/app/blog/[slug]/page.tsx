@@ -3,6 +3,7 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 import { getAllPosts, getPost } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
+import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -36,6 +37,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
+      <LocalBusinessJsonLd />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}

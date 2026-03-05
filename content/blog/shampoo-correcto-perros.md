@@ -51,3 +51,7 @@ En Washdog usamos shampoos hipoalergénicos sin químicos agresivos, elegidos es
 - [Baño suave para perros en Ñuñoa](/servicios/bano)
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

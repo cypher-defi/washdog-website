@@ -65,3 +65,7 @@ Sí, contamos con [peluquería canina en Ñuñoa](/servicios/peluqueria-canina-n
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Corte y arreglo canino](/servicios/corte)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

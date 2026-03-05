@@ -46,3 +46,7 @@ Si prefieres dejarlo en manos de profesionales, en Washdog usamos shampoo hipoal
 - [Baño suave para perros en Ñuñoa](/servicios/bano)
 - [Baño de perros en Ñuñoa](/servicios/auto-lavado-perros-nunoa)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)

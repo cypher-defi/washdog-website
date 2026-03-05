@@ -65,3 +65,7 @@ Sí, trabajamos con reserva para garantizar atención individual. Puedes agendar
 - [Baño suave para perros](/servicios/bano)
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
