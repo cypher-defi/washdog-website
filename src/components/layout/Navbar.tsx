@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import Link from "next/link"
 import { Icon } from "@iconify/react"
 
 interface NavbarProps {
@@ -67,6 +68,13 @@ export function Navbar({ onBookClick }: NavbarProps) {
               <span className='absolute -bottom-1 left-0 w-0 h-px bg-accent-blue transition-all duration-300 group-hover:w-full' />
             </button>
           ))}
+          <Link
+            href='/blog'
+            className='text-xs font-medium uppercase tracking-[0.15em] text-primary/60 hover:text-primary transition-colors relative group'
+          >
+            Blog
+            <span className='absolute -bottom-1 left-0 w-0 h-px bg-accent-blue transition-all duration-300 group-hover:w-full' />
+          </Link>
         </div>
 
         <div className='flex items-center gap-4'>
@@ -117,6 +125,13 @@ export function Navbar({ onBookClick }: NavbarProps) {
               {link.label}
             </button>
           ))}
+          <Link
+            href='/blog'
+            onClick={() => setIsMenuOpen(false)}
+            className='text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
+          >
+            Blog
+          </Link>
           <button
             onClick={() => {
               onBookClick()
