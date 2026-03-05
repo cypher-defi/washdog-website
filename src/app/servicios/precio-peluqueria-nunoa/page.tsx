@@ -157,6 +157,27 @@ export default function PrecioPeluqueriaNunoaPage() {
           </div>
         </section>
 
+        {/* Related services */}
+        <section className='py-12 border-t border-primary/5'>
+          <div className='max-w-4xl mx-auto px-6'>
+            <h2 className='text-xs font-bold uppercase tracking-[0.2em] text-primary/40 mb-5'>
+              Otros servicios
+            </h2>
+            <div className='flex flex-wrap gap-3'>
+              {[
+                { href: "/servicios/bano", label: "Baño suave" },
+                { href: "/servicios/corte", label: "Corte y arreglo" },
+                { href: "/servicios/peluqueria-canina-nunoa", label: "Peluquería canina Ñuñoa" },
+                { href: "/servicios/peluqueria-gatos-nunoa", label: "Peluquería gatos Ñuñoa" }
+              ].map(s => (
+                <Link key={s.href} href={s.href} className='inline-flex items-center gap-1.5 px-4 py-2 rounded-xl border border-primary/10 text-sm text-primary/60 hover:border-accent-blue/40 hover:text-accent-blue transition-all bg-white'>
+                  {s.label} →
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
         {/* CTA */}
         <section className='py-16 bg-white border-t border-primary/5'>
           <div className='max-w-2xl mx-auto px-6 text-center'>

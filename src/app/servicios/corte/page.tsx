@@ -99,7 +99,7 @@ export default function CortePage() {
                   key={i}
                   className='flex items-start gap-4 bg-white border border-primary/8 rounded-4xl p-6'
                 >
-                  <span className='flex-shrink-0 w-10 h-10 rounded-xl border border-accent-peach/40 flex items-center justify-center text-accent-peach-dark bg-accent-peach/10'>
+                  <span className='shrink-0 w-10 h-10 rounded-xl border border-accent-peach/40 flex items-center justify-center text-accent-peach-dark bg-accent-peach/10'>
                     <Icon icon={item.icon} className='w-5 h-5' />
                   </span>
                   <span className='text-primary/80 text-sm font-light leading-relaxed pt-1.5'>
@@ -152,6 +152,27 @@ export default function CortePage() {
                   <h3 className='text-sm font-semibold text-primary mb-2'>{faq.q}</h3>
                   <p className='text-sm text-primary/60 font-light leading-relaxed'>{faq.a}</p>
                 </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Related services */}
+        <section className='py-12 border-t border-primary/5'>
+          <div className='max-w-4xl mx-auto px-6'>
+            <h2 className='text-xs font-bold uppercase tracking-[0.2em] text-primary/40 mb-5'>
+              Otros servicios
+            </h2>
+            <div className='flex flex-wrap gap-3'>
+              {[
+                { href: "/servicios/bano", label: "Baño suave" },
+                { href: "/servicios/peluqueria-canina-nunoa", label: "Peluquería canina Ñuñoa" },
+                { href: "/servicios/peluqueria-gatos-nunoa", label: "Peluquería gatos Ñuñoa" },
+                { href: "/servicios/precio-peluqueria-nunoa", label: "Ver precios" }
+              ].map(s => (
+                <Link key={s.href} href={s.href} className='inline-flex items-center gap-1.5 px-4 py-2 rounded-xl border border-primary/10 text-sm text-primary/60 hover:border-accent-peach/60 hover:text-accent-peach-dark transition-all bg-white'>
+                  {s.label} →
+                </Link>
               ))}
             </div>
           </div>
