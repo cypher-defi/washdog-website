@@ -19,6 +19,7 @@ export interface ServicioMeta {
   slug: string
   title: string
   description: string
+  keywords?: string
   communes?: Commune[]
   relatedServices?: RelatedService[]
 }

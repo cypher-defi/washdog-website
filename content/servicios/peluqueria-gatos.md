@@ -1,13 +1,15 @@
 ---
-title: "Peluquería para gatos en Ñuñoa: grooming felino profesional"
-description: "Grooming para gatos en Ñuñoa. Baño, corte y limpieza de orejas en espacio separado del sector canino. Técnica suave, sin sedantes. Precio único $30.000."
+title: "Peluquería para Gatos en Santiago"
+description: "Peluquería felina especializada en Santiago. Grooming profesional para gatos: baño, corte y deslanado en espacio separado del sector canino. Disponible en 28 comunas."
+keywords: "peluquería gatos Santiago, grooming gatos Santiago, baño gatos Santiago, corte pelo gatos Santiago"
+date: "2026-03-05"
 communes:
   - name: Ñuñoa
     slug: peluqueria-gatos-nunoa
 relatedServices:
   - href: /servicios/peluqueria-canina
     label: Peluquería canina
-  - href: /servicios/bano
+  - href: /servicios/bano-perros
     label: Baño para perros
   - href: /servicios/precio-peluqueria
     label: Ver precios
@@ -56,3 +58,36 @@ Entre 1,5 y 3 horas. Nunca apuramos el proceso.
 
 **¿Atienden gatos con pelaje muy enredado?**
 Sí. En casos severos puede ser necesario más tiempo y un costo adicional. Te avisamos antes de comenzar.
+
+---
+
+## Disponible en tu comuna
+
+- [Ñuñoa](/servicios/peluqueria-gatos-nunoa)
+- [Providencia](/servicios/peluqueria-gatos-providencia)
+- [Las Condes](/servicios/peluqueria-gatos-las-condes)
+- [La Reina](/servicios/peluqueria-gatos-la-reina)
+- [Santiago Centro](/servicios/peluqueria-gatos-santiago-centro)
+- [Macul](/servicios/peluqueria-gatos-macul)
+- [Peñalolén](/servicios/peluqueria-gatos-penalolen)
+- [La Florida](/servicios/peluqueria-gatos-la-florida)
+- [Lo Barnechea](/servicios/peluqueria-gatos-lo-barnechea)
+- [Vitacura](/servicios/peluqueria-gatos-vitacura)
+- [Huechuraba](/servicios/peluqueria-gatos-huechuraba)
+- [Independencia](/servicios/peluqueria-gatos-independencia)
+- [Recoleta](/servicios/peluqueria-gatos-recoleta)
+- [Quilicura](/servicios/peluqueria-gatos-quilicura)
+- [Cerro Navia](/servicios/peluqueria-gatos-cerro-navia)
+- [Renca](/servicios/peluqueria-gatos-renca)
+- [Quinta Normal](/servicios/peluqueria-gatos-quinta-normal)
+- [Lo Prado](/servicios/peluqueria-gatos-lo-prado)
+- [Estación Central](/servicios/peluqueria-gatos-estacion-central)
+- [San Miguel](/servicios/peluqueria-gatos-san-miguel)
+- [San Joaquín](/servicios/peluqueria-gatos-san-joaquin)
+- [Pedro Aguirre Cerda](/servicios/peluqueria-gatos-pedro-aguirre-cerda)
+- [San Ramón](/servicios/peluqueria-gatos-san-ramon)
+- [Lo Espejo](/servicios/peluqueria-gatos-lo-espejo)
+- [Cerrillos](/servicios/peluqueria-gatos-cerrillos)
+- [La Granja](/servicios/peluqueria-gatos-la-granja)
+- [La Cisterna](/servicios/peluqueria-gatos-la-cisterna)
+- [La Pintana](/servicios/peluqueria-gatos-la-pintana)

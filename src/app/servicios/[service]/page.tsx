@@ -20,6 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: servicio.title,
     description: servicio.description,
+    keywords: servicio.keywords,
     alternates: { canonical: `https://www.washdog.cl/servicios/${service}` }
   }
 }
@@ -74,28 +75,6 @@ export default async function ServicioHubPage({ params }: Props) {
             />
           </div>
         </section>
-
-        {/* Commune links */}
-        {servicio.communes && servicio.communes.length > 0 && (
-          <section className='py-12 border-t border-primary/5'>
-            <div className='max-w-3xl mx-auto px-6'>
-              <h2 className='text-xs font-bold uppercase tracking-[0.2em] text-primary/40 mb-5'>
-                Agenda tu cita en tu comuna
-              </h2>
-              <div className='flex flex-wrap gap-3'>
-                {servicio.communes.map(commune => (
-                  <Link
-                    key={commune.slug}
-                    href={`/servicios/${commune.slug}`}
-                    className='inline-flex items-center gap-1.5 px-4 py-2 rounded-xl border border-primary/10 text-sm text-primary/60 hover:border-accent-blue/40 hover:text-accent-blue transition-all bg-white'
-                  >
-                    {commune.name} →
-                  </Link>
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
 
         {/* Related services */}
         {servicio.relatedServices && servicio.relatedServices.length > 0 && (

@@ -1,14 +1,16 @@
 ---
-title: "Peluquería canina en Santiago: corte y arreglo profesional"
-description: "Peluquería canina profesional en Ñuñoa, Santiago. Corte adaptado a tu raza, baño hipoalergénico y atención individual. Abierto todos los días."
+title: "Peluquería Canina en Santiago"
+description: "Peluquería canina profesional en Santiago. Cortes para todas las razas, baño hipoalergénico y atención individual. Agenda online — 28 comunas de Santiago."
+keywords: "peluquería canina Santiago, peluquero de perros Santiago, grooming perros Santiago, corte de pelo perros Santiago"
+date: "2026-03-05"
 communes:
   - name: Ñuñoa
     slug: peluqueria-canina-nunoa
 relatedServices:
-  - href: /servicios/bano
-    label: Baño suave
-  - href: /servicios/corte
-    label: Corte y arreglo
+  - href: /servicios/bano-perros
+    label: Baño de perros
+  - href: /servicios/corte-perros
+    label: Corte de pelo
   - href: /servicios/peluqueria-gatos
     label: Peluquería para gatos
   - href: /servicios/precio-peluqueria
@@ -59,3 +61,36 @@ Sí. Trabajamos con calma y nunca apuramos el proceso. La atención individual a
 
 **¿El precio incluye el baño?**
 Sí. El corte y arreglo incluye baño, brushing, corte y limpieza de orejas.
+
+---
+
+## Disponible en tu comuna
+
+- [Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Providencia](/servicios/peluqueria-canina-providencia)
+- [Las Condes](/servicios/peluqueria-canina-las-condes)
+- [La Reina](/servicios/peluqueria-canina-la-reina)
+- [Santiago Centro](/servicios/peluqueria-canina-santiago-centro)
+- [Macul](/servicios/peluqueria-canina-macul)
+- [Peñalolén](/servicios/peluqueria-canina-penalolen)
+- [La Florida](/servicios/peluqueria-canina-la-florida)
+- [Lo Barnechea](/servicios/peluqueria-canina-lo-barnechea)
+- [Vitacura](/servicios/peluqueria-canina-vitacura)
+- [Huechuraba](/servicios/peluqueria-canina-huechuraba)
+- [Independencia](/servicios/peluqueria-canina-independencia)
+- [Recoleta](/servicios/peluqueria-canina-recoleta)
+- [Quilicura](/servicios/peluqueria-canina-quilicura)
+- [Cerro Navia](/servicios/peluqueria-canina-cerro-navia)
+- [Renca](/servicios/peluqueria-canina-renca)
+- [Quinta Normal](/servicios/peluqueria-canina-quinta-normal)
+- [Lo Prado](/servicios/peluqueria-canina-lo-prado)
+- [Estación Central](/servicios/peluqueria-canina-estacion-central)
+- [San Miguel](/servicios/peluqueria-canina-san-miguel)
+- [San Joaquín](/servicios/peluqueria-canina-san-joaquin)
+- [Pedro Aguirre Cerda](/servicios/peluqueria-canina-pedro-aguirre-cerda)
+- [San Ramón](/servicios/peluqueria-canina-san-ramon)
+- [Lo Espejo](/servicios/peluqueria-canina-lo-espejo)
+- [Cerrillos](/servicios/peluqueria-canina-cerrillos)
+- [La Granja](/servicios/peluqueria-canina-la-granja)
+- [La Cisterna](/servicios/peluqueria-canina-la-cisterna)
+- [La Pintana](/servicios/peluqueria-canina-la-pintana)

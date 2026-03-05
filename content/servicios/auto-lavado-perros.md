@@ -1,12 +1,14 @@
 ---
-title: "Baño de perros en Ñuñoa: profesional vs. auto lavado"
-description: "¿Bañar a tu perro en casa o con profesionales en Ñuñoa? Comparamos opciones y te explicamos qué incluye el baño en Washdog. Sin estrés, sin desastre."
+title: "Auto Lavado de Perros en Santiago"
+description: "Auto lavado de perros en Santiago: baña a tu mascota con equipos profesionales y productos premium. Tinas de acero, secadores de alta potencia y shampoo incluido."
+keywords: "auto lavado perros Santiago, self-service perros Santiago, lavar perros yo mismo Santiago, baño perros Santiago"
+date: "2026-03-05"
 communes:
   - name: Ñuñoa
     slug: auto-lavado-perros-nunoa
 relatedServices:
-  - href: /servicios/bano
-    label: Baño suave
+  - href: /servicios/bano-perros
+    label: Baño profesional
   - href: /servicios/peluqueria-canina
     label: Peluquería canina
   - href: /servicios/precio-peluqueria
@@ -57,3 +59,36 @@ Sí. Contamos con peluquería para gatos con el mismo nivel de atención individ
 
 **¿Necesito reservar?**
 Sí. Trabajamos con reserva para garantizar atención individual. Puedes agendar en menos de 2 minutos.
+
+---
+
+## Disponible en tu comuna
+
+- [Ñuñoa](/servicios/auto-lavado-perros-nunoa)
+- [Providencia](/servicios/auto-lavado-perros-providencia)
+- [Las Condes](/servicios/auto-lavado-perros-las-condes)
+- [La Reina](/servicios/auto-lavado-perros-la-reina)
+- [Santiago Centro](/servicios/auto-lavado-perros-santiago-centro)
+- [Macul](/servicios/auto-lavado-perros-macul)
+- [Peñalolén](/servicios/auto-lavado-perros-penalolen)
+- [La Florida](/servicios/auto-lavado-perros-la-florida)
+- [Lo Barnechea](/servicios/auto-lavado-perros-lo-barnechea)
+- [Vitacura](/servicios/auto-lavado-perros-vitacura)
+- [Huechuraba](/servicios/auto-lavado-perros-huechuraba)
+- [Independencia](/servicios/auto-lavado-perros-independencia)
+- [Recoleta](/servicios/auto-lavado-perros-recoleta)
+- [Quilicura](/servicios/auto-lavado-perros-quilicura)
+- [Cerro Navia](/servicios/auto-lavado-perros-cerro-navia)
+- [Renca](/servicios/auto-lavado-perros-renca)
+- [Quinta Normal](/servicios/auto-lavado-perros-quinta-normal)
+- [Lo Prado](/servicios/auto-lavado-perros-lo-prado)
+- [Estación Central](/servicios/auto-lavado-perros-estacion-central)
+- [San Miguel](/servicios/auto-lavado-perros-san-miguel)
+- [San Joaquín](/servicios/auto-lavado-perros-san-joaquin)
+- [Pedro Aguirre Cerda](/servicios/auto-lavado-perros-pedro-aguirre-cerda)
+- [San Ramón](/servicios/auto-lavado-perros-san-ramon)
+- [Lo Espejo](/servicios/auto-lavado-perros-lo-espejo)
+- [Cerrillos](/servicios/auto-lavado-perros-cerrillos)
+- [La Granja](/servicios/auto-lavado-perros-la-granja)
+- [La Cisterna](/servicios/auto-lavado-perros-la-cisterna)
+- [La Pintana](/servicios/auto-lavado-perros-la-pintana)
