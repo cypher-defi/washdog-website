@@ -6,11 +6,6 @@ category: "Peluquería"
 readTime: "8 min"
 ---
 
-# Precio Peluquería Canina Ñuñoa 2025 | WashDog
-
-**Meta descripción:** Descubre el precio de la peluquería canina en Ñuñoa en 2025. Baño completo, corte de pelo, deslanado y más. Atención premium para tu perro. ¡Agenda online hoy con WashDog!
-
----
 
 Si estás buscando el **precio peluquería canina Ñuñoa** para saber cuánto vas a invertir en el cuidado de tu perro o gato, llegaste al lugar correcto. En WashDog no solo te contamos cuánto cuesta cada servicio, sino también qué es lo que realmente vale la pena considerar antes de elegir dónde llevar a tu mascota. Porque cuando hablamos de bienestar animal, los detalles importan —y mucho.
 

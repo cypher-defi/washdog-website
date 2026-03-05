@@ -6,11 +6,6 @@ category: "Peluquería"
 readTime: "7 min"
 ---
 
-# Peluquería Canina Ñuñoa | WashDog Grooming Premium
-
-**Meta description:** ¿Buscas una peluquería canina en Ñuñoa con atención personalizada y productos premium? En WashDog ofrecemos baño, corte, deslanado, antipulgas y más. ¡Agenda online hoy!
-
----
 
 Si vives en Ñuñoa y tienes un perro que ya empieza a verse —y a oler— como si llevara semanas sin pasar por las manos de nadie, sabemos exactamente lo que necesitas. En WashDog somos una **peluquería canina en Ñuñoa** especializada en grooming premium: no solo dejamos a tu peludo limpio y bonito, sino que lo cuidamos con la atención y el cariño que se merece. Porque para nosotros, cada perro es único, y su experiencia en nuestra peluquería también debería serlo.
 
