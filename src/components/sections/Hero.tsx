@@ -9,7 +9,7 @@ interface HeroProps {
 
 export function Hero({ onBookClick }: HeroProps) {
   return (
-    <section className='relative w-full h-auto md:h-[85vh] flex items-center justify-center overflow-hidden bg-hero-bg pt-16 pb-16 md:py-0'>
+    <section className='relative w-full min-h-150 md:min-h-[85vh] flex items-center justify-center bg-hero-bg py-24 md:py-32'>
       {/* Background Image Container */}
       <div className='absolute inset-0 z-0 flex items-center justify-center'>
         <Image
