@@ -16,9 +16,9 @@ export function Footer({ onBookClick }: FooterProps) {
     <footer className='bg-white pb-6 pt-10'>
       <div className='max-w-7xl mx-auto px-6'>
         <div className='bg-primary rounded-5xl text-[#E6E1DE] p-10 md:p-16 relative overflow-hidden shadow-2xl shadow-primary/10'>
-          <div className='grid grid-cols-1 md:grid-cols-12 gap-12 relative z-10'>
+          <div className='grid grid-cols-2 md:grid-cols-12 gap-8 md:gap-10 relative z-10'>
             {/* Brand & CTA */}
-            <div className='md:col-span-5'>
+            <div className='col-span-2 md:col-span-3'>
               <button
                 onClick={scrollToTop}
                 className='flex items-center gap-3 hover:opacity-80 transition-opacity mb-6'
@@ -42,8 +42,56 @@ export function Footer({ onBookClick }: FooterProps) {
               </button>
             </div>
 
+            {/* Servicios */}
+            <div className='md:col-span-2 md:col-start-4 text-sm space-y-4'>
+              <h4 className='text-white font-medium text-lg'>Servicios</h4>
+              <ul className='space-y-2'>
+                {[
+                  { label: 'Peluquería canina', href: '/servicios/peluqueria-canina' },
+                  { label: 'Baño para perros',  href: '/servicios/bano-perros' },
+                  { label: 'Corte de pelo',     href: '/servicios/corte-perros' },
+                  { label: 'Spa canino',        href: '/servicios/spa-canino' },
+                  { label: 'Autolavado',        href: '/servicios/auto-lavado-perros' },
+                  { label: 'Peluquería gatos',  href: '/servicios/peluqueria-gatos' },
+                  { label: 'Precios',           href: '/servicios/precio-peluqueria' },
+                ].map(({ label, href }) => (
+                  <li key={href}>
+                    <Link href={href} className='text-white/60 hover:text-white transition-colors'>
+                      {label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Comunas */}
+            <div className='md:col-span-2 md:col-start-6 text-sm space-y-4'>
+              <h4 className='text-white font-medium text-lg'>Comunas</h4>
+              <ul className='space-y-2'>
+                {[
+                  { label: 'Ñuñoa',           href: '/servicios/peluqueria-canina-nunoa' },
+                  { label: 'Providencia',      href: '/servicios/peluqueria-canina-providencia' },
+                  { label: 'Las Condes',       href: '/servicios/peluqueria-canina-las-condes' },
+                  { label: 'Vitacura',         href: '/servicios/peluqueria-canina-vitacura' },
+                  { label: 'La Reina',         href: '/servicios/peluqueria-canina-la-reina' },
+                  { label: 'Macul',            href: '/servicios/peluqueria-canina-macul' },
+                  { label: 'La Florida',       href: '/servicios/peluqueria-canina-la-florida' },
+                  { label: 'Peñalolén',        href: '/servicios/peluqueria-canina-penalolen' },
+                  { label: 'Santiago Centro',  href: '/servicios/peluqueria-canina-santiago-centro' },
+                  { label: 'Huechuraba',       href: '/servicios/peluqueria-canina-huechuraba' },
+                  { label: 'Lo Barnechea',     href: '/servicios/peluqueria-canina-lo-barnechea' },
+                ].map(({ label, href }) => (
+                  <li key={href}>
+                    <Link href={href} className='text-white/60 hover:text-white transition-colors'>
+                      {label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             {/* Contact Info */}
-            <div className='md:col-span-3 md:col-start-8 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-9 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <a
                 href='https://share.google/8t1bo1xyYIfTKyDAw'
@@ -80,7 +128,7 @@ export function Footer({ onBookClick }: FooterProps) {
             </div>
 
             {/* Hours */}
-            <div className='md:col-span-2 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-11 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Horario</h4>
               <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                 <p>Lun - Dom</p>
