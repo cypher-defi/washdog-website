@@ -56,6 +56,23 @@ Agenda tu hora 24/7 por WhatsApp o desde la web, elige el horario que más te ac
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Las Condes
+
+Las Condes tiene algunos de los mejores parques caninos de Santiago. Muchos de nuestros clientes del sector oriente aprovechan de pasear antes de traernos a su perro.
+
+**Parques y espacios favoritos en Las Condes:**
+- **Parque Araucano** — el parque canino más grande de Las Condes, con zona especial para perros
+- **Parque Juan Pablo II** — espacio verde amplio sobre Av. Apoquindo
+- **Parque de los Andes** — ideal para razas grandes que necesitan correr
+- **Parque Padre Hurtado** — tranquilo y arbolado en el sector alto
+
+**Cómo llegar a WashDog desde Las Condes:**
+Toma **Metro Tobalaba (Línea 1 o Línea 4)** o **Metro El Golf (Línea 1)** y combina hacia Ñuñoa. En auto, Irarrázaval conecta directamente con Av. Apoquindo — unos 15 minutos sin tráfico.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar en WashDog toma menos de dos minutos. Escríbenos por WhatsApp o usa el formulario online, cuéntanos la raza y tamaño de tu perro y elige el horario que más te acomoda. Nos encargamos del resto.

@@ -56,6 +56,23 @@ Agenda la hora de tu perro desde el celular — elige fecha, hora y servicio. Si
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Vitacura
+
+Vitacura es conocida por sus amplias veredas arboladas y parques bien mantenidos — perfectos para pasear perros. Varios de nuestros clientes de Vitacura hacen del paseo y el grooming una rutina semanal.
+
+**Parques y espacios favoritos en Vitacura:**
+- **Parque Bicentenario** — con zona especial de perros, ideal para cualquier raza
+- **Parque La Dehesa** — cerca del límite con Lo Barnechea, con senderos extensos
+- **Av. Alonso de Córdova** — veredas amplias y arboladas, muy transitadas por mascotas
+- **Parque Los Andes** — orillas del río Mapocho, zona verde tranquila
+
+**Cómo llegar a WashDog desde Vitacura:**
+En auto por Av. Las Condes → Tobalaba → Irarrázaval son aproximadamente 20 minutos. También puedes llegar en **Metro Tobalaba (Línea 1)** combinando con bus hacia Ñuñoa.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar en WashDog toma menos de 2 minutos: elige el servicio, el tamaño de tu perro y el horario que te acomode. Sin llamadas, sin filas, sin complicaciones.

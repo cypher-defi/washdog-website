@@ -56,6 +56,23 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Ñuñoa
+
+Ñuñoa es una de las comunas más amigables con mascotas de Santiago. Muchos de nuestros clientes aprovechan de pasear a sus perros antes o después de la visita a WashDog.
+
+**Parques y espacios favoritos en Ñuñoa:**
+- **Parque Juan XXIII** — ideal para perros activos, con áreas verdes amplias y sombra
+- **Plaza Ñuñoa** — perfecta para paseos tranquilos en el barrio
+- **Parque Paraguay** — zona residencial tranquila a pasos de Irarrázaval
+- **Parque Inés de Suárez** — popular entre familias con mascotas del sector
+
+**Cómo llegar a WashDog desde Ñuñoa:**
+Estamos en Irarrázaval 2086 B. La forma más fácil es tomar **Metro Ñuñoa (Línea 3)** o **Metro Irarrázaval (Línea 3)** — quedamos a menos de 10 minutos caminando desde cualquier estación del eje Irarrázaval.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar en WashDog es tan fácil como esto: elige el servicio, selecciona tu hora disponible y recibe confirmación inmediata. Sin filas, sin llamadas, sin complicaciones. Atendemos en Ñuñoa y recibimos clientes de Providencia, Macul y La Reina.

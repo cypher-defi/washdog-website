@@ -56,6 +56,23 @@ Reserva tu hora en segundos desde el celular. Hora reservada es hora respetada �
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Providencia
+
+Providencia tiene varios parques excelentes para pasear antes de traer a tu perro a su sesión de grooming. Muchos clientes de Providencia nos visitan combinando el paseo con la cita en WashDog.
+
+**Parques y espacios favoritos en Providencia:**
+- **Parque Balmaceda** — uno de los más grandes de la zona, ideal para perros enérgicos
+- **Parque Uruguay** — espacio tranquilo y arbolado sobre el Canal San Carlos
+- **Parque Bustamante** — popular entre mascotas del sector Pedro de Valdivia
+- **Parque Inés de Suárez** — en el límite con Ñuñoa, a minutos de WashDog
+
+**Cómo llegar a WashDog desde Providencia:**
+Toma **Metro Salvador (Línea 1)** o **Metro Pedro de Valdivia (Línea 1)** y combina con bus por Irarrázaval directo hasta nuestra puerta — en menos de 20 minutos estás acá.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar es simple: elige día y hora, cuéntanos la raza y el servicio que necesitas, y listo. Nosotros nos encargamos del resto. Si el resultado no te convence, lo corregimos sin costo adicional.

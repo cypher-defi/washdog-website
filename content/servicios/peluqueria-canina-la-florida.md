@@ -60,6 +60,23 @@ Sin llamadas, sin esperar en la vereda. Agenda por WhatsApp o formulario online 
 
 ---
 
+
+---
+### Paseos cerca de WashDog en La Florida
+
+La Florida tiene varios parques naturales únicos en Santiago. Antes de venir a WashDog, muchos dueños de La Florida aprovechan de cansarlos un poco — así llegan más tranquilos a la sesión.
+
+**Parques y espacios favoritos en La Florida:**
+- **Parque Mahuida** — uno de los parques naturales más grandes de Santiago, con senderos de tierra ideales para perros activos
+- **Quebrada de Macul** — zona natural con vegetación nativa y senderos amplios
+- **Parque Lo Cañas** — zona residencial tranquila con áreas verdes bien mantenidas
+- **Canal San Carlos** — paseo lineal que conecta varias comunas del sur oriente
+
+**Cómo llegar a WashDog desde La Florida:**
+Toma **Metro Las Mercedes (Línea 4)** o **Metro La Florida (Línea 4)** conectando hacia Ñuñoa. En auto por Av. Vicuña Mackenna llegas directo a Irarrázaval en unos 20-25 minutos.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Agendar en WashDog toma menos de 2 minutos. Escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, y te confirmamos hora al instante. Así de simple.

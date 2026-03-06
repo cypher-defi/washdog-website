@@ -58,6 +58,23 @@ Reserva tu hora directo por WhatsApp o desde nuestra web — cualquier día, a c
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Macul
+
+Macul y Ñuñoa son comunas vecinas, lo que hace que WashDog sea una de las peluquerías caninas más cercanas para quienes viven en Macul. Muchos clientes del sector nos visitan regularmente.
+
+**Parques y espacios favoritos en Macul:**
+- **Parque Macul** — zona verde con árboles y espacio abierto para correr
+- **Plaza Los Castaños** — tranquila y familiar, popular entre vecinos con mascotas
+- **Canal San Carlos** — paseo lineal ideal para caminatas largas con perros energéticos
+- **Estadio San Carlos de Apoquindo** — alrededores con veredas amplias para pasear
+
+**Cómo llegar a WashDog desde Macul:**
+Toma **Metro Macul (Línea 4A)** y conecta a Ñuñoa — o simplemente ven en auto por Av. Departamental. Estamos en Irarrázaval 2086 B, a menos de 10 minutos desde Macul.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar en WashDog es simple: escríbenos por WhatsApp o usa nuestro formulario online, elige día y hora, y listo. Sin esperas, sin llamadas, sin vueltas. Solo tú, tu perro y nosotros.

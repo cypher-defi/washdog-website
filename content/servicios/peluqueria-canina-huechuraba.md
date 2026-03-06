@@ -58,6 +58,23 @@ Ubicados en Huechuraba, con fácil acceso en auto y estacionamiento disponible. 
 
 ---
 
+
+---
+### Paseos cerca de WashDog en Huechuraba
+
+Huechuraba tiene espacios naturales excelentes para perros, especialmente en el sector alto de la comuna. Muchos clientes del sector norte de Santiago nos eligen por la calidad del servicio y el trato individualizado.
+
+**Parques y espacios favoritos en Huechuraba:**
+- **Parque Cerro Colorado** — área natural con vistas y senderos, perfecta para perros exploradores
+- **Parque Estadio** — zona verde con espacio para correr en el sector Recoleta / Huechuraba
+- **Av. Los Libertadores** — veredas amplias en el corredor principal de la comuna
+- **Sector La Punta** — zona residencial tranquila con espacios verdes informales
+
+**Cómo llegar a WashDog desde Huechuraba:**
+La mejor ruta en auto es por Av. Recoleta → Av. Irarrázaval, aproximadamente 25-30 minutos. En transporte público, combina bus desde Huechuraba hacia el centro y luego metro Línea 3 hasta la estación Ñuñoa.
+
+---
+
 ### ¿Listo para darle lo mejor a tu perro?
 
 Reservar es simple: elige el servicio, indícanos el tamaño y raza de tu perro, y confirmamos tu hora en menos de 5 minutos. Sin esperas. Sin sorpresas.
