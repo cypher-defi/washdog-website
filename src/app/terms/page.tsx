@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   description: "Términos y condiciones de uso del sitio web Washdog",
   alternates: {
     canonical: "https://www.washdog.cl/terms"
+  },
+  robots: {
+    index: false,
+    follow: false,
   }
 }
 

@@ -6,6 +6,10 @@ export const metadata: Metadata = {
   description: "Política de privacidad del sitio web Washdog",
   alternates: {
     canonical: "https://www.washdog.cl/privacy"
+  },
+  robots: {
+    index: false,
+    follow: false,
   }
 }
 
