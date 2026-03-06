@@ -1,11 +1,23 @@
 {
   "slugs": [
-    "auto-lavado-perros-nunoa",
-    "bano",
-    "corte",
+    "auto-lavado-perros",
+    "bano-perros",
+    "corte-perros",
+    "peluqueria-canina-huechuraba",
+    "peluqueria-canina-la-florida",
+    "peluqueria-canina-la-reina",
+    "peluqueria-canina-las-condes",
+    "peluqueria-canina-lo-barnechea",
+    "peluqueria-canina-macul",
     "peluqueria-canina-nunoa",
-    "peluqueria-gatos-nunoa",
-    "precio-peluqueria-nunoa"
+    "peluqueria-canina-penalolen",
+    "peluqueria-canina-providencia",
+    "peluqueria-canina-santiago-centro",
+    "peluqueria-canina-vitacura",
+    "peluqueria-canina",
+    "peluqueria-gatos",
+    "precio-peluqueria",
+    "spa-canino"
   ],
-  "generated_at": "2026-03-05T21:20:58.089467"
+  "generated_at": "2026-03-06T20:25:29.430487"
 }
