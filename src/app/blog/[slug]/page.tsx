@@ -25,9 +25,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const categoryColors: Record<string, string> = {
-  Baño: "bg-accent-blue/10 text-accent-blue",
-  Cuidado: "bg-accent-green/30 text-accent-green-dark",
-  Peluquería: "bg-accent-peach/20 text-accent-peach-dark"
+  Baño:       "bg-accent-blue/10 text-accent-blue",
+  Cuidado:    "bg-accent-green/30 text-accent-green-dark",
+  Peluquería: "bg-accent-peach/20 text-accent-peach-dark",
+  Salud:      "bg-accent-peach/20 text-accent-peach-dark",
+  Local:      "bg-accent-green/30 text-accent-green-dark",
+  Gatos:      "bg-accent-purple/30 text-accent-purple-dark",
 }
 
 export default async function BlogPostPage({ params }: Props) {

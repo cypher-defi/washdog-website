@@ -4,6 +4,8 @@ import { getAllPosts } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 
+const POSTS_PER_PAGE = 12
+
 export const metadata: Metadata = {
   title: "Blog | Consejos para el cuidado de tu perro",
   description:
@@ -12,13 +14,25 @@ export const metadata: Metadata = {
 }
 
 const categoryColors: Record<string, string> = {
-  Baño: "bg-accent-blue/10 text-accent-blue",
-  Cuidado: "bg-accent-green/30 text-accent-green-dark",
-  Peluquería: "bg-accent-peach/20 text-accent-peach-dark"
+  Baño:       "bg-accent-blue/10 text-accent-blue",
+  Cuidado:    "bg-accent-green/30 text-accent-green-dark",
+  Peluquería: "bg-accent-peach/20 text-accent-peach-dark",
+  Salud:      "bg-accent-peach/20 text-accent-peach-dark",
+  Local:      "bg-accent-green/30 text-accent-green-dark",
+  Gatos:      "bg-accent-purple/30 text-accent-purple-dark",
 }
 
-export default function BlogPage() {
-  const posts = getAllPosts()
+interface Props {
+  searchParams: Promise<{ page?: string }>
+}
+
+export default async function BlogPage({ searchParams }: Props) {
+  const { page } = await searchParams
+  const currentPage = Math.max(1, parseInt(page ?? "1", 10))
+  const allPosts    = getAllPosts()
+  const totalPages  = Math.ceil(allPosts.length / POSTS_PER_PAGE)
+  const safePage    = Math.min(currentPage, totalPages || 1)
+  const posts       = allPosts.slice((safePage - 1) * POSTS_PER_PAGE, safePage * POSTS_PER_PAGE)
 
   return (
     <>
@@ -84,6 +98,41 @@ export default function BlogPage() {
                 </Link>
               ))}
             </div>
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <div className='flex items-center justify-center gap-2 mt-14'>
+                {safePage > 1 && (
+                  <Link
+                    href={safePage === 2 ? "/blog" : `/blog?page=${safePage - 1}`}
+                    className='px-4 py-2 text-sm font-medium text-primary/60 hover:text-accent-blue transition-colors'
+                  >
+                    ← Anterior
+                  </Link>
+                )}
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map(p => (
+                  <Link
+                    key={p}
+                    href={p === 1 ? "/blog" : `/blog?page=${p}`}
+                    className={`w-9 h-9 flex items-center justify-center rounded-full text-sm font-medium transition-all ${
+                      p === safePage
+                        ? "bg-primary text-white shadow-md"
+                        : "text-primary/50 hover:text-accent-blue hover:bg-accent-blue/10"
+                    }`}
+                  >
+                    {p}
+                  </Link>
+                ))}
+                {safePage < totalPages && (
+                  <Link
+                    href={`/blog?page=${safePage + 1}`}
+                    className='px-4 py-2 text-sm font-medium text-primary/60 hover:text-accent-blue transition-colors'
+                  >
+                    Siguiente →
+                  </Link>
+                )}
+              </div>
+            )}
           </div>
         </section>
 
