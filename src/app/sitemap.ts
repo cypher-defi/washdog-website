@@ -5,12 +5,18 @@ import { getAllPosts } from "@/lib/blog"
 
 const baseUrl = "https://www.washdog.cl"
 
-function getLocalServiceSlugs(): string[] {
+function getServicePages(): { slug: string; lastModified: Date }[] {
   try {
-    const jsonPath = path.join(process.cwd(), "data", "local-pages.json")
-    if (!fs.existsSync(jsonPath)) return []
-    const data = JSON.parse(fs.readFileSync(jsonPath, "utf-8"))
-    return data.slugs ?? []
+    const dir = path.join(process.cwd(), "content", "servicios")
+    if (!fs.existsSync(dir)) return []
+    return fs
+      .readdirSync(dir)
+      .filter(f => f.endsWith(".md"))
+      .map(f => ({
+        slug: f.replace(".md", ""),
+        lastModified: fs.statSync(path.join(dir, f)).mtime,
+      }))
+      .sort((a, b) => a.slug.localeCompare(b.slug))
   } catch {
     return []
   }
@@ -21,22 +27,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: new Date(post.date),
     changeFrequency: "monthly" as const,
-    priority: 0.7
+    priority: 0.7,
   }))
 
-  // Programmatic local service pages — maintained by Marketing OS generate_sitemap.py
-  const localServicePages = getLocalServiceSlugs().map(slug => ({
+  // Service pages — lastModified from actual .md file mtime, not build time
+  const servicePages = getServicePages().map(({ slug, lastModified }) => ({
     url: `${baseUrl}/servicios/${slug}`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: "monthly" as const,
-    priority: 0.9
+    priority: 0.9,
   }))
 
   // Note: /privacy and /terms are excluded — noindex pages should not appear in sitemaps
   return [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
     { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.8 },
-    ...localServicePages,
+    ...servicePages,
     ...blogPosts,
   ]
 }
