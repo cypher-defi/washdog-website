@@ -1,60 +1,77 @@
 ---
-title: "Corte de Pelo para Perros en Santiago"
-description: "Corte de pelo para perros en Santiago. Estética canina profesional para todas las razas: cortes de raza, cortes de temporada y estilos personalizados. 28 comunas."
-keywords: "corte de pelo perros Santiago, corte canino Santiago, estética canina Santiago, grooming perros Santiago"
-date: "2026-03-05"
+title: "Corte de Perros en Santiago"
+description: "Corte de pelo para perros en Santiago. Estética canina para todas las razas, cortes de temporada y estilos personalizados. Disponible en las 28 comunas de Santiago."
+keywords: "corte de pelo perros Santiago, corte canino Santiago, estética canina Santiago, peluquero perros Santiago"
+date: "2026-03-06"
 communes:
-  - name: Ñuñoa
-    slug: corte-perros-nunoa
-relatedServices:
-  - href: /servicios/peluqueria-canina
-    label: Peluquería canina
-  - href: /servicios/bano-perros
-    label: Baño de perros
-  - href: /servicios/spa-canino
-    label: Spa canino
-  - href: /servicios/precio-peluqueria
-    label: Ver precios
+  - nunoa
+  - providencia
+  - las-condes
+  - la-reina
+  - santiago-centro
+  - macul
+  - penalolen
+  - la-florida
+  - lo-barnechea
+  - vitacura
+  - huechuraba
+  - independencia
+  - recoleta
+  - quilicura
+  - cerro-navia
+  - renca
+  - quinta-normal
+  - lo-prado
+  - estacion-central
+  - san-miguel
+  - san-joaquin
+  - pedro-aguirre-cerda
+  - san-ramon
+  - lo-espejo
+  - cerrillos
+  - la-granja
+  - la-cisterna
+  - la-pintana
 ---
 
-El corte de pelo no es lo mismo que el baño: requiere técnica, conocimiento de cada raza y habilidad para manejar al perro con calma durante el proceso. En WashDog ofrecemos corte de pelo profesional para perros en Santiago, adaptado a cada raza, tipo de pelaje y las preferencias del dueño.
+# Corte de Pelo para Perros en Santiago: Grooming Profesional en WashDog
 
-## ¿Qué incluye el servicio de corte?
+Si estás buscando un **corte de pelo para perros en Santiago** que vaya más allá de lo básico, llegaste al lugar indicado. En WashDog entendemos que cada perro tiene necesidades distintas según su raza, tipo de pelaje y estilo de vida, por eso ofrecemos un servicio de grooming profesional que cuida tanto la estética como la salud de tu mascota.
 
-El corte en WashDog es un servicio completo de estética canina:
+## ¿Qué incluye nuestro servicio de corte de pelo canino?
 
-- **Baño previo con shampoo hipoalergénico**: todo corte incluye baño, porque trabajar con pelo limpio da mejores resultados.
-- **Cepillado y desanudado**: eliminamos nudos y pelo muerto antes de cortar.
-- **Corte según raza o preferencia**: respetamos el estándar de la raza (Schnauzer, Bichón Frisé, Poodle, Shih Tzu, Cocker Spaniel, Yorkshire, entre otros) o realizamos el estilo que prefieras.
-- **Corte higiénico**: zona de patas, cola y área íntima siempre incluidos.
-- **Limpieza de oídos y corte de uñas**: parte del proceso estándar.
-- **Secado y peinado final**: tu perro sale listo, no solo cortado.
+Un buen corte de pelo no es solo cuestión de estética. En WashDog, nuestro **corte de pelo profesional para perros** está diseñado para adaptarse a cada raza y a las necesidades específicas de tu compañero peludo. El servicio incluye:
 
-## Tipos de corte que realizamos
+- **Corte de temporada:** Ajustamos el largo y estilo del pelaje según la época del año. En verano, un corte más corto ayuda a que tu perro regule mejor su temperatura; en invierno, trabajamos para mantener una capa protectora adecuada sin descuidar la forma.
+- **Modelado de pelo por tipo de manto:** No es lo mismo trabajar con un Caniche de pelo rizado que con un Golden Retriever de doble capa o un Yorkshire de pelo liso y largo. Nuestro equipo conoce las técnicas específicas para cada tipo de pelaje: deslanado para razas de doble capa, tijera para razas de pelo largo, máquina con los peines adecuados para mantos rizados y esquileo para razas que lo requieren.
+- **Corte higiénico:** Incluye el recorte de pelo en patas, almohadillas, zona perianal y área genital. Esta es una de las partes más importantes del grooming porque previene la acumulación de suciedad, malos olores y posibles infecciones.
 
-**Corte de raza**: basado en el estándar oficial de cada raza. Ideal para participantes en exposiciones o dueños que prefieren el look clásico.
+La diferencia entre un corte básico y uno profesional está en el conocimiento técnico. Un corte mal ejecutado puede dañar la estructura del pelaje de tu perro, especialmente en razas de doble capa donde rapar el pelo puede alterar permanentemente su crecimiento. En WashDog, nuestro equipo está capacitado para saber exactamente qué necesita cada raza.
 
-**Corte de temporada**: más corto en verano, con más capa en invierno para regulación térmica. Recomendamos este estilo para perros de pelo largo que viven activamente.
+## ¿Por qué elegir WashDog para el corte de pelo de tu perro?
 
-**Corte personalizado**: si tienes una referencia o estilo específico, cuéntanos al reservar. Trabajamos con fotos de referencia.
+Sabemos que confiar a tu mascota en manos de alguien más no es una decisión menor. Por eso en WashDog nos diferenciamos en varios aspectos clave:
 
-**Corte higiénico básico**: solo las zonas críticas (patas, cara, cola, área íntima). Ideal como mantenimiento entre sesiones completas.
+- **Productos hipoalergénicos premium:** Trabajamos exclusivamente con productos de alta calidad, ideales para perros con piel sensible o alergias. Nada de químicos agresivos que puedan irritar a tu mascota.
+- **Personal capacitado y con experiencia:** Nuestros groomers se forman constantemente en técnicas actualizadas de peluquería canina. Saben manejar a perros nerviosos, cachorros en su primer corte y razas que requieren un trabajo más delicado.
+- **Atención personalizada:** Antes de tomar la tijera, evaluamos el estado del pelaje, consultamos contigo sobre el estilo que prefieres y te recomendamos lo más adecuado para la salud de tu perro.
+- **Agenda online fácil y rápida:** Olvídate de llamar por teléfono y esperar. Puedes reservar tu hora directamente desde nuestra web en pocos clicks, eligiendo el día y horario que más te acomode.
 
-## ¿Por qué elegir WashDog?
+Mantener un **grooming regular** — idealmente cada 4 a 8 semanas dependiendo de la raza — no solo mantiene a tu perro con buena apariencia, sino que ayuda a detectar problemas de piel a tiempo, reduce la caída de pelo en casa y mejora su bienestar general.
 
-**Experiencia con todas las razas**: desde Toy hasta razas grandes y gigantes, con pelajes lisos, rizados, doble capa o extralargas.
+## Cobertura de corte de pelo para perros en Santiago
 
-**Atención sin apuro**: nunca apresurar el proceso con un perro que no está tranquilo. La paciencia es parte de la técnica.
+Nuestra peluquería canina está ubicada en **Ñuñoa**, una zona céntrica y de fácil acceso desde múltiples puntos de Santiago. Atendemos clientes de **28 comunas del Gran Santiago**, incluyendo comunas cercanas como **Providencia, Las Condes, La Reina y Macul**, así como sectores más alejados como La Florida, Peñalolén, Lo Barnechea y Vitacura.
 
-**Materiales profesionales**: tijeras y máquinas de peluquería canina, no de uso doméstico. La diferencia se nota en el acabado.
+No importa en qué comuna de Santiago vivas: estamos bien conectados para que traer a tu perro a WashDog sea cómodo y práctico.
 
-**Agenda online disponible 24/7** en [washdog.cl](https://www.washdog.cl). Consulta tarifas directamente en el sitio.
+## Agenda tu cita para corte de pelo canino
 
-## Cobertura en Santiago
+Dale a tu perro el corte profesional que se merece. Consulta nuestras tarifas online y reserva tu hora de forma rápida y sencilla.
 
-Estamos ubicados en **Ñuñoa** y atendemos en las 28 comunas de la Región Metropolitana. Comunas como Providencia, Las Condes, La Reina y Macul nos quedan a minutos. Busca tu comuna en el listado a continuación.
+👉 **[Agenda tu cita en WashDog](https://www.washdog.cl)**
 
----
+Tu mascota va a salir feliz, fresca y con un look espectacular. ¡Te esperamos!
 
 ## Disponible en tu comuna
 

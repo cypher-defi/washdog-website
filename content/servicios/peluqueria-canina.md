@@ -4,8 +4,34 @@ description: "Peluquería canina profesional en Santiago. Cortes para todas las 
 keywords: "peluquería canina Santiago, peluquero de perros Santiago, grooming perros Santiago, corte de pelo perros Santiago"
 date: "2026-03-05"
 communes:
-  - name: Ñuñoa
-    slug: peluqueria-canina-nunoa
+  - nunoa
+  - providencia
+  - las-condes
+  - la-reina
+  - santiago-centro
+  - macul
+  - penalolen
+  - la-florida
+  - lo-barnechea
+  - vitacura
+  - huechuraba
+  - independencia
+  - recoleta
+  - quilicura
+  - cerro-navia
+  - renca
+  - quinta-normal
+  - lo-prado
+  - estacion-central
+  - san-miguel
+  - san-joaquin
+  - pedro-aguirre-cerda
+  - san-ramon
+  - lo-espejo
+  - cerrillos
+  - la-granja
+  - la-cisterna
+  - la-pintana
 relatedServices:
   - href: /servicios/bano-perros
     label: Baño de perros

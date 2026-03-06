@@ -1,66 +1,80 @@
 ---
 title: "Auto Lavado de Perros en Santiago"
-description: "Auto lavado de perros en Santiago: baña a tu mascota con equipos profesionales y productos premium. Tinas de acero, secadores de alta potencia y shampoo incluido."
-keywords: "auto lavado perros Santiago, self-service perros Santiago, lavar perros yo mismo Santiago, baño perros Santiago"
-date: "2026-03-05"
+description: "Auto lavado de perros en Santiago: instala lava a tu mascota con equipos profesionales y productos premium. Práctico, económico y disponible en tu comuna."
+keywords: "auto lavado perros Santiago, self-service perros Santiago, lavar perros yo mismo Santiago, auto baño perros Santiago"
+date: "2026-03-06"
 communes:
-  - name: Ñuñoa
-    slug: auto-lavado-perros-nunoa
-relatedServices:
-  - href: /servicios/bano-perros
-    label: Baño profesional
-  - href: /servicios/peluqueria-canina
-    label: Peluquería canina
-  - href: /servicios/precio-peluqueria
-    label: Ver precios
+  - nunoa
+  - providencia
+  - las-condes
+  - la-reina
+  - santiago-centro
+  - macul
+  - penalolen
+  - la-florida
+  - lo-barnechea
+  - vitacura
+  - huechuraba
+  - independencia
+  - recoleta
+  - quilicura
+  - cerro-navia
+  - renca
+  - quinta-normal
+  - lo-prado
+  - estacion-central
+  - san-miguel
+  - san-joaquin
+  - pedro-aguirre-cerda
+  - san-ramon
+  - lo-espejo
+  - cerrillos
+  - la-granja
+  - la-cisterna
+  - la-pintana
 ---
 
-Bañar a tu perro en casa parece sencillo hasta que el baño queda destrozado, el shampoo le irrita la piel y terminas empapado. Si vives en Ñuñoa o comunas cercanas, hay una opción más cómoda y segura.
+# Auto Lavado de Perros en Santiago: Baña a Tu Mascota como un Profesional
 
-## Lavar en casa: lo que realmente implica
+Si buscas un **auto lavado de perros en Santiago** que combine comodidad, ahorro y equipamiento profesional, WashDog es tu mejor opción. Nuestro servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
 
-Para hacerlo bien necesitas shampoo específico para perros, acondicionador, toallas absorbentes, secador de baja temperatura y cepillos adecuados para su raza. Si tu perro es grande, de pelo largo o no le gusta el agua, el proceso puede tomar más de una hora.
+## ¿Qué incluye el servicio?
 
-Los errores más comunes:
+El concepto es simple: tú bañas a tu perro, nosotros ponemos todo lo demás. Al llegar a nuestro local en Ñuñoa, tendrás acceso a un espacio equipado con todo lo necesario para que la experiencia sea cómoda tanto para ti como para tu mascota.
 
-- Usar shampoo de bebé o humano (pH incorrecto para la piel canina)
-- No enjuagar bien, lo que provoca picazón e irritación
-- Secar mal el pelaje, generando humedad y mal olor
-- Introducir agua en los oídos, causa frecuente de otitis
+Esto es lo que tendrás disponible durante tu sesión:
 
-## Casa vs. peluquería: comparativa
+- **Tinas profesionales de acero inoxidable** con altura regulable, diseñadas para que no tengas que agacharte ni forzar posturas incómodas. Son amplias, seguras y fáciles de usar con perros de cualquier tamaño.
+- **Shampoo y acondicionador premium hipoalergénico**, los mismos productos que usamos en nuestro servicio de peluquería profesional. Ideales para pieles sensibles y pelajes que necesitan cuidado especial.
+- **Secadores de alta potencia** que reducen considerablemente el tiempo de secado, algo que en casa puede tomar una eternidad y dejar todo mojado.
+- **Toallas limpias incluidas** para cada sesión.
 
-| Criterio | En casa | Peluquería profesional |
-|---|---|---|
-| Tiempo invertido | Alto | Bajo |
-| Esfuerzo físico | Alto | Ninguno |
-| Calidad del resultado | Variable | Alta |
-| Revisión de piel y orejas | No | Sí |
-| Comodidad para el perro | Variable | Alta |
+¿Cuál es la diferencia con bañar a tu perro en casa? Básicamente todo. No tienes que preocuparte de tapar el desagüe con pelos, limpiar el baño después, usar productos de supermercado que pueden irritar la piel de tu mascota, ni perseguir a tu perro mojado por el pasillo. Y comparado con un baño en peluquería tradicional, el auto lavado es una alternativa más económica que te permite mantener ese vínculo especial con tu mascota mientras la cuidas con productos de primera.
 
-## Lo que incluye el baño en Washdog
+Es perfecto para dueños que bañan a sus perros con frecuencia, para quienes tienen razas grandes que simplemente no caben en la tina de la casa, o para quienes quieren controlar cada detalle del baño de su mascota.
 
-Cada perro entra solo a la sala. No compartimos turno con otros animales. El servicio incluye:
+## ¿Por qué elegir WashDog?
 
-- Cepillado previo para eliminar nudos y pelo muerto
-- Baño con shampoo hipoalergénico según raza y pelaje
-- Secado completo con temperatura controlada
-- Limpieza de orejas
+No somos el único lugar con tinas y shampoo, pero sí nos tomamos en serio cada detalle del servicio:
 
-Precio del baño: $10.000 (hasta 20 kg) o $16.000 (más de 20 kg).
+- **Productos hipoalergénicos premium**: trabajamos con líneas profesionales que cuidan la piel y el pelaje de tu perro. Nada de productos genéricos que resecan o irritan.
+- **Personal capacitado y disponible**: aunque tú haces el baño, nuestro equipo está presente para orientarte si tienes dudas sobre técnicas de lavado, temperatura del agua o productos según el tipo de pelaje de tu perro.
+- **Instalaciones limpias y desinfectadas**: cada estación se limpia entre sesión y sesión. La higiene no es negociable.
+- **Agenda online**: puedes reservar tu horario desde el celular en pocos pasos, sin llamadas ni esperas. Llegas, bañas a tu perro y listo.
 
-## Preguntas frecuentes
+WashDog es una peluquería canina premium que lleva años atendiendo mascotas en Santiago, así que el auto lavado no es un servicio improvisado: es una extensión natural de nuestra experiencia en cuidado animal.
 
-**¿Cada cuánto debo bañar a mi perro?**
-Cada 3 a 6 semanas en general, dependiendo de la raza y el estilo de vida.
+## Cobertura en Santiago
 
-**¿También atienden gatos?**
-Sí. Contamos con peluquería para gatos con el mismo nivel de atención individual.
+Nuestro local está ubicado en **Ñuñoa**, una de las comunas mejor conectadas de Santiago, lo que facilita el acceso desde prácticamente cualquier punto de la ciudad. Si vives en **Providencia, Las Condes, La Reina o Macul**, estás a pocos minutos de distancia.
 
-**¿Necesito reservar?**
-Sí. Trabajamos con reserva para garantizar atención individual. Puedes agendar en menos de 2 minutos.
+Pero no solo atendemos a quienes viven cerca. Recibimos clientes de **28 comunas del Gran Santiago**, desde Peñalolén y La Florida hasta Vitacura, Santiago Centro, Independencia y más allá. No importa de qué sector vengas: el viaje vale la pena cuando sabes que tu perro va a recibir un baño con equipamiento e insumos de calidad profesional.
 
----
+## Agenda tu cita
+
+Reservar tu sesión de auto lavado es rápido y fácil. Entra a **[www.washdog.cl](https://www.washdog.cl)**, elige el horario que más te acomode y llega con tu perro listo para un buen baño. Consulta nuestras tarifas online y descubre por qué cada vez más dueños en Santiago eligen el auto lavado de WashDog.
+
+**Tu perro merece productos premium. Tu casa merece quedar limpia. Y tú mereces una experiencia sin complicaciones.**
 
 ## Disponible en tu comuna
 
