@@ -38,8 +38,22 @@ export default async function ServicioHubPage({ params }: Props) {
   const servicio = await getServicio(service)
   if (!servicio) notFound()
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
+      { "@type": "ListItem", position: 2, name: "Servicios", item: "https://www.washdog.cl/servicios" },
+      { "@type": "ListItem", position: 3, name: servicio.title, item: `https://www.washdog.cl/servicios/${service}` }
+    ]
+  }
+
   return (
     <>
+      <script
+        type='application/ld+json'
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}

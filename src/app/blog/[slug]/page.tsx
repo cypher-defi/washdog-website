@@ -47,6 +47,16 @@ export default async function BlogPostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
+      { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.washdog.cl/blog" },
+      { "@type": "ListItem", position: 3, name: post.title, item: `https://www.washdog.cl/blog/${slug}` }
+    ]
+  }
+
   const blogPostingSchema = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -76,6 +86,10 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
+      <script
+        type='application/ld+json'
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <script
         type='application/ld+json'
         dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
@@ -146,10 +160,12 @@ export default async function BlogPostPage({ params }: Props) {
               Baño y peluquería canina en Ñuñoa. Abierto todos los días de 10 a 20h.
             </p>
             <Link
-              href='/#servicios'
+              href='https://share.google/8t1bo1xyYIfTKyDAw'
+              target='_blank'
+              rel='noopener noreferrer'
               className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-blue transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
             >
-              Ver servicios y reservar
+              Reservar en Washdog
             </Link>
           </div>
         </section>
