@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en La Reina — Peluquería Canina Premium Santiago"
 description: "Atención premium, productos hipoalergénicos y agenda online en minutos. Porque tu compañero se merece lo mejor."
-keywords: "peluquería canina La Reina, peluquería canina La Reina, WashDog"
+keywords: "peluquería canina La Reina, WashDog"
 date: "2026-03-06"
 ---
 

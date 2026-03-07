@@ -12,7 +12,6 @@ import {
   Contact
 } from "@/components/sections"
 import { FloatingCTA } from "@/components/ui"
-import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
@@ -25,7 +24,6 @@ export default function Home() {
 
   return (
     <>
-      <LocalBusinessJsonLd />
       <Navbar onBookClick={booking.openModal} />
 
       <main className='grow pt-20'>

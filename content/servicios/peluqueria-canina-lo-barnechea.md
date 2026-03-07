@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Lo Barnechea — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado profesional con productos premium — sin estrés, sin apuros, con cariño de verdad."
-keywords: "peluquería canina Lo Barnechea, peluquería canina Lo Barnechea, WashDog"
+keywords: "peluquería canina Lo Barnechea, WashDog"
 date: "2026-03-06"
 ---
 

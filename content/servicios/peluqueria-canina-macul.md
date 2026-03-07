@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Macul — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online en minutos. Sin estrés para él, sin complicaciones para ti."
-keywords: "peluquería canina Macul, peluquería canina Macul, WashDog"
+keywords: "peluquería canina Macul, WashDog"
 date: "2026-03-06"
 ---
 

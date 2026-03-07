@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Providencia — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. Sin filas, sin estrés, sin sorpresas."
-keywords: "peluquería canina Providencia, peluquería canina Providencia, WashDog"
+keywords: "peluquería canina Providencia, WashDog"
 date: "2026-03-06"
 ---
 

@@ -1,6 +1,14 @@
 import Script from "next/script"
+import { getPlaceRating } from "@/lib/google-places"
 
-export function LocalBusinessJsonLd() {
+/**
+ * LocalBusiness JSON-LD — async server component.
+ * Fetches live Google rating at build time (revalidated every 24 h via ISR).
+ * Falls back to last-known values if the Places API is unavailable.
+ */
+export async function LocalBusinessJsonLd() {
+  const { ratingValue, reviewCount } = await getPlaceRating()
+
   const data = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
@@ -39,6 +47,13 @@ export function LocalBusinessJsonLd() {
       }
     ],
     priceRange: "$$",
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue,
+      bestRating: 5,
+      worstRating: 1,
+      reviewCount,
+    },
     sameAs: ["https://share.google/8t1bo1xyYIfTKyDAw"]
   }
 

@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Las Condes — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y un perro que vuelve feliz a casa — sin jaulas, sin apuro, sin sorpresas en el precio."
-keywords: "peluquería canina Las Condes, peluquería canina Las Condes, WashDog"
+keywords: "peluquería canina Las Condes, WashDog"
 date: "2026-03-06"
 ---
 

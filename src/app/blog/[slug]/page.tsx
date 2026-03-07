@@ -1,9 +1,10 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import Link from "next/link"
+import Script from "next/script"
 import { getAllPosts, getPost } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
-import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
+import { StaticFooter } from "@/components/layout/StaticFooter"
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -20,7 +21,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: `https://www.washdog.cl/blog/${slug}` }
+    alternates: { canonical: `https://www.washdog.cl/blog/${slug}` },
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url: `https://www.washdog.cl/blog/${slug}`,
+      locale: "es_CL",
+      type: "article",
+      publishedTime: post.date,
+      siteName: "Washdog",
+    },
   }
 }
 
@@ -38,9 +48,40 @@ export default async function BlogPostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
+  const blogPostingSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Organization",
+      name: "Washdog",
+      url: "https://www.washdog.cl",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Washdog",
+      url: "https://www.washdog.cl",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://www.washdog.cl/hero-beagle.png",
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://www.washdog.cl/blog/${slug}`,
+    },
+  }
+
   return (
     <>
-      <LocalBusinessJsonLd />
+      <Script
+        id='ld-blogposting'
+        type='application/ld+json'
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+      />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
@@ -115,6 +156,7 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
         </section>
       </main>
+      <StaticFooter />
     </>
   )
 }

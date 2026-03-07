@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Vitacura — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado premium — con atención individual, productos hipoalergénicos y reserva online en 2 minutos."
-keywords: "peluquería canina Vitacura, peluquería canina Vitacura, WashDog"
+keywords: "peluquería canina Vitacura, WashDog"
 date: "2026-03-06"
 ---
 

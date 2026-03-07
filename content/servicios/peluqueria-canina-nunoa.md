@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Ñuñoa — Peluquería Canina Premium Santiago"
 description: "En WashDog cuidamos a tu compañero como si fuera nuestro: productos premium, atención one-to-one y agenda online en 2 minutos."
-keywords: "peluquería canina Ñuñoa, peluquería canina Ñuñoa, WashDog"
+keywords: "peluquería canina Ñuñoa, WashDog"
 date: "2026-03-06"
 ---
 

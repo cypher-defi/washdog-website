@@ -2,7 +2,6 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { getAllPosts } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
-import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 
 const POSTS_PER_PAGE = 12
 
@@ -36,7 +35,6 @@ export default async function BlogPage({ searchParams }: Props) {
 
   return (
     <>
-      <LocalBusinessJsonLd />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}

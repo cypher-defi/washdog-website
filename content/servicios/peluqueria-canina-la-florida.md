@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en La Florida — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y hora exacta. Sin filas, sin estrés, sin sorpresas."
-keywords: "peluquería canina La Florida, peluquería canina La Florida, WashDog"
+keywords: "peluquería canina La Florida, WashDog"
 date: "2026-03-06"
 ---
 

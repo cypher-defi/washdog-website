@@ -4,7 +4,6 @@ import dynamic from "next/dynamic"
 import Link from "next/link"
 import { Icon } from "@iconify/react"
 import { Navbar } from "@/components/layout"
-import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
 import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
@@ -50,7 +49,6 @@ export default function PrecioPeluqueriaNunoaPage() {
 
   return (
     <>
-      <LocalBusinessJsonLd />
       <Navbar onBookClick={booking.openModal} />
       <main className='min-h-screen bg-background pt-20'>
         {/* Hero */}

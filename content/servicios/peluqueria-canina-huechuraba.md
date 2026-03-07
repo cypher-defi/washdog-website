@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Huechuraba — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. A minutos de donde vives."
-keywords: "peluquería canina Huechuraba, peluquería canina Huechuraba, WashDog"
+keywords: "peluquería canina Huechuraba, WashDog"
 date: "2026-03-06"
 ---
 

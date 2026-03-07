@@ -3,7 +3,7 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 import { getAllServicios, getServicio } from "@/lib/servicios"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
-import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
+import { StaticFooter } from "@/components/layout/StaticFooter"
 
 interface Props {
   params: Promise<{ service: string }>
@@ -21,7 +21,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: servicio.title,
     description: servicio.description,
     keywords: servicio.keywords,
-    alternates: { canonical: `https://www.washdog.cl/servicios/${service}` }
+    alternates: { canonical: `https://www.washdog.cl/servicios/${service}` },
+    openGraph: {
+      title: servicio.title,
+      description: servicio.description,
+      url: `https://www.washdog.cl/servicios/${service}`,
+      locale: "es_CL",
+      type: "website",
+      siteName: "Washdog",
+    },
   }
 }
 
@@ -32,7 +40,6 @@ export default async function ServicioHubPage({ params }: Props) {
 
   return (
     <>
-      <LocalBusinessJsonLd />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
@@ -118,6 +125,7 @@ export default async function ServicioHubPage({ params }: Props) {
           </div>
         </section>
       </main>
+      <StaticFooter />
     </>
   )
 }

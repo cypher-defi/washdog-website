@@ -1,6 +1,7 @@
 ---
-title: "Precio peluquería canina en Santiago: guía 2026"
-description: "Cuánto cuesta la peluquería canina en Santiago en 2026. Precios de Washdog y rangos de referencia del mercado según tamaño y tipo de pelo."
+title: "Precio Peluquería Canina Ñuñoa 2026 — Tarifas WashDog"
+description: "Precios de peluquería canina en Ñuñoa. Tarifas de WashDog por tamaño y servicio, sin cobros ocultos. Baño, corte y spa canino en Ñuñoa, Santiago."
+keywords: "precio peluquería canina Ñuñoa, cuánto cuesta peluquería perros Ñuñoa, tarifa baño perros Ñuñoa, precio grooming perros Ñuñoa"
 communes:
   - name: Ñuñoa
     slug: precio-peluqueria-nunoa

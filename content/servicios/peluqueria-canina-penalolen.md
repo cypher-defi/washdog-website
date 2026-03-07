@@ -1,7 +1,7 @@
 ---
 title: "WashDog peluquería canina en Peñalolén — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos premium, atención personalizada y hora reservada solo para él. Sin esperas, sin sorpresas."
-keywords: "peluquería canina Peñalolén, peluquería canina Peñalolén, WashDog"
+keywords: "peluquería canina Peñalolén, WashDog"
 date: "2026-03-06"
 ---
 
