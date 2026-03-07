@@ -29,7 +29,7 @@ export async function getPlaceRating(): Promise<PlaceRating> {
       `&key=${apiKey}`
 
     const res = await fetch(url, {
-      next: { revalidate: 86400 }, // revalidate once per day
+      cache: "force-cache", // cache indefinitely; rebuilt on every deploy
     })
 
     if (!res.ok) return FALLBACK
