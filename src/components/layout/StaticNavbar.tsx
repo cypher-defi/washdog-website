@@ -41,7 +41,9 @@ export function StaticNavbar() {
 
         <div className='flex items-center gap-4'>
           <Link
-            href='/#servicios'
+            href='https://share.google/8t1bo1xyYIfTKyDAw'
+            target='_blank'
+            rel='noopener noreferrer'
             className='hidden md:flex items-center gap-2 bg-primary text-white text-xs font-medium px-6 py-3 rounded-full hover:bg-accent-blue transition-all tracking-wide shadow-lg shadow-primary/10 hover:shadow-xl hover:shadow-accent-blue/20 hover:-translate-y-0.5'
           >
             <Icon icon='lucide:calendar' className='w-4 h-4' />
@@ -80,7 +82,9 @@ export function StaticNavbar() {
             </Link>
           ))}
           <Link
-            href='/#servicios'
+            href='https://share.google/8t1bo1xyYIfTKyDAw'
+            target='_blank'
+            rel='noopener noreferrer'
             className='flex items-center justify-center gap-2 bg-accent-blue text-white text-sm font-medium px-6 py-4 rounded-xl mt-4 w-full'
           >
             Reservar hora
