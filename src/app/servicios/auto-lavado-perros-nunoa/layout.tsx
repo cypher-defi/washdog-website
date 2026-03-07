@@ -17,6 +17,21 @@ export const metadata: Metadata = {
   },
 }
 
+const breadcrumb = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
+    { "@type": "ListItem", position: 2, name: "Servicios", item: "https://www.washdog.cl/servicios" },
+    { "@type": "ListItem", position: 3, name: "Auto Lavado de Perros Ñuñoa", item: "https://www.washdog.cl/servicios/auto-lavado-perros-nunoa" }
+  ]
+}
+
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return <>{children}</>
+  return (
+    <>
+      <script type='application/ld+json' dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      {children}
+    </>
+  )
 }
