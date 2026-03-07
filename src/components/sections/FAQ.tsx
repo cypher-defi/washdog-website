@@ -81,42 +81,11 @@ const faqs: { question: string; answer: React.ReactNode }[] = [
   }
 ]
 
-const faqPlainText: Record<string, string> = {
-  "¿Cuánto cuesta el baño?":
-    "El baño vale $10.000 para perros de hasta 20 kg y $16.000 para perros de más de 20 kg. Incluye shampoo suave, secado y limpieza básica. Sin químicos agresivos.",
-  "¿Cuánto cuesta la peluquería?":
-    "La peluquería incluye baño, brushing y limpiado de orejas. Precios según tamaño y tipo de pelo: Toy $15.000–$20.000, Pequeño $18.000–$25.000, Mediano $22.000–$30.000, Grande $30.000–$35.000, Gigante $38.000–$50.000, Gato $30.000.",
-  "¿Necesito reservar con anticipación?":
-    "Sí, trabajamos con reserva para garantizar atención individual a cada perro, pero para auto-lavado puedes llegar y si la máquina está en uso la espera es corta en general. Por comodidad, puedes reservar fácilmente desde esta página en menos de 2 minutos, sin llamadas ni mensajes.",
-  "¿Atienden razas grandes?":
-    "Sí, atendemos todas las razas y tamaños. El precio varía según el tamaño del perro y el largo del pelaje. Si tienes dudas sobre tu caso específico, escríbenos por WhatsApp.",
-  "¿Qué pasa si mi perro es nervioso o le tiene miedo al agua?":
-    "Somos especialmente pacientes con perros ansiosos. Trabajamos a su ritmo, sin apuros. Muchos de nuestros clientes habituales llegaron la primera vez muy nerviosos y hoy entran solos."
-}
-
-const faqSchema = {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  mainEntity: faqs.map(faq => ({
-    "@type": "Question",
-    name: faq.question,
-    acceptedAnswer: {
-      "@type": "Answer",
-      text: faqPlainText[faq.question] ?? ""
-    }
-  }))
-}
-
 export function FAQ() {
   const [openIndex, setOpenIndex] = useState<number | null>(null)
 
   return (
     <section className='py-24 px-6 bg-white border-t border-primary/5'>
-      <script
-        type='application/ld+json'
-        suppressHydrationWarning
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
       <div className='max-w-3xl mx-auto'>
         <div className='text-center mb-16'>
           <span className='text-[10px] font-bold uppercase tracking-[0.25em] text-accent-blue mb-3 block'>
