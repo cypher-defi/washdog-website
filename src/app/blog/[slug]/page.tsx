@@ -47,53 +47,8 @@ export default async function BlogPostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
-  const breadcrumbSchema = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
-      { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.washdog.cl/blog" },
-      { "@type": "ListItem", position: 3, name: post.title, item: `https://www.washdog.cl/blog/${slug}` }
-    ]
-  }
-
-  const blogPostingSchema = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    headline: post.title,
-    description: post.description,
-    datePublished: post.date,
-    dateModified: post.date,
-    author: {
-      "@type": "Organization",
-      name: "Washdog",
-      url: "https://www.washdog.cl",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "Washdog",
-      url: "https://www.washdog.cl",
-      logo: {
-        "@type": "ImageObject",
-        url: "https://www.washdog.cl/hero-beagle.png",
-      },
-    },
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `https://www.washdog.cl/blog/${slug}`,
-    },
-  }
-
   return (
     <>
-      <script
-        type='application/ld+json'
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type='application/ld+json'
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
-      />
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
