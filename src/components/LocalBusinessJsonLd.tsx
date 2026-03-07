@@ -1,10 +1,13 @@
-import Script from "next/script"
 import { getPlaceRating } from "@/lib/google-places"
 
 /**
  * LocalBusiness JSON-LD — async server component.
  * Fetches live Google rating at build time (revalidated every 24 h via ISR).
  * Falls back to last-known values if the Places API is unavailable.
+ *
+ * Uses a plain <script> tag (not next/script) so the JSON-LD is in the
+ * initial HTML — readable by view-source, Rich Results Test, and crawlers
+ * without JS execution.
  */
 export async function LocalBusinessJsonLd() {
   const { ratingValue, reviewCount } = await getPlaceRating()
@@ -58,8 +61,7 @@ export async function LocalBusinessJsonLd() {
   }
 
   return (
-    <Script
-      id='ld-localbusiness'
+    <script
       type='application/ld+json'
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />

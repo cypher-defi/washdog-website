@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import Link from "next/link"
-import Script from "next/script"
 import { getAllPosts, getPost } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
@@ -77,8 +76,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
-      <Script
-        id='ld-blogposting'
+      <script
         type='application/ld+json'
         dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
       />
