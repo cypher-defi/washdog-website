@@ -69,3 +69,11 @@ Sí, trabajamos con reserva para garantizar atención individual. Puedes agendar
 ## Agenda tu hora en Washdog
 
 [Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Providencia](/servicios/peluqueria-canina-providencia)
+- [La Reina](/servicios/peluqueria-canina-la-reina)
+- [Macul](/servicios/peluqueria-canina-macul)
+- [Las Condes](/servicios/peluqueria-canina-las-condes)
