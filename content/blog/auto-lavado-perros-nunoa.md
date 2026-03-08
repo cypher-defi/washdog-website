@@ -69,3 +69,11 @@ Sí, trabajamos con reserva para garantizar atención individual. Puedes agendar
 ## Agenda tu hora en Washdog
 
 [Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Ñuñoa](/servicios/bano-perros-nunoa)
+- [Providencia](/servicios/bano-perros-providencia)
+- [La Reina](/servicios/bano-perros-la-reina)
+- [Macul](/servicios/bano-perros-macul)
+- [Las Condes](/servicios/bano-perros-las-condes)

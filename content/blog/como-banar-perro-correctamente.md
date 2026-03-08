@@ -142,3 +142,11 @@ En **WashDog** ofrecemos todo lo que tu perro necesita en un solo lugar:
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
 
 [**Agenda tu hora →**](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Ñuñoa](/servicios/bano-perros-nunoa)
+- [Providencia](/servicios/bano-perros-providencia)
+- [La Reina](/servicios/bano-perros-la-reina)
+- [Macul](/servicios/bano-perros-macul)
+- [Las Condes](/servicios/bano-perros-las-condes)
