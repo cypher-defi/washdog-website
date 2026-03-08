@@ -4,9 +4,10 @@ import Image from "next/image"
 
 interface HeroProps {
   onBookClick: () => void
+  rating?: number
 }
 
-export function Hero({ onBookClick }: HeroProps) {
+export function Hero({ onBookClick, rating = 4.9 }: HeroProps) {
   return (
     <section className='relative w-full min-h-150 md:min-h-[85vh] flex items-center justify-center bg-hero-bg py-24 md:py-32'>
       {/* Background Image Container */}
@@ -64,7 +65,7 @@ export function Hero({ onBookClick }: HeroProps) {
               ))}
             </div>
             <span className='text-white text-sm font-medium'>
-              4.9 en Google · Irarrázaval 2086 B, Ñuñoa
+              {rating} en Google · Irarrázaval 2086 B, Ñuñoa
             </span>
           </div>
         </div>
