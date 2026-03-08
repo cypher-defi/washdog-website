@@ -9,7 +9,8 @@ import {
   Features,
   Testimonials,
   FAQ,
-  Contact
+  Contact,
+  NewsletterBanner
 } from "@/components/sections"
 import type { PlaceReview } from "@/lib/google-places"
 import { FloatingCTA } from "@/components/ui"
@@ -33,6 +34,7 @@ export function HomeClient({ rating, reviews }: { rating: number; reviews: Place
         <Services onBookClick={booking.openModal} />
         <Features />
         <Testimonials reviews={reviews} />
+        <NewsletterBanner />
         <FAQ />
         <Contact />
       </main>

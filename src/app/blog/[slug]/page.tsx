@@ -4,6 +4,7 @@ import Link from "next/link"
 import { getAllPosts, getPost } from "@/lib/blog"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
+import { NewsletterInline } from "@/components/sections/NewsletterInline"
 
 interface Props {
   params: Promise<{ slug: string }>
@@ -102,6 +103,7 @@ export default async function BlogPostPage({ params }: Props) {
                 prose-a:text-accent-blue prose-a:no-underline hover:prose-a:underline'
               dangerouslySetInnerHTML={{ __html: post.contentHtml }}
             />
+            <NewsletterInline />
           </div>
         </section>
 

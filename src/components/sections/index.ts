@@ -5,3 +5,5 @@ export { Services } from './Services';
 export { Testimonials } from './Testimonials';
 export { FAQ } from './FAQ';
 export { Contact } from './Contact';
+export { NewsletterBanner } from './NewsletterBanner';
+export { NewsletterInline } from './NewsletterInline';
