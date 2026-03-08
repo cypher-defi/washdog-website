@@ -38,10 +38,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }))
 
+  const staticServicePages = [
+    "/servicios/bano",
+    "/servicios/corte",
+    "/servicios/peluqueria-canina-nunoa",
+    "/servicios/peluqueria-gatos-nunoa",
+    "/servicios/auto-lavado-perros-nunoa",
+    "/servicios/precio-peluqueria-nunoa",
+  ].map(url => ({
+    url: `${baseUrl}${url}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.9,
+  }))
+
   // Note: /privacy and /terms are excluded — noindex pages should not appear in sitemaps
   return [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
     { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.8 },
+    ...staticServicePages,
     ...servicePages,
     ...blogPosts,
   ]
