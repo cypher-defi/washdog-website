@@ -46,7 +46,7 @@ export default async function ServicioHubPage({ params }: Props) {
         <section className='py-16 bg-white border-b border-primary/5'>
           <div className='max-w-3xl mx-auto px-6'>
             <Link
-              href='/servicios'
+              href='/#servicios'
               className='text-accent-blue hover:underline text-sm mb-8 inline-flex items-center gap-1'
             >
               ← Volver a servicios
