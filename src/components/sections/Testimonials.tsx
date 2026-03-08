@@ -30,14 +30,14 @@ export function Testimonials({ reviews }: TestimonialsProps) {
       </div>
 
       {/* Horizontal Scroll Container */}
-      <div className="flex gap-6 overflow-x-auto no-scrollbar px-6 pb-8 snap-x snap-mandatory">
+      <div className="flex gap-6 overflow-x-auto no-scrollbar px-6 pb-8 snap-x snap-mandatory md:grid md:grid-cols-3 md:overflow-visible">
         {reviews.map((review, i) => {
           const style = CARD_STYLES[i % CARD_STYLES.length];
           const initial = review.authorName.charAt(0).toUpperCase();
           return (
             <div
               key={i}
-              className={`min-w-85 snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${style.hoverBorder} transition-colors shadow-sm`}
+              className={`min-w-72 snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${style.hoverBorder} transition-colors shadow-sm`}
             >
               <div className="flex items-center gap-4 mb-6">
                 <div
@@ -47,7 +47,7 @@ export function Testimonials({ reviews }: TestimonialsProps) {
                 </div>
                 <div className="text-sm font-bold text-primary">{review.authorName}</div>
               </div>
-              <p className="text-primary/70 text-sm italic leading-relaxed">"{review.text}"</p>
+              <p className="text-primary/70 text-sm italic leading-relaxed flex-1">"{review.text}"</p>
             </div>
           );
         })}
