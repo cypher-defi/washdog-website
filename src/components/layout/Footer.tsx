@@ -69,17 +69,7 @@ export function Footer({ onBookClick }: FooterProps) {
               <h4 className='text-white font-medium text-lg'>Comunas</h4>
               <ul className='space-y-2'>
                 {[
-                  { label: 'Ñuñoa',           href: '/servicios/peluqueria-canina-nunoa' },
-                  { label: 'Providencia',      href: '/servicios/peluqueria-canina-providencia' },
-                  { label: 'Las Condes',       href: '/servicios/peluqueria-canina-las-condes' },
-                  { label: 'Vitacura',         href: '/servicios/peluqueria-canina-vitacura' },
-                  { label: 'La Reina',         href: '/servicios/peluqueria-canina-la-reina' },
-                  { label: 'Macul',            href: '/servicios/peluqueria-canina-macul' },
-                  { label: 'La Florida',       href: '/servicios/peluqueria-canina-la-florida' },
-                  { label: 'Peñalolén',        href: '/servicios/peluqueria-canina-penalolen' },
-                  { label: 'Santiago Centro',  href: '/servicios/peluqueria-canina-santiago-centro' },
-                  { label: 'Huechuraba',       href: '/servicios/peluqueria-canina-huechuraba' },
-                  { label: 'Lo Barnechea',     href: '/servicios/peluqueria-canina-lo-barnechea' },
+                  { label: 'Ñuñoa', href: '/servicios/peluqueria-canina-nunoa' },
                 ].map(({ label, href }) => (
                   <li key={href}>
                     <Link href={href} className='text-white/60 hover:text-white transition-colors'>
