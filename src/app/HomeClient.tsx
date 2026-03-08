@@ -11,6 +11,7 @@ import {
   FAQ,
   Contact
 } from "@/components/sections"
+import type { PlaceReview } from "@/lib/google-places"
 import { FloatingCTA } from "@/components/ui"
 import { useBooking } from "@/hooks/useBooking"
 
@@ -19,7 +20,7 @@ const BookingModal = dynamic(
   { ssr: false }
 )
 
-export function HomeClient({ rating }: { rating: number }) {
+export function HomeClient({ rating, reviews }: { rating: number; reviews: PlaceReview[] }) {
   const booking = useBooking()
 
   return (
@@ -31,7 +32,7 @@ export function HomeClient({ rating }: { rating: number }) {
         <HowItWorks />
         <Services onBookClick={booking.openModal} />
         <Features />
-        <Testimonials />
+        <Testimonials reviews={reviews} />
         <FAQ />
         <Contact />
       </main>
