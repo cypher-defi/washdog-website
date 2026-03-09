@@ -57,7 +57,13 @@ export async function LocalBusinessJsonLd() {
       worstRating: 1,
       reviewCount,
     },
-    sameAs: ["https://share.google/8t1bo1xyYIfTKyDAw"]
+    sameAs: [
+      "https://share.google/8t1bo1xyYIfTKyDAw",
+      "https://www.instagram.com/washdogexpress",
+      "https://www.facebook.com/washdogexpress",
+      "https://www.tiktok.com/@washdogexpress",
+      "https://www.youtube.com/@washdogexpress",
+    ]
   }
 
   return (
