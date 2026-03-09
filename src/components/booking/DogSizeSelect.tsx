@@ -17,12 +17,10 @@ const BATH_OPTIONS: { size: ValidSize; icon: string; label: string }[] = [
 ];
 
 const CUT_OPTIONS: { size: ValidSize; icon: string; label: string }[] = [
-  { size: 'toy',    icon: 'lucide:dog', label: DOG_SIZE_LABELS.toy },
-  { size: 'small',  icon: 'lucide:dog', label: DOG_SIZE_LABELS.small },
-  { size: 'medium', icon: 'lucide:dog', label: DOG_SIZE_LABELS.medium },
-  { size: 'large',  icon: 'lucide:dog', label: DOG_SIZE_LABELS.large },
-  { size: 'giant',  icon: 'lucide:dog', label: DOG_SIZE_LABELS.giant },
-  { size: 'cat',    icon: 'lucide:cat', label: DOG_SIZE_LABELS.cat },
+  { size: 'small',  icon: 'lucide:dog', label: 'Pequeño (hasta 10 kg)' },
+  { size: 'medium', icon: 'lucide:dog', label: 'Mediano (10–20 kg)' },
+  { size: 'large',  icon: 'lucide:dog', label: 'Grande (más de 20 kg)' },
+  { size: 'cat',    icon: 'lucide:cat', label: 'Gato' },
 ];
 
 function getDurationLabel(serviceType: 'bath' | 'cut', size: ValidSize): string {
