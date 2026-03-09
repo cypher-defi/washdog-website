@@ -58,20 +58,41 @@
 
     /* ── Safe zone overlay (not captured by html2canvas) ─────────── */
     #post-container { position:relative; display:inline-block; }
-    #safe-zone {
-      position:absolute; inset:0; pointer-events:none; z-index:50;
-      box-shadow: inset 0 0 0 54px rgba(10,15,26,0.52);
-    }
+    #safe-zone { position:absolute; inset:0; pointer-events:none; z-index:50; }
+
+    /* 56px dashed border inside the top grid-safe area */
     #safe-zone-border {
       position:absolute;
-      top:54px; left:54px; right:54px; bottom:54px;
-      border:1.5px dashed rgba(245,200,66,0.55);
+      top:54px; left:54px; right:54px; bottom:135px;
+      border:1.5px dashed rgba(245,200,66,0.45);
       pointer-events:none;
     }
+
+    /* Horizontal guide at y=540px (= 1080px grid cutoff at export) */
+    #grid-cutoff-line {
+      position:absolute; left:0; right:0; top:540px;
+      border-top:2px dashed rgba(245,200,66,0.85);
+      pointer-events:none;
+    }
+    #grid-cutoff-label {
+      position:absolute; top:543px; left:50%; transform:translateX(-50%);
+      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
+      color:rgba(245,200,66,0.9); white-space:nowrap;
+      background:rgba(10,15,26,0.7); padding:2px 8px; border-radius:4px;
+    }
+
+    /* Bottom 135px dimmed (secondary zone, not critical content) */
+    #bottom-zone-dim {
+      position:absolute; left:0; right:0; top:540px; bottom:0;
+      background:rgba(10,15,26,0.22);
+      pointer-events:none;
+    }
+
+    /* Safe zone label at top */
     #safe-zone-label {
       position:absolute; top:58px; left:50%; transform:translateX(-50%);
-      font-size:8.5px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
-      color:rgba(245,200,66,0.75); white-space:nowrap;
+      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
+      color:rgba(245,200,66,0.65); white-space:nowrap;
       background:rgba(10,15,26,0.55); padding:2px 8px; border-radius:4px;
     }
     #safe-zone.hidden { display:none; }
@@ -79,8 +100,8 @@
     .zone-toggle:hover { background:rgba(255,255,255,0.08); color:rgba(255,255,255,0.7); }
     .zone-toggle.active { border-color:rgba(245,200,66,0.4); color:rgba(245,200,66,0.85); background:rgba(245,200,66,0.06); }
 
-    /* ── BASE POST (540px = 50% of 1080px) ───────────────────────── */
-    .post { width:540px; height:540px; position:relative; overflow:hidden; display:flex; flex-direction:column; font-family:'Inter',sans-serif; }
+    /* ── BASE POST (540×675px = 50% of 1080×1350px, 4:5 ratio) ──── */
+    .post { width:540px; height:675px; position:relative; overflow:hidden; display:flex; flex-direction:column; font-family:'Inter',sans-serif; }
 
     /* ── Shared utilities ─────────────────────────────────────────── */
     .top-bar-full { height:5px; width:100%; flex-shrink:0; }
@@ -374,7 +395,7 @@
 
 <div id="overlay">
   <div class="spinner"></div>
-  <p>Exportando PNG 1080×1080...</p>
+  <p>Exportando PNG 1080×1350...</p>
 </div>
 
 <div class="app">
@@ -409,7 +430,7 @@
 
     <div class="sidebar-bottom">
       <button class="zone-toggle active" id="zone-btn" onclick="toggleSafeZone()">◻ Safe zone grid <span style="float:right;opacity:0.5;">ON</span></button>
-      <button class="export-btn" onclick="exportPost()">⬇ Exportar PNG 1080×1080</button>
+      <button class="export-btn" onclick="exportPost()">⬇ Exportar PNG 1080×1350</button>
       <p class="hint">Arrastra una foto directamente sobre el área de imagen</p>
     </div>
   </div>
@@ -420,7 +441,10 @@
       <div class="post-wrap" id="post-wrap"></div>
       <div id="safe-zone">
         <div id="safe-zone-border"></div>
-        <div id="safe-zone-label">✂ zona cortada en grid</div>
+        <div id="safe-zone-label">✦ zona segura (grid)</div>
+        <div id="bottom-zone-dim"></div>
+        <div id="grid-cutoff-line"></div>
+        <div id="grid-cutoff-label">✂ aquí corta el perfil de Instagram</div>
       </div>
     </div>
   </div>
@@ -590,7 +614,7 @@ async function exportPost(){
   const el=document.querySelector('.post')
   const canvas=await html2canvas(el,{scale:2,useCORS:true,allowTaint:true,backgroundColor:null,logging:false})
   const a=document.createElement('a')
-  a.download=`washdog-${cat}-${style}-${Date.now()}.png`
+  a.download=`washdog-${cat}-${style}-1080x1350-${Date.now()}.png`
   a.href=canvas.toDataURL('image/png')
   a.click()
   document.getElementById('overlay').classList.remove('show')
