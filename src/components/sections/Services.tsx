@@ -106,7 +106,7 @@ export function Services({ onBookClick }: ServicesProps) {
                   { label: 'Mediano', short: '$22.000', long: '$30.000' },
                   { label: 'Grande',  short: '$30.000', long: '$35.000' },
                   { label: 'Gigante', short: '$38.000', long: '$50.000' },
-                  { label: 'Gato',    short: '$30.000', long: '—' },
+                  { label: 'Gato',    short: '$40.000', long: '—' },
                 ].map((row, i) => (
                   <div key={i} className='grid grid-cols-3 px-4 py-2 border-t border-accent-peach/10'>
                     <span className='text-xs font-semibold text-primary/80'>{row.label}</span>

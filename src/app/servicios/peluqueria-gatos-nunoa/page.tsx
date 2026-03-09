@@ -31,7 +31,7 @@ const faqs = [
   },
   {
     q: "¿Cuánto cuesta la peluquería para gatos?",
-    a: "El servicio de corte para gatos tiene un precio de $30.000, independientemente del largo del pelo."
+    a: "El servicio de corte para gatos tiene un precio de $40.000, independientemente del largo del pelo."
   },
   {
     q: "¿Dónde están ubicados?",
@@ -113,7 +113,7 @@ export default function PeluqueriaGatosNunoaPage() {
                 Gato — corte completo
               </p>
               <p className='text-4xl font-semibold text-accent-green-dark tracking-tight'>
-                $30.000
+                $40.000
               </p>
               <p className='text-xs text-primary/40 mt-2 font-light'>Incluye baño, brushing y limpieza de orejas</p>
             </div>
