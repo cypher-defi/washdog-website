@@ -4,15 +4,25 @@
     "bano-perros",
     "corte-perros",
     "mejor-peluqueria-canina-santiago",
+    "peluqueria-canina-cerro-navia",
+    "peluqueria-canina-estacion-central",
     "peluqueria-canina-huechuraba",
+    "peluqueria-canina-independencia",
     "peluqueria-canina-la-florida",
     "peluqueria-canina-la-reina",
     "peluqueria-canina-las-condes",
     "peluqueria-canina-lo-barnechea",
+    "peluqueria-canina-lo-prado",
     "peluqueria-canina-macul",
     "peluqueria-canina-nunoa",
     "peluqueria-canina-penalolen",
     "peluqueria-canina-providencia",
+    "peluqueria-canina-quilicura",
+    "peluqueria-canina-quinta-normal",
+    "peluqueria-canina-recoleta",
+    "peluqueria-canina-renca",
+    "peluqueria-canina-san-joaquin",
+    "peluqueria-canina-san-miguel",
     "peluqueria-canina-santiago-centro",
     "peluqueria-canina-vitacura",
     "peluqueria-canina",
@@ -21,5 +31,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-08T12:44:41.962704"
+  "generated_at": "2026-03-09T09:11:15.342130"
 }

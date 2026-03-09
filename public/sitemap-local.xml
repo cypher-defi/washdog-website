@@ -45,7 +45,22 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-cerro-navia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-estacion-central</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-huechuraba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-independencia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -70,6 +85,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-prado</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-macul</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -86,6 +106,36 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-providencia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-quilicura</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-quinta-normal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-recoleta</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-renca</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-joaquin</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-miguel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
