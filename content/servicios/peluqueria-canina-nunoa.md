@@ -48,9 +48,9 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer estándar | **$32.000 CLP** |
-| 🦮 **Grande** | Golden Retriever, Labrador, Border Collie | **$45.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$20.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer estándar | **$25.000 CLP** |
+| 🦮 **Grande** | Golden Retriever, Labrador, Border Collie | **$35.000 CLP** |
 
 *Precios finales según raza, largo de pelo y servicios adicionales. Sin sorpresas al momento de pagar.*
 

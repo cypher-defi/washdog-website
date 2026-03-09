@@ -48,9 +48,9 @@ Agenda tu hora 24/7 por WhatsApp o desde la web, elige el horario que más te ac
 
 | Tamaño | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Poodle mini | **$25.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Beagle | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Poodle mini | **$20.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Beagle | **$25.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$35.000 CLP** |
 
 > *Precio final confirmado al momento de la reserva según raza y condición del pelaje. Sin cobros sorpresa.*
 

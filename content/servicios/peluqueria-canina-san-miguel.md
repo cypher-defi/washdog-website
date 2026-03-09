@@ -48,9 +48,9 @@ Reserva en 2 minutos desde el celular, a cualquier hora. Sin llamadas, sin esper
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$33.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$20.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$35.000 CLP** |
 
 > *El precio final puede variar según el estado del pelaje y servicios adicionales. Te lo confirmamos antes de comenzar, sin cobros sorpresa.*
 

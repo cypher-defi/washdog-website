@@ -30,7 +30,7 @@ Sin llamadas, sin filas, sin llegar a esperar. Agendas por WhatsApp o desde la w
 Atención uno a uno, con peluqueros especializados en todas las razas. Desde un Yorkie hasta un Labrador, cada perro recibe el cuidado que necesita según su temperamento y su pelo. Te avisamos cómo va el proceso en todo momento.
 
 **Porque "premium" no tiene que significar inalcanzable**
-Precios claros desde $25.000 CLP, sin cobros sorpresa al final. Usamos productos de línea premium, hipoalergénicos y aptos para pieles sensibles. Lo mejor para tu perro, sin complicarte el presupuesto.
+Precios claros desde $20.000 CLP, sin cobros sorpresa al final. Usamos productos de línea premium, hipoalergénicos y aptos para pieles sensibles. Lo mejor para tu perro, sin complicarte el presupuesto.
 
 ---
 
@@ -50,9 +50,9 @@ Precios claros desde $25.000 CLP, sin cobros sorpresa al final. Usamos productos
 
 | Tamaño | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | $25.000 CLP |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | $33.000 CLP |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | $45.000 CLP |
+| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | $20.000 CLP |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | $25.000 CLP |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | $35.000 CLP |
 
 > Precios finales según largo del pelo y estado del pelaje. Te confirmamos el valor exacto antes de comenzar. Sin letras chicas.
 

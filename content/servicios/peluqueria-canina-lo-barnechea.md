@@ -48,9 +48,9 @@ Estamos en Lo Barnechea, con fácil acceso desde las comunas del sector oriente.
 
 | Tamaño | Ejemplos de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Chihuahua, Maltés | **$25.000 CLP** |
-| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Chihuahua, Maltés | **$20.000 CLP** |
+| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$25.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$35.000 CLP** |
 
 *Precio final según raza, condición del pelaje y servicios adicionales. Sin costos ocultos.*
 

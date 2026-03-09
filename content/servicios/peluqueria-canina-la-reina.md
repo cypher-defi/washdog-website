@@ -50,9 +50,9 @@ Sin llamadas, sin "te llamo mañana". Agenda tu hora online ahora mismo y recibe
 
 | Tamaño | Razas de referencia | Baño completo | Baño + Corte |
 |---|---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | $25.000 CLP | $32.000 CLP |
+| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | $20.000 CLP | $25.000 CLP |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | $30.000 CLP | $38.000 CLP |
-| 🦮 **Grande** | Labrador, Golden, Husky | $38.000 CLP | $45.000 CLP |
+| 🦮 **Grande** | Labrador, Golden, Husky | $38.000 CLP | $35.000 CLP |
 
 > *Precios referenciales. El valor final se confirma al agendar según raza, pelaje y servicio solicitado.*
 

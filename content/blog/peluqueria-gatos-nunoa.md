@@ -33,7 +33,7 @@ Atendemos a gatos en un espacio separado del sector canino para garantizar un am
 4. Corte adaptado a las necesidades del gato y las preferencias del dueño
 5. Limpieza de orejas
 
-El precio del corte completo para gatos es **$30.000**, independiente del largo del pelo.
+El precio del corte completo para gatos es **$40.000** e incluye baño.
 
 ## ¿Con qué frecuencia llevar a tu gato?
 

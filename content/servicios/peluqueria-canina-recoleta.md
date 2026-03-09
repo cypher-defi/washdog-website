@@ -45,9 +45,9 @@ date: "2026-03-09"
 
 | Tamaño del perro | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐶 Pequeño | Yorkshire, Maltés, Poodle mini | $25.000 CLP |
+| 🐶 Pequeño | Yorkshire, Maltés, Poodle mini | $20.000 CLP |
 | 🐕 Mediano | Beagle, Cocker, Schnauzer | $35.000 CLP |
-| 🦮 Grande | Labrador, Golden, Husky | $45.000 CLP |
+| 🦮 Grande | Labrador, Golden, Husky | $35.000 CLP |
 
 > ✅ Todos los precios incluyen baño, secado y perfume. Sin cobros adicionales.
 > Para razas con doble capa o deslanado, consultamos contigo antes de confirmar.

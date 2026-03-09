@@ -52,9 +52,9 @@ Sin llamadas, sin esperar en la vereda. Agenda por WhatsApp o formulario online 
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐾 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
-| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$33.000 CLP** |
-| 🐶 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐾 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$20.000 CLP** |
+| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$25.000 CLP** |
+| 🐶 **Grande** | Golden, Labrador, Husky | **$35.000 CLP** |
 
 > 💡 *El precio puede variar según estado del manto, deslanado o servicios adicionales. Te confirmamos el valor exacto al agendar — sin cobros sorpresa.*
 

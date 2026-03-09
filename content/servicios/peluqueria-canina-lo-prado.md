@@ -48,9 +48,9 @@ Antes de reservar ya sabes cuánto vas a pagar. Sin cobros extra que aparecen al
 
 | Tamaño del perro | Ejemplo de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$20.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$35.000 CLP** |
 
 > *El precio final se confirma al reservar según raza y condición del pelaje. Sin sorpresas.*
 

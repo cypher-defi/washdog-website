@@ -1,12 +1,12 @@
 ---
 title: "WashDog peluquería canina en Renca — Peluquería Canina Premium Santiago"
-description: "Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $25.000 CLP."
+description: "Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $20.000 CLP."
 keywords: "peluquería canina Renca, peluquería canina Renca, grooming Renca, WashDog"
 date: "2026-03-09"
 ---
 
 # Tu perro merece la mejor peluquería canina en Renca
-## Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $25.000 CLP.
+## Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $20.000 CLP.
 
 ---
 
@@ -48,9 +48,9 @@ Atendemos en Renca y recibimos clientes de Quinta Normal, Pudahuel y Cerro Navia
 
 | Tamaño del perro | Ejemplos de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$33.000 CLP** |
-| 🦮 **Grande** | Golden, Husky, Labrador | **$45.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$20.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
+| 🦮 **Grande** | Golden, Husky, Labrador | **$35.000 CLP** |
 
 > *Precios incluyen baño completo, secado y perfume. Cortes y tratamientos adicionales según requerimiento.*
 > *¿Tienes dudas sobre el precio para tu raza? Escríbenos — te respondemos al tiro. 🐾*

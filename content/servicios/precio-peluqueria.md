@@ -34,16 +34,19 @@ Los precios de peluquería canina en Santiago varían bastante según el servici
 | Hasta 20 kg | $10.000 |
 | Más de 20 kg | $16.000 |
 
-### Corte y arreglo (incluye baño y brushing)
+### Peluquería canina (incluye baño, brushing, corte sanitario, deslanado, corte de uñas y limpieza de orejas)
 
-| Tamaño | Pelo corto | Pelo largo |
+| Tamaño | Pelo corto | Pelo largo o medio |
 |---|---|---|
-| Toy | $15.000 | $20.000 |
-| Pequeño | $18.000 | $25.000 |
-| Mediano | $22.000 | $30.000 |
-| Grande | $30.000 | $35.000 |
-| Gigante | $38.000 | $50.000 |
-| Gato | $30.000 | — |
+| Pequeño | $20.000 | $25.000 |
+| Mediano | $25.000 | $30.000 |
+| Grande | $35.000 | $45.000 |
+
+### Peluquería para gatos (incluye baño)
+
+| Servicio | Precio |
+|---|---|
+| Corte completo | $40.000 |
 
 ## Precios de referencia en el mercado de Santiago
 
@@ -64,4 +67,4 @@ El precio refleja la calidad de los productos, la experiencia del equipo y las c
 Cada 3 a 6 semanas para pelo largo, cada 6 a 8 semanas para pelo corto.
 
 **¿También hacen peluquería para gatos?**
-Sí. El precio es $30.000 independiente del largo del pelo.
+Sí. El precio es $40.000 e incluye baño.

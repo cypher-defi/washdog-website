@@ -48,9 +48,9 @@ Agenda la hora de tu perro desde el celular — elige fecha, hora y servicio. Si
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Maltés, Yorkie, Chihuahua | $25.000 CLP |
-| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | $32.000 CLP |
-| 🦮 **Grande** | Golden, Labrador, Husky | $45.000 CLP |
+| 🐩 **Pequeño** | Maltés, Yorkie, Chihuahua | $20.000 CLP |
+| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | $25.000 CLP |
+| 🦮 **Grande** | Golden, Labrador, Husky | $35.000 CLP |
 
 > *El precio final varía según el servicio seleccionado y el estado del pelaje. Te confirmamos el valor exacto al momento de la reserva — sin sorpresas.*
 
