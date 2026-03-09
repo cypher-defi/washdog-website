@@ -60,41 +60,48 @@
     #post-container { position:relative; display:inline-block; }
     #safe-zone { position:absolute; inset:0; pointer-events:none; z-index:50; }
 
-    /* 56px dashed border inside the top grid-safe area */
-    #safe-zone-border {
-      position:absolute;
-      top:54px; left:54px; right:54px; bottom:135px;
-      border:1.5px dashed rgba(245,200,66,0.45);
-      pointer-events:none;
+    /* Top 67.5px bleed — feed only, dimmed */
+    #top-bleed-dim {
+      position:absolute; left:0; right:0; top:0; height:67.5px;
+      background:rgba(10,15,26,0.28); pointer-events:none;
+    }
+    /* Bottom 67.5px bleed — feed only, dimmed */
+    #bottom-bleed-dim {
+      position:absolute; left:0; right:0; bottom:0; height:67.5px;
+      background:rgba(10,15,26,0.28); pointer-events:none;
     }
 
-    /* Horizontal guide at y=540px (= 1080px grid cutoff at export) */
-    #grid-cutoff-line {
-      position:absolute; left:0; right:0; top:540px;
-      border-top:2px dashed rgba(245,200,66,0.85);
-      pointer-events:none;
+    /* Guide line at top of grid-safe area (y=67.5px = 135px at export) */
+    #grid-top-line {
+      position:absolute; left:0; right:0; top:67.5px;
+      border-top:2px dashed rgba(245,200,66,0.85); pointer-events:none;
     }
-    #grid-cutoff-label {
-      position:absolute; top:543px; left:50%; transform:translateX(-50%);
+    /* Guide line at bottom of grid-safe area (y=607.5px = 1215px at export) */
+    #grid-bottom-line {
+      position:absolute; left:0; right:0; top:607.5px;
+      border-top:2px dashed rgba(245,200,66,0.85); pointer-events:none;
+    }
+    /* Labels on guide lines */
+    #grid-top-label {
+      position:absolute; top:70px; left:50%; transform:translateX(-50%);
+      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
+      color:rgba(245,200,66,0.9); white-space:nowrap;
+      background:rgba(10,15,26,0.7); padding:2px 8px; border-radius:4px;
+    }
+    #grid-bottom-label {
+      position:absolute; top:610px; left:50%; transform:translateX(-50%);
       font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
       color:rgba(245,200,66,0.9); white-space:nowrap;
       background:rgba(10,15,26,0.7); padding:2px 8px; border-radius:4px;
     }
 
-    /* Bottom 135px dimmed (secondary zone, not critical content) */
-    #bottom-zone-dim {
-      position:absolute; left:0; right:0; top:540px; bottom:0;
-      background:rgba(10,15,26,0.22);
-      pointer-events:none;
+    /* 56px content-safe dashed border inside the grid-safe zone */
+    #safe-zone-border {
+      position:absolute;
+      top:calc(67.5px + 54px); left:54px; right:54px; bottom:calc(67.5px + 54px);
+      border:1.5px dashed rgba(245,200,66,0.35); pointer-events:none;
     }
 
-    /* Safe zone label at top */
-    #safe-zone-label {
-      position:absolute; top:58px; left:50%; transform:translateX(-50%);
-      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
-      color:rgba(245,200,66,0.65); white-space:nowrap;
-      background:rgba(10,15,26,0.55); padding:2px 8px; border-radius:4px;
-    }
     #safe-zone.hidden { display:none; }
     .zone-toggle { background:rgba(255,255,255,0.05); color:rgba(255,255,255,0.45); font-family:"Inter",sans-serif; font-size:10.5px; font-weight:600; padding:7px 10px; border-radius:7px; border:1.5px solid rgba(255,255,255,0.07); cursor:pointer; width:100%; text-align:left; transition:all 0.15s; }
     .zone-toggle:hover { background:rgba(255,255,255,0.08); color:rgba(255,255,255,0.7); }
@@ -440,11 +447,13 @@
     <div id="post-container">
       <div class="post-wrap" id="post-wrap"></div>
       <div id="safe-zone">
+        <div id="top-bleed-dim"></div>
+        <div id="bottom-bleed-dim"></div>
+        <div id="grid-top-line"></div>
+        <div id="grid-bottom-line"></div>
+        <div id="grid-top-label">✂ perfil recorta aquí</div>
+        <div id="grid-bottom-label">✂ perfil recorta aquí</div>
         <div id="safe-zone-border"></div>
-        <div id="safe-zone-label">✦ zona segura (grid)</div>
-        <div id="bottom-zone-dim"></div>
-        <div id="grid-cutoff-line"></div>
-        <div id="grid-cutoff-label">✂ aquí corta el perfil de Instagram</div>
       </div>
     </div>
   </div>
