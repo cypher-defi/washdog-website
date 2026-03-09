@@ -33,6 +33,7 @@ No todos los perros cuestan lo mismo, y eso es normal. Los factores principales 
 | Pequeño | $20.000 | $25.000 |
 | Mediano | $25.000 | $30.000 |
 | Grande | $35.000 | $45.000 |
+| Gato | $40.000 | — |
 
 
 

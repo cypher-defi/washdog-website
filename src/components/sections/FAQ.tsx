@@ -40,12 +40,10 @@ const faqs: { question: string; answer: React.ReactNode }[] = [
             </span>
           </div>
           {[
-            { label: "Toy", short: "$15.000", long: "$20.000" },
-            { label: "Pequeño", short: "$18.000", long: "$25.000" },
-            { label: "Mediano", short: "$22.000", long: "$30.000" },
-            { label: "Grande", short: "$30.000", long: "$35.000" },
-            { label: "Gigante", short: "$38.000", long: "$50.000" },
-            { label: "Gato", short: "$40.000", long: "—" }
+            { label: "Pequeño", short: "$20.000", long: "$25.000" },
+            { label: "Mediano", short: "$25.000", long: "$30.000" },
+            { label: "Grande",  short: "$35.000", long: "$45.000" },
+            { label: "Gato",    short: "$40.000", long: "—" }
           ].map((row) => (
             <div
               key={row.label}

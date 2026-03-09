@@ -49,12 +49,12 @@ export const BATH_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' 
 };
 
 export const CUT_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' | 'cat', { short: string; long: string; start: string }> = {
-  toy:    { short: '$15.000', long: '$20.000', start: '$15.000' },
-  small:  { short: '$18.000', long: '$25.000', start: '$18.000' },
-  medium: { short: '$22.000', long: '$30.000', start: '$22.000' },
-  large:  { short: '$30.000', long: '$35.000', start: '$30.000' },
-  giant:  { short: '$38.000', long: '$50.000', start: '$38.000' },
-  cat:    { short: '$30.000', long: '$30.000', start: '$30.000' },
+  toy:    { short: '$20.000', long: '$25.000', start: '$20.000' },
+  small:  { short: '$20.000', long: '$25.000', start: '$20.000' },
+  medium: { short: '$25.000', long: '$30.000', start: '$25.000' },
+  large:  { short: '$35.000', long: '$45.000', start: '$35.000' },
+  giant:  { short: '$35.000', long: '$45.000', start: '$35.000' },
+  cat:    { short: '$40.000', long: '$40.000', start: '$40.000' },
 };
 
 export interface BookingContextValue {
