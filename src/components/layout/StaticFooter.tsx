@@ -133,7 +133,19 @@ export function StaticFooter() {
           {/* Bottom Bar */}
           <div className='pt-8 mt-16 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-white/30 font-medium uppercase tracking-widest'>
             <p>© 2026 Washdog</p>
-            <div className='flex gap-6'>
+            <div className='flex items-center gap-5'>
+              <a href='https://www.instagram.com/washdogexpress/' target='_blank' rel='noopener noreferrer' className='hover:text-white transition-colors' aria-label='Instagram'>
+                <Icon icon='mdi:instagram' className='w-4 h-4' />
+              </a>
+              <a href='https://web.facebook.com/profile.php?id=61586223404157' target='_blank' rel='noopener noreferrer' className='hover:text-white transition-colors' aria-label='Facebook'>
+                <Icon icon='mdi:facebook' className='w-4 h-4' />
+              </a>
+              <a href='https://www.tiktok.com/@washdogexpress' target='_blank' rel='noopener noreferrer' className='hover:text-white transition-colors' aria-label='TikTok'>
+                <Icon icon='ic:baseline-tiktok' className='w-4 h-4' />
+              </a>
+              <a href='https://www.youtube.com/@WashdogExpress' target='_blank' rel='noopener noreferrer' className='hover:text-white transition-colors' aria-label='YouTube'>
+                <Icon icon='mdi:youtube' className='w-4 h-4' />
+              </a>
               <Link href='/privacy' className='hover:text-white transition-colors'>Privacidad</Link>
               <Link href='/terms'   className='hover:text-white transition-colors'>Términos</Link>
             </div>
