@@ -11,6 +11,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/auto-lavado-perros-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-gatos-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/precio-peluqueria-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/privacy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
@@ -23,6 +53,21 @@
   <url>
     <loc>https://www.washdog.cl/servicios/auto-lavado-perros</loc>
     <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-las-condes</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-providencia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -41,6 +86,11 @@
   <url>
     <loc>https://www.washdog.cl/servicios/mejor-peluqueria-canina-santiago</loc>
     <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-cerrillos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -65,7 +115,22 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-cisterna</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-florida</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-granja</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-pintana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -85,6 +150,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-espejo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-prado</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -96,6 +166,11 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-nunoa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-pedro-aguirre-cerda</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -136,6 +211,11 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-miguel</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-ramon</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

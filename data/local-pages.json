@@ -1,20 +1,29 @@
 {
   "slugs": [
     "auto-lavado-perros",
+    "bano-perros-las-condes",
+    "bano-perros-nunoa",
+    "bano-perros-providencia",
     "bano-perros",
     "corte-perros",
     "mejor-peluqueria-canina-santiago",
+    "peluqueria-canina-cerrillos",
     "peluqueria-canina-cerro-navia",
     "peluqueria-canina-estacion-central",
     "peluqueria-canina-huechuraba",
     "peluqueria-canina-independencia",
+    "peluqueria-canina-la-cisterna",
     "peluqueria-canina-la-florida",
+    "peluqueria-canina-la-granja",
+    "peluqueria-canina-la-pintana",
     "peluqueria-canina-la-reina",
     "peluqueria-canina-las-condes",
     "peluqueria-canina-lo-barnechea",
+    "peluqueria-canina-lo-espejo",
     "peluqueria-canina-lo-prado",
     "peluqueria-canina-macul",
     "peluqueria-canina-nunoa",
+    "peluqueria-canina-pedro-aguirre-cerda",
     "peluqueria-canina-penalolen",
     "peluqueria-canina-providencia",
     "peluqueria-canina-quilicura",
@@ -23,6 +32,7 @@
     "peluqueria-canina-renca",
     "peluqueria-canina-san-joaquin",
     "peluqueria-canina-san-miguel",
+    "peluqueria-canina-san-ramon",
     "peluqueria-canina-santiago-centro",
     "peluqueria-canina-vitacura",
     "peluqueria-canina",
@@ -31,5 +41,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-09T21:33:24.264205"
+  "generated_at": "2026-03-10T08:11:10.448130"
 }
