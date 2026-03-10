@@ -1,9 +1,19 @@
 {
   "slugs": [
     "auto-lavado-perros",
+    "bano-perros-huechuraba",
+    "bano-perros-independencia",
+    "bano-perros-la-florida",
+    "bano-perros-la-reina",
     "bano-perros-las-condes",
+    "bano-perros-lo-barnechea",
+    "bano-perros-macul",
     "bano-perros-nunoa",
+    "bano-perros-penalolen",
     "bano-perros-providencia",
+    "bano-perros-recoleta",
+    "bano-perros-santiago-centro",
+    "bano-perros-vitacura",
     "bano-perros",
     "corte-perros",
     "mejor-peluqueria-canina-santiago",
@@ -41,5 +51,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-10T08:11:10.448130"
+  "generated_at": "2026-03-10T09:09:22.506827"
 }
