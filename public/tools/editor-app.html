@@ -375,13 +375,16 @@
 
     /* INFO-1: Dark hero — big centered headline, logo, yellow URL bar */
     .info-1 { background:#1a1a1a; }
-    .info-1 .inner { flex:1; padding:56px; display:flex; flex-direction:column; align-items:center; text-align:center; position:relative; z-index:1; }
-    .info-1 .big-hl { font-family:'Poppins',sans-serif; font-size:46px; font-weight:900; color:white; line-height:1.0; letter-spacing:-0.03em; margin-top:14px; margin-bottom:12px; }
+    .info-1 .inner { flex:1; padding:44px 56px 32px; display:flex; flex-direction:column; align-items:center; text-align:center; position:relative; z-index:1; justify-content:space-between; }
+    .info-1 .text-block { display:flex; flex-direction:column; align-items:center; gap:10px; }
+    .info-1 .big-hl { font-family:'Poppins',sans-serif; font-size:46px; font-weight:900; color:white; line-height:1.0; letter-spacing:-0.03em; margin-top:12px; }
     .info-1 .big-hl em { color:#f5c842; font-style:normal; }
-    .info-1 .subtitle { font-size:15px; font-weight:500; color:rgba(255,255,255,0.55); line-height:1.45; max-width:380px; margin-bottom:6px; }
-    .info-1 .logo-center { margin:auto 0; display:flex; flex-direction:column; align-items:center; gap:14px; }
-    .info-1 .note-pill { background:rgba(245,200,66,0.1); border:1px solid rgba(245,200,66,0.22); color:#f5c842; font-size:10px; font-weight:700; padding:6px 16px; border-radius:100px; letter-spacing:0.04em; }
-    .info-1 .url-bar { background:#f5c842; margin:0 -56px -56px; padding:16px 56px; display:flex; align-items:center; justify-content:center; gap:8px; flex-shrink:0; }
+    .info-1 .subtitle { font-size:15px; font-weight:500; color:rgba(255,255,255,0.55); line-height:1.45; max-width:380px; }
+    .info-1 .logo-area { display:flex; flex-direction:column; align-items:center; gap:16px; }
+    .info-1 .logo-ring { width:120px; height:120px; border-radius:50%; padding:3px; background:linear-gradient(135deg,rgba(245,200,66,0.6),rgba(245,200,66,0.15)); box-shadow:0 0 32px rgba(245,200,66,0.2); }
+    .info-1 .logo-ring img { width:100%; height:100%; border-radius:50%; object-fit:cover; display:block; }
+    .info-1 .note-pill { background:rgba(245,200,66,0.1); border:1px solid rgba(245,200,66,0.22); color:#f5c842; font-size:10.5px; font-weight:700; padding:7px 18px; border-radius:100px; letter-spacing:0.04em; }
+    .info-1 .url-bar { background:#f5c842; padding:15px 56px; display:flex; align-items:center; justify-content:center; gap:8px; flex-shrink:0; }
     .info-1 .url-bar span { font-family:'Poppins',sans-serif; font-size:14px; font-weight:800; color:#1a1a1a; letter-spacing:0.02em; }
 
     /* INFO-2: FAQ/Reveal — question + big answer + photo + social footer */
@@ -572,7 +575,7 @@ const render = {
 
 
   // INFO / ANUNCIO
-  'info-1': ()=>`<div class="post info-1"><svg class="paw-abs" style="left:50%;top:42%;transform:translate(-50%,-50%);opacity:.03;width:260px;height:260px" viewBox="0 0 100 100" fill="white"><ellipse cx="50" cy="65" rx="22" ry="18"/><ellipse cx="22" cy="44" rx="9" ry="12"/><ellipse cx="78" cy="44" rx="9" ry="12"/><ellipse cx="35" cy="26" rx="8" ry="10"/><ellipse cx="65" cy="26" rx="8" ry="10"/></svg><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="badge-yd">${v('badge')||'Anuncio'}</div><div class="big-hl">${hl(v('headline')||'¡Ven cuando quieras!',v('hl'))}</div><div class="subtitle">${v('subtitle')||''}</div><div class="logo-center"><img src="${LOGO_B64}" style="width:72px;height:72px;border-radius:50%;object-fit:cover;opacity:0.9;" alt="Washdog">${v('note')?'<div class="note-pill">'+v('note')+'</div>':''}</div></div><div class="url-bar"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#1a1a1a" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg><span>${v('url')||'washdog.cl'}</span></div></div>`,
+  'info-1': ()=>`<div class="post info-1"><svg class="paw-abs" style="left:50%;top:46%;transform:translate(-50%,-50%);opacity:.035;width:300px;height:300px" viewBox="0 0 100 100" fill="white"><ellipse cx="50" cy="65" rx="22" ry="18"/><ellipse cx="22" cy="44" rx="9" ry="12"/><ellipse cx="78" cy="44" rx="9" ry="12"/><ellipse cx="35" cy="26" rx="8" ry="10"/><ellipse cx="65" cy="26" rx="8" ry="10"/></svg><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="text-block"><div class="badge-yd">${v('badge')||'Anuncio'}</div><div class="big-hl">${hl(v('headline')||'¡Ven cuando quieras!',v('hl'))}</div><div class="subtitle">${v('subtitle')||''}</div></div><div class="logo-area"><div class="logo-ring"><img src="${LOGO_B64}" alt="Washdog"></div>${v('note')?'<div class="note-pill">'+v('note')+'</div>':''}</div></div><div class="url-bar"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#1a1a1a" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg><span>${v('url')||'washdog.cl'}</span></div></div>`,
 
   'info-2': ()=>`<div class="post info-2"><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="badge-yd" style="margin-bottom:10px;">${v('badge')||'FAQ'}</div><p class="question">${v('headline')||'La gente nos pregunta si tenemos...'}</p><div class="answer">${hl(v('subtitle')||'PELUQUERÍA',v('hl'))}</div><div class="confirm">¡Y la verdad es que SÍ! 🐶</div><div class="photo-strip drop-zone" id="zone-info">${photoOrHint('info')}</div></div><div class="social-bar"><div class="social-item"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f5c842" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/></svg><span>${v('url')||'washdog.cl'}</span></div><div class="social-item"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f5c842" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="#f5c842"/></svg><span class="handle">@washdogexpress</span></div></div></div>`,
 
