@@ -132,8 +132,8 @@
     /* TIP-2: Aqua light */
     .tip-2 { background:#e8f7fd; }
     .tip-2 .top-stripe { height:6px; background:linear-gradient(90deg,var(--blue),var(--aqua)); flex-shrink:0; }
-    .tip-2 .inner { flex:1; padding:56px; display:flex; flex-direction:column; position:relative; }
-    .tip-2 .big-num { position:absolute; right:28px; top:16px; font-family:'Poppins',sans-serif; font-size:130px; font-weight:900; color:rgba(47,128,237,0.07); line-height:1; letter-spacing:-0.04em; pointer-events:none; }
+    .tip-2 .inner { flex:1; padding:56px; display:flex; flex-direction:column; position:relative; overflow:hidden; }
+    .tip-2 .big-num { position:absolute; right:56px; top:56px; font-family:'Poppins',sans-serif; font-size:130px; font-weight:900; color:rgba(47,128,237,0.07); line-height:1; letter-spacing:-0.04em; pointer-events:none; }
     .tip-2 h2 { font-family:'Poppins',sans-serif; font-size:26px; font-weight:800; color:var(--charcoal); line-height:1.2; letter-spacing:-0.015em; margin-top:14px; margin-bottom:10px; position:relative; z-index:1; }
     .tip-2 h2 em { color:var(--blue); font-style:normal; }
     .tip-2 .body { font-size:13px; color:rgba(31,41,51,0.6); line-height:1.65; flex:1; position:relative; z-index:1; }
@@ -174,7 +174,7 @@
     .park-1 { background:#f0faff; }
     .park-1 .photo { height:220px; flex-shrink:0; position:relative; overflow:hidden; background:linear-gradient(135deg,#a8d5b5,#7ecbdd); display:flex; align-items:center; justify-content:center; }
     .park-1 .photo::before { content:''; position:absolute; top:0;left:0;right:0; height:4px; background:linear-gradient(90deg,var(--blue),var(--aqua),var(--green)); z-index:1; }
-    .park-1 .loc-badge { position:absolute; top:12px; left:12px; background:rgba(255,255,255,0.92); color:#16a34a; font-size:9px; font-weight:700; padding:5px 10px; border-radius:100px; letter-spacing:0.1em; text-transform:uppercase; z-index:2; }
+    .park-1 .loc-badge { position:absolute; top:56px; left:56px; background:rgba(255,255,255,0.92); color:#16a34a; font-size:9px; font-weight:700; padding:5px 10px; border-radius:100px; letter-spacing:0.1em; text-transform:uppercase; z-index:2; }
     .park-1 .content { flex:1; padding:16px 56px 56px; display:flex; flex-direction:column; }
     .park-1 h2 { font-family:'Poppins',sans-serif; font-size:20px; font-weight:800; color:var(--charcoal); line-height:1.2; letter-spacing:-0.01em; margin-bottom:5px; }
     .park-1 .meta { font-size:11px; color:rgba(31,41,51,0.4); margin-bottom:7px; }
@@ -345,7 +345,7 @@
 
     /* SERVICE-4: Aqua left column numbers */
     .service-4 { background:white; flex-direction:row !important; }
-    .service-4 .left-col { width:80px; background:var(--aqua); display:flex; flex-direction:column; align-items:center; padding:56px 0; gap:36px; flex-shrink:0; }
+    .service-4 .left-col { width:120px; background:var(--aqua); display:flex; flex-direction:column; align-items:center; padding:56px 0; gap:36px; flex-shrink:0; }
     .service-4 .left-col .n { font-family:'Poppins',sans-serif; font-size:28px; font-weight:900; color:var(--blue); opacity:0.5; }
     .service-4 .right-col { flex:1; padding:56px 56px 56px 32px; display:flex; flex-direction:column; }
     .service-4 h2 { font-family:'Poppins',sans-serif; font-size:20px; font-weight:800; color:var(--charcoal); line-height:1.2; margin-bottom:20px; }
@@ -368,6 +368,71 @@
     .service-5 .txt { font-size:13px; font-weight:500; color:rgba(31,41,51,0.75); line-height:1.45; }
     .service-5 .txt small { display:block; font-size:11px; font-weight:400; color:rgba(31,41,51,0.38); margin-top:1px; }
     .service-5 .foot { margin-top:auto; padding-top:14px; border-top:1px solid rgba(31,41,51,0.06); display:flex; justify-content:space-between; }
+
+    /* ════════════════════════════════════════════════════════════════
+       INFO / ANUNCIO TEMPLATES
+    ════════════════════════════════════════════════════════════════ */
+
+    /* INFO-1: Dark hero — big centered headline, logo, yellow URL bar */
+    .info-1 { background:#1a1a1a; }
+    .info-1 .inner { flex:1; padding:56px; display:flex; flex-direction:column; align-items:center; text-align:center; position:relative; z-index:1; }
+    .info-1 .big-hl { font-family:'Poppins',sans-serif; font-size:46px; font-weight:900; color:white; line-height:1.0; letter-spacing:-0.03em; margin-top:14px; margin-bottom:12px; }
+    .info-1 .big-hl em { color:#f5c842; font-style:normal; }
+    .info-1 .subtitle { font-size:15px; font-weight:500; color:rgba(255,255,255,0.55); line-height:1.45; max-width:380px; margin-bottom:6px; }
+    .info-1 .logo-center { margin:auto 0; display:flex; flex-direction:column; align-items:center; gap:14px; }
+    .info-1 .note-pill { background:rgba(245,200,66,0.1); border:1px solid rgba(245,200,66,0.22); color:#f5c842; font-size:10px; font-weight:700; padding:6px 16px; border-radius:100px; letter-spacing:0.04em; }
+    .info-1 .url-bar { background:#f5c842; margin:0 -56px -56px; padding:16px 56px; display:flex; align-items:center; justify-content:center; gap:8px; flex-shrink:0; }
+    .info-1 .url-bar span { font-family:'Poppins',sans-serif; font-size:14px; font-weight:800; color:#1a1a1a; letter-spacing:0.02em; }
+
+    /* INFO-2: FAQ/Reveal — question + big answer + photo + social footer */
+    .info-2 { background:#1a1a1a; }
+    .info-2 .inner { flex:1; padding:56px 56px 28px; display:flex; flex-direction:column; position:relative; z-index:1; }
+    .info-2 .question { font-family:'Poppins',sans-serif; font-size:17px; font-weight:500; color:rgba(255,255,255,0.6); line-height:1.35; margin-top:10px; margin-bottom:8px; }
+    .info-2 .answer { font-family:'Poppins',sans-serif; font-size:52px; font-weight:900; color:white; line-height:0.95; letter-spacing:-0.03em; margin-bottom:12px; }
+    .info-2 .answer em { color:#f5c842; font-style:normal; }
+    .info-2 .confirm { display:inline-block; background:#f5c842; color:#1a1a1a; font-family:'Poppins',sans-serif; font-size:17px; font-weight:900; padding:8px 20px; border-radius:8px; letter-spacing:0.02em; margin-bottom:16px; }
+    .info-2 .photo-strip { height:200px; position:relative; overflow:hidden; background:rgba(255,255,255,0.04); display:flex; align-items:center; justify-content:center; border-radius:12px; flex-shrink:0; }
+    .info-2 .social-bar { margin:16px -56px -28px; padding:16px 56px; background:rgba(255,255,255,0.04); border-top:1px solid rgba(255,255,255,0.06); display:flex; align-items:center; justify-content:space-between; flex-shrink:0; }
+    .info-2 .social-item { display:flex; align-items:center; gap:7px; }
+    .info-2 .social-item span { font-size:11px; font-weight:700; color:rgba(255,255,255,0.5); }
+    .info-2 .social-item .handle { font-size:11px; font-weight:700; color:#f5c842; }
+
+    /* INFO-3: Feature showcase — headline + photo + icons grid */
+    .info-3 { background:#1a1a1a; }
+    .info-3 .top-content { padding:56px 56px 20px; display:flex; flex-direction:column; position:relative; z-index:1; flex-shrink:0; }
+    .info-3 .eyebrow { font-size:10px; font-weight:700; letter-spacing:0.18em; text-transform:uppercase; color:#f5c842; margin-bottom:10px; }
+    .info-3 h2 { font-family:'Poppins',sans-serif; font-size:36px; font-weight:900; color:white; line-height:1.05; letter-spacing:-0.025em; }
+    .info-3 h2 em { color:#f5c842; font-style:normal; }
+    .info-3 .photo-zone { flex:1; position:relative; overflow:hidden; background:rgba(255,255,255,0.04); display:flex; align-items:center; justify-content:center; min-height:200px; }
+    .info-3 .features-bar { padding:16px 56px; background:rgba(255,255,255,0.04); border-top:1px solid rgba(255,255,255,0.07); display:flex; align-items:center; justify-content:space-around; flex-shrink:0; }
+    .info-3 .feat { display:flex; flex-direction:column; align-items:center; gap:4px; }
+    .info-3 .feat-icon { font-size:22px; line-height:1; }
+    .info-3 .feat-label { font-size:9px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase; color:rgba(255,255,255,0.5); }
+    .info-3 .feat-label.hl { color:#f5c842; }
+    .info-3 .foot { padding:12px 56px 28px; display:flex; justify-content:space-between; align-items:center; flex-shrink:0; }
+
+    /* INFO-4: Full photo + big text overlay */
+    .info-4 { background:#1a1a1a; }
+    .info-4 .photo-bg { position:absolute; inset:0; background:linear-gradient(135deg,#2a3a4a,#1a2530); }
+    .info-4 .overlay-grad { position:absolute; inset:0; background:linear-gradient(to bottom,rgba(26,26,26,0.55) 0%,rgba(26,26,26,0.2) 40%,rgba(26,26,26,0.75) 100%); z-index:1; }
+    .info-4 .text-content { position:absolute; top:0; left:0; right:0; padding:56px 56px 0; z-index:2; }
+    .info-4 h2 { font-family:'Poppins',sans-serif; font-size:38px; font-weight:900; color:white; line-height:1.1; letter-spacing:-0.025em; text-shadow:0 2px 12px rgba(0,0,0,0.4); }
+    .info-4 h2 em { color:#f5c842; font-style:normal; }
+    .info-4 .foot-overlay { position:absolute; bottom:0; left:0; right:0; padding:20px 56px 28px; z-index:2; display:flex; justify-content:space-between; align-items:center; }
+
+    /* INFO-5: Bold announcement — centered, big type */
+    .info-5 { background:#1a1a1a; }
+    .info-5 .inner { flex:1; padding:56px; display:flex; flex-direction:column; align-items:center; text-align:center; position:relative; z-index:1; }
+    .info-5 .badge { background:#f5c842; color:#1a1a1a; font-family:'Poppins',sans-serif; font-size:9px; font-weight:800; letter-spacing:0.2em; text-transform:uppercase; padding:6px 16px; border-radius:100px; margin-bottom:18px; flex-shrink:0; }
+    .info-5 h2 { font-family:'Poppins',sans-serif; font-size:50px; font-weight:900; color:white; line-height:1.0; letter-spacing:-0.035em; margin-bottom:14px; }
+    .info-5 h2 em { color:#f5c842; font-style:normal; }
+    .info-5 .divider { width:40px; height:4px; background:#f5c842; border-radius:2px; margin:0 auto 14px; flex-shrink:0; }
+    .info-5 .subtitle { font-size:15px; color:rgba(255,255,255,0.48); line-height:1.45; max-width:360px; }
+    .info-5 .note { font-size:11px; color:rgba(245,200,66,0.42); margin-top:10px; }
+    .info-5 .logo-center { margin:auto 0; }
+    .info-5 .url-bar { background:rgba(255,255,255,0.04); border-top:1px solid rgba(255,255,255,0.07); margin:0 -56px -56px; padding:14px 56px; display:flex; align-items:center; justify-content:center; gap:8px; flex-shrink:0; }
+    .info-5 .url-bar span { font-size:12px; font-weight:600; color:rgba(255,255,255,0.3); letter-spacing:0.06em; }
+
   </style>
 </head>
 <body>
@@ -395,6 +460,7 @@
           <div class="cat-btn" onclick="setCategory('park',event)"><div class="icon">🌳</div><div class="name">Parque</div></div>
           <div class="cat-btn" onclick="setCategory('client',event)"><div class="icon">🐶</div><div class="name">Cliente</div></div>
           <div class="cat-btn" onclick="setCategory('service',event)"><div class="icon">🚿</div><div class="name">Servicio</div></div>
+          <div class="cat-btn" onclick="setCategory('info',event)"><div class="icon">📢</div><div class="name">Anuncio</div></div>
         </div>
       </div>
 
@@ -436,6 +502,7 @@ const styles = {
   tip:     [{s:1,name:'Oscuro',desc:'Charcoal + amarillo',color:'#1F2933'},{s:2,name:'Aqua',desc:'Fondo claro azul',color:'#e8f7fd'},{s:3,name:'Barra lateral',desc:'Blanco + barra amarilla',color:'#ffffff'},{s:4,name:'Cita',desc:'Azul + quote grande',color:'#2F80ED'},{s:5,name:'Minimal',desc:'Blanco limpio',color:'#ffffff'}],
   park:    [{s:1,name:'Foto arriba',desc:'Clásico con foto',color:'#f0faff'},{s:2,name:'Full bleed',desc:'Foto de fondo',color:'#1F2933'},{s:3,name:'Header azul',desc:'Cabecera azul',color:'#2F80ED'},{s:4,name:'Header amarillo',desc:'Cabecera amarilla',color:'#F2C94C'},{s:5,name:'Oscuro círculo',desc:'Dark + foto circular',color:'#1F2933'}],
   client:  [{s:1,name:'Círculo top',desc:'Gradiente + anillo',color:'#2F80ED'},{s:2,name:'Full photo',desc:'Foto de fondo',color:'#1F2933'},{s:3,name:'Split',desc:'Foto izquierda',color:'#ffffff'},{s:4,name:'Minimal',desc:'Nombre grande',color:'#f0faff'},{s:5,name:'Oscuro stars',desc:'Dark + estrellas',color:'#1F2933'}],
+  info:    [{s:1,name:'Hero oscuro',desc:'Titular + URL bar',color:'#1a1a1a'},{s:2,name:'FAQ / Reveal',desc:'Pregunta + respuesta',color:'#1a1a1a'},{s:3,name:'Feature foto',desc:'Foto + íconos',color:'#1a1a1a'},{s:4,name:'Foto + texto',desc:'Full bleed foto',color:'#2a3a4a'},{s:5,name:'Bold centrado',desc:'Tipografía grande',color:'#1a1a1a'}],
   service: [{s:1,name:'Azul pasos',desc:'Fondo azul',color:'#2F80ED'},{s:2,name:'Oscuro pasos',desc:'Charcoal + amarillo',color:'#1F2933'},{s:3,name:'Header amarillo',desc:'Cabecera amarilla',color:'#F2C94C'},{s:4,name:'Columna aqua',desc:'Números laterales',color:'#BEE9F7'},{s:5,name:'Minimal',desc:'Blanco limpio',color:'#ffffff'}],
 }
 
@@ -443,6 +510,7 @@ const fields = {
   tip:     [{id:'badge',label:'Categoría',type:'input',def:'Tip de la semana'},{id:'headline',label:'Titular',type:'input',def:'¿Sabías que el pavimento puede quemar las patas de tu perro?'},{id:'hl',label:'Palabra en color (dentro del titular)',type:'input',def:'quemar las patas'},{id:'body',label:'Cuerpo del tip',type:'textarea',def:'En verano el asfalto en Santiago puede superar los 60°C. Prueba apoyar tu mano 5 segundos — si no aguantas, tu perro tampoco debería caminar ahí.'},{id:'hashtag',label:'Hashtag',type:'input',def:'#PerrosSantiago'}],
   park:    [{id:'name',label:'Nombre del parque',type:'input',def:'Parque Inés de Suárez'},{id:'loc',label:'Ubicación',type:'input',def:'Providencia / Ñuñoa'},{id:'body',label:'Descripción',type:'textarea',def:'Sombra real, zonas de pasto y espacio para correr sin correa. Ideal para un sábado de mañana con tu perro.'},{id:'chips',label:'Tags (separados por coma)',type:'input',def:'Sin correa,Sombra,Bebederos'}],
   client:  [{id:'name',label:'Nombre del perro',type:'input',def:'Luna'},{id:'meta',label:'Raza · Edad · Comuna',type:'input',def:'Golden Retriever · 3 años · Ñuñoa'},{id:'quote',label:'Testimonio',type:'textarea',def:'Llegó llena de barro del parque y salió impecable y feliz. El equipo fue increíble con ella.'},{id:'hl',label:'Frase en negrita',type:'input',def:'impecable y feliz'}],
+  info:    [{id:'badge',label:'Categoría',type:'input',def:'Anuncio'},{id:'headline',label:'Titular / Pregunta principal',type:'input',def:'¡Ven cuando quieras, sin reserva!'},{id:'hl',label:'Frase en color',type:'input',def:'sin reserva'},{id:'subtitle',label:'Subtítulo / Respuesta',type:'input',def:'Autolavado sin necesidad de reservar 🐾'},{id:'note',label:'Nota pequeña (opcional)',type:'input',def:'Servicio de peluquería sólo con reserva'},{id:'url',label:'URL al pie',type:'input',def:'washdog.cl'}],
   service: [{id:'headline',label:'Titular',type:'input',def:'Autolavado en 3 pasos'},{id:'hl',label:'Palabras en color',type:'input',def:'3 pasos'},{id:'step1',label:'Paso 1',type:'input',def:'Elige tu cabina y prepara a tu perro'},{id:'sub1',label:'Paso 1 — detalle',type:'input',def:'Rampa antideslizante y amarre de seguridad incluidos'},{id:'step2',label:'Paso 2',type:'input',def:'Shampoo, acondicionador y secador incluidos'},{id:'sub2',label:'Paso 2 — detalle',type:'input',def:'Productos profesionales sin costo extra'},{id:'step3',label:'Paso 3',type:'input',def:'Listo en 30–45 minutos'},{id:'sub3',label:'Paso 3 — detalle',type:'input',def:'Sin cita previa · Sin esperas'}],
 }
 
@@ -501,6 +569,18 @@ const render = {
   'client-4': ()=>`<div class="post client-4"><div class="top-stripe"></div><div class="inner"><div class="photo-small drop-zone" id="zone-client">${photoOrHintRound('client')}</div><div class="dog-name">${v('name')||'Nombre'}</div><div class="dog-meta">${v('meta')||''}</div><p class="quote">"${hl(v('quote'),v('hl'),'strong')}"</p><div class="foot">${BRAND_DK}<span style="font-size:9px;color:rgba(31,41,51,.35);">★★★★★</span></div></div></div>`,
 
   'client-5': ()=>`<div class="post client-5"><div class="bubbles-abs" style="background:radial-gradient(circle at 90% 10%,rgba(47,128,237,.07) 0,transparent 40%)"></div><div class="inner"><div class="photo-small drop-zone" id="zone-client">${photoOrHintRound('client')}</div><div class="stars">★★★★★</div><div class="dog-name">${v('name')||'Nombre'}</div><div class="dog-meta">${v('meta')||''}</div><p class="quote">"${hl(v('quote'),v('hl'),'strong')}"</p><div class="foot">${BRAND}<span class="brand-foot" style="color:rgba(255,255,255,.25);">@washdogexpress</span></div></div></div>`,
+
+
+  // INFO / ANUNCIO
+  'info-1': ()=>`<div class="post info-1"><svg class="paw-abs" style="left:50%;top:42%;transform:translate(-50%,-50%);opacity:.03;width:260px;height:260px" viewBox="0 0 100 100" fill="white"><ellipse cx="50" cy="65" rx="22" ry="18"/><ellipse cx="22" cy="44" rx="9" ry="12"/><ellipse cx="78" cy="44" rx="9" ry="12"/><ellipse cx="35" cy="26" rx="8" ry="10"/><ellipse cx="65" cy="26" rx="8" ry="10"/></svg><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="badge-yd">${v('badge')||'Anuncio'}</div><div class="big-hl">${hl(v('headline')||'¡Ven cuando quieras!',v('hl'))}</div><div class="subtitle">${v('subtitle')||''}</div><div class="logo-center"><img src="${LOGO_B64}" style="width:72px;height:72px;border-radius:50%;object-fit:cover;opacity:0.9;" alt="Washdog">${v('note')?'<div class="note-pill">'+v('note')+'</div>':''}</div></div><div class="url-bar"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#1a1a1a" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg><span>${v('url')||'washdog.cl'}</span></div></div>`,
+
+  'info-2': ()=>`<div class="post info-2"><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="badge-yd" style="margin-bottom:10px;">${v('badge')||'FAQ'}</div><p class="question">${v('headline')||'La gente nos pregunta si tenemos...'}</p><div class="answer">${hl(v('subtitle')||'PELUQUERÍA',v('hl'))}</div><div class="confirm">¡Y la verdad es que SÍ! 🐶</div><div class="photo-strip drop-zone" id="zone-info">${photoOrHint('info')}</div></div><div class="social-bar"><div class="social-item"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f5c842" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/></svg><span>${v('url')||'washdog.cl'}</span></div><div class="social-item"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#f5c842" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="#f5c842"/></svg><span class="handle">@washdogexpress</span></div></div></div>`,
+
+  'info-3': ()=>`<div class="post info-3"><div class="top-content"><div class="eyebrow">${v('badge')||'¡Una solución completa!'}</div><h2>${hl(v('headline')||'All in One',v('hl'))}</h2></div><div class="photo-zone drop-zone" id="zone-info">${photoOrHint('info',true)}</div><div class="features-bar"><div class="feat"><div class="feat-icon">🧴</div><div class="feat-label">Shampoo</div></div><div class="feat"><div class="feat-icon">💧</div><div class="feat-label">Acond.</div></div><div class="feat"><div class="feat-icon">🚿</div><div class="feat-label">Enjuague</div></div><div class="feat"><div class="feat-icon">💨</div><div class="feat-label hl">Secado</div></div></div><div class="foot">${BRAND}<span style="font-size:9.5px;color:rgba(255,255,255,0.3);">${v('url')||'washdog.cl'}</span></div></div>`,
+
+  'info-4': ()=>`<div class="post info-4"><div class="photo-bg drop-zone" id="zone-info">${photoOrHint('info',true)}</div><div class="overlay-grad"></div><div class="text-content"><h2>${hl(v('headline')||'Es tan fácil que tu perro pareciera bañarse solo',v('hl'))}</h2></div><div class="foot-overlay">${BRAND}<span style="font-size:9.5px;color:rgba(255,255,255,0.4);font-weight:600;">${v('url')||'washdog.cl'}</span></div></div>`,
+
+  'info-5': ()=>`<div class="post info-5"><svg class="bubbles-abs" viewBox="0 0 540 720"><circle cx="540" cy="0" r="200" fill="rgba(245,200,66,0.03)"/><circle cx="0" cy="720" r="160" fill="rgba(245,200,66,0.03)"/></svg><div class="inner"><div class="badge">${v('badge')||'¡Atención!'}</div><h2>${hl(v('headline')||'Ven cuando quieras',v('hl'))}</h2><div class="divider"></div><p class="subtitle">${v('subtitle')||''}</p>${v('note')?'<p class="note">* '+v('note')+'</p>':''}<div class="logo-center"><img src="${LOGO_B64}" style="width:72px;height:72px;border-radius:50%;object-fit:cover;opacity:0.85;" alt="Washdog"></div></div><div class="url-bar"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/></svg><span>${v('url')||'washdog.cl'}</span></div></div>`,
 
   // SERVICE
   'service-1': ()=>`<div class="post service-1"><svg class="bubbles-abs" viewBox="0 0 540 540"><circle cx="480" cy="80" r="100" fill="none" stroke="white" stroke-opacity=".04" stroke-width="2"/><circle cx="60" cy="460" r="140" fill="none" stroke="white" stroke-opacity=".03" stroke-width="2"/></svg><div class="top-bar-full grad-yellow"></div><div class="inner"><div class="badge-yd badge-wh">Cómo funciona</div><h2 style="margin-top:12px">${hl(v('headline'),v('hl'))}</h2><div class="steps"><div class="step"><div class="num">1</div><div class="txt">${v('step1')}<small>${v('sub1')}</small></div></div><div class="step"><div class="num">2</div><div class="txt">${v('step2')}<small>${v('sub2')}</small></div></div><div class="step"><div class="num">3</div><div class="txt">${v('step3')}<small>${v('sub3')}</small></div></div></div><div class="foot">${BRAND}<span style="font-size:9.5px;color:rgba(190,233,247,.7);font-weight:600;">washdog.cl</span></div></div></div>`,
