@@ -77,13 +77,13 @@ El baño está incluido en el precio del corte.
 
 ## Preguntas frecuentes
 
-**¿Necesito reservar con anticipación?**
+### ¿Necesito reservar con anticipación?
 Sí. Trabajamos con reserva previa para garantizar la atención individual de tu perro.
 
-**¿Pueden cortar a un perro ansioso?**
+### ¿Pueden cortar a un perro ansioso?
 Sí. Trabajamos con calma y nunca apuramos el proceso. La atención individual ayuda a que la experiencia sea menos estresante.
 
-**¿El precio incluye el baño?**
+### ¿El precio incluye el baño?
 Sí. El corte y arreglo incluye baño, brushing, corte y limpieza de orejas.
 
 ---
