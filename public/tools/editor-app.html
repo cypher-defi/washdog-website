@@ -422,6 +422,9 @@
     .info-4 .text-content { position:absolute; top:0; left:0; right:0; padding:56px 56px 0; z-index:2; }
     .info-4 h2 { font-family:'Poppins',sans-serif; font-size:38px; font-weight:900; color:white; line-height:1.1; letter-spacing:-0.025em; text-shadow:0 2px 12px rgba(0,0,0,0.4); }
     .info-4 h2 em { color:#f5c842; font-style:normal; }
+    .info-4 .text-content .badge-yd { margin-bottom:12px; }
+    .info-4 .sub4 { font-size:15px; font-weight:500; color:rgba(255,255,255,0.8); margin-top:14px; line-height:1.4; max-width:360px; text-shadow:0 1px 6px rgba(0,0,0,0.6); }
+    .info-4 .note4 { font-size:12px; font-weight:600; color:#f5c842; margin-top:8px; opacity:0.85; text-shadow:0 1px 4px rgba(0,0,0,0.5); }
     .info-4 .foot-overlay { position:absolute; bottom:0; left:0; right:0; padding:20px 56px 56px; z-index:2; display:flex; justify-content:space-between; align-items:center; }
 
 
@@ -583,7 +586,7 @@ const render = {
 
   'info-3': ()=>`<div class="post info-3"><div class="top-content"><div class="eyebrow">${v('badge')||'¡Una solución completa!'}</div><h2>${hl(v('headline')||'All in One',v('hl'))}</h2></div><div class="photo-zone drop-zone" id="zone-info">${photoOrHint('info',true)}</div><div class="features-bar"><div class="feat"><div class="feat-icon">🧴</div><div class="feat-label">Shampoo</div></div><div class="feat"><div class="feat-icon">💧</div><div class="feat-label">Acond.</div></div><div class="feat"><div class="feat-icon">🚿</div><div class="feat-label">Enjuague</div></div><div class="feat"><div class="feat-icon">💨</div><div class="feat-label hl">Secado</div></div></div><div class="foot">${BRAND}<span style="font-size:9.5px;color:rgba(255,255,255,0.3);">${v('url')||'washdog.cl'}</span></div></div>`,
 
-  'info-4': ()=>`<div class="post info-4"><div class="photo-bg drop-zone" id="zone-info">${photoOrHint('info',true)}</div><div class="overlay-grad"></div><div class="text-content"><h2>${hl(v('headline')||'Es tan fácil que tu perro pareciera bañarse solo',v('hl'))}</h2></div><div class="foot-overlay">${BRAND}<span style="font-size:9.5px;color:rgba(255,255,255,0.4);font-weight:600;">${v('url')||'washdog.cl'}</span></div></div>`,
+  'info-4': ()=>`<div class="post info-4"><div class="photo-bg drop-zone" id="zone-info">${photoOrHint('info',true)}</div><div class="overlay-grad"></div><div class="text-content">${v('badge')?'<div class="badge-yd" style="margin-bottom:10px;">'+v('badge')+'</div>':''}<h2>${hl(v('headline')||'Es tan fácil que tu perro pareciera bañarse solo',v('hl'))}</h2>${v('subtitle')?'<p class="sub4">'+v('subtitle')+'</p>':''}${v('note')?'<p class="note4">'+v('note')+'</p>':''}</div><div class="foot-overlay">${BRAND}</div></div>`,
 
   'info-5': ()=>`<div class="post info-5"><svg class="bubbles-abs" viewBox="0 0 540 720"><circle cx="540" cy="0" r="200" fill="rgba(245,200,66,0.03)"/><circle cx="0" cy="720" r="160" fill="rgba(245,200,66,0.03)"/></svg><div class="inner"><div class="badge">${v('badge')||'¡Atención!'}</div><h2>${hl(v('headline')||'Ven cuando quieras',v('hl'))}</h2><div class="divider"></div><p class="subtitle">${v('subtitle')||''}</p>${v('note')?'<p class="note">* '+v('note')+'</p>':''}<div class="logo-center"><img src="${LOGO_B64}" style="width:80px;height:80px;border-radius:50%;object-fit:cover;opacity:0.9;box-shadow:0 0 0 2px rgba(255,255,255,0.12),0 2px 8px rgba(0,0,0,0.35);" alt="Washdog"></div></div><div class="url-bar"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/></svg><span>${v('url')||'washdog.cl'}</span></div></div>`,
 
