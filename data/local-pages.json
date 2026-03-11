@@ -1,17 +1,27 @@
 {
   "slugs": [
     "auto-lavado-perros",
+    "bano-perros-cerro-navia",
+    "bano-perros-estacion-central",
     "bano-perros-huechuraba",
     "bano-perros-independencia",
     "bano-perros-la-florida",
     "bano-perros-la-reina",
     "bano-perros-las-condes",
     "bano-perros-lo-barnechea",
+    "bano-perros-lo-prado",
     "bano-perros-macul",
     "bano-perros-nunoa",
+    "bano-perros-pedro-aguirre-cerda",
     "bano-perros-penalolen",
     "bano-perros-providencia",
+    "bano-perros-quilicura",
+    "bano-perros-quinta-normal",
     "bano-perros-recoleta",
+    "bano-perros-renca",
+    "bano-perros-san-joaquin",
+    "bano-perros-san-miguel",
+    "bano-perros-san-ramon",
     "bano-perros-santiago-centro",
     "bano-perros-vitacura",
     "bano-perros",
@@ -51,5 +61,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-10T09:09:22.506827"
+  "generated_at": "2026-03-11T09:10:55.062827"
 }
