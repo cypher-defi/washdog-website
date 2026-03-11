@@ -1,4 +1,5 @@
 import { getServicio } from "@/lib/servicios"
+import { ServiceJsonLd } from "@/components/ServiceJsonLd"
 
 interface Props {
   children: React.ReactNode
@@ -19,12 +20,32 @@ export default async function ServiceSlugLayout({ children, params }: Props) {
     ]
   }
 
+  // Page-specific FAQs extracted from the markdown content
+  const pageFaqSchema = servicio?.faqs && servicio.faqs.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: servicio.faqs.map(({ question, answer }) => ({
+          "@type": "Question",
+          name: question,
+          acceptedAnswer: { "@type": "Answer", text: answer },
+        })),
+      }
+    : null
+
   return (
     <>
       <script
         type='application/ld+json'
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      <ServiceJsonLd slug={service} />
+      {pageFaqSchema && (
+        <script
+          type='application/ld+json'
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(pageFaqSchema) }}
+        />
+      )}
       {children}
     </>
   )

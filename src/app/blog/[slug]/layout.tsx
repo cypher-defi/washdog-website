@@ -5,6 +5,21 @@ interface Props {
   params: Promise<{ slug: string }>
 }
 
+// Named author entity — improves E-E-A-T signals for Google's helpful content system
+const WASHDOG_AUTHOR = {
+  "@type": "Person",
+  "@id": "https://www.washdog.cl/#author",
+  name: "Equipo WashDog",
+  description: "Peluqueros caninos profesionales en Ñuñoa, Santiago, con experiencia en todas las razas.",
+  worksFor: {
+    "@type": "Organization",
+    "@id": "https://www.washdog.cl",
+    name: "Washdog",
+    url: "https://www.washdog.cl",
+  },
+  url: "https://www.washdog.cl",
+}
+
 export default async function BlogSlugLayout({ children, params }: Props) {
   const { slug } = await params
   const post = await getPost(slug)
@@ -26,13 +41,10 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     description: post.description,
     datePublished: post.date,
     dateModified: post.date,
-    author: {
-      "@type": "Organization",
-      name: "Washdog",
-      url: "https://www.washdog.cl",
-    },
+    author: WASHDOG_AUTHOR,
     publisher: {
       "@type": "Organization",
+      "@id": "https://www.washdog.cl",
       name: "Washdog",
       url: "https://www.washdog.cl",
       logo: {
@@ -46,6 +58,23 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     },
   } : null
 
+  // HowTo schema for step-by-step "Cómo" articles
+  const howToSchema = post?.howToSteps && post.howToSteps.length >= 2
+    ? {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        name: post.title,
+        description: post.description,
+        author: WASHDOG_AUTHOR,
+        step: post.howToSteps.map((s, i) => ({
+          "@type": "HowToStep",
+          position: i + 1,
+          name: s.name,
+          text: s.text,
+        })),
+      }
+    : null
+
   return (
     <>
       <script
@@ -56,6 +85,12 @@ export default async function BlogSlugLayout({ children, params }: Props) {
         <script
           type='application/ld+json'
           dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+        />
+      )}
+      {howToSchema && (
+        <script
+          type='application/ld+json'
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
         />
       )}
       {children}

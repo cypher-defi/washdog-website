@@ -24,8 +24,39 @@ export interface ServicioMeta {
   relatedServices?: RelatedService[]
 }
 
+export interface FaqItem {
+  question: string
+  answer: string
+}
+
 export interface Servicio extends ServicioMeta {
   contentHtml: string
+  faqs: FaqItem[]
+}
+
+/**
+ * Extracts FAQ pairs from markdown content.
+ * Looks for H3/H2 headings starting with ¿ and their following paragraph.
+ */
+export function extractFaqs(content: string): FaqItem[] {
+  const faqs: FaqItem[] = []
+  const lines = content.split('\n')
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim()
+    if (/^#{2,3}\s+¿/.test(line)) {
+      const question = line.replace(/^#{2,3}\s+/, '').trim()
+      let answer = ''
+      for (let j = i + 1; j < Math.min(i + 8, lines.length); j++) {
+        const next = lines[j].trim()
+        if (next && !next.startsWith('#') && !next.startsWith('|')) {
+          answer = next.replace(/[*_[\]()]/g, '').replace(/\[.*?\]\(.*?\)/g, '').trim()
+          break
+        }
+      }
+      if (question && answer) faqs.push({ question, answer })
+    }
+  }
+  return faqs
 }
 
 export function getAllServicios(): ServicioMeta[] {
@@ -45,5 +76,6 @@ export async function getServicio(slug: string): Promise<Servicio | null> {
   const raw = fs.readFileSync(filepath, "utf-8")
   const { data, content } = matter(raw)
   const contentHtml = await marked(content)
-  return { slug, contentHtml, ...data } as Servicio
+  const faqs = extractFaqs(content)
+  return { slug, contentHtml, faqs, ...data } as Servicio
 }
