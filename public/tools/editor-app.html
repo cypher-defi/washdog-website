@@ -57,58 +57,30 @@
     .post-wrap { position:relative; }
 
     /* ── Safe zone overlay (not captured by html2canvas) ─────────── */
+    /* 3:4 format matches Instagram grid exactly — no cropping, full canvas is safe */
     #post-container { position:relative; display:inline-block; }
-    #safe-zone { position:absolute; inset:0; pointer-events:none; z-index:50; }
-
-    /* Top 67.5px bleed — feed only, dimmed */
-    #top-bleed-dim {
-      position:absolute; left:0; right:0; top:0; height:67.5px;
-      background:rgba(10,15,26,0.28); pointer-events:none;
+    #safe-zone {
+      position:absolute; inset:0; pointer-events:none; z-index:50;
+      box-shadow: inset 0 0 0 54px rgba(10,15,26,0.45);
     }
-    /* Bottom 67.5px bleed — feed only, dimmed */
-    #bottom-bleed-dim {
-      position:absolute; left:0; right:0; bottom:0; height:67.5px;
-      background:rgba(10,15,26,0.28); pointer-events:none;
-    }
-
-    /* Guide line at top of grid-safe area (y=67.5px = 135px at export) */
-    #grid-top-line {
-      position:absolute; left:0; right:0; top:67.5px;
-      border-top:2px dashed rgba(245,200,66,0.85); pointer-events:none;
-    }
-    /* Guide line at bottom of grid-safe area (y=607.5px = 1215px at export) */
-    #grid-bottom-line {
-      position:absolute; left:0; right:0; top:607.5px;
-      border-top:2px dashed rgba(245,200,66,0.85); pointer-events:none;
-    }
-    /* Labels on guide lines */
-    #grid-top-label {
-      position:absolute; top:70px; left:50%; transform:translateX(-50%);
-      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
-      color:rgba(245,200,66,0.9); white-space:nowrap;
-      background:rgba(10,15,26,0.7); padding:2px 8px; border-radius:4px;
-    }
-    #grid-bottom-label {
-      position:absolute; top:610px; left:50%; transform:translateX(-50%);
-      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
-      color:rgba(245,200,66,0.9); white-space:nowrap;
-      background:rgba(10,15,26,0.7); padding:2px 8px; border-radius:4px;
-    }
-
-    /* 56px content-safe dashed border inside the grid-safe zone */
     #safe-zone-border {
       position:absolute;
-      top:calc(67.5px + 54px); left:54px; right:54px; bottom:calc(67.5px + 54px);
-      border:1.5px dashed rgba(245,200,66,0.35); pointer-events:none;
+      top:54px; left:54px; right:54px; bottom:54px;
+      border:1.5px dashed rgba(245,200,66,0.55); pointer-events:none;
     }
-
+    #safe-zone-label {
+      position:absolute; top:58px; left:50%; transform:translateX(-50%);
+      font-size:8px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;
+      color:rgba(245,200,66,0.8); white-space:nowrap;
+      background:rgba(10,15,26,0.6); padding:2px 8px; border-radius:4px;
+    }
     #safe-zone.hidden { display:none; }
     .zone-toggle { background:rgba(255,255,255,0.05); color:rgba(255,255,255,0.45); font-family:"Inter",sans-serif; font-size:10.5px; font-weight:600; padding:7px 10px; border-radius:7px; border:1.5px solid rgba(255,255,255,0.07); cursor:pointer; width:100%; text-align:left; transition:all 0.15s; }
     .zone-toggle:hover { background:rgba(255,255,255,0.08); color:rgba(255,255,255,0.7); }
     .zone-toggle.active { border-color:rgba(245,200,66,0.4); color:rgba(245,200,66,0.85); background:rgba(245,200,66,0.06); }
 
-    /* ── BASE POST (540×675px = 50% of 1080×1350px, 4:5 ratio) ──── */
-    .post { width:540px; height:675px; padding:67.5px 0; position:relative; overflow:hidden; display:flex; flex-direction:column; font-family:'Inter',sans-serif; }
+    /* ── BASE POST (540×720px = 50% of 1080×1440px, 3:4 ratio) ──── */
+    .post { width:540px; height:720px; position:relative; overflow:hidden; display:flex; flex-direction:column; font-family:'Inter',sans-serif; }
 
     /* ── Shared utilities ─────────────────────────────────────────── */
     .top-bar-full { height:5px; width:100%; flex-shrink:0; }
@@ -216,7 +188,7 @@
     .park-2 .photo-bg { position:absolute; inset:0; background:linear-gradient(135deg,#3a7d5a,#2a5c8a); }
     .park-2 .photo-bg img.photo-fill { opacity:0.55; }
     .park-2 .overlay { position:absolute; inset:0; background:linear-gradient(to top, rgba(31,41,51,0.95) 0%, rgba(31,41,51,0.4) 50%, transparent 100%); }
-    .park-2 .content { position:absolute; bottom:67.5px; left:0; right:0; padding:32px 56px 56px; z-index:2; }
+    .park-2 .content { position:absolute; bottom:0; left:0; right:0; padding:32px 56px 56px; z-index:2; }
     .park-2 h2 { font-family:'Poppins',sans-serif; font-size:28px; font-weight:800; color:white; line-height:1.15; letter-spacing:-0.015em; margin-bottom:8px; }
     .park-2 .body { font-size:13px; color:rgba(255,255,255,0.65); line-height:1.55; margin-bottom:12px; }
     .park-2 .chips { display:flex; gap:5px; flex-wrap:wrap; margin-bottom:14px; }
@@ -287,7 +259,7 @@
     .client-2 .photo-bg { position:absolute; inset:0; background:linear-gradient(135deg,#3a4a5c,#2a3a4c); }
     .client-2 .photo-bg img.photo-fill { opacity:0.45; }
     .client-2 .overlay { position:absolute; inset:0; background:linear-gradient(to top, rgba(31,41,51,0.98) 0%, rgba(31,41,51,0.5) 55%, rgba(31,41,51,0.1) 100%); }
-    .client-2 .content { position:absolute; bottom:67.5px; left:0; right:0; padding:28px 56px 56px; z-index:2; }
+    .client-2 .content { position:absolute; bottom:0; left:0; right:0; padding:28px 56px 56px; z-index:2; }
     .client-2 .stars { color:var(--yellow); font-size:16px; letter-spacing:2px; margin-bottom:8px; }
     .client-2 .dog-name { font-family:'Poppins',sans-serif; font-size:28px; font-weight:800; color:white; line-height:1.1; margin-bottom:4px; }
     .client-2 .dog-meta { font-size:11px; color:rgba(255,255,255,0.4); margin-bottom:10px; }
@@ -402,7 +374,7 @@
 
 <div id="overlay">
   <div class="spinner"></div>
-  <p>Exportando PNG 1080×1350...</p>
+  <p>Exportando PNG 1080×1440...</p>
 </div>
 
 <div class="app">
@@ -437,7 +409,7 @@
 
     <div class="sidebar-bottom">
       <button class="zone-toggle active" id="zone-btn" onclick="toggleSafeZone()">◻ Safe zone grid <span style="float:right;opacity:0.5;">ON</span></button>
-      <button class="export-btn" onclick="exportPost()">⬇ Exportar PNG 1080×1350</button>
+      <button class="export-btn" onclick="exportPost()">⬇ Exportar PNG 1080×1440</button>
       <p class="hint">Arrastra una foto directamente sobre el área de imagen</p>
     </div>
   </div>
@@ -447,13 +419,8 @@
     <div id="post-container">
       <div class="post-wrap" id="post-wrap"></div>
       <div id="safe-zone">
-        <div id="top-bleed-dim"></div>
-        <div id="bottom-bleed-dim"></div>
-        <div id="grid-top-line"></div>
-        <div id="grid-bottom-line"></div>
-        <div id="grid-top-label">✂ perfil recorta aquí</div>
-        <div id="grid-bottom-label">✂ perfil recorta aquí</div>
         <div id="safe-zone-border"></div>
+        <div id="safe-zone-label">✦ zona segura</div>
       </div>
     </div>
   </div>
@@ -623,7 +590,7 @@ async function exportPost(){
   const el=document.querySelector('.post')
   const canvas=await html2canvas(el,{scale:2,useCORS:true,allowTaint:true,backgroundColor:null,logging:false})
   const a=document.createElement('a')
-  a.download=`washdog-${cat}-${style}-1080x1350-${Date.now()}.png`
+  a.download=`washdog-${cat}-${style}-1080x1440-${Date.now()}.png`
   a.href=canvas.toDataURL('image/png')
   a.click()
   document.getElementById('overlay').classList.remove('show')
