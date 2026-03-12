@@ -1,14 +1,19 @@
 {
   "slugs": [
     "auto-lavado-perros",
+    "bano-perros-cerrillos",
     "bano-perros-cerro-navia",
     "bano-perros-estacion-central",
     "bano-perros-huechuraba",
     "bano-perros-independencia",
+    "bano-perros-la-cisterna",
     "bano-perros-la-florida",
+    "bano-perros-la-granja",
+    "bano-perros-la-pintana",
     "bano-perros-la-reina",
     "bano-perros-las-condes",
     "bano-perros-lo-barnechea",
+    "bano-perros-lo-espejo",
     "bano-perros-lo-prado",
     "bano-perros-macul",
     "bano-perros-nunoa",
@@ -25,6 +30,11 @@
     "bano-perros-santiago-centro",
     "bano-perros-vitacura",
     "bano-perros",
+    "corte-perros-la-reina",
+    "corte-perros-las-condes",
+    "corte-perros-nunoa",
+    "corte-perros-providencia",
+    "corte-perros-santiago-centro",
     "corte-perros",
     "mejor-peluqueria-canina-santiago",
     "peluqueria-canina-cerrillos",
@@ -61,5 +71,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-11T09:16:21.865518"
+  "generated_at": "2026-03-12T09:10:35.265939"
 }
