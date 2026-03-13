@@ -30,11 +30,21 @@
     "bano-perros-santiago-centro",
     "bano-perros-vitacura",
     "bano-perros",
+    "corte-perros-cerro-navia",
+    "corte-perros-huechuraba",
+    "corte-perros-independencia",
+    "corte-perros-la-florida",
     "corte-perros-la-reina",
     "corte-perros-las-condes",
+    "corte-perros-lo-barnechea",
+    "corte-perros-macul",
     "corte-perros-nunoa",
+    "corte-perros-penalolen",
     "corte-perros-providencia",
+    "corte-perros-quilicura",
+    "corte-perros-recoleta",
     "corte-perros-santiago-centro",
+    "corte-perros-vitacura",
     "corte-perros",
     "mejor-peluqueria-canina-santiago",
     "peluqueria-canina-cerrillos",
@@ -71,5 +81,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-03-12T09:10:35.265939"
+  "generated_at": "2026-03-13T09:10:43.465314"
 }
