@@ -1,58 +1,67 @@
 ---
 issue_number: 1
-title: "🐾 Tu perro y tú tienen un plan este domingo"
-subject_line: "🐾 Tu perro y tú tienen un plan este domingo"
-description: "Parque Bustamante, un encuentro en Ñuñoa y lo que el calor le hace a tu perro."
-date: "2026-03-08"
+title: "🐾 Tu finde en Ñuñoa empieza con 4 patas"
+subject_line: "🐾 Tu finde en Ñuñoa empieza con 4 patas"
+description: "Parque, feria canina y un tip que puede salvarle las almohadillas a tu perro este verano."
+date: "2026-03-14"
 commune: "Ñuñoa"
+---
+
+# Santiago a Cuatro Patas — Edición #1
+
+*La guía semanal para vivir Santiago con tu perro — by WashDog*
+
 ---
 
 Hola 🐾, aquí va tu primera dosis semanal de Santiago perruno.
 
-Esta es la edición #1 de **Santiago a Cuatro Patas**, la guía que armamos cada semana para que vivir Santiago con tu perro sea más fácil, más entretenido y un poco más consciente. Empecemos.
+Arrancamos con parque, feria y un tip que vale doble en estos calores. Ojalá lo disfruten tanto tú como el peludo que seguramente está mirándote mientras lees esto.
 
 ---
 
-## 📍 Lugar de la Semana: Parque Bustamante
+## 📍 Lugar de la Semana: Parque de los Reyes del Barrio Italia
 
-Si todavía no llevas a tu perro al Bustamante, te estás perdiendo de uno de los mejores rincones pet-friendly del sector oriente.
+Si todavía no conocen este rincón verde, anótenlo.
 
-El parque tiene árboles maduros que dan sombra de verdad, caminos amplios para pasear sin apuros y fuentes de agua accesibles. No es de esos parques donde hay que zigzaguear entre niños y ciclistas cada dos metros: tiene espacio, tiene ritmo y tiene una comunidad de dueños habituales que hace que el ambiente sea relajado desde el minuto uno.
+El **Parque de los Reyes** —en el límite entre Providencia y Ñuñoa— es uno de esos lugares que parecen hechos para ir con perro: amplio, arbolado, con bastante sombra y pasto en buen estado donde los perritos pueden correr sin apuro. Los bebederos del sector norte son un detalle que se agradece en pleno verano santiaguino.
 
-**¿Por qué ir esta semana?** Es el escenario perfecto para un paseo largo de tarde, especialmente si tu perro llega recién bañado y con las patitas limpias. El sábado, después de pasar por WashDog, es el momento ideal.
+Entre semana tiene una calma ideal para un paseo tranquilo. Los fines de semana el ambiente cambia: familias con mascotas por todos lados y una energía muy sociable que a la mayoría de los perros (y dueños) les encanta.
 
-📌 **Dónde:** Av. Providencia con Av. Bustamante, límite Providencia–Ñuñoa
+**📌 Cómo llegar:** Av. Condell con Av. Italia, Providencia.
 
----
-
-## 🗓️ Evento: Encuentro Canino Ñuñoa — Domingo en el Parque
-
-Cada último domingo del mes, la Plaza Ñuñoa se convierte en punto de encuentro para dueños del barrio y sus perros. Sin cuotas, sin inscripciones, sin protocolo: llegan, los perros se huelen, los humanos toman café o no, y todos se van contentos.
-
-El ambiente es familiar y tranquilo. Hay intercambio de recomendaciones, algunas fotos grupales y bastante wagging de colas. Es el tipo de plan que se disfruta más de lo que uno espera.
-
-- 🕙 **Cuándo:** Último domingo del mes, 10:00–12:00
-- 📌 **Dónde:** Plaza Ñuñoa, Av. Irarrázaval con Julio Prado, Ñuñoa
-
-Si van, cuéntenle al resto cómo estuvo. Podemos incluirlo en la próxima edición.
+> *Tip de uso:* Si tu perro acaba de pasar por el baño del sábado en WashDog, el parque queda a pocos minutos y es el cierre perfecto para la mañana.
 
 ---
 
-> **¿Sabías esto?** Chile es uno de los países con más perros per cápita en América Latina. Se estima que hay más de 3,5 millones de perros con dueño en todo el país, y comunas como Ñuñoa llevan años invirtiendo en infraestructura pet-friendly en sus parques y plazas. No es casualidad que haya tanto meetup canino en el sector. *(Fuente: estimación basada en datos del Ministerio de Salud y estudios de tenencia responsable, 2022)*
+## 🗓️ Evento: Feria Canina "Huellitas en el Barrio"
+
+**¿Cuándo?** Último sábado del mes, de 10:00 a 14:00
+**¿Dónde?** Plaza Condell, Barrio Italia, Providencia
+
+Este encuentro mensual en el corazón del Barrio Italia es exactamente lo que suena: perros, dueños, y ganas de compartir. Además de la parte social —que para algunos perros es lo mejor del mes—, vas a encontrar stands de alimentación natural, accesorios y organizaciones con perros en adopción buscando familia.
+
+Es un buen plan para conocer a otros perreros de la zona y descubrir marcas locales que quizás no conocías. Sin pretensiones, con buen ambiente y a la vuelta de la esquina para quienes viven en Ñuñoa o Providencia.
+
+---
+
+> 🇨🇱 **¿Sabías esto?** Chile es uno de los países con más perros por habitante en América Latina. Se estima que hay más de 3,5 millones de perros con dueño en todo el país, y en Santiago **una de cada tres familias tiene al menos un perro en casa**. No es raro que la ciudad se esté adaptando a ellos.
+> *(Fuente estimada: SAG, 2022)*
 
 ---
 
 ## 💡 Tip de la Semana: Hidrata a tu perro antes, durante y después del paseo
 
-En enero y febrero, Santiago no perdona. Las temperaturas en el sector oriente y Ñuñoa pueden superar los 32 °C al mediodía, y eso representa un riesgo real de golpe de calor para tu perro.
+El verano en Santiago no perdona, y los perros lo sienten más que nosotros.
 
-Algunas cosas concretas que puedes hacer esta semana:
+Las temperaturas en Ñuñoa superan fácilmente los 30 °C al mediodía, pero lo que mucha gente no sabe es que el **asfalto puede llegar a los 60 °C** —suficiente para quemarle las almohadillas a tu perro en minutos. La regla es simple: si el pavimento está demasiado caliente para apoyar tu mano durante 5 segundos, está demasiado caliente para sus patas.
 
-- **Lleva siempre agua fresca y un bowl portátil.** No dependas de las fuentes del parque como única opción.
-- **Prefiere los paseos temprano en la mañana o después de las 19:00.** El asfalto acumula calor y puede quemarle las patitas antes de que notes cualquier señal.
-- **Si tu perro tiene pelaje largo o doble capa**, el exceso de pelo puede acumular calor y dificultarle la regulación térmica de manera significativa. Una sesión de deslanado profesional en esta época del año marca una diferencia real en su comodidad, y no es lo mismo que un corte estético: se hace con técnica y productos específicos para no dañar la capa protectora natural del pelo.
+**Lo que funciona:**
 
-El calor de verano en Santiago es uno de esos factores que los dueños subestiman hasta que se convierte en un susto. Mejor anticiparse.
+- Salir a pasear **antes de las 9:00** o **después de las 19:00**
+- Llevar siempre agua fresca en un dispensador portátil (los hay desde $3.000 en cualquier tienda de mascotas)
+- Revisar el pelaje regularmente: el pelo enredado o con exceso de muda **retiene el calor corporal** y puede generar una incomodidad real que a veces confundimos con mal humor o cansancio
+
+Un grooming con deslanado ayuda a que el pelaje respire mejor y regule la temperatura con más eficiencia. No es un lujo estético, es una decisión práctica para el verano.
 
 ---
 
@@ -62,19 +71,19 @@ El calor de verano en Santiago es uno de esos factores que los dueños subestima
 
 ---
 
-## 🐶 Oferta WashDog: Corte + Baño al precio del corte
+## 🐶 Oferta WashDog esta semana: Corte + Baño al precio del corte
 
-Si después de leer el tip de esta semana estás pensando en sacarle el pelo a tu perro antes de que el verano se ponga serio, esta semana es buen momento.
+Si tu perro necesita un deslanado antes de que llegue el peor calor del verano —y después de leer el tip de arriba probablemente estás pensando en eso—, esta semana es buen momento.
 
-WashDog tiene disponible el servicio de **corte + baño al precio del corte**, lo que lo convierte en una de las semanas más convenientes del año para agendar. El deslanado también está disponible para las razas que lo necesitan.
+En WashDog están ofreciendo **baño incluido en el precio del corte**, lo que significa que tu perro sale limpio, peinado y listo para el parque sin pagar extra por el baño.
 
-👉 [Ver disponibilidad y agendar en washdog.cl](https://www.washdog.cl/servicios/corte-perros)
+👉 [Ver detalle del servicio en washdog.cl](https://www.washdog.cl/servicios/corte-perros)
 
 ---
 
-Eso es todo por esta semana. Si conocen algún parque, café pet-friendly, evento o tip que valga la pena compartir con el resto de la comunidad, escríbannos. Esta guía la construimos entre todos.
+Eso es todo por esta primera edición. Nos vemos la semana que viene con más lugares, más planes y más perros santiaguinos.
 
-Hasta el próximo domingo. 🐾
+Si conoces un parque, café, tienda o rincón dog-friendly que merece aparecer aquí, escríbenos. Esta guía la construimos entre todos.
 
 — El equipo WashDog 🐶
 
