@@ -1,198 +1,60 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.washdog.cl</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/auto-lavado-perros-nunoa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+
+  <!-- Static service pages -->
   <url>
     <loc>https://www.washdog.cl/servicios/bano</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/corte</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-nunoa</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-gatos-nunoa</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/auto-lavado-perros-nunoa</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/precio-peluqueria-nunoa</loc>
+    <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://www.washdog.cl/privacy</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/terms</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
+
+  <!-- Programmatic service pages -->
   <url>
     <loc>https://www.washdog.cl/servicios/auto-lavado-perros</loc>
     <lastmod>2026-03-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-cerrillos</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-cerro-navia</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-estacion-central</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-huechuraba</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-independencia</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-la-cisterna</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-la-florida</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-la-granja</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-la-pintana</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-la-reina</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-las-condes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-lo-barnechea</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-lo-espejo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-lo-prado</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-macul</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-nunoa</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-pedro-aguirre-cerda</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-penalolen</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-providencia</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-quilicura</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-quinta-normal</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-recoleta</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-renca</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-san-joaquin</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-san-miguel</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-san-ramon</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-santiago-centro</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/bano-perros-vitacura</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -203,77 +65,170 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-cerro-navia</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-cerrillos</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-huechuraba</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-cerro-navia</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-independencia</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-estacion-central</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-la-florida</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-huechuraba</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-la-reina</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-independencia</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-las-condes</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-la-cisterna</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-lo-barnechea</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-la-florida</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-macul</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-la-granja</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-nunoa</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-la-pintana</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-penalolen</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-la-reina</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-providencia</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-las-condes</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-quilicura</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-lo-barnechea</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-recoleta</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-lo-espejo</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-santiago-centro</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-lo-prado</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/corte-perros-vitacura</loc>
+    <loc>https://www.washdog.cl/servicios/bano-perros-macul</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-nunoa</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-pedro-aguirre-cerda</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-penalolen</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-providencia</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-quilicura</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-quinta-normal</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-recoleta</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-renca</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-san-joaquin</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-san-miguel</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-san-ramon</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-santiago-centro</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/bano-perros-vitacura</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -284,153 +239,271 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-cerro-navia</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-huechuraba</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-independencia</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-la-florida</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-la-reina</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-las-condes</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-lo-barnechea</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-macul</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-nunoa</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-penalolen</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-providencia</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-quilicura</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-recoleta</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-santiago-centro</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/servicios/corte-perros-vitacura</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/mejor-peluqueria-canina-santiago</loc>
     <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.washdog.cl/servicios/peluqueria-canina</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-cerrillos</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-cerro-navia</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-estacion-central</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-huechuraba</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-independencia</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-cisterna</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-florida</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-granja</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-pintana</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-la-reina</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-las-condes</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-barnechea</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-espejo</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-lo-prado</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-macul</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-nunoa</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-pedro-aguirre-cerda</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-penalolen</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-providencia</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-quilicura</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-quinta-normal</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-recoleta</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-renca</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-joaquin</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-miguel</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-san-ramon</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-santiago-centro</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/peluqueria-canina-vitacura</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/servicios/peluqueria-canina</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -442,14 +515,14 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/precio-peluqueria-canina-santiago</loc>
-    <lastmod>2026-03-06</lastmod>
+    <loc>https://www.washdog.cl/servicios/precio-peluqueria</loc>
+    <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/servicios/precio-peluqueria</loc>
-    <lastmod>2026-03-09</lastmod>
+    <loc>https://www.washdog.cl/servicios/precio-peluqueria-canina-santiago</loc>
+    <lastmod>2026-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -459,70 +532,72 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://www.washdog.cl/blog/auto-lavado-perros-nunoa</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.washdog.cl/blog/como-banar-perro-correctamente</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
-  </url>
+
+  <!-- Blog posts -->
   <url>
     <loc>https://www.washdog.cl/blog/como-cortar-pelo-perro</loc>
     <lastmod>2026-03-13</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/como-secar-perro-despues-bano</loc>
     <lastmod>2026-03-11</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/errores-banar-perro</loc>
     <lastmod>2026-03-09</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.washdog.cl/blog/frecuencia-bano-perros</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.washdog.cl/blog/como-banar-perro-correctamente</loc>
+    <lastmod>2026-03-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/blog/auto-lavado-perros-nunoa</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/peluqueria-canina-nunoa</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/peluqueria-gatos-nunoa</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/precio-peluqueria-canina-nunoa</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/senales-corte-pelo-perro</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/shampoo-correcto-perros</loc>
-    <lastmod>2026-03-08</lastmod>
-    <changefreq>never</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/blog/frecuencia-bano-perros</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
