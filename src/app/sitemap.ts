@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next"
 import fs from "fs"
 import path from "path"
 import { getAllPosts } from "@/lib/blog"
+import { getAllIssues } from "@/lib/newsletter"
 
 const baseUrl = "https://www.washdog.cl"
 
@@ -52,12 +53,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }))
 
+  const newsletterIssues = getAllIssues().map(issue => ({
+    url: `${baseUrl}/newsletter/${issue.slug}`,
+    lastModified: new Date(issue.date),
+    changeFrequency: "yearly" as const,
+    priority: 0.6,
+  }))
+
   // Note: /privacy and /terms are excluded — noindex pages should not appear in sitemaps
   return [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
     { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.8 },
+    { url: `${baseUrl}/newsletter`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
     ...staticServicePages,
     ...servicePages,
     ...blogPosts,
+    ...newsletterIssues,
   ]
 }
