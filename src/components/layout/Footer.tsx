@@ -90,8 +90,25 @@ export function Footer({ onBookClick }: FooterProps) {
               </ul>
             </div>
 
+            {/* Newsletter */}
+            <div className='md:col-span-2 md:col-start-8 text-sm space-y-4'>
+              <h4 className='text-white font-medium text-lg'>Newsletter</h4>
+              <ul className='space-y-2'>
+                {[
+                  { label: 'Santiago a Cuatro Patas', href: '/newsletter' },
+                  { label: 'Edición #1',              href: '/newsletter/issue-1' },
+                ].map(({ label, href }) => (
+                  <li key={href}>
+                    <Link href={href} className='text-white/60 hover:text-white transition-colors'>
+                      {label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             {/* Contact Info */}
-            <div className='md:col-span-2 md:col-start-9 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-10 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <a
                 href='https://share.google/8t1bo1xyYIfTKyDAw'
@@ -128,7 +145,7 @@ export function Footer({ onBookClick }: FooterProps) {
             </div>
 
             {/* Hours */}
-            <div className='md:col-span-2 md:col-start-11 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-12 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Horario</h4>
               <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                 <p>Lun - Dom</p>
