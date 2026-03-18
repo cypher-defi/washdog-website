@@ -133,6 +133,9 @@ export default function PrecioPeluqueriaNunoaPage() {
                 </div>
               ))}
             </div>
+            <p className='text-xs text-primary/40 font-light mt-3'>
+              El precio puede variar según el estado del pelaje de tu perrito.
+            </p>
           </div>
         </section>
 

@@ -42,6 +42,8 @@ Los precios varían según el tamaño del perro y el servicio. En Washdog:
 
 Para el corte y arreglo, el precio depende del tamaño y el tipo de pelo. Puedes ver la tabla completa en la [página de precios](/servicios/precio-peluqueria-nunoa).
 
+*El precio puede variar según el estado del pelaje de tu perrito.*
+
 ## Preguntas frecuentes
 
 **¿Cuánto dura una sesión de peluquería?**

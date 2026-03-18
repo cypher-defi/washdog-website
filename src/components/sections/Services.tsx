@@ -113,6 +113,9 @@ export function Services({ onBookClick }: ServicesProps) {
                   </div>
                 ))}
               </div>
+              <p className='text-[10px] text-primary/40 font-light mt-3 px-1'>
+                El precio puede variar según el estado del pelaje de tu perrito.
+              </p>
             </div>
             <div className='relative z-10'>
               <button

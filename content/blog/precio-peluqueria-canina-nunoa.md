@@ -35,8 +35,7 @@ No todos los perros cuestan lo mismo, y eso es normal. Los factores principales 
 | Grande | $35.000 | $45.000 |
 | Gato | $40.000 | — |
 
-
-
+*El precio puede variar según el estado del pelaje de tu perrito.*
 
 ## Precios de referencia en el mercado de Ñuñoa
 

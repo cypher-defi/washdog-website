@@ -116,9 +116,6 @@ export default function PeluqueriaCaninaNunoaPage() {
             <h2 className='text-2xl font-semibold text-primary mb-2 tracking-tight'>
               Precios peluquería canina Ñuñoa
             </h2>
-            <p className='text-primary/50 text-sm font-light mb-8'>
-              El precio varía según el tamaño y el tipo de pelo de tu perro.
-            </p>
             <div className='bg-white border border-accent-blue/20 rounded-4xl overflow-hidden max-w-lg'>
               <div className='grid grid-cols-3 bg-accent-blue/10 px-6 py-3'>
                 <span className='text-[10px] font-bold uppercase tracking-widest text-primary/50'>Tamaño</span>
@@ -133,6 +130,9 @@ export default function PeluqueriaCaninaNunoaPage() {
                 </div>
               ))}
             </div>
+            <p className='text-xs text-primary/40 font-light mt-3'>
+              El precio puede variar según el estado del pelaje de tu perrito.
+            </p>
           </div>
         </section>
 
