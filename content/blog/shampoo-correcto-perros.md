@@ -10,7 +10,7 @@ No todos los shampoos son iguales, y lo que funciona para un perro puede ser per
 
 ## ¿Por qué no usar shampoo de humanos?
 
-El pH de la piel de los perros es diferente al de los humanos. Nuestra piel tiene un pH más ácido (entre 5.5 y 5.6), mientras que la de los perros es más neutro (entre 6.2 y 7.4). Usar shampoo de humanos puede alterar el manto protector de su piel y hacerla más vulnerable a bacterias y parásitos.
+El pH de la piel de los perros es diferente al de los humanos. Nuestra piel tiene un pH más ácido (entre 5.5 y 5.6), mientras que la de los perros es más neutro (entre 6.2 y 7.4). Usar shampoo de humanos puede alterar el manto protector de su piel y hacerla más vulnerable a bacterias y parásitos. Esto está documentado en estudios de dermatología veterinaria publicados por el [American College of Veterinary Dermatology (ACVD)](https://www.acvd.org).
 
 ## Tipos de shampoo para perros
 
@@ -28,7 +28,7 @@ El pH de la piel de los perros es diferente al de los humanos. Nuestra piel tien
 
 - **Sulfatos (SLS, SLES):** Pueden irritar la piel y eliminar demasiados aceites naturales.
 - **Parabenos:** Conservantes cuestionados por posibles efectos sobre el sistema hormonal.
-- **Fragancias artificiales:** Una de las causas más comunes de reacciones alérgicas en perros.
+- **Fragancias artificiales:** Una de las causas más comunes de reacciones alérgicas en perros, según la [ACVD](https://www.acvd.org).
 - **Alcohol etílico:** Reseca la piel y puede causar irritación significativa.
 
 ## Ingredientes beneficiosos

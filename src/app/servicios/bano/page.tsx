@@ -4,6 +4,7 @@ import dynamic from "next/dynamic"
 import Link from "next/link"
 import { Icon } from "@iconify/react"
 import { Navbar } from "@/components/layout"
+import { ServiceJsonLd } from "@/components/ServiceJsonLd"
 import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
@@ -48,6 +49,7 @@ export default function BanoPage() {
 
   return (
     <>
+      <ServiceJsonLd slug="bano-perros" />
       <Navbar onBookClick={booking.openModal} />
       <main className='min-h-screen bg-background pt-20'>
         {/* Hero */}

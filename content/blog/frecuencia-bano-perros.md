@@ -10,7 +10,7 @@ Esta es una de las preguntas más frecuentes que recibimos en Washdog. La respue
 
 ## La regla general
 
-En términos generales, **la mayoría de los perros se benefician de un baño cada 3 a 6 semanas**. Bañarlos con demasiada frecuencia puede eliminar los aceites naturales de su piel, provocando sequedad, picazón o irritación. Hacerlo muy pocas veces puede causar mal olor, acumulación de suciedad y problemas de piel.
+En términos generales, **la mayoría de los perros se benefician de un baño cada 3 a 6 semanas**. Bañarlos con demasiada frecuencia puede eliminar los aceites naturales de su piel, provocando sequedad, picazón o irritación. Hacerlo muy pocas veces puede causar mal olor, acumulación de suciedad y problemas de piel. Según la [American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners/petcare/grooming-your-pet), la frecuencia ideal varía según la raza, el tipo de pelo y el estilo de vida de cada perro.
 
 ## Según el tipo de pelo
 
@@ -26,7 +26,7 @@ Un perro que sale mucho al parque, juega en tierra o nada necesitará baños má
 
 ## ¿Qué pasa si baño a mi perro muy seguido?
 
-Bañar a tu perro semanalmente sin una necesidad específica puede dañar su manto. El shampoo elimina los aceites naturales que protegen su piel. Si tu perro necesita baños frecuentes por alguna condición médica, consulta con tu veterinario el shampoo adecuado.
+Bañar a tu perro semanalmente sin una necesidad específica puede dañar su manto. El shampoo elimina los aceites naturales que protegen su piel. Si tu perro necesita baños frecuentes por alguna condición médica, consulta con tu veterinario el shampoo adecuado. La [Veterinary Dermatology](https://onlinelibrary.wiley.com/journal/13653164) recomienda el uso de shampoos específicos bajo prescripción en casos de dermatitis, sarna o infecciones fúngicas.
 
 ## Señales de que es hora del baño
 
