@@ -2,6 +2,7 @@
 title: "Cómo elegir el shampoo correcto para tu perro"
 description: "Guía completa para elegir el shampoo ideal según el tipo de pelo y piel de tu perro. Aprende qué ingredientes evitar y cuáles buscar."
 date: "2026-02-25"
+author: "José Pablo"
 category: "Cuidado"
 readTime: "5 min"
 ---

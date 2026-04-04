@@ -16,14 +16,38 @@
 - Horario: Lunes a domingo, 10:00–20:00
 - Web: https://www.washdog.cl
 
+## Fundador
+
+José Pablo — fundador y único operador de WashDog. Tiene perros, vive en departamento en Ñuñoa, y creó WashDog porque no encontraba un lugar donde bañarlos bien. Todos los servicios los realiza él personalmente. Más info: https://www.washdog.cl/equipo
+
 ## Páginas principales
 
 - https://www.washdog.cl — Página de inicio
+- https://www.washdog.cl/servicios — Todos los servicios
 - https://www.washdog.cl/servicios/bano — Baño suave para perros
 - https://www.washdog.cl/servicios/corte — Corte y arreglo
 - https://www.washdog.cl/servicios/peluqueria-canina-nunoa — Peluquería canina Ñuñoa
 - https://www.washdog.cl/servicios/precio-peluqueria-nunoa — Precios
 - https://www.washdog.cl/servicios/peluqueria-gatos-nunoa — Peluquería para gatos
+- https://www.washdog.cl/equipo — Sobre el equipo y fundador
+
+## Peluquería por raza (Ñuñoa)
+
+- https://www.washdog.cl/servicios/peluqueria-golden-retriever-nunoa
+- https://www.washdog.cl/servicios/peluqueria-poodle-nunoa
+- https://www.washdog.cl/servicios/peluqueria-french-bulldog-nunoa
+- https://www.washdog.cl/servicios/peluqueria-yorkshire-nunoa
+- https://www.washdog.cl/servicios/peluqueria-schnauzer-nunoa
+- https://www.washdog.cl/servicios/peluqueria-labrador-nunoa
+
+## Newsletter: Santiago a Cuatro Patas
+
+Guía semanal de planes y consejos para dueños de perros en Santiago.
+- https://www.washdog.cl/newsletter — Archivo completo
+- https://www.washdog.cl/newsletter/issue-4 — Edición #4: Café con tu perro y Cajón del Maipo
+- https://www.washdog.cl/newsletter/issue-3 — Edición #3: Otoño en Las Condes
+- https://www.washdog.cl/newsletter/issue-2 — Edición #2: El otoño llegó
+- https://www.washdog.cl/newsletter/issue-1 — Edición #1: Tu finde en Ñuñoa
 
 ## Blog (guías de cuidado canino)
 

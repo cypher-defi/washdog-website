@@ -6,6 +6,9 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/"
     },
-    sitemap: "https://www.washdog.cl/sitemap.xml"
+    sitemap: [
+      "https://www.washdog.cl/sitemap.xml",
+      "https://www.washdog.cl/sitemap-local.xml",
+    ]
   }
 }

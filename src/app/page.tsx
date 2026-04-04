@@ -1,4 +1,6 @@
 import { getPlaceRating, getPlaceReviews } from "@/lib/google-places"
+import { getAllIssues } from "@/lib/newsletter"
+import { FaqJsonLd } from "@/components/FaqJsonLd"
 import { HomeClient } from "./HomeClient"
 
 export default async function Home() {
@@ -6,5 +8,11 @@ export default async function Home() {
     getPlaceRating(),
     getPlaceReviews(3),
   ])
-  return <HomeClient rating={ratingValue} reviews={reviews} />
+  const newsletterIssues = getAllIssues()
+  return (
+    <>
+      <FaqJsonLd />
+      <HomeClient rating={ratingValue} reviews={reviews} newsletterIssues={newsletterIssues} />
+    </>
+  )
 }

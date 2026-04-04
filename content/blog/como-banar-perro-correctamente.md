@@ -2,6 +2,7 @@
 title: "Cómo Bañar a Tu Perro Correctamente Paso a Paso"
 description: "Aprende cómo bañar a tu perro correctamente en casa con nuestra guía paso a paso para Chile. ¿Prefieres un experto? ¡Agenda en WashDog Ñuñoa hoy!"
 date: "2026-03-06"
+author: "José Pablo"
 category: "Baño"
 readTime: "7 min"
 ---

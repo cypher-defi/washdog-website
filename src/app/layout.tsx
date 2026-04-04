@@ -1,10 +1,9 @@
-import type { Metadata } from "next"
+import type { Metadata, Viewport } from "next"
 import { DM_Sans, Playfair_Display } from "next/font/google"
 import Script from "next/script"
 import "./globals.css"
 import { CookiesBanner } from "@/components/CookiesBanner"
 import { LocalBusinessJsonLd } from "@/components/LocalBusinessJsonLd"
-import { FaqJsonLd } from "@/components/FaqJsonLd"
 
 const dmSans = DM_Sans({
   variable: "--font-dm-sans",
@@ -18,6 +17,10 @@ const playfair = Playfair_Display({
   weight: ["400", "500"],
   style: ["normal", "italic"]
 })
+
+export const viewport: Viewport = {
+  viewportFit: "cover",
+}
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.washdog.cl"),
@@ -63,7 +66,6 @@ export default function RootLayout({
         className={`${dmSans.variable} ${playfair.variable} font-sans text-primary bg-background antialiased flex flex-col min-h-screen`}
       >
         <LocalBusinessJsonLd />
-        <FaqJsonLd />
         {children}
         <CookiesBanner />
         <Script

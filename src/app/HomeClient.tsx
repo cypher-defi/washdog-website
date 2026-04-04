@@ -13,6 +13,7 @@ import {
   NewsletterBanner
 } from "@/components/sections"
 import type { PlaceReview } from "@/lib/google-places"
+import type { IssueMeta } from "@/lib/newsletter"
 import { FloatingCTA } from "@/components/ui"
 import { useBooking } from "@/hooks/useBooking"
 
@@ -21,7 +22,7 @@ const BookingModal = dynamic(
   { ssr: false }
 )
 
-export function HomeClient({ rating, reviews }: { rating: number; reviews: PlaceReview[] }) {
+export function HomeClient({ rating, reviews, newsletterIssues }: { rating: number; reviews: PlaceReview[]; newsletterIssues: IssueMeta[] }) {
   const booking = useBooking()
 
   return (
@@ -39,7 +40,7 @@ export function HomeClient({ rating, reviews }: { rating: number; reviews: Place
         <Contact />
       </main>
 
-      <Footer onBookClick={booking.openModal} />
+      <Footer onBookClick={booking.openModal} newsletterIssues={newsletterIssues} />
 
       <FloatingCTA onClick={booking.openModal} />
 

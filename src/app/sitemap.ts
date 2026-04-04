@@ -65,6 +65,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
     { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.8 },
     { url: `${baseUrl}/newsletter`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
+    { url: `${baseUrl}/equipo`, lastModified: new Date("2026-04-04"), changeFrequency: "yearly", priority: 0.6 },
+    { url: `${baseUrl}/servicios`, lastModified: new Date("2026-04-04"), changeFrequency: "monthly", priority: 0.9 },
     ...staticServicePages,
     ...servicePages,
     ...blogPosts,

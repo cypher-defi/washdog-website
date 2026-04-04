@@ -3,11 +3,17 @@
 import { Icon } from "@iconify/react"
 import Link from "next/link"
 
+interface NewsletterIssue {
+  slug: string
+  issue_number: number
+  title: string
+}
+
 /**
  * Footer for server-rendered content pages (service + blog).
  * No booking modal — the CTA links directly to the Google Maps reservation page.
  */
-export function StaticFooter() {
+export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: NewsletterIssue[] }) {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" })
   }
@@ -49,6 +55,7 @@ export function StaticFooter() {
               <h4 className='text-white font-medium text-lg'>Servicios</h4>
               <ul className='space-y-2'>
                 {[
+                  { label: 'Todos los servicios', href: '/servicios' },
                   { label: 'Peluquería canina', href: '/servicios/peluqueria-canina' },
                   { label: 'Baño para perros',  href: '/servicios/bano-perros' },
                   { label: 'Corte de pelo',     href: '/servicios/corte-perros' },
@@ -56,6 +63,7 @@ export function StaticFooter() {
                   { label: 'Autolavado',        href: '/servicios/auto-lavado-perros' },
                   { label: 'Peluquería gatos',  href: '/servicios/peluqueria-gatos' },
                   { label: 'Precios',           href: '/servicios/precio-peluqueria' },
+                  { label: 'Nuestro equipo',    href: '/equipo' },
                 ].map(({ label, href }) => (
                   <li key={href}>
                     <Link href={href} className='text-white/60 hover:text-white transition-colors'>
@@ -92,8 +100,27 @@ export function StaticFooter() {
               </ul>
             </div>
 
+            {/* Newsletter */}
+            <div className='md:col-span-2 md:col-start-8 text-sm space-y-4'>
+              <h4 className='text-white font-medium text-lg'>Newsletter</h4>
+              <ul className='space-y-2'>
+                <li>
+                  <Link href='/newsletter' className='text-white/60 hover:text-white transition-colors'>
+                    Santiago a Cuatro Patas
+                  </Link>
+                </li>
+                {newsletterIssues.map(issue => (
+                  <li key={issue.slug}>
+                    <Link href={`/newsletter/${issue.slug}`} className='text-white/60 hover:text-white transition-colors'>
+                      Edición #{issue.issue_number}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             {/* Contact Info */}
-            <div className='md:col-span-2 md:col-start-9 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-10 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <a
                 href='https://share.google/8t1bo1xyYIfTKyDAw'
@@ -121,7 +148,7 @@ export function StaticFooter() {
             </div>
 
             {/* Hours */}
-            <div className='md:col-span-2 md:col-start-11 text-sm space-y-6'>
+            <div className='md:col-span-2 md:col-start-12 text-sm space-y-6'>
               <h4 className='text-white font-medium text-lg'>Horario</h4>
               <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                 <p>Lun - Dom</p>

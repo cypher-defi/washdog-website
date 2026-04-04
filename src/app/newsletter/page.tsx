@@ -92,7 +92,7 @@ export default function NewsletterArchivePage() {
           </div>
         </section>
       </main>
-      <StaticFooter />
+      <StaticFooter newsletterIssues={getAllIssues()} />
     </>
   )
 }

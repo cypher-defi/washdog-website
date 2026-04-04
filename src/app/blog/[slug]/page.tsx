@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import Link from "next/link"
 import { getAllPosts, getPost } from "@/lib/blog"
+import { getAllIssues } from "@/lib/newsletter"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
 import { NewsletterInline } from "@/components/sections/NewsletterInline"
@@ -49,8 +50,57 @@ export default async function BlogPostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
+  const howToSchema = post.howToSteps && post.howToSteps.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        name: post.title,
+        description: post.description,
+        step: post.howToSteps.map((s, i) => ({
+          "@type": "HowToStep",
+          position: i + 1,
+          name: s.name,
+          text: s.text,
+        })),
+      }
+    : null
+
+  const blogPostingSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.description,
+    datePublished: post.date,
+    dateModified: post.date,
+    url: `https://www.washdog.cl/blog/${slug}`,
+    author: {
+      "@type": "Organization",
+      name: "WashDog",
+      url: "https://www.washdog.cl",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "WashDog",
+      url: "https://www.washdog.cl",
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://www.washdog.cl/blog/${slug}`,
+    },
+  }
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
+      />
+      {howToSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
+        />
+      )}
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
@@ -63,7 +113,7 @@ export default async function BlogPostPage({ params }: Props) {
               ← Volver al blog
             </Link>
 
-            <div className='flex items-center gap-3 mt-6 mb-6'>
+            <div className='flex items-center gap-3 mt-6 mb-6 flex-wrap'>
               <span
                 className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-lg ${categoryColors[post.category] ?? "bg-primary/10 text-primary/60"}`}
               >
@@ -79,6 +129,11 @@ export default async function BlogPostPage({ params }: Props) {
                   day: "numeric"
                 })}
               </span>
+              {post.author && (
+                <span className='text-[10px] text-primary/40 font-medium'>
+                  Por <Link href='/equipo' className='text-accent-blue hover:underline'>{post.author}</Link>
+                </span>
+              )}
             </div>
 
             <h1 className='text-3xl md:text-4xl font-semibold text-primary mb-4 tracking-tight leading-snug'>
@@ -129,7 +184,7 @@ export default async function BlogPostPage({ params }: Props) {
           </div>
         </section>
       </main>
-      <StaticFooter />
+      <StaticFooter newsletterIssues={getAllIssues()} />
     </>
   )
 }

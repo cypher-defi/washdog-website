@@ -8,7 +8,7 @@ export function StaticNavbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
-    <nav className='fixed top-0 w-full z-50 glass transition-all duration-300'>
+    <nav className='fixed top-0 w-full z-50 glass transition-all duration-300' style={{ paddingTop: 'env(safe-area-inset-top)' }}>
       <div className='max-w-7xl mx-auto px-6 h-20 flex items-center justify-between relative'>
         <Link
           href='/'

@@ -2,6 +2,7 @@
 title: "Precio peluquería canina Ñuñoa: cuánto cuesta en 2026"
 description: "Guía de precios de peluquería canina en Ñuñoa. Cuánto cuesta el baño y el corte según el tamaño de tu perro, y qué factores influyen en el precio."
 date: "2026-03-05"
+author: "José Pablo"
 category: "Peluquería"
 readTime: "4 min"
 ---

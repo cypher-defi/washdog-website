@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import Link from "next/link"
 import { getAllServicios, getServicio } from "@/lib/servicios"
+import { getAllIssues } from "@/lib/newsletter"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
 
@@ -125,7 +126,7 @@ export default async function ServicioHubPage({ params }: Props) {
           </div>
         </section>
       </main>
-      <StaticFooter />
+      <StaticFooter newsletterIssues={getAllIssues()} />
     </>
   )
 }

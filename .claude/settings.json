@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(f'Total pages: {len\\(d[\\\\\"pages\\\\\"]\\)}'\\); types={}; [types.update\\({p[\\\\\"slug\\\\\"].split\\(\\\\\"-\\\\\"\\)[0]: types.get\\(p[\\\\\"slug\\\\\"].split\\(\\\\\"-\\\\\"\\)[0],0\\)+1}\\) for p in d['pages']]; print\\(types\\)\")"
+    ]
+  }
+}

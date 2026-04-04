@@ -2,6 +2,7 @@
 title: "Cómo cortar el pelo a tu perro en casa | WashDog"
 description: "Aprende cómo cortar el pelo a tu perro en casa paso a paso. Tips, herramientas y cuándo es mejor ir a la peluquería. ¡Agenda en WashDog Santiago!"
 date: "2026-03-13"
+author: "José Pablo"
 category: "Peluquería"
 readTime: "7 min"
 ---

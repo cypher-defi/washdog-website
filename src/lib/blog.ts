@@ -12,6 +12,7 @@ export interface PostMeta {
   date: string
   category: string
   readTime: string
+  author?: string
 }
 
 export interface HowToStep {

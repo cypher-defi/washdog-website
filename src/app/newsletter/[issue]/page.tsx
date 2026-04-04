@@ -114,7 +114,7 @@ export default async function NewsletterIssuePage({ params }: Props) {
         </section>
 
       </main>
-      <StaticFooter />
+      <StaticFooter newsletterIssues={getAllIssues()} />
     </>
   )
 }

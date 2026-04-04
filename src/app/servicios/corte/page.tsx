@@ -47,11 +47,33 @@ const faqs = [
   }
 ]
 
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  name: "Corte y peluquería canina en Ñuñoa",
+  description: "Corte de pelo profesional para perros en Ñuñoa. Incluye baño, brushing, limpieza de orejas y atención individualizada.",
+  provider: { "@type": "LocalBusiness", name: "WashDog", url: "https://www.washdog.cl" },
+  areaServed: { "@type": "City", name: "Ñuñoa, Santiago, Chile" },
+  offers: [
+    { "@type": "Offer", name: "Corte perro pequeño (pelo corto)", price: "20000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro pequeño (pelo largo)", price: "25000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro mediano (pelo corto)", price: "25000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro mediano (pelo largo)", price: "30000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro grande (pelo corto)",  price: "35000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro grande (pelo largo)",  price: "45000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte gato",                       price: "40000", priceCurrency: "CLP" },
+  ],
+}
+
 export default function CortePage() {
   const booking = useBooking()
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+      />
       <ServiceJsonLd slug="peluqueria-canina" />
       <Navbar onBookClick={booking.openModal} />
       <main className='min-h-screen bg-background pt-20'>

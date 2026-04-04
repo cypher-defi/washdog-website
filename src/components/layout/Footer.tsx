@@ -3,11 +3,18 @@
 import { Icon } from "@iconify/react"
 import Link from "next/link"
 
-interface FooterProps {
-  onBookClick: () => void
+interface NewsletterIssue {
+  slug: string
+  issue_number: number
+  title: string
 }
 
-export function Footer({ onBookClick }: FooterProps) {
+interface FooterProps {
+  onBookClick: () => void
+  newsletterIssues?: NewsletterIssue[]
+}
+
+export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" })
   }
@@ -47,6 +54,7 @@ export function Footer({ onBookClick }: FooterProps) {
               <h4 className='text-white font-medium text-lg'>Servicios</h4>
               <ul className='space-y-2'>
                 {[
+                  { label: 'Todos los servicios', href: '/servicios' },
                   { label: 'Peluquería canina', href: '/servicios/peluqueria-canina' },
                   { label: 'Baño para perros',  href: '/servicios/bano-perros' },
                   { label: 'Corte de pelo',     href: '/servicios/corte-perros' },
@@ -54,6 +62,7 @@ export function Footer({ onBookClick }: FooterProps) {
                   { label: 'Autolavado',        href: '/servicios/auto-lavado-perros' },
                   { label: 'Peluquería gatos',  href: '/servicios/peluqueria-gatos' },
                   { label: 'Precios',           href: '/servicios/precio-peluqueria' },
+                  { label: 'Nuestro equipo',    href: '/equipo' },
                 ].map(({ label, href }) => (
                   <li key={href}>
                     <Link href={href} className='text-white/60 hover:text-white transition-colors'>
@@ -94,13 +103,15 @@ export function Footer({ onBookClick }: FooterProps) {
             <div className='md:col-span-2 md:col-start-8 text-sm space-y-4'>
               <h4 className='text-white font-medium text-lg'>Newsletter</h4>
               <ul className='space-y-2'>
-                {[
-                  { label: 'Santiago a Cuatro Patas', href: '/newsletter' },
-                  { label: 'Edición #1',              href: '/newsletter/issue-1' },
-                ].map(({ label, href }) => (
-                  <li key={href}>
-                    <Link href={href} className='text-white/60 hover:text-white transition-colors'>
-                      {label}
+                <li>
+                  <Link href='/newsletter' className='text-white/60 hover:text-white transition-colors'>
+                    Santiago a Cuatro Patas
+                  </Link>
+                </li>
+                {newsletterIssues.map(issue => (
+                  <li key={issue.slug}>
+                    <Link href={`/newsletter/${issue.slug}`} className='text-white/60 hover:text-white transition-colors'>
+                      Edición #{issue.issue_number}
                     </Link>
                   </li>
                 ))}
