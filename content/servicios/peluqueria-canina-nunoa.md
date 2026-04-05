@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Ñuñoa — Peluquería Canina Premium Santiago"
-description: "En WashDog cuidamos a tu compañero como si fuera nuestro: productos premium, atención one-to-one y agenda online en 2 minutos."
-keywords: "peluquería canina Ñuñoa, WashDog"
+title: "Peluquería Canina en Ñuñoa | WashDog — Atención Premium, Reserva Online"
+description: "Peluquería canina en Ñuñoa. Baño completo, corte profesional y atención one-to-one. A pasos del Metro Irarrázaval. Reserva online en 2 minutos."
+keywords: "peluquería canina Ñuñoa, baño perros Ñuñoa, WashDog Ñuñoa"
 date: "2026-03-06"
 ---
 
@@ -70,6 +70,27 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 
 **Cómo llegar a WashDog desde Ñuñoa:**
 Estamos en Irarrázaval 2086 B. La forma más fácil es tomar **Metro Ñuñoa (Línea 3)** o **Metro Irarrázaval (Línea 3)** — quedamos a menos de 10 minutos caminando desde cualquier estación del eje Irarrázaval.
+
+---
+
+---
+
+### Preguntas frecuentes — Peluquería canina en Ñuñoa
+
+### ¿Cuánto cuesta la peluquería canina en Ñuñoa?
+En WashDog los precios parten desde $20.000 CLP para perros pequeños, $25.000 para medianos y $35.000 para perros grandes. El precio final depende de la raza, el largo del pelo y el estado del pelaje. Sin cobros sorpresa.
+
+### ¿Dónde está ubicada la peluquería canina en Ñuñoa?
+Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago, Chile. A menos de 10 minutos caminando desde el Metro Ñuñoa y el Metro Irarrázaval (Línea 3).
+
+### ¿Con qué frecuencia debo llevar a mi perro al peluquero en Ñuñoa?
+Para perros de pelo largo o rizado, lo recomendado es cada 4 a 6 semanas. Para perros de pelo corto, cada 6 a 8 semanas es suficiente.
+
+### ¿Atienden razas grandes en su peluquería de Ñuñoa?
+Sí, atendemos todas las razas y tamaños: desde Yorkshire Terrier hasta Golden Retriever, Labrador y Husky. El precio varía según el tamaño y el tipo de pelaje.
+
+### ¿Necesito reservar con anticipación?
+Sí, trabajamos con reserva para garantizar atención individual. Puedes agendar desde nuestra web en menos de 2 minutos, sin llamadas.
 
 ---
 

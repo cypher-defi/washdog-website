@@ -1,7 +1,7 @@
 ---
-title: "Auto Lavado de Perros en Santiago"
-description: "Auto lavado de perros en Santiago: instala lava a tu mascota con equipos profesionales y productos premium. Práctico, económico y disponible en tu comuna."
-keywords: "auto lavado perros Santiago, self-service perros Santiago, lavar perros yo mismo Santiago, auto baño perros Santiago"
+title: "Auto Lavado de Perros en Ñuñoa, Santiago Chile | WashDog"
+description: "Auto lavado de perros en Ñuñoa, Santiago, Chile. Tinas profesionales, shampoo hipoalergénico y secadores de alto rendimiento en Irarrázaval 2086 B. Reserva online."
+keywords: "auto lavado perros Santiago Chile, auto lavado perros Ñuñoa, self-service perros Santiago Chile, lavar perros yo mismo Ñuñoa, autolavado canino Ñuñoa Santiago"
 date: "2026-03-06"
 communes:
   - nunoa
@@ -34,9 +34,9 @@ communes:
   - la-pintana
 ---
 
-# Auto Lavado de Perros en Santiago: Baña a Tu Mascota como un Profesional
+# Auto Lavado de Perros en Ñuñoa, Santiago Chile
 
-Si buscas un **auto lavado de perros en Santiago** que combine comodidad, ahorro y equipamiento profesional, WashDog es tu mejor opción. Nuestro servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
+Si buscas un **auto lavado de perros en Santiago, Chile** que combine comodidad, ahorro y equipamiento profesional, WashDog es tu mejor opción. Nuestro local está en **Irarrázaval 2086 B, Ñuñoa, Santiago** — a pasos del metro, accesible desde cualquier comuna del Gran Santiago. El servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
 
 ## ¿Qué incluye el servicio?
 

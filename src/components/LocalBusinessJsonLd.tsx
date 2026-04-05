@@ -16,6 +16,7 @@ export async function LocalBusinessJsonLd() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     name: "Washdog",
+    description: "Peluquería canina premium en Ñuñoa, Santiago, Chile. Baño, corte, auto lavado y peluquería para gatos. Atención one-to-one, productos hipoalergénicos y reserva online en 2 minutos.",
     image: "https://www.washdog.cl/hero-beagle.png",
     "@id": "https://www.washdog.cl",
     url: "https://www.washdog.cl",
@@ -26,6 +27,7 @@ export async function LocalBusinessJsonLd() {
       streetAddress: "Irarrázaval 2086 B",
       addressLocality: "Ñuñoa",
       addressRegion: "Región Metropolitana",
+      postalCode: "7750000",
       addressCountry: "CL"
     },
     geo: {
@@ -33,17 +35,55 @@ export async function LocalBusinessJsonLd() {
       latitude: -33.4569,
       longitude: -70.6083
     },
+    areaServed: [
+      { "@type": "City", name: "Ñuñoa", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "Providencia", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "Las Condes", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "La Reina", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "Macul", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "Peñalolén", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "La Florida", containedInPlace: { "@type": "Country", name: "Chile" } },
+      { "@type": "City", name: "Santiago", containedInPlace: { "@type": "Country", name: "Chile" } },
+    ],
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Servicios de peluquería canina",
+      itemListElement: [
+        {
+          "@type": "Offer",
+          itemOffered: { "@type": "Service", name: "Baño para perros" },
+          price: "10000",
+          priceCurrency: "CLP",
+          description: "Baño completo con shampoo hipoalergénico, secado profesional y perfume. Desde $10.000 CLP."
+        },
+        {
+          "@type": "Offer",
+          itemOffered: { "@type": "Service", name: "Peluquería canina completa" },
+          price: "20000",
+          priceCurrency: "CLP",
+          description: "Baño, brushing, corte, limpieza de orejas y corte de uñas. Desde $20.000 CLP."
+        },
+        {
+          "@type": "Offer",
+          itemOffered: { "@type": "Service", name: "Auto lavado de perros" },
+          price: "10000",
+          priceCurrency: "CLP",
+          description: "Tinas profesionales, shampoo hipoalergénico y secadores de alta potencia para que bañes a tu perro. Desde $10.000 CLP."
+        },
+        {
+          "@type": "Offer",
+          itemOffered: { "@type": "Service", name: "Peluquería para gatos" },
+          price: "40000",
+          priceCurrency: "CLP",
+          description: "Baño y corte para gatos. $40.000 CLP."
+        }
+      ]
+    },
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
         dayOfWeek: [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
         ],
         opens: "10:00",
         closes: "20:00"

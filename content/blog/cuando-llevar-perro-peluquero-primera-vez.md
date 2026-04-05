@@ -78,4 +78,20 @@ La regla práctica: si el pelo de tu perro empieza a oler antes de que programes
 
 En WashDog trabajamos con calma, especialmente con perros que vienen por primera vez. El ambiente individual — sin otros perros presentes — ayuda a que la experiencia sea lo menos estresante posible.
 
-[Reservar primera visita →](https://www.washdog.cl/servicios/bano)
+## Ver también
+
+- [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Baño para perros en Ñuñoa](/servicios/bano-perros)
+- [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Peluquería canina Providencia](/servicios/peluqueria-canina-providencia)
+- [Peluquería canina La Reina](/servicios/peluqueria-canina-la-reina)
+- [Peluquería canina Macul](/servicios/peluqueria-canina-macul)
+- [Peluquería canina Las Condes](/servicios/peluqueria-canina-las-condes)

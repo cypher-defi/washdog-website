@@ -86,4 +86,20 @@ Si el pelaje llega con nudos significativos, la visita toma más tiempo y puede 
 
 ¿Tienes un Golden y buscas un peluquero en Santiago que entienda la raza? En WashDog atendemos cada perro individualmente, con productos específicos para pelo largo y doble capa.
 
-[Reservar para tu Golden →](https://www.washdog.cl/servicios/peluqueria-golden-retriever-nunoa)
+## Ver también
+
+- [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Peluquería para Golden Retriever en Ñuñoa](/servicios/peluqueria-golden-retriever-nunoa)
+- [Precio peluquería canina Ñuñoa](/servicios/precio-peluqueria-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Peluquería canina Providencia](/servicios/peluqueria-canina-providencia)
+- [Peluquería canina La Reina](/servicios/peluqueria-canina-la-reina)
+- [Peluquería canina Macul](/servicios/peluqueria-canina-macul)
+- [Peluquería canina Las Condes](/servicios/peluqueria-canina-las-condes)
