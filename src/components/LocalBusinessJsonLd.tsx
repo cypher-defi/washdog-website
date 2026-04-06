@@ -18,6 +18,13 @@ export async function LocalBusinessJsonLd() {
     name: "Washdog",
     description: "Peluquería canina premium en Ñuñoa, Santiago, Chile. Baño, corte, auto lavado y peluquería para gatos. Atención one-to-one, productos hipoalergénicos y reserva online en 2 minutos.",
     image: "https://www.washdog.cl/hero-beagle.png",
+    logo: {
+      "@type": "ImageObject",
+      url: "https://www.washdog.cl/hero-beagle.png",
+      width: 400,
+      height: 400
+    },
+    foundingDate: "2026-02",
     "@id": "https://www.washdog.cl",
     url: "https://www.washdog.cl",
     telephone: "+56987230388",
@@ -98,7 +105,7 @@ export async function LocalBusinessJsonLd() {
       reviewCount,
     },
     sameAs: [
-      "https://share.google/8t1bo1xyYIfTKyDAw",
+      "https://www.google.com/maps/place/Washdog/@-33.4569,-70.6083,17z",
       "https://www.instagram.com/washdogexpress",
       "https://www.facebook.com/washdogexpress",
       "https://www.tiktok.com/@washdogexpress",

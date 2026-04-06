@@ -23,14 +23,24 @@ export const metadata: Metadata = {
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://www.washdog.cl/#jose-pablo",
   name: "José Pablo",
-  jobTitle: "Fundador",
+  jobTitle: "Fundador y Peluquero Canino",
+  description: "Fundador de WashDog. Dueño de perros y residente de Ñuñoa. Abrió WashDog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
+  url: "https://www.washdog.cl/equipo",
+  knowsAbout: [
+    "peluquería canina",
+    "baño de perros",
+    "grooming para razas difíciles",
+    "cuidado de mascotas",
+    "productos hipoalergénicos para perros",
+  ],
   worksFor: {
-    "@type": "LocalBusiness",
-    name: "WashDog",
+    "@type": "Organization",
+    "@id": "https://www.washdog.cl",
+    name: "Washdog",
     url: "https://www.washdog.cl",
   },
-  url: "https://www.washdog.cl/equipo",
 }
 
 export default function EquipoPage() {

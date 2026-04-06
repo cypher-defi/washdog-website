@@ -91,7 +91,7 @@ En WashDog somos una [peluquería canina en Santiago](/servicios/peluqueria-cani
 Depende de la raza y el tipo de pelaje. En general, cada 6 a 8 semanas es lo recomendado para razas de pelo largo o rizado.
 
 **¿Puedo usar una máquina de afeitar humana?**
-No es recomendable. Las máquinas para personas no están diseñadas para el grosor ni la textura del pelo canino y pueden irritar la piel.
+No es recomendable. Las máquinas para personas no están diseñadas para el grosor ni la textura del pelo canino y pueden irritar la piel o causar quemaduras por rozamiento, según las guías de grooming del [American Kennel Club (AKC)](https://www.akc.org/expert-advice/dog-grooming/).
 
 **¿Cómo saber si le corté demasiado el pelo a mi perro?**
 Si la piel queda expuesta o el corte es muy cercano a la raíz en razas de doble capa, puede haber riesgo de quemaduras solares. Consulta siempre con un profesional si tienes dudas.

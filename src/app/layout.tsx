@@ -19,6 +19,8 @@ const playfair = Playfair_Display({
 })
 
 export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
   viewportFit: "cover",
 }
 
@@ -40,6 +42,13 @@ export const metadata: Metadata = {
       "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota.",
     images: ["/hero-beagle.png"]
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
+    description:
+      "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota.",
+    images: ["/hero-beagle.png"],
+  },
   alternates: {
     canonical: "https://www.washdog.cl"
   },
@@ -52,7 +61,10 @@ export const metadata: Metadata = {
     }
   },
   keywords:
-    "baño perros ñuñoa, peluquería canina ñuñoa, baño self service ñuñoa, peluquería perros santiago"
+    "baño perros ñuñoa, peluquería canina ñuñoa, baño self service ñuñoa, peluquería perros santiago",
+  other: {
+    "msvalidate.01": "45C5B73C634B27CA84303D46A92EF7B2",
+  },
 }
 
 export default function RootLayout({

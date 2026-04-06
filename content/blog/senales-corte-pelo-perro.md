@@ -27,7 +27,7 @@ Aunque la muda de pelo es normal, un exceso puede indicar que el manto no está 
 
 ## 5. Han pasado más de 6–8 semanas desde el último corte
 
-Para razas de pelo largo o rizado como Caniches, Bichones o Cocker Spaniels, el corte cada 6 a 8 semanas es una buena regla general. Para razas de pelo corto, puede ser menos frecuente o incluso innecesario.
+Para razas de pelo largo o rizado como Caniches, Bichones o Cocker Spaniels, el corte cada 6 a 8 semanas es una buena regla general, según las pautas de cuidado de la [AVMA](https://www.avma.org/resources-tools/pet-owners/petcare/grooming-your-pet). Para razas de pelo corto, puede ser menos frecuente o incluso innecesario.
 
 ## ¿Qué incluye un corte profesional en Washdog?
 

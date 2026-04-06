@@ -15,7 +15,7 @@ La respuesta es simple, pero vale la pena explicarla bien.
 
 El servicio de baño incluye:
 
-- **Baño con shampoo hipoalergénico** — formulado para la piel del perro, no para humanos
+- **Baño con shampoo hipoalergénico** — formulado para el pH de la piel del perro (6.2–7.4), no para humanos, tal como recomienda el [ACVD](https://www.acvd.org)
 - **Secado profesional completo** — con equipos de baja temperatura para no quemar la piel
 - **Limpieza de oídos** — revisar y limpiar el canal auditivo externo
 - **Perfumado final** — para que salga oliendo bien por varios días

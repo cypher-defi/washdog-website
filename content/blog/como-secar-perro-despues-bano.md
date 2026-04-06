@@ -19,7 +19,7 @@ Secar correctamente a tu perro no es un capricho estético. Tiene consecuencias 
 
 Cuando un perro queda con la piel húmeda después del baño, los riesgos son reales:
 
-- **Hongos y bacterias**: La humedad atrapada en el pelaje favorece infecciones cutáneas, especialmente en razas con pelo denso o pliegues en la piel.
+- **Hongos y bacterias**: La humedad atrapada en el pelaje favorece infecciones cutáneas, especialmente en razas con pelo denso o pliegues en la piel. La [AVMA](https://www.avma.org/resources-tools/pet-owners/petcare/grooming-your-pet) recomienda secar completamente el pelaje tras el baño para prevenir dermatitis.
 - **Ese olor a "perro mojado"**: No es solo incómodo para ustedes en casa, es señal de que hay microorganismos proliferando en el pelaje.
 - **Hipotermia**: En Santiago, especialmente en Ñuñoa, Providencia o Las Condes durante otoño e invierno, las temperaturas bajan bastante. Un perro pequeño o de pelo corto puede enfriarse rápidamente.
 - **Irritación en la piel**: La humedad prolongada puede causar dermatitis y picazón.

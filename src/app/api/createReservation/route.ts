@@ -52,8 +52,20 @@ export async function POST(req: NextRequest) {
     const endTimeStr = `${dateStr}T${endHour}:${endMin}:00`
 
     // Parse as Santiago time for overlap checking
-    const start = new Date(`${startTime}-03:00`)
-    const end = new Date(`${endTimeStr}-03:00`)
+    // Dynamically detect the current UTC offset for America/Santiago (handles DST)
+    const santiagoOffsetStr = (() => {
+      const formatter = new Intl.DateTimeFormat('en', {
+        timeZone: 'America/Santiago',
+        timeZoneName: 'shortOffset'
+      })
+      const tzName = formatter.formatToParts(new Date())
+        .find(p => p.type === 'timeZoneName')?.value ?? 'GMT-3'
+      const match = tzName.match(/GMT([+-])(\d+)/)
+      if (!match) return '-03:00'
+      return `${match[1]}${match[2].padStart(2, '0')}:00`
+    })()
+    const start = new Date(`${startTime}${santiagoOffsetStr}`)
+    const end = new Date(`${endTimeStr}${santiagoOffsetStr}`)
 
     const calendarId =
       service === "bath"

@@ -50,57 +50,8 @@ export default async function BlogPostPage({ params }: Props) {
   const post = await getPost(slug)
   if (!post) notFound()
 
-  const howToSchema = post.howToSteps && post.howToSteps.length > 0
-    ? {
-        "@context": "https://schema.org",
-        "@type": "HowTo",
-        name: post.title,
-        description: post.description,
-        step: post.howToSteps.map((s, i) => ({
-          "@type": "HowToStep",
-          position: i + 1,
-          name: s.name,
-          text: s.text,
-        })),
-      }
-    : null
-
-  const blogPostingSchema = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    headline: post.title,
-    description: post.description,
-    datePublished: post.date,
-    dateModified: post.date,
-    url: `https://www.washdog.cl/blog/${slug}`,
-    author: {
-      "@type": "Organization",
-      name: "WashDog",
-      url: "https://www.washdog.cl",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "WashDog",
-      url: "https://www.washdog.cl",
-    },
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `https://www.washdog.cl/blog/${slug}`,
-    },
-  }
-
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogPostingSchema) }}
-      />
-      {howToSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(howToSchema) }}
-        />
-      )}
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}

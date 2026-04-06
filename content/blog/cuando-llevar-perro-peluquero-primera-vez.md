@@ -15,7 +15,7 @@ Hacerlo bien desde el principio vale más que cualquier corte.
 
 La respuesta depende de la raza y del tipo de pelaje, pero hay una regla general que casi siempre aplica:
 
-**La primera visita al peluquero debe ocurrir entre las 12 y 16 semanas de vida**, después del esquema de vacunación básico y antes de que el pelaje adulto empiece a crecer con fuerza.
+**La primera visita al peluquero debe ocurrir entre las 12 y 16 semanas de vida**, después del esquema de vacunación básico y antes de que el pelaje adulto empiece a crecer con fuerza. La [AVMA](https://www.avma.org/resources-tools/pet-owners/petcare/grooming-your-pet) recomienda iniciar la socialización con el grooming en las primeras semanas de vida para reducir el estrés en visitas futuras.
 
 ### ¿Por qué tan temprano?
 

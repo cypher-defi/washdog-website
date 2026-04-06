@@ -21,7 +21,7 @@ El baño no es solo una cuestión estética. Un baño bien hecho mantiene la pie
 
 ### Error 1: Usar champú humano o productos equivocados para perros
 
-El pH de la piel de los perros es distinto al de los humanos. Usar un champú humano, aunque sea suave o de bebé, puede romper la barrera natural de la piel y provocar irritación, resequedad o alergias. Siempre opta por productos formulados específicamente para perros, idealmente hipoalergénicos si tu mascota tiene la piel sensible.
+El pH de la piel de los perros es distinto al de los humanos: entre 6.2 y 7.4 en perros, frente al 5.5 en humanos, según el [American College of Veterinary Dermatology (ACVD)](https://www.acvd.org). Usar un champú humano, aunque sea suave o de bebé, puede romper la barrera natural de la piel y provocar irritación, resequedad o alergias. Siempre opta por productos formulados específicamente para perros, idealmente hipoalergénicos si tu mascota tiene la piel sensible.
 
 ### Error 2: Bañarlo con demasiada o muy poca frecuencia
 

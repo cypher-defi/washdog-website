@@ -8,16 +8,17 @@ interface Props {
 // Named author entity — improves E-E-A-T signals for Google's helpful content system
 const WASHDOG_AUTHOR = {
   "@type": "Person",
-  "@id": "https://www.washdog.cl/#author",
-  name: "Equipo WashDog",
-  description: "Peluqueros caninos profesionales en Ñuñoa, Santiago, con experiencia en todas las razas.",
+  "@id": "https://www.washdog.cl/#jose-pablo",
+  name: "José Pablo",
+  jobTitle: "Fundador y Peluquero Canino",
+  description: "Fundador de WashDog. Dueño de perros y residente de Ñuñoa. Abrió WashDog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
+  url: "https://www.washdog.cl/equipo",
   worksFor: {
     "@type": "Organization",
     "@id": "https://www.washdog.cl",
     name: "Washdog",
     url: "https://www.washdog.cl",
   },
-  url: "https://www.washdog.cl",
 }
 
 export default async function BlogSlugLayout({ children, params }: Props) {
@@ -55,6 +56,10 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `https://www.washdog.cl/blog/${slug}`,
+    },
+    speakable: {
+      "@type": "SpeakableSpecification",
+      cssSelector: ["h1", "h2", ".prose p:first-of-type"],
     },
   } : null
 

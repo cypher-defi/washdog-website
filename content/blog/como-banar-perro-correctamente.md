@@ -33,7 +33,7 @@ Antes de abrir la llave, asegúrate de tener todo listo. Improvisar a mitad del 
 
 ### Qué shampoo usar para bañar a tu perro en casa en Chile
 
-Nunca uses shampoo humano. El pH de la piel de los perros es diferente al nuestro, y los productos para personas pueden resecar o irritar su piel. Busca shampoos formulados específicamente para perros, idealmente hipoalergénicos si tu mascota tiene la piel sensible. En el mercado chileno hay buenas opciones en tiendas especializadas, aunque los productos que usamos en nuestra [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) son de línea premium, sin sulfatos agresivos ni fragancias artificiales.
+Nunca uses shampoo humano. El pH de la piel de los perros es diferente al nuestro (entre 6.2 y 7.4, frente al 5.5 humano), y los productos para personas pueden resecar o irritar su piel, según el [American College of Veterinary Dermatology (ACVD)](https://www.acvd.org). Busca shampoos formulados específicamente para perros, idealmente hipoalergénicos si tu mascota tiene la piel sensible. En el mercado chileno hay buenas opciones en tiendas especializadas, aunque los productos que usamos en nuestra [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) son de línea premium, sin sulfatos agresivos ni fragancias artificiales.
 
 ### Otros implementos esenciales para un baño seguro y efectivo
 

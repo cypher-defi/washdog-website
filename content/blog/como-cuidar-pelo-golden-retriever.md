@@ -47,7 +47,7 @@ Los Golden no necesitan bañarse con mucha frecuencia — su capa exterior tiene
 
 **Importante:** usar **shampoo hipoalergénico** formulado para pelo largo. Los shampoos humanos alteran el pH de la piel del perro y pueden generar resequedad o dermatitis.
 
-**El secado es tan importante como el baño.** El Golden tiene una capa interna muy densa que retiene humedad. Si no se seca completamente cerca de la piel, puede generar "hot spots" (dermatitis húmeda) en pocos días. Usa secador a temperatura media-baja y verifica que la capa interna esté seca, no solo la exterior.
+**El secado es tan importante como el baño.** El Golden tiene una capa interna muy densa que retiene humedad. Si no se seca completamente cerca de la piel, puede generar "hot spots" (dermatitis húmeda) en pocos días, una condición reconocida por el [AKC](https://www.akc.org/expert-advice/dog-grooming/golden-retriever-grooming/) como uno de los principales riesgos de grooming en esta raza. Usa secador a temperatura media-baja y verifica que la capa interna esté seca, no solo la exterior.
 
 ## Paso 3: Las zonas problemáticas
 
