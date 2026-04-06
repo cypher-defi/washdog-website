@@ -27,38 +27,29 @@ const faqs: { question: string; answer: React.ReactNode }[] = [
           La peluquería incluye baño, brushing y limpiado de orejas. Los precios
           según tamaño y tipo de pelo son:
         </p>
-        <div className='rounded-xl border border-primary/10 overflow-hidden text-xs'>
-          <div className='grid grid-cols-3 bg-primary/5 px-3 py-2'>
-            <span className='font-bold uppercase tracking-widest text-primary/50'>
-              Tamaño
-            </span>
-            <span className='font-bold uppercase tracking-widest text-primary/50 text-center'>
-              Pelo corto
-            </span>
-            <span className='font-bold uppercase tracking-widest text-primary/50 text-right'>
-              Pelo largo
-            </span>
-          </div>
-          {[
-            { label: "Pequeño", short: "$20.000", long: "$25.000" },
-            { label: "Mediano", short: "$25.000", long: "$30.000" },
-            { label: "Grande",  short: "$35.000", long: "$45.000" },
-            { label: "Gato",    short: "$40.000", long: "—" }
-          ].map((row) => (
-            <div
-              key={row.label}
-              className='grid grid-cols-3 px-3 py-2 border-t border-primary/5'
-            >
-              <span className='font-semibold text-primary/80'>{row.label}</span>
-              <span className='font-bold text-accent-peach-dark text-center'>
-                {row.short}
-              </span>
-              <span className='font-bold text-accent-peach-dark text-right'>
-                {row.long}
-              </span>
-            </div>
-          ))}
-        </div>
+        <table className='w-full rounded-xl border border-primary/10 overflow-hidden text-xs border-collapse'>
+          <thead>
+            <tr className='bg-primary/5'>
+              <th className='font-bold uppercase tracking-widest text-primary/50 px-3 py-2 text-left'>Tamaño</th>
+              <th className='font-bold uppercase tracking-widest text-primary/50 px-3 py-2 text-center'>Pelo corto</th>
+              <th className='font-bold uppercase tracking-widest text-primary/50 px-3 py-2 text-right'>Pelo largo</th>
+            </tr>
+          </thead>
+          <tbody>
+            {[
+              { label: "Pequeño", short: "$20.000", long: "$25.000" },
+              { label: "Mediano", short: "$25.000", long: "$30.000" },
+              { label: "Grande",  short: "$35.000", long: "$45.000" },
+              { label: "Gato",    short: "$40.000", long: "—" }
+            ].map((row) => (
+              <tr key={row.label} className='border-t border-primary/5'>
+                <td className='font-semibold text-primary/80 px-3 py-2'>{row.label}</td>
+                <td className='font-bold text-accent-peach-dark px-3 py-2 text-center'>{row.short}</td>
+                <td className='font-bold text-accent-peach-dark px-3 py-2 text-right'>{row.long}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     )
   },

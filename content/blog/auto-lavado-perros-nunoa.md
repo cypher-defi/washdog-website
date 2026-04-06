@@ -2,6 +2,7 @@
 title: "Auto Lavado Perros Ñuñoa: ¿Casa o Peluquería?"
 description: "¿Lavar a tu perro en casa o llevarlo a una peluquería profesional en Ñuñoa? Compara costos, esfuerzo y resultados antes de decidir."
 date: "2026-03-05"
+lastModified: "2026-03-05"
 author: "José Pablo"
 category: "Cuidado"
 readTime: "5 min"

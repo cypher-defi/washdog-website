@@ -41,7 +41,7 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     headline: post.title,
     description: post.description,
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: post.lastModified ?? post.date,
     author: WASHDOG_AUTHOR,
     publisher: {
       "@type": "Organization",

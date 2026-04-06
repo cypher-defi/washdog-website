@@ -10,6 +10,7 @@ export interface PostMeta {
   title: string
   description: string
   date: string
+  lastModified?: string
   category: string
   readTime: string
   author?: string

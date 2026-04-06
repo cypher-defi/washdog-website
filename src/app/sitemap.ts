@@ -48,7 +48,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/servicios/precio-peluqueria-nunoa",
   ].map(url => ({
     url: `${baseUrl}${url}`,
-    lastModified: new Date(),
+    lastModified: new Date("2026-04-07"),
     changeFrequency: "monthly" as const,
     priority: 0.9,
   }))
@@ -62,9 +62,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Note: /privacy and /terms are excluded — noindex pages should not appear in sitemaps
   return [
-    { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
-    { url: `${baseUrl}/blog`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.8 },
-    { url: `${baseUrl}/newsletter`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
+    { url: baseUrl, lastModified: new Date("2026-04-07"), changeFrequency: "weekly", priority: 1 },
+    { url: `${baseUrl}/blog`, lastModified: new Date("2026-04-07"), changeFrequency: "weekly", priority: 0.8 },
+    { url: `${baseUrl}/newsletter`, lastModified: new Date("2026-04-07"), changeFrequency: "weekly", priority: 0.7 },
     { url: `${baseUrl}/equipo`, lastModified: new Date("2026-04-04"), changeFrequency: "yearly", priority: 0.6 },
     { url: `${baseUrl}/servicios`, lastModified: new Date("2026-04-04"), changeFrequency: "monthly", priority: 0.9 },
     ...staticServicePages,
