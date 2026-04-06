@@ -1,7 +1,6 @@
 {
   "slugs": [
     "auto-lavado-perros",
-    "bano-perros",
     "bano-perros-cerrillos",
     "bano-perros-cerro-navia",
     "bano-perros-estacion-central",
@@ -30,7 +29,7 @@
     "bano-perros-san-ramon",
     "bano-perros-santiago-centro",
     "bano-perros-vitacura",
-    "corte-perros",
+    "bano-perros",
     "corte-perros-cerrillos",
     "corte-perros-cerro-navia",
     "corte-perros-estacion-central",
@@ -59,8 +58,8 @@
     "corte-perros-san-ramon",
     "corte-perros-santiago-centro",
     "corte-perros-vitacura",
+    "corte-perros",
     "mejor-peluqueria-canina-santiago",
-    "peluqueria-canina",
     "peluqueria-canina-cerrillos",
     "peluqueria-canina-cerro-navia",
     "peluqueria-canina-estacion-central",
@@ -89,6 +88,7 @@
     "peluqueria-canina-san-ramon",
     "peluqueria-canina-santiago-centro",
     "peluqueria-canina-vitacura",
+    "peluqueria-canina",
     "peluqueria-french-bulldog-nunoa",
     "peluqueria-gatos",
     "peluqueria-golden-retriever-nunoa",
@@ -96,9 +96,9 @@
     "peluqueria-poodle-nunoa",
     "peluqueria-schnauzer-nunoa",
     "peluqueria-yorkshire-nunoa",
-    "precio-peluqueria",
     "precio-peluqueria-canina-santiago",
+    "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-04-04T11:47:50.544786+00:00"
+  "generated_at": "2026-04-06T22:14:47.450804"
 }

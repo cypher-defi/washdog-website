@@ -4,7 +4,6 @@ import dynamic from "next/dynamic"
 import Link from "next/link"
 import { Icon } from "@iconify/react"
 import { Navbar } from "@/components/layout"
-import { ServiceJsonLd } from "@/components/ServiceJsonLd"
 import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
@@ -44,53 +43,11 @@ const faqs = [
   }
 ]
 
-const serviceSchema = {
-  "@context": "https://schema.org",
-  "@type": "Service",
-  name: "Baño de perros en Ñuñoa",
-  description: "Baño profesional con shampoo hipoalergénico, secado delicado y atención individual para perros en Ñuñoa, Santiago.",
-  provider: { "@type": "LocalBusiness", name: "WashDog", url: "https://www.washdog.cl" },
-  areaServed: { "@type": "City", name: "Ñuñoa, Santiago, Chile" },
-  offers: [
-    {
-      "@type": "Offer",
-      name: "Baño perro hasta 20 kg",
-      price: "10000",
-      priceCurrency: "CLP",
-      priceSpecification: {
-        "@type": "PriceSpecification",
-        price: "10000",
-        priceCurrency: "CLP",
-        minPrice: "10000",
-        maxPrice: "10000",
-      },
-    },
-    {
-      "@type": "Offer",
-      name: "Baño perro más de 20 kg",
-      price: "16000",
-      priceCurrency: "CLP",
-      priceSpecification: {
-        "@type": "PriceSpecification",
-        price: "16000",
-        priceCurrency: "CLP",
-        minPrice: "16000",
-        maxPrice: "16000",
-      },
-    },
-  ],
-}
-
 export default function BanoPage() {
   const booking = useBooking()
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
-      />
-      <ServiceJsonLd slug="bano-perros" />
       <Navbar onBookClick={booking.openModal} />
       <main className='min-h-screen bg-background pt-20'>
         {/* Hero */}
