@@ -20,11 +20,11 @@ export async function LocalBusinessJsonLd() {
     image: "https://www.washdog.cl/hero-beagle.png",
     logo: {
       "@type": "ImageObject",
-      url: "https://www.washdog.cl/hero-beagle.png",
+      url: "https://www.washdog.cl/washdog-social.png",
       width: 400,
       height: 400
     },
-    foundingDate: "2026-02",
+    foundingDate: "2026-02-01",
     "@id": "https://www.washdog.cl",
     url: "https://www.washdog.cl",
     telephone: "+56987230388",
@@ -105,7 +105,7 @@ export async function LocalBusinessJsonLd() {
       reviewCount,
     },
     sameAs: [
-      "https://www.google.com/maps/place/Washdog/@-33.4569,-70.6083,17z",
+      "https://maps.app.goo.gl/iLdYp1eLbXb6YfScA",
       "https://www.instagram.com/washdogexpress",
       "https://www.facebook.com/washdogexpress",
       "https://www.tiktok.com/@washdogexpress",

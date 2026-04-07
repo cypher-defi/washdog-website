@@ -42,6 +42,12 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     description: post.description,
     datePublished: post.date,
     dateModified: post.lastModified ?? post.date,
+    image: {
+      "@type": "ImageObject",
+      url: "https://www.washdog.cl/hero-beagle.png",
+      width: 1200,
+      height: 630,
+    },
     author: WASHDOG_AUTHOR,
     publisher: {
       "@type": "Organization",
@@ -50,7 +56,7 @@ export default async function BlogSlugLayout({ children, params }: Props) {
       url: "https://www.washdog.cl",
       logo: {
         "@type": "ImageObject",
-        url: "https://www.washdog.cl/hero-beagle.png",
+        url: "https://www.washdog.cl/washdog-social.png",
       },
     },
     mainEntityOfPage: {
