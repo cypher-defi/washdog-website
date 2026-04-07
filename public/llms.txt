@@ -33,12 +33,12 @@ José Pablo — fundador y único operador de WashDog. Tiene perros, vive en dep
 
 ## Peluquería por raza (Ñuñoa)
 
-- https://www.washdog.cl/servicios/peluqueria-golden-retriever-nunoa
-- https://www.washdog.cl/servicios/peluqueria-poodle-nunoa
-- https://www.washdog.cl/servicios/peluqueria-french-bulldog-nunoa
-- https://www.washdog.cl/servicios/peluqueria-yorkshire-nunoa
-- https://www.washdog.cl/servicios/peluqueria-schnauzer-nunoa
-- https://www.washdog.cl/servicios/peluqueria-labrador-nunoa
+- https://www.washdog.cl/servicios/peluqueria-golden-retriever-nunoa — Golden Retriever: doble capa, secado profundo, sin rapar
+- https://www.washdog.cl/servicios/peluqueria-labrador-nunoa — Labrador Retriever: baño deslanador, sin rapar
+- https://www.washdog.cl/servicios/peluqueria-poodle-nunoa — Poodle/Caniche: rizo continuo, shampoo hipoalergénico
+- https://www.washdog.cl/servicios/peluqueria-french-bulldog-nunoa — French Bulldog: limpieza de pliegues, protocolo braquicéfalo
+- https://www.washdog.cl/servicios/peluqueria-schnauzer-nunoa — Schnauzer: técnica de raza, barba y cejas definidas
+- https://www.washdog.cl/servicios/peluqueria-yorkshire-nunoa — Yorkshire Terrier: pelo fino, shampoo pH neutro
 
 ## Newsletter: Santiago a Cuatro Patas
 
@@ -51,13 +51,18 @@ Guía semanal de planes y consejos para dueños de perros en Santiago.
 
 ## Blog (guías de cuidado canino)
 
-- https://www.washdog.cl/blog/frecuencia-bano-perros — ¿Con qué frecuencia bañar a tu perro?
-- https://www.washdog.cl/blog/shampoo-correcto-perros — Cómo elegir el shampoo correcto
+- https://www.washdog.cl/blog/como-cuidar-pelo-golden-retriever — Cómo cuidar el pelo de un Golden Retriever
+- https://www.washdog.cl/blog/cuando-llevar-perro-peluquero-primera-vez — ¿Cuándo llevar a tu perro al peluquero por primera vez?
+- https://www.washdog.cl/blog/diferencia-bano-corte-peluqueria-canina — Diferencia entre baño y corte en peluquería canina
 - https://www.washdog.cl/blog/como-cortar-pelo-perro — Cómo cortar el pelo a tu perro en casa
-- https://www.washdog.cl/blog/como-banar-perro-correctamente — Cómo bañar a tu perro correctamente
-- https://www.washdog.cl/blog/peluqueria-canina-nunoa — Peluquería canina en Ñuñoa
-- https://www.washdog.cl/blog/precio-peluqueria-canina-nunoa — Precio peluquería canina Ñuñoa
+- https://www.washdog.cl/blog/como-secar-perro-despues-bano — Cómo secar a tu perro después del baño
+- https://www.washdog.cl/blog/errores-banar-perro — Errores al bañar a tu perro: guía completa
+- https://www.washdog.cl/blog/como-banar-perro-correctamente — Cómo bañar a tu perro correctamente paso a paso
+- https://www.washdog.cl/blog/auto-lavado-perros-nunoa — Auto lavado perros Ñuñoa: ¿casa o peluquería?
+- https://www.washdog.cl/blog/peluqueria-canina-nunoa — Peluquería canina en Ñuñoa: qué buscar y cómo elegir
 - https://www.washdog.cl/blog/peluqueria-gatos-nunoa — Peluquería para gatos en Ñuñoa
+- https://www.washdog.cl/blog/precio-peluqueria-canina-nunoa — Precio peluquería canina Ñuñoa: cuánto cuesta en 2026
+- https://www.washdog.cl/blog/senales-corte-pelo-perro — 5 señales de que tu perro necesita un corte de pelo
 
 ## Zonas de servicio
 
