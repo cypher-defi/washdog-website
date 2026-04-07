@@ -16,7 +16,7 @@ El French Bulldog es una raza que no necesita corte — pero sí necesita un ba�
 
 El French Bulldog tiene **piel corta sin subpelo**, lo que significa que el baño es sencillo en términos de pelaje. El problema está en otra parte: los pliegues de la cara (el hocico, los pliegues nasales, la zona bajo los ojos) acumulan humedad, sebo y restos de comida con una facilidad inusual.
 
-Esa humedad atrapada en los pliegues es la causa más común de **dermatitis por pliegues** en bulldogs — una irritación que huele mal, se enrojece y puede infectarse si no se limpia correctamente y con regularidad.
+Esa humedad atrapada en los pliegues es la causa más común de **dermatitis por pliegues** en bulldogs — una irritación que huele mal, se enrojece y puede infectarse si no se limpia correctamente y con regularidad. El [American Kennel Club](https://www.akc.org/dog-breeds/french-bulldog/) señala que la limpieza regular de los pliegues faciales es una necesidad de cuidado esencial para la raza.
 
 En WashDog limpiamos y secamos cada pliegue de forma individual, con soluciones suaves que no irritan la piel ya sensible del bulldog.
 

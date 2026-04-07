@@ -139,6 +139,29 @@ export default function PrecioPeluqueriaNunoaPage() {
           </div>
         </section>
 
+        {/* Testimonials */}
+        <section className='py-16'>
+          <div className='max-w-4xl mx-auto px-6'>
+            <h2 className='text-2xl font-semibold text-primary mb-8 tracking-tight'>
+              Lo que dicen nuestros clientes
+            </h2>
+            <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
+              <div className='bg-white border border-primary/8 rounded-4xl p-6'>
+                <p className='text-sm text-primary/70 font-light leading-relaxed italic mb-4'>
+                  "En otros lugares me cobraron $60.000 por el baño de mi Golden. Acá fue $18.000 y el resultado fue mucho mejor — el pelo seco de verdad, sin olor raro al día siguiente."
+                </p>
+                <p className='text-xs font-semibold text-primary/60'>— Ana E., Ñuñoa ⭐⭐⭐⭐⭐</p>
+              </div>
+              <div className='bg-white border border-primary/8 rounded-4xl p-6'>
+                <p className='text-sm text-primary/70 font-light leading-relaxed italic mb-4'>
+                  "El precio es lo que dicen, sin sorpresas al final. Me avisaron antes si el pelaje estaba muy enredado. Eso se agradece mucho."
+                </p>
+                <p className='text-xs font-semibold text-primary/60'>— Constanza I., Macul ⭐⭐⭐⭐⭐</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* FAQ */}
         <section className='py-16'>
           <div className='max-w-4xl mx-auto px-6'>

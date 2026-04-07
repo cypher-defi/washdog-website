@@ -19,7 +19,7 @@ El Yorkshire Terrier **no tiene subpelo** — su pelaje es una sola capa de pelo
 1. **Se enreda con facilidad**, especialmente detrás de las orejas, en las axilas y en la zona del cuello
 2. **Crece rápido** — un Yorkshire sin corte regular en 8 semanas llega con nudos que complican el servicio
 
-En WashDog usamos shampoos de pH neutro formulados para pelajes finos, cepillos de púas finas, y secamos siempre con temperatura baja y a distancia. El pelo del Yorkshire se quema con calor directo.
+En WashDog usamos shampoos de pH neutro formulados para pelajes finos, cepillos de púas finas, y secamos siempre con temperatura baja y a distancia. El pelo del Yorkshire se quema con calor directo. El [American Kennel Club](https://www.akc.org/dog-breeds/yorkshire-terrier/) clasifica el pelaje del Yorkshire como "fino, sedoso y de textura similar al cabello humano", lo que exige productos y técnicas distintas a las de razas con pelo estándar.
 
 El corte más común en Santiago es el **corte cachorro** (pelo parejo a media distancia) o el **corte show** (pelo largo con raya al medio). Ambos los realizamos según lo que prefieras.
 

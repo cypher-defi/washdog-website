@@ -40,7 +40,7 @@ Es la pregunta que más recibimos. Muchos dueños piden rapar al Labrador para "
 
 La doble capa del Labrador funciona como aislante térmico en ambos sentidos: protege del frío en invierno **y regula la temperatura en verano**. Rapar esa capa destruye el sistema de regulación natural de la raza y deja la piel expuesta a quemaduras solares. Además, la textura del pelo raramente vuelve a ser la misma después de una rapada.
 
-La alternativa correcta es el **deslanado profundo**: eliminar el subpelo muerto con cepillo y baño deslanador. Un Labrador bien deslanado regula mejor su temperatura que uno rapado.
+La alternativa correcta es el **deslanado profundo**: eliminar el subpelo muerto con cepillo y baño deslanador. Un Labrador bien deslanado regula mejor su temperatura que uno rapado. El [American Kennel Club advierte explícitamente](https://www.akc.org/dog-breeds/labrador-retriever/) que rapar a un Labrador puede dañar permanentemente la estructura de su doble capa.
 
 ---
 

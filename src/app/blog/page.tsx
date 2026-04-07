@@ -82,13 +82,20 @@ export default async function BlogPage({ searchParams }: Props) {
                   </p>
 
                   <div className='flex items-center justify-between pt-2 border-t border-primary/5'>
-                    <span className='text-[11px] text-primary/40'>
-                      {new Date(post.date).toLocaleDateString("es-CL", {
-                        year: "numeric",
-                        month: "long",
-                        day: "numeric"
-                      })}
-                    </span>
+                    <div className='flex flex-col gap-0.5'>
+                      <span className='text-[11px] text-primary/40'>
+                        {new Date(post.date).toLocaleDateString("es-CL", {
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric"
+                        })}
+                      </span>
+                      {post.author && (
+                        <span className='text-[11px] text-primary/40'>
+                          Por <span className='text-accent-blue'>{post.author}</span>
+                        </span>
+                      )}
+                    </div>
                     <span className='text-xs font-medium text-accent-blue group-hover:translate-x-1 transition-transform inline-block'>
                       Leer →
                     </span>

@@ -18,7 +18,7 @@ El Golden Retriever tiene una capa interna muy densa que retiene humedad. Si no 
 
 En Santiago, los cambios de estación entre otoño e invierno aceleran la **muda de pelo** del Golden. Durante esa época recomendamos baños más frecuentes — cada 4 a 6 semanas — con cepillado profundo incluido para eliminar el subpelo muerto antes de que se apelmace.
 
-El Golden **no se rapa**: cortar la doble capa al ras altera permanentemente la textura del pelaje y elimina la protección térmica natural de la raza. En WashDog respetamos siempre la estructura del manto.
+El Golden **no se rapa**: cortar la doble capa al ras altera permanentemente la textura del pelaje y elimina la protección térmica natural de la raza. En WashDog respetamos siempre la estructura del manto. El [American Kennel Club confirma](https://www.akc.org/dog-breeds/golden-retriever/) que la doble capa del Golden Retriever es parte esencial del estándar de la raza y no debe ser rapada.
 
 ---
 

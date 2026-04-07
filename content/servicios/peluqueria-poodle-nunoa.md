@@ -18,7 +18,7 @@ El Poodle tiene **pelo de crecimiento continuo y sin muda estacional**. A difere
 
 Un Poodle que llega con 10 o más semanas sin corte casi siempre trae nudos en alguna zona. El protocolo correcto es **desenredar antes del baño**, no después — el agua apelmaza los nudos y los hace imposibles de deshacer sin cortarlos.
 
-El Poodle también es una raza con alta tendencia a la **piel sensible y alergias cutáneas**. En WashDog usamos shampoos hipoalergénicos sin sulfatos ni fragancias artificiales, seguros para pieles reactivas.
+El Poodle también es una raza con alta tendencia a la **piel sensible y alergias cutáneas**. En WashDog usamos shampoos hipoalergénicos sin sulfatos ni fragancias artificiales, seguros para pieles reactivas. Según el [American Kennel Club](https://www.akc.org/dog-breeds/poodle-standard/), el Poodle requiere grooming profesional regular para mantener su pelaje sin enredos y su piel saludable.
 
 ---
 

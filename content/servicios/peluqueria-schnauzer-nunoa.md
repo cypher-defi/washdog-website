@@ -16,7 +16,7 @@ El Schnauzer es reconocible por su look característico: barba larga, cejas pobl
 
 El Schnauzer tiene **pelaje duro de doble capa**: una capa externa áspera y resistente, y una capa interna suave. Ese contraste de texturas es lo que le da el aspecto característico a la raza.
 
-El error más común en peluquerías no especializadas es usar la máquina de afeitar en todo el cuerpo. Eso destruye la textura del pelaje exterior y el Schnauzer pierde el look de raza en pocas semanas.
+El error más común en peluquerías no especializadas es usar la máquina de afeitar en todo el cuerpo. Eso destruye la textura del pelaje exterior y el Schnauzer pierde el look de raza en pocas semanas. El [American Kennel Club](https://www.akc.org/dog-breeds/miniature-schnauzer/) describe el pelaje duro y denso como una característica definitoria del estándar del Schnauzer que debe preservarse con la técnica correcta.
 
 El corte correcto combina:
 - **Tijera** para la barba, cejas y falda (zonas de pelo largo)
