@@ -2,6 +2,7 @@
 title: "Cómo cortar el pelo a tu perro en casa | WashDog"
 description: "Aprende cómo cortar el pelo a tu perro en casa paso a paso. Tips, herramientas y cuándo es mejor ir a la peluquería. ¡Agenda en WashDog Santiago!"
 date: "2026-03-13"
+lastModified: "2026-04-07"
 author: "José Pablo"
 category: "Peluquería"
 readTime: "7 min"
@@ -87,19 +88,19 @@ En WashDog somos una [peluquería canina en Santiago](/servicios/peluqueria-cani
 
 ## Preguntas frecuentes sobre cómo cortar el pelo al perro en casa
 
-**¿Con qué frecuencia debo cortar el pelo a mi perro?**
+### ¿Con qué frecuencia debo cortar el pelo a mi perro?
 Depende de la raza y el tipo de pelaje. En general, cada 6 a 8 semanas es lo recomendado para razas de pelo largo o rizado.
 
-**¿Puedo usar una máquina de afeitar humana?**
+### ¿Puedo usar una máquina de afeitar humana?
 No es recomendable. Las máquinas para personas no están diseñadas para el grosor ni la textura del pelo canino y pueden irritar la piel o causar quemaduras por rozamiento, según las guías de grooming del [American Kennel Club (AKC)](https://www.akc.org/expert-advice/dog-grooming/).
 
-**¿Cómo saber si le corté demasiado el pelo a mi perro?**
+### ¿Cómo saber si le corté demasiado el pelo a mi perro?
 Si la piel queda expuesta o el corte es muy cercano a la raíz en razas de doble capa, puede haber riesgo de quemaduras solares. Consulta siempre con un profesional si tienes dudas.
 
-**¿Qué hago si mi perro no se queda quieto?**
+### ¿Qué hago si mi perro no se queda quieto?
 Comienza con sesiones muy cortas y usa muchos refuerzos positivos. Si el estrés es alto, lo más conveniente es acudir a un groomer profesional.
 
-**¿Debo cortar las uñas antes o después del baño?**
+### ¿Debo cortar las uñas antes o después del baño?
 Preferiblemente después del baño, cuando la uña está más blanda y más fácil de cortar sin astillarse.
 
 ---
@@ -114,21 +115,9 @@ Agenda fácil online, atención personalizada y productos premium para que tu pe
 
 ## ¿Buscas peluquería canina en Santiago?
 
-En **WashDog** cuidamos a tu perro como si fuera el nuestro:
-
-- 🛁 [Baño para perros](/servicios/bano-perros) — shampoo hipoalergénico, secado profesional
-- ✂️ [Corte de pelo canino](/servicios/corte-perros) — todas las razas
-- 🐾 [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) — atención one-to-one
-- 🐱 [Peluquería para gatos](/servicios/peluqueria-gatos)
+En **WashDog** cuidamos a tu perro como si fuera el nuestro: baño hipoalergénico, [corte de pelo profesional](/servicios/corte-perros) para todas las razas y atención one-to-one en Ñuñoa.
 
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
-
-## Agenda tu cita en tu comuna
-
-- [Ñuñoa](/servicios/bano-perros-nunoa)
-- [Providencia](/servicios/bano-perros-providencia)
-- [La Reina](/servicios/bano-perros-la-reina)
-- [Macul](/servicios/bano-perros-macul)
 - [Las Condes](/servicios/bano-perros-las-condes)
