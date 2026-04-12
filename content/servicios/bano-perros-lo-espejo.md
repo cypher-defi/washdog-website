@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Lo Espejo — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Lo Espejo — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y un perro que vuelve a casa feliz — a pasos de tu barrio."
-keywords: "baño perros Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, WashDog"
+keywords: "baño perros Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en Lo Espejo?
+### ¿Por qué Washdog en Lo Espejo?
 
 **📍 Estamos en tu sector, te conocemos**
 Atendemos dueños de Lo Espejo, El Bosque, Pedro Aguirre Cerda y comunas cercanas. Sabemos lo que buscan las familias del sector: un servicio de confianza, cerca de casa, sin sorpresas.
@@ -41,7 +41,7 @@ Nada de *"te avisamos al final"*. Antes de reservar ya sabes cuánto pagas. Prec
 — **Marcela R.** — dueña de Coco, Cocker Spaniel · Lo Espejo
 
 ⭐⭐⭐⭐⭐
-*"Busqué baño perros Lo Espejo y encontré WashDog. La atención es buenísima, te avisan cuando está listo y el precio es justo para lo que entregan."*
+*"Busqué baño perros Lo Espejo y encontré Washdog. La atención es buenísima, te avisan cuando está listo y el precio es justo para lo que entregan."*
 — **Jorge A.** — dueño de Bruno, Labrador · Pedro Aguirre Cerda
 
 ---

@@ -77,7 +77,7 @@ La regla práctica: si el pelo de tu perro empieza a oler antes de que programes
 
 ---
 
-En WashDog trabajamos con calma, especialmente con perros que vienen por primera vez. El ambiente individual — sin otros perros presentes — ayuda a que la experiencia sea lo menos estresante posible.
+En Washdog trabajamos con calma, especialmente con perros que vienen por primera vez. El ambiente individual — sin otros perros presentes — ayuda a que la experiencia sea lo menos estresante posible.
 
 ## Ver también
 

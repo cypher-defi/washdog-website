@@ -1,14 +1,14 @@
 ---
-title: "WashDog peluquería canina en Lo Espejo — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Lo Espejo — Peluquería Canina Premium Santiago"
 description: "Sin estrés, sin sorpresas, con el cariño que él se merece."
-keywords: "peluquería canina Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, WashDog"
+keywords: "peluquería canina Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, Washdog"
 date: "2026-03-10"
 ---
 
 # Tu perro limpio y feliz — Peluquería Canina Lo Espejo
 ## Sin estrés, sin sorpresas, con el cariño que él se merece.
 
-En WashDog sabemos que tu perro es familia. Por eso cada baño, cada corte y cada uña cortada se hace con calma, productos premium y atención personalizada. **Precios claros desde $25.000 CLP — sin letras chicas.**
+En Washdog sabemos que tu perro es familia. Por eso cada baño, cada corte y cada uña cortada se hace con calma, productos premium y atención personalizada. **Precios claros desde $25.000 CLP — sin letras chicas.**
 
 ---
 
@@ -23,13 +23,13 @@ En WashDog sabemos que tu perro es familia. Por eso cada baño, cada corte y cad
 
 ---
 
-### ¿Por qué WashDog en Lo Espejo?
+### ¿Por qué Washdog en Lo Espejo?
 
 **📍 Estamos en tu comuna — más cerca de lo que crees**
 Atendemos a clientes de Lo Espejo, Pedro Aguirre Cerda, El Bosque y Cisterna. Sin viajes largos ni complicaciones. Solo trae a tu perro.
 
 **🐶 Atención de a uno — porque tu perro no es un número**
-En WashDog no trabajamos en serie. Tu perro es atendido solo, con calma y sin el estrés de un ambiente ruidoso lleno de animales. Así cuidamos tanto el resultado como el bienestar del animal.
+En Washdog no trabajamos en serie. Tu perro es atendido solo, con calma y sin el estrés de un ambiente ruidoso lleno de animales. Así cuidamos tanto el resultado como el bienestar del animal.
 
 **📅 Reserva online 24/7 — sin llamadas, sin filas**
 Agenda tu hora por WhatsApp o desde nuestra web en menos de 2 minutos. Tú eliges el día y la hora. Así de simple.

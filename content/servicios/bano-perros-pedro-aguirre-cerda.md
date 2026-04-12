@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Pedro Aguirre Cerda — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Pedro Aguirre Cerda — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos hipoalergénicos y agenda online. Tu perro limpio y perfumado, sin complicaciones."
-keywords: "baño perros Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, WashDog"
+keywords: "baño perros Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, Washdog"
 date: "2026-03-11"
 ---
 
@@ -24,7 +24,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué elegir WashDog en Pedro Aguirre Cerda?
+### ¿Por qué elegir Washdog en Pedro Aguirre Cerda?
 
 **Porque conocemos tu barrio — y a tus vecinos también.**
 Atendemos perros de Pedro Aguirre Cerda, San Miguel, El Bosque y comunas cercanas. Nuestros clientes vuelven porque confían en cómo tratamos a su compañero, no solo en el resultado.
@@ -44,7 +44,7 @@ Agenda online 24/7 por WhatsApp o formulario web. Sin llamadas en horario de ofi
 — **Marcela T.**, dueña de Canelo — Pedro Aguirre Cerda
 
 ⭐⭐⭐⭐⭐
-*"Bañarlo en casa era un caos total. Desde que lo traigo a WashDog, ahorro tiempo y mi Golden queda mucho mejor que cuando lo hacía yo. Vale cada peso."*
+*"Bañarlo en casa era un caos total. Desde que lo traigo a Washdog, ahorro tiempo y mi Golden queda mucho mejor que cuando lo hacía yo. Vale cada peso."*
 — **Rodrigo M.**, dueño de Bruno — San Miguel
 
 ---
@@ -70,5 +70,5 @@ El **baño de perros en Pedro Aguirre Cerda** que buscabas está a solo un mensa
 ¿Prefieres ver la agenda completa?
 **[Ver disponibilidad online]**
 
-*WashDog — Peluquería Canina Premium · Santiago, Chile*
+*Washdog — Peluquería Canina Premium · Santiago, Chile*
 *Atendemos desde Pedro Aguirre Cerda hasta Ñuñoa, San Miguel y comunas aledañas.*

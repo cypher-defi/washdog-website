@@ -62,7 +62,7 @@ El servicio de corte incluye **todo lo del baño más**:
 
 ## Una duda frecuente: ¿el corte incluye el baño?
 
-**Sí.** En WashDog y en la mayoría de las peluquerías caninas profesionales, el corte siempre incluye el baño. No tiene sentido cortar el pelo de un perro sucio — el pelo limpio y seco se corta mejor, con resultado más prolijo y sin riesgo de tirones.
+**Sí.** En Washdog y en la mayoría de las peluquerías caninas profesionales, el corte siempre incluye el baño. No tiene sentido cortar el pelo de un perro sucio — el pelo limpio y seco se corta mejor, con resultado más prolijo y sin riesgo de tirones.
 
 Si alguien te ofrece "corte sin baño", asegúrate de entender qué resultado vas a obtener.
 

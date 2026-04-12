@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Estación Central — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Estación Central — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, trato personalizado y resultado que dura. Tu perro merece más que un baño común."
-keywords: "baño perros Estación Central, peluquería canina Estación Central, grooming Estación Central, WashDog"
+keywords: "baño perros Estación Central, peluquería canina Estación Central, grooming Estación Central, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en Estación Central?
+### ¿Por qué Washdog en Estación Central?
 
 **Cerca tuyo, sin complicaciones**
 Estamos ubicados en una zona accesible desde Estación Central, Pudahuel, Cerrillos y Pedro Aguirre Cerda. Fácil llegar, fácil estacionar. Te enviamos la ubicación exacta por WhatsApp al confirmar tu hora.
@@ -70,5 +70,5 @@ Sin filas. Sin esperas. Sin complicaciones.
 **[Ver disponibilidad online](#)**
 
 ---
-*WashDog · Peluquería canina premium · Estación Central, Santiago*
+*Washdog · Peluquería canina premium · Estación Central, Santiago*
 *Atendemos también desde Pudahuel, Cerrillos y Pedro Aguirre Cerda*

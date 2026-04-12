@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en La Florida — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en La Florida — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y reserva en 2 minutos — sin salir de La Florida."
-keywords: "baño perros La Florida, peluquería canina La Florida, grooming La Florida, WashDog"
+keywords: "baño perros La Florida, peluquería canina La Florida, grooming La Florida, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en La Florida?
+### ¿Por qué Washdog en La Florida?
 
 **🐾 Un perro a la vez, siempre**
 Tu compañero no espera en jaula ni se mezcla con otros animales. Toda la atención es para él, desde que llega hasta que lo buscas. Sin apuros, sin estrés.
@@ -60,7 +60,7 @@ Sabes exactamente qué incluye y cuánto vale según el tamaño de tu perro. Nad
 
 Reservar es simple: elige tu horario, confírmanos el tamaño de tu perro y listo. Te avisamos cuando esté listo para retirarlo.
 
-Miles de dueños de perros en La Florida, Macul, Peñalolén y Puente Alto ya confían en WashDog. Ahora es el turno de tu compañero.
+Miles de dueños de perros en La Florida, Macul, Peñalolén y Puente Alto ya confían en Washdog. Ahora es el turno de tu compañero.
 
 **👇 Agenda en menos de 2 minutos:**
 

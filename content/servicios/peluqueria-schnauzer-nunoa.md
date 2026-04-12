@@ -1,7 +1,7 @@
 ---
-title: "Peluquería Schnauzer en Ñuñoa — WashDog Santiago"
-description: "Grooming para Schnauzer en Ñuñoa. Corte con técnica específica para pelaje duro de doble capa. Barba, cejas y falda definidas. Reserva en WashDog."
-keywords: "peluquería Schnauzer Ñuñoa, corte Schnauzer Santiago, grooming Schnauzer Chile, WashDog"
+title: "Peluquería Schnauzer en Ñuñoa — Washdog Santiago"
+description: "Grooming para Schnauzer en Ñuñoa. Corte con técnica específica para pelaje duro de doble capa. Barba, cejas y falda definidas. Reserva en Washdog."
+keywords: "peluquería Schnauzer Ñuñoa, corte Schnauzer Santiago, grooming Schnauzer Chile, Washdog"
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
@@ -22,7 +22,7 @@ El corte correcto combina:
 - **Tijera** para la barba, cejas y falda (zonas de pelo largo)
 - **Máquina con peine guía** o **stripping** para el cuerpo y la cabeza (zonas de pelo corto)
 
-En WashDog trabajamos con la técnica adecuada para cada zona, respetando el estándar de la raza en sus tres tamaños: miniatura, estándar y gigante.
+En Washdog trabajamos con la técnica adecuada para cada zona, respetando el estándar de la raza en sus tres tamaños: miniatura, estándar y gigante.
 
 ---
 
@@ -50,7 +50,7 @@ En WashDog trabajamos con la técnica adecuada para cada zona, respetando el est
 ## Preguntas frecuentes sobre el Schnauzer
 
 **¿Hacen stripping para Schnauzer?**
-El stripping (arrancar el pelo muerto a mano para mantener la textura dura) es la técnica tradicional para la raza, pero requiere mucho tiempo y no todos los perros lo toleran. En WashDog usamos máquina con peine guía como alternativa práctica. Si quieres stripping, cuéntanos al reservar.
+El stripping (arrancar el pelo muerto a mano para mantener la textura dura) es la técnica tradicional para la raza, pero requiere mucho tiempo y no todos los perros lo toleran. En Washdog usamos máquina con peine guía como alternativa práctica. Si quieres stripping, cuéntanos al reservar.
 
 **¿Cuánto demora el servicio?**
 Entre 75 y 120 minutos dependiendo del tamaño (miniatura, estándar o gigante) y el estado del pelaje.
@@ -87,7 +87,7 @@ Sí. Respetamos el largo de barba que prefieras. Si quieres una barba más larga
 
 ---
 
-## Agenda tu hora en WashDog
+## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
 🕐 Lunes a domingo, 10:00–20:00

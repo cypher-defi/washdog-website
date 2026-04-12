@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Lo Prado — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Lo Prado — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y agenda online en 2 minutos. Sin esperas, sin estrés."
-keywords: "baño perros Lo Prado, peluquería canina Lo Prado, grooming Lo Prado, WashDog"
+keywords: "baño perros Lo Prado, peluquería canina Lo Prado, grooming Lo Prado, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en Lo Prado?
+### ¿Por qué Washdog en Lo Prado?
 
 **Atención uno a uno, sin apuros ni jaulas**
 Tu perro no comparte turno con nadie. Lo atendemos con calma, en un ambiente tranquilo — sin el ruido ni el caos típico de otras peluquerías. Ideal para perros nerviosos o de primera vez.
@@ -70,4 +70,4 @@ Reservar es simple: elige tu horario, confírmalo por WhatsApp o desde el formul
 
 ---
 
-*WashDog — Peluquería canina premium en Santiago. Atendemos Lo Prado, Pudahuel, Quinta Normal, Cerro Navia y comunas cercanas.*
+*Washdog — Peluquería canina premium en Santiago. Atendemos Lo Prado, Pudahuel, Quinta Normal, Cerro Navia y comunas cercanas.*

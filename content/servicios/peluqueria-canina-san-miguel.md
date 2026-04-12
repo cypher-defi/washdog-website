@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en San Miguel — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en San Miguel — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos hipoalergénicos premium y agenda online en 2 minutos. Sin filas, sin estrés."
-keywords: "peluquería canina San Miguel, peluquería canina San Miguel, grooming San Miguel, WashDog"
+keywords: "peluquería canina San Miguel, peluquería canina San Miguel, grooming San Miguel, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en San Miguel?
+### ¿Por qué Washdog en San Miguel?
 
 **Un perro a la vez, siempre.**
 No somos un lavadero en masa. Atendemos a tu perro de forma individual, con calma y dedicación, para que llegue a casa relajado y contento — no estresado.
@@ -36,7 +36,7 @@ Reserva en 2 minutos desde el celular, a cualquier hora. Sin llamadas, sin esper
 
 ### Lo que dicen nuestros clientes en San Miguel
 
-> *"Llevé a mi Beagle con la piel súper sensible y quedé sorprendida. Usaron productos especiales, lo trataron con una paciencia increíble y volvió a casa oliendo rico y con el pelaje brillante. WashDog ya es nuestro lugar fijo."*
+> *"Llevé a mi Beagle con la piel súper sensible y quedé sorprendida. Usaron productos especiales, lo trataron con una paciencia increíble y volvió a casa oliendo rico y con el pelaje brillante. Washdog ya es nuestro lugar fijo."*
 > **— Valentina R., San Miguel · Beagle, 3 años ⭐⭐⭐⭐⭐**
 
 > *"Agendé por primera vez sin saber bien qué esperar. Mi Golden es grande y medio ansioso, pero lo manejaron perfecto. El resultado fue impresionante. Lo recomiendo a todos en el barrio."*
@@ -65,4 +65,4 @@ Reservar es fácil: elige el servicio, cuéntanos la raza y el tamaño de tu per
 ¿Prefieres ver la disponibilidad primero?
 **[Ver disponibilidad online](#)**
 
-> 📍 WashDog · San Miguel, Santiago · Fácil acceso desde Gran Avenida y comunas vecinas.
+> 📍 Washdog · San Miguel, Santiago · Fácil acceso desde Gran Avenida y comunas vecinas.

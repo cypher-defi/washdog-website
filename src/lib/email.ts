@@ -70,7 +70,7 @@ export async function sendBookingConfirmation(data: BookingEmailData) {
           <tr>
             <td style="background: linear-gradient(135deg, #1a1f24 0%, #2d3748 100%); padding: 40px 40px 30px; text-align: center;">
               <h1 style="margin: 0; color: #ffffff; font-size: 28px; font-weight: 700;">
-                🐕 WashDog
+                🐕 Washdog
               </h1>
               <p style="margin: 10px 0 0; color: rgba(255,255,255,0.8); font-size: 14px;">
                 Peluquería Canina
@@ -225,7 +225,7 @@ export async function sendBookingConfirmation(data: BookingEmailData) {
                 Por favor no respondas a este mensaje.
               </p>
               <p style="margin: 12px 0 0; color: #64748b; font-size: 13px; font-weight: 500;">
-                WashDog - Peluquería Canina
+                Washdog - Peluquería Canina
               </p>
             </td>
           </tr>
@@ -257,14 +257,14 @@ INFORMACIÓN IMPORTANTE
 - Asegúrate de que tu mascota esté cómoda y tranquila
 
 ¡Te esperamos!
-WashDog - Peluquería Canina
+Washdog - Peluquería Canina
 `
 
   console.log("Sending email to:", data.to)
   console.log("From:", process.env.GMAIL_USER)
 
   const result = await transporter.sendMail({
-    from: `"WashDog" <${process.env.GMAIL_USER}>`,
+    from: `"Washdog" <${process.env.GMAIL_USER}>`,
     to: data.to,
     subject: `✓ Reserva Confirmada - ${serviceLabel} para ${data.dogName}`,
     text,
@@ -311,7 +311,7 @@ Horario: ${startTimeStr} - ${endTimeStr}
 `
 
   const result = await transporter.sendMail({
-    from: `"WashDog" <${process.env.GMAIL_USER}>`,
+    from: `"Washdog" <${process.env.GMAIL_USER}>`,
     to: "contacto@washdog.cl, reservas@washdog.cl",
     subject: `Nueva Reserva - ${data.name} - ${serviceLabel} (${sizeLabel})`,
     text,

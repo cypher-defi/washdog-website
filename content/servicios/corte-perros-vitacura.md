@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Vitacura — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Vitacura — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online — sin llamadas, sin esperas."
-keywords: "corte perros Vitacura, peluquería canina Vitacura, grooming Vitacura, WashDog"
+keywords: "corte perros Vitacura, peluquería canina Vitacura, grooming Vitacura, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Vitacura?
+### ¿Por qué Washdog en Vitacura?
 
 **🐾 Tu perro tiene su propia hora, su propio espacio**
 No trabajamos en cadena. Mientras estamos con tu perro, estamos *solo* con tu perro. Sin filas, sin jaulas colectivas, sin estrés innecesario.
@@ -41,7 +41,7 @@ Agenda tu hora por WhatsApp o desde nuestro formulario web en menos de dos minut
 — **Valentina R.** · Golden Retriever · Vitacura
 
 ⭐⭐⭐⭐⭐
-*"Llevaba meses buscando un lugar de confianza para mi Bichón. En WashDog se nota que realmente les importa el bienestar del perro, no solo despachar rápido."*
+*"Llevaba meses buscando un lugar de confianza para mi Bichón. En Washdog se nota que realmente les importa el bienestar del perro, no solo despachar rápido."*
 — **Cristóbal M.** · Bichón Maltés · Las Condes
 
 ---
@@ -70,4 +70,4 @@ Para el **corte perros Vitacura** con la atención que tu mascota realmente mere
 **[Ver disponibilidad online](#)**
 
 ---
-*WashDog · Peluquería canina premium · Santiago, Chile*
+*Washdog · Peluquería canina premium · Santiago, Chile*

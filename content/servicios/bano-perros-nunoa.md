@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Ñuñoa — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Ñuñoa — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención uno a uno y agenda online en minutos. Sin esperas, sin estrés, sin sorpresas en el precio."
-keywords: "baño perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, WashDog"
+keywords: "baño perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Ñuñoa?
+### ¿Por qué Washdog en Ñuñoa?
 
 **Lo tratamos como si fuera nuestro.**
 Sabemos que dejarlo con desconocidos genera dudas. Por eso cada perro recibe atención directa durante todo el proceso: sin hacinamiento, sin esperas, sin descuidos. Tu perro entra y sale en el mismo bloque horario.
@@ -72,4 +72,4 @@ Reservar el **baño perros en Ñuñoa** es simple: elige día y hora, confírman
 **[📅 Ver disponibilidad online](https://washdog.cl/agenda)**
 
 ---
-*WashDog — Peluquería canina premium en Ñuñoa, Santiago.*
+*Washdog — Peluquería canina premium en Ñuñoa, Santiago.*

@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Quinta Normal — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Quinta Normal — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa."
-keywords: "corte perros Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, WashDog"
+keywords: "corte perros Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, Washdog"
 date: "2026-04-04"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-04-04"
 
 ---
 
-### ¿Por qué WashDog en Quinta Normal?
+### ¿Por qué Washdog en Quinta Normal?
 
 **🗓️ Reserva en 2 minutos, sin llamadas**
 Agenda tu hora online o por WhatsApp cuando quieras, a cualquier hora. Sin esperas, sin vueltas.

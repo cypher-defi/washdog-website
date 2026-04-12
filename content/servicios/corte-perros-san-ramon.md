@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en San Ramón — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en San Ramón — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa."
-keywords: "corte perros San Ramón, peluquería canina San Ramón, grooming San Ramón, WashDog"
+keywords: "corte perros San Ramón, peluquería canina San Ramón, grooming San Ramón, Washdog"
 date: "2026-04-04"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-04-04"
 
 ---
 
-### ¿Por qué WashDog en San Ramón?
+### ¿Por qué Washdog en San Ramón?
 
 **🗓️ Reserva en 2 minutos, sin llamadas**
 Agenda tu hora online o por WhatsApp cuando quieras, a cualquier hora. Sin esperas, sin vueltas.

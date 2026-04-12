@@ -30,7 +30,7 @@ export default function PrivacyPage() {
 
         <div className="prose prose-sm text-primary/80 space-y-6">
           <p>
-            En WashDog, operado por Los Pelusos SpA, respetamos la privacidad de
+            En Washdog, operado por Los Pelusos SpA, respetamos la privacidad de
             los usuarios y tratamos los datos personales conforme a la Ley Nº
             19.628 sobre Protección de la Vida Privada.
           </p>
@@ -77,7 +77,7 @@ export default function PrivacyPage() {
           <ul className="list-disc pl-6 space-y-2">
             <li>Responder consultas y solicitudes.</li>
             <li>Gestionar comunicaciones con clientes o interesados.</li>
-            <li>Proporcionar información sobre servicios de WashDog.</li>
+            <li>Proporcionar información sobre servicios de Washdog.</li>
             <li>Mejorar el funcionamiento y experiencia del Sitio Web.</li>
             <li>Cumplir obligaciones legales.</li>
           </ul>
@@ -102,7 +102,7 @@ export default function PrivacyPage() {
           <h2 className="text-xl font-semibold text-primary mt-8">
             6. Comunicación de datos
           </h2>
-          <p>WashDog no cederá datos personales a terceros, salvo:</p>
+          <p>Washdog no cederá datos personales a terceros, salvo:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Cuando sea necesario para la prestación de servicios.</li>
             <li>
@@ -131,7 +131,7 @@ export default function PrivacyPage() {
 
           <h2 className="text-xl font-semibold text-primary mt-8">8. Seguridad</h2>
           <p>
-            WashDog adopta medidas razonables de seguridad para proteger los datos
+            Washdog adopta medidas razonables de seguridad para proteger los datos
             personales frente a accesos no autorizados, pérdida o uso indebido.
           </p>
 
@@ -146,7 +146,7 @@ export default function PrivacyPage() {
             10. Cambios en la Política de Privacidad
           </h2>
           <p>
-            WashDog se reserva el derecho de modificar esta Política de Privacidad.
+            Washdog se reserva el derecho de modificar esta Política de Privacidad.
             Cualquier cambio será publicado en el Sitio Web.
           </p>
         </div>

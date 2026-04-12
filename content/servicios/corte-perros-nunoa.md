@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Ñuñoa — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Ñuñoa — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online — sin llamadas, sin filas, sin estrés."
-keywords: "corte perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, WashDog"
+keywords: "corte perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en Ñuñoa?
+### ¿Por qué Washdog en Ñuñoa?
 
 **Tu perro no espera en jaula.**
 Atendemos de a uno. Sin aglomeración, sin ladridos ajenos, sin apuros. Cuando tu perro entra, toda la atención es para él.
@@ -67,5 +67,5 @@ Reservar es simple: elige tu horario, indícanos la raza y el estilo de corte qu
 
 [Ver disponibilidad online](#)
 
-> 📍 WashDog — Peluquería canina premium en Ñuñoa, Santiago.
+> 📍 Washdog — Peluquería canina premium en Ñuñoa, Santiago.
 > Atendemos también a clientes de Providencia, Macul, La Reina y comunas cercanas.

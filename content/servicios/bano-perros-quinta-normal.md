@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Quinta Normal — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Quinta Normal — Peluquería Canina Premium Santiago"
 description: "Secado profesional, perfume incluido y atención individual — reserva tu hora en 2 minutos."
-keywords: "baño perros Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, WashDog"
+keywords: "baño perros Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué elegir WashDog para el baño de perros en Quinta Normal?
+### ¿Por qué elegir Washdog para el baño de perros en Quinta Normal?
 
 **📍 Ubicados donde tú vives**
 Estamos en Quinta Normal, a minutos de Pudahuel, Cerro Navia y Lo Prado. Sin cruzar Santiago, sin estacionamiento imposible, sin perder media mañana en el traslado.
@@ -41,7 +41,7 @@ Agenda por WhatsApp o formulario web a cualquier hora del día. Confirmación in
 
 ---
 
-> *"Buscaba un baño de perros en Quinta Normal que no fuera una fábrica de mascotas. En WashDog le dan atención de verdad. Mi Golden salió como recién comprado. 100% recomendado para los vecinos del sector."*
+> *"Buscaba un baño de perros en Quinta Normal que no fuera una fábrica de mascotas. En Washdog le dan atención de verdad. Mi Golden salió como recién comprado. 100% recomendado para los vecinos del sector."*
 > — **Rodrigo F., Cerro Navia · Perro: Bruno (Golden Retriever)** ⭐⭐⭐⭐⭐
 
 ---
@@ -75,5 +75,5 @@ Reservar es simple: elige día, hora y listo. Sin filas, sin sorpresas en el pre
 
 ---
 
-*WashDog · Peluquería canina premium · Quinta Normal, Santiago*
+*Washdog · Peluquería canina premium · Quinta Normal, Santiago*
 *Atendemos también desde Pudahuel, Cerro Navia y Lo Prado*

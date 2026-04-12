@@ -11,7 +11,7 @@ const WASHDOG_AUTHOR = {
   "@id": "https://washdog.cl/#jose-pablo",
   name: "José Pablo",
   jobTitle: "Fundador y Peluquero Canino",
-  description: "Fundador de WashDog. Dueño de perros y residente de Ñuñoa. Abrió WashDog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
+  description: "Fundador de Washdog. Dueño de perros y residente de Ñuñoa. Abrió Washdog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
   url: "https://washdog.cl/equipo",
   worksFor: {
     "@type": "Organization",

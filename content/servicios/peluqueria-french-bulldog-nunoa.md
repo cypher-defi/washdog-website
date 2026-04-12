@@ -1,7 +1,7 @@
 ---
-title: "Peluquería French Bulldog en Ñuñoa — WashDog Santiago"
-description: "Grooming para French Bulldog en Ñuñoa. Piel sensible, pliegues faciales y raza braquicéfala: baño sin estrés, limpieza de pliegues y productos suaves. Reserva en WashDog."
-keywords: "peluquería French Bulldog Ñuñoa, baño French Bulldog Santiago, grooming bulldog francés Chile, WashDog"
+title: "Peluquería French Bulldog en Ñuñoa — Washdog Santiago"
+description: "Grooming para French Bulldog en Ñuñoa. Piel sensible, pliegues faciales y raza braquicéfala: baño sin estrés, limpieza de pliegues y productos suaves. Reserva en Washdog."
+keywords: "peluquería French Bulldog Ñuñoa, baño French Bulldog Santiago, grooming bulldog francés Chile, Washdog"
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
@@ -18,7 +18,7 @@ El French Bulldog tiene **piel corta sin subpelo**, lo que significa que el bañ
 
 Esa humedad atrapada en los pliegues es la causa más común de **dermatitis por pliegues** en bulldogs — una irritación que huele mal, se enrojece y puede infectarse si no se limpia correctamente y con regularidad. El [American Kennel Club](https://www.akc.org/dog-breeds/french-bulldog/) señala que la limpieza regular de los pliegues faciales es una necesidad de cuidado esencial para la raza.
 
-En WashDog limpiamos y secamos cada pliegue de forma individual, con soluciones suaves que no irritan la piel ya sensible del bulldog.
+En Washdog limpiamos y secamos cada pliegue de forma individual, con soluciones suaves que no irritan la piel ya sensible del bulldog.
 
 ---
 
@@ -26,7 +26,7 @@ En WashDog limpiamos y secamos cada pliegue de forma individual, con soluciones 
 
 El French Bulldog es **braquicéfalo** — tiene el hocico corto y las fosas nasales comprimidas, lo que afecta directamente su capacidad de respirar. En una peluquería que no toma esto en cuenta, el estrés del baño, el calor del secador o una posición incorrecta pueden provocar dificultad respiratoria.
 
-En WashDog trabajamos con estos perros **sin apuro**, con agua tibia (no caliente), secador a distancia y temperatura moderada, y sin restringir la cabeza en posiciones que les dificulten respirar. Si tu French Bulldog tiene problemas respiratorios conocidos, cuéntanos al reservar.
+En Washdog trabajamos con estos perros **sin apuro**, con agua tibia (no caliente), secador a distancia y temperatura moderada, y sin restringir la cabeza en posiciones que les dificulten respirar. Si tu French Bulldog tiene problemas respiratorios conocidos, cuéntanos al reservar.
 
 ---
 
@@ -65,7 +65,7 @@ Entre 45 y 60 minutos. El French Bulldog no tiene pelaje complejo — el tiempo 
 
 ## Lo que dicen nuestros clientes
 
-> *"Mi French Bulldog siempre llegaba a casa con los pliegues húmedos y al día siguiente olía mal. En WashDog los limpiaron y secaron uno por uno — llegó a casa seco de verdad y sin olor. Jamás me habían explicado eso en otro lugar."*
+> *"Mi French Bulldog siempre llegaba a casa con los pliegues húmedos y al día siguiente olía mal. En Washdog los limpiaron y secaron uno por uno — llegó a casa seco de verdad y sin olor. Jamás me habían explicado eso en otro lugar."*
 > **— Catalina V., Providencia ⭐⭐⭐⭐⭐**
 
 ---
@@ -89,7 +89,7 @@ Entre 45 y 60 minutos. El French Bulldog no tiene pelaje complejo — el tiempo 
 
 ---
 
-## Agenda tu hora en WashDog
+## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
 🕐 Lunes a domingo, 10:00–20:00

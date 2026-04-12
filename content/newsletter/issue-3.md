@@ -9,7 +9,7 @@ commune: "Las Condes"
 
 # Santiago a Cuatro Patas — Edición #3
 
-*La guía semanal para vivir Santiago con tu perro — by WashDog*
+*La guía semanal para vivir Santiago con tu perro — by Washdog*
 
 ---
 
@@ -29,7 +29,7 @@ Tiene laguna artificial —los bordes son favoritos de los perros, aunque el ing
 
 **📌 Cómo llegar:** Av. Manquehue Norte con Av. Presidente Kennedy, Las Condes. Metro línea 1, estación El Golf (10 min caminando) o Escuela Militar.
 
-> *Tip:* Si tu perro viene de WashDog, el parque queda de camino natural de vuelta — el paseo post-baño es parte del ritual.
+> *Tip:* Si tu perro viene de Washdog, el parque queda de camino natural de vuelta — el paseo post-baño es parte del ritual.
 
 ---
 
@@ -60,7 +60,7 @@ No es un problema serio si se atiende a tiempo. La mayoría de los casos se resu
 
 ---
 
-## 🐶 WashDog esta semana
+## 🐶 Washdog esta semana
 
 Con el cambio de estación, es buen momento para un corte de arreglo — no el corte completo de temporada, sino uno de mantenimiento: pelo interdigital, zona de orejas y cola. Exactamente lo que hace la diferencia en los paseos de otoño.
 
@@ -72,4 +72,4 @@ El otoño en Santiago tiene sus propios planes — esta semana el Araucano los e
 
 Si conoces un lugar, rincón o dato dog-friendly que merece aparecer aquí, escríbenos. Esta guía la construimos entre todos.
 
-— El equipo WashDog 🐶
+— El equipo Washdog 🐶

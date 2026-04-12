@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Cerrillos — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Cerrillos — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos premium, trato personalizado y resultados que se notan desde el primer olfato."
-keywords: "baño perros Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, WashDog"
+keywords: "baño perros Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en Cerrillos?
+### ¿Por qué Washdog en Cerrillos?
 
 **Porque tu perro no puede contarte cómo lo trataron — nosotros nos aseguramos de que no tenga nada malo que contar.**
 
@@ -41,7 +41,7 @@ Cada baño lo hacemos con calma y atención individual. Tu perro no comparte esp
 > *"Traje a mi Labrador desde Maipú y quedé más que conforme. Lo trataron con mucha paciencia y salió impecable. Ya tenemos hora para el próximo mes."*
 > — **Camila F., Maipú** — Golden Labrador, 3 años ⭐⭐⭐⭐⭐
 
-> *"Buscaba baño perros Cerrillos y encontré WashDog. Mi Schnauzer tiene piel súper sensible y no tuve ningún problema. Los productos son suaves y el resultado duró semanas."*
+> *"Buscaba baño perros Cerrillos y encontré Washdog. Mi Schnauzer tiene piel súper sensible y no tuve ningún problema. Los productos son suaves y el resultado duró semanas."*
 > — **Rodrigo M., Cerrillos** — Schnauzer Miniatura, 5 años ⭐⭐⭐⭐⭐
 
 ---
@@ -69,4 +69,4 @@ Reservar es simple: escríbenos por WhatsApp, cuéntanos la raza y el tamaño de
 [Ver disponibilidad online](#)
 
 ---
-*WashDog — Peluquería canina premium · Santiago, Chile · Atendemos Cerrillos, Maipú, Pudahuel y comunas cercanas*
+*Washdog — Peluquería canina premium · Santiago, Chile · Atendemos Cerrillos, Maipú, Pudahuel y comunas cercanas*

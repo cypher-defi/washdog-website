@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Santiago Centro — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Santiago Centro — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. Sin llamadas, sin sorpresas."
-keywords: "corte perros Santiago Centro, peluquería canina Santiago Centro, grooming Santiago Centro, WashDog"
+keywords: "corte perros Santiago Centro, peluquería canina Santiago Centro, grooming Santiago Centro, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en Santiago Centro?
+### ¿Por qué Washdog en Santiago Centro?
 
 **Tu perro, atendido de uno en uno**
 Sin jaulas de espera, sin apuros. Cada perro recibe atención exclusiva de principio a fin, en un ambiente calmado que reduce el estrés del proceso.
@@ -39,7 +39,7 @@ El valor del *corte perros Santiago Centro* se informa antes de agendar, según 
 > *"Llevé a Mochi por primera vez y quedé sorprendida. Lo trataron con una paciencia increíble y salió precioso. Ya somos clientes fijos."*
 > — **Valentina R.**, dueña de Mochi, Schnauzer Miniatura — ⭐⭐⭐⭐⭐
 
-> *"Buscaba un lugar cerca de mi trabajo en Santiago Centro y encontré WashDog. Reservé por WhatsApp en dos minutos y el precio fue exactamente lo que me dijeron. Recomendado 100%."*
+> *"Buscaba un lugar cerca de mi trabajo en Santiago Centro y encontré Washdog. Reservé por WhatsApp en dos minutos y el precio fue exactamente lo que me dijeron. Recomendado 100%."*
 > — **Tomás M.**, dueño de Bruno, Golden Retriever — ⭐⭐⭐⭐⭐
 
 ---
@@ -69,4 +69,4 @@ Agendar es simple: escríbenos por WhatsApp o usa nuestro formulario online, eli
 *Agenda 100% online, sin llamadas*
 
 ---
-*WashDog — Peluquería canina premium · Santiago Centro · También atendemos en Ñuñoa*
+*Washdog — Peluquería canina premium · Santiago Centro · También atendemos en Ñuñoa*

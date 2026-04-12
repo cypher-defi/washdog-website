@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Peñalolén — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Peñalolén — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. Sin filas, sin sorpresas."
-keywords: "corte perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, WashDog"
+keywords: "corte perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Peñalolén?
+### ¿Por qué Washdog en Peñalolén?
 
 **Tu perro no espera en una jaula mientras atendemos a otros.**
 Cada sesión es exclusiva. Tu perro entra, lo atendemos y sale — sin estrés, sin esperas, sin el caos de una peluquería masiva.
@@ -40,7 +40,7 @@ Agenda online disponible las 24 horas. Sin llamadas, sin ir hasta el local a pre
 > **— Valentina R., dueña de Simba 🐾** ⭐⭐⭐⭐⭐
 > *Golden Retriever — cliente desde Peñalolén*
 
-> *"Siempre tuve miedo de llevar a mi Schnauzer a peluquerías que no conocía. En WashDog me explicaron todo antes, el precio fue exacto y mi perro salió relajado. Difícil de encontrar eso."*
+> *"Siempre tuve miedo de llevar a mi Schnauzer a peluquerías que no conocía. En Washdog me explicaron todo antes, el precio fue exacto y mi perro salió relajado. Difícil de encontrar eso."*
 > **— Rodrigo M., dueño de Pirata 🐾** ⭐⭐⭐⭐⭐
 > *Schnauzer Miniatura — cliente desde La Reina*
 
@@ -70,4 +70,4 @@ Sin llamadas. Sin trámites. Solo un perro feliz esperándote en la salida.
 
 ---
 
-*WashDog · Peluquería canina premium · Atendemos clientes de Peñalolén, La Reina, Macul y comunas cercanas.*
+*Washdog · Peluquería canina premium · Atendemos clientes de Peñalolén, La Reina, Macul y comunas cercanas.*

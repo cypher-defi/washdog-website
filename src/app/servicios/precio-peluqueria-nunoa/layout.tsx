@@ -1,14 +1,14 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Precio Peluquería Canina Ñuñoa | WashDog",
+  title: "Precio Peluquería Canina Ñuñoa | Washdog",
   description:
-    "Precios de peluquería canina en Ñuñoa 2026. Tarifas por tamaño y servicio — baño, corte y spa. Sin cobros ocultos. WashDog Ñuñoa.",
+    "Precios de peluquería canina en Ñuñoa 2026. Tarifas por tamaño y servicio — baño, corte y spa. Sin cobros ocultos. Washdog Ñuñoa.",
   keywords:
     "precio peluquería canina Ñuñoa, cuánto cuesta peluquería perros Ñuñoa, tarifa baño perros Ñuñoa, costo grooming perros Santiago",
   alternates: { canonical: "https://washdog.cl/servicios/precio-peluqueria-nunoa" },
   openGraph: {
-    title: "Precio Peluquería Canina Ñuñoa | WashDog",
+    title: "Precio Peluquería Canina Ñuñoa | Washdog",
     description:
       "Tarifas claras por tamaño y servicio. Baño, corte y spa canino en Ñuñoa — sin sorpresas en el precio.",
     url: "https://washdog.cl/servicios/precio-peluqueria-nunoa",

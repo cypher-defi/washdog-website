@@ -1,7 +1,7 @@
 ---
-title: "Peluquería Yorkshire Terrier en Ñuñoa — WashDog Santiago"
-description: "Grooming para Yorkshire Terrier en Ñuñoa. Pelo fino y sedoso que exige productos suaves y técnica delicada. Sin jaulas, atención individual. Reserva en WashDog."
-keywords: "peluquería Yorkshire Terrier Ñuñoa, corte Yorkshire Terrier Santiago, grooming Yorkshire Terrier Chile, WashDog"
+title: "Peluquería Yorkshire Terrier en Ñuñoa — Washdog Santiago"
+description: "Grooming para Yorkshire Terrier en Ñuñoa. Pelo fino y sedoso que exige productos suaves y técnica delicada. Sin jaulas, atención individual. Reserva en Washdog."
+keywords: "peluquería Yorkshire Terrier Ñuñoa, corte Yorkshire Terrier Santiago, grooming Yorkshire Terrier Chile, Washdog"
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
@@ -19,7 +19,7 @@ El Yorkshire Terrier **no tiene subpelo** — su pelaje es una sola capa de pelo
 1. **Se enreda con facilidad**, especialmente detrás de las orejas, en las axilas y en la zona del cuello
 2. **Crece rápido** — un Yorkshire sin corte regular en 8 semanas llega con nudos que complican el servicio
 
-En WashDog usamos shampoos de pH neutro formulados para pelajes finos, cepillos de púas finas, y secamos siempre con temperatura baja y a distancia. El pelo del Yorkshire se quema con calor directo. El [American Kennel Club](https://www.akc.org/dog-breeds/yorkshire-terrier/) clasifica el pelaje del Yorkshire como "fino, sedoso y de textura similar al cabello humano", lo que exige productos y técnicas distintas a las de razas con pelo estándar.
+En Washdog usamos shampoos de pH neutro formulados para pelajes finos, cepillos de púas finas, y secamos siempre con temperatura baja y a distancia. El pelo del Yorkshire se quema con calor directo. El [American Kennel Club](https://www.akc.org/dog-breeds/yorkshire-terrier/) clasifica el pelaje del Yorkshire como "fino, sedoso y de textura similar al cabello humano", lo que exige productos y técnicas distintas a las de razas con pelo estándar.
 
 El corte más común en Santiago es el **corte cachorro** (pelo parejo a media distancia) o el **corte show** (pelo largo con raya al medio). Ambos los realizamos según lo que prefieras.
 
@@ -85,7 +85,7 @@ Entre 60 y 90 minutos dependiendo del largo del pelo y el estado del pelaje al l
 
 ---
 
-## Agenda tu hora en WashDog
+## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
 🕐 Lunes a domingo, 10:00–20:00

@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Lo Barnechea — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Lo Barnechea — Peluquería Canina Premium Santiago"
 description: "Atención individual, productos premium hipoalergénicos y precios claros. Sin sorpresas, sin esperas, sin estrés."
-keywords: "baño perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, WashDog"
+keywords: "baño perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Lo Barnechea?
+### ¿Por qué Washdog en Lo Barnechea?
 
 **Cerca de ti, sin perder la mañana.**
 Estamos ubicados en Lo Barnechea, a minutos de La Dehesa, San Carlos de Apoquindo y Vitacura. Agenda online en 2 minutos, llegas a tu hora y listo.
@@ -67,4 +67,4 @@ Reservar es simple: elige tu horario, confírmanos la raza y el tamaño de tu pe
 **[Ver disponibilidad online]()**
 
 ---
-*WashDog · Peluquería canina premium · Lo Barnechea, Santiago · Atendemos también desde La Dehesa, San Carlos de Apoquindo y Vitacura.*
+*Washdog · Peluquería canina premium · Lo Barnechea, Santiago · Atendemos también desde La Dehesa, San Carlos de Apoquindo y Vitacura.*

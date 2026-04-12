@@ -1,14 +1,14 @@
 ---
-title: "Peluquería Poodle en Ñuñoa — WashDog Santiago"
-description: "Grooming para Poodle en Ñuñoa. Rizo denso que crece rápido y se enreda: corte a medida, baño hipoalergénico y atención individual. Reserva en WashDog."
-keywords: "peluquería Poodle Ñuñoa, corte Poodle Santiago, grooming Poodle Chile, caniche WashDog"
+title: "Peluquería Poodle en Ñuñoa — Washdog Santiago"
+description: "Grooming para Poodle en Ñuñoa. Rizo denso que crece rápido y se enreda: corte a medida, baño hipoalergénico y atención individual. Reserva en Washdog."
+keywords: "peluquería Poodle Ñuñoa, corte Poodle Santiago, grooming Poodle Chile, caniche Washdog"
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
 
 # Peluquería Poodle en Ñuñoa
 
-El Poodle (o Caniche) es una de las razas que más variedad de cortes admite — y también una de las que más fácil se enreda si no se mantiene con regularidad. En WashDog atendemos Poodles en todas sus variedades: toy, miniatura y estándar.
+El Poodle (o Caniche) es una de las razas que más variedad de cortes admite — y también una de las que más fácil se enreda si no se mantiene con regularidad. En Washdog atendemos Poodles en todas sus variedades: toy, miniatura y estándar.
 
 ---
 
@@ -18,7 +18,7 @@ El Poodle tiene **pelo de crecimiento continuo y sin muda estacional**. A difere
 
 Un Poodle que llega con 10 o más semanas sin corte casi siempre trae nudos en alguna zona. El protocolo correcto es **desenredar antes del baño**, no después — el agua apelmaza los nudos y los hace imposibles de deshacer sin cortarlos.
 
-El Poodle también es una raza con alta tendencia a la **piel sensible y alergias cutáneas**. En WashDog usamos shampoos hipoalergénicos sin sulfatos ni fragancias artificiales, seguros para pieles reactivas. Según el [American Kennel Club](https://www.akc.org/dog-breeds/poodle-standard/), el Poodle requiere grooming profesional regular para mantener su pelaje sin enredos y su piel saludable.
+El Poodle también es una raza con alta tendencia a la **piel sensible y alergias cutáneas**. En Washdog usamos shampoos hipoalergénicos sin sulfatos ni fragancias artificiales, seguros para pieles reactivas. Según el [American Kennel Club](https://www.akc.org/dog-breeds/poodle-standard/), el Poodle requiere grooming profesional regular para mantener su pelaje sin enredos y su piel saludable.
 
 ---
 
@@ -58,7 +58,7 @@ Sí. Si tu veterinario te recomendó un shampoo específico, puedes traerlo y lo
 
 ## Lo que dicen nuestros clientes
 
-> *"Tengo una caniche toy con piel muy sensible — siempre termina con irritación después del baño en otros lugares. En WashDog usaron el shampoo que pide el veterinario sin ningún problema y salió sin ninguna reacción."*
+> *"Tengo una caniche toy con piel muy sensible — siempre termina con irritación después del baño en otros lugares. En Washdog usaron el shampoo que pide el veterinario sin ningún problema y salió sin ninguna reacción."*
 > **— Andrea L., Ñuñoa ⭐⭐⭐⭐⭐**
 
 ---
@@ -82,7 +82,7 @@ Sí. Si tu veterinario te recomendó un shampoo específico, puedes traerlo y lo
 
 ---
 
-## Agenda tu hora en WashDog
+## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
 🕐 Lunes a domingo, 10:00–20:00

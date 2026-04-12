@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Quilicura — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Quilicura — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y precios claros. Sin sorpresas, sin esperas, sin estrés para tu perro."
-keywords: "peluquería canina Quilicura, peluquería canina Quilicura, grooming Quilicura, WashDog"
+keywords: "peluquería canina Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en Quilicura?
+### ¿Por qué Washdog en Quilicura?
 
 **Porque tu perro no es un número más.**
 Atendemos de forma personalizada, un perro a la vez. Sin jaulas innecesarias, sin apuros, sin amontonamiento. Tu perro llega tranquilo y se va contento.
@@ -68,4 +68,4 @@ Agendar es simple: cuéntanos el nombre de tu perro, su tamaño y el día que pr
 **[Ver disponibilidad online]**
 
 ---
-*WashDog — Peluquería Canina Quilicura, Santiago. Atendemos de lunes a sábado.*
+*Washdog — Peluquería Canina Quilicura, Santiago. Atendemos de lunes a sábado.*

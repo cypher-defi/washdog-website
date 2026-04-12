@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Vitacura — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Vitacura — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado premium — con atención individual, productos hipoalergénicos y reserva online en 2 minutos."
-keywords: "peluquería canina Vitacura, WashDog"
+keywords: "peluquería canina Vitacura, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog es la peluquería canina de referencia en Vitacura?
+### ¿Por qué Washdog es la peluquería canina de referencia en Vitacura?
 
 **Tu perro, atendido solo — nunca en grupo**
 Cada mascota recibe atención individual desde que llega hasta que sale. Sin estrés, sin esperas junto a otros perros, sin apuros.
@@ -58,7 +58,7 @@ Agenda la hora de tu perro desde el celular — elige fecha, hora y servicio. Si
 
 
 ---
-### Paseos cerca de WashDog en Vitacura
+### Paseos cerca de Washdog en Vitacura
 
 Vitacura es conocida por sus amplias veredas arboladas y parques bien mantenidos — perfectos para pasear perros. Varios de nuestros clientes de Vitacura hacen del paseo y el grooming una rutina semanal.
 
@@ -68,14 +68,14 @@ Vitacura es conocida por sus amplias veredas arboladas y parques bien mantenidos
 - **Av. Alonso de Córdova** — veredas amplias y arboladas, muy transitadas por mascotas
 - **Parque Los Andes** — orillas del río Mapocho, zona verde tranquila
 
-**Cómo llegar a WashDog desde Vitacura:**
+**Cómo llegar a Washdog desde Vitacura:**
 En auto por Av. Las Condes → Tobalaba → Irarrázaval son aproximadamente 20 minutos. También puedes llegar en **Metro Tobalaba (Línea 1)** combinando con bus hacia Ñuñoa.
 
 ---
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar en WashDog toma menos de 2 minutos: elige el servicio, el tamaño de tu perro y el horario que te acomode. Sin llamadas, sin filas, sin complicaciones.
+Reservar en Washdog toma menos de 2 minutos: elige el servicio, el tamaño de tu perro y el horario que te acomode. Sin llamadas, sin filas, sin complicaciones.
 
 Si tienes una pregunta puntual o quieres coordinar algo especial para tu mascota, escríbenos directo por WhatsApp y te respondemos de inmediato.
 
@@ -85,4 +85,4 @@ Si tienes una pregunta puntual o quieres coordinar algo especial para tu mascota
 
 ---
 
-*WashDog — Peluquería canina Vitacura. Atención premium para los perros de quienes no se conforman con cualquier cosa.*
+*Washdog — Peluquería canina Vitacura. Atención premium para los perros de quienes no se conforman con cualquier cosa.*

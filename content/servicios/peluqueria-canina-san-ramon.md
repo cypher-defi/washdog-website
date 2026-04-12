@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en San Ramón — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en San Ramón — Peluquería Canina Premium Santiago"
 description: "Peluquería canina en San Ramón con atención uno a uno, productos premium y agenda online. Sin esperas, sin jaulas, sin estrés."
-keywords: "peluquería canina San Ramón, peluquería canina San Ramón, grooming San Ramón, WashDog"
+keywords: "peluquería canina San Ramón, peluquería canina San Ramón, grooming San Ramón, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en San Ramón?
+### ¿Por qué Washdog en San Ramón?
 
 **Cerca de tu casa, lejos del estrés**
 Sin necesidad de cruzar Santiago. Atendemos perros de San Ramón, La Granja, El Bosque y comunas cercanas. Tu perro vuelve impecable y tú no pierdes la mañana.
@@ -71,4 +71,4 @@ Porque él te espera todos los días. Lo menos que puedes hacer es tenerlo impec
 [Ver disponibilidad online](#)
 
 ---
-*WashDog — Peluquería canina San Ramón · Santiago, Chile*
+*Washdog — Peluquería canina San Ramón · Santiago, Chile*

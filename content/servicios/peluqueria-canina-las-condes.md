@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Las Condes — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Las Condes — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y un perro que vuelve feliz a casa — sin jaulas, sin apuro, sin sorpresas en el precio."
-keywords: "peluquería canina Las Condes, WashDog"
+keywords: "peluquería canina Las Condes, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog en Las Condes?
+### ¿Por qué Washdog en Las Condes?
 
 **Sin jaulas. Sin esperas incómodas.**
 Tu perro es atendido de forma individual, a su ritmo y sin estrés. Nada de hacinamiento ni tiempo encerrado esperando turno. Solo atención personalizada de principio a fin.
@@ -58,7 +58,7 @@ Agenda tu hora 24/7 por WhatsApp o desde la web, elige el horario que más te ac
 
 
 ---
-### Paseos cerca de WashDog en Las Condes
+### Paseos cerca de Washdog en Las Condes
 
 Las Condes tiene algunos de los mejores parques caninos de Santiago. Muchos de nuestros clientes del sector oriente aprovechan de pasear antes de traernos a su perro.
 
@@ -68,14 +68,14 @@ Las Condes tiene algunos de los mejores parques caninos de Santiago. Muchos de n
 - **Parque de los Andes** — ideal para razas grandes que necesitan correr
 - **Parque Padre Hurtado** — tranquilo y arbolado en el sector alto
 
-**Cómo llegar a WashDog desde Las Condes:**
+**Cómo llegar a Washdog desde Las Condes:**
 Toma **Metro Tobalaba (Línea 1 o Línea 4)** o **Metro El Golf (Línea 1)** y combina hacia Ñuñoa. En auto, Irarrázaval conecta directamente con Av. Apoquindo — unos 15 minutos sin tráfico.
 
 ---
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar en WashDog toma menos de dos minutos. Escríbenos por WhatsApp o usa el formulario online, cuéntanos la raza y tamaño de tu perro y elige el horario que más te acomoda. Nos encargamos del resto.
+Reservar en Washdog toma menos de dos minutos. Escríbenos por WhatsApp o usa el formulario online, cuéntanos la raza y tamaño de tu perro y elige el horario que más te acomoda. Nos encargamos del resto.
 
 **Tu perro merece la mejor peluquería canina en Las Condes — y tú mereces la tranquilidad de saber que está en buenas manos.**
 

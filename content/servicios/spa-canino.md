@@ -36,7 +36,7 @@ communes:
 
 # Spa Canino en Santiago: Una Experiencia de Bienestar Integral para tu Perro
 
-Tu perro merece mucho más que un baño común. En WashDog ofrecemos un **spa canino en Santiago** diseñado como una experiencia de bienestar completa, donde cada detalle está pensado para relajar, nutrir e hidratar a tu mascota de patas a cola. Desde nuestro centro en Ñuñoa, transformamos la rutina de higiene en un momento de cuidado profundo que tu perro realmente va a disfrutar.
+Tu perro merece mucho más que un baño común. En Washdog ofrecemos un **spa canino en Santiago** diseñado como una experiencia de bienestar completa, donde cada detalle está pensado para relajar, nutrir e hidratar a tu mascota de patas a cola. Desde nuestro centro en Ñuñoa, transformamos la rutina de higiene en un momento de cuidado profundo que tu perro realmente va a disfrutar.
 
 ## ¿Qué incluye nuestro spa canino?
 
@@ -54,9 +54,9 @@ Nuestro servicio de spa canino va mucho más allá de un baño tradicional. Es u
 
 Este tratamiento es ideal para **perros con necesidades especiales de pelaje**, razas de pelo largo o denso, y también para aquellos peludos que suelen ponerse nerviosos durante el baño convencional. La sesión de spa transforma lo que normalmente es un momento tenso en una experiencia positiva.
 
-## ¿Por qué elegir WashDog para el spa de tu perro?
+## ¿Por qué elegir Washdog para el spa de tu perro?
 
-En WashDog no improvisamos. Cada servicio está respaldado por un equipo de **personal capacitado** en manejo y cuidado animal, que sabe cómo tratar a cada perro según su temperamento, tamaño y condición de piel.
+En Washdog no improvisamos. Cada servicio está respaldado por un equipo de **personal capacitado** en manejo y cuidado animal, que sabe cómo tratar a cada perro según su temperamento, tamaño y condición de piel.
 
 Trabajamos exclusivamente con **productos hipoalergénicos premium**, lo que significa que incluso los perros con piel sensible o alergias pueden disfrutar del spa sin riesgos. Cada producto que usamos ha sido seleccionado pensando en la seguridad y el bienestar de tu mascota.
 
@@ -66,13 +66,13 @@ Además, creemos que tu tiempo también importa. Por eso contamos con **agenda o
 
 Nuestro centro de spa canino está ubicado en **Ñuñoa**, una de las comunas más conectadas de Santiago, con fácil acceso desde distintos puntos de la ciudad. Atendemos mascotas de dueños provenientes de **28 comunas del Gran Santiago**, incluyendo zonas cercanas como **Providencia, Las Condes, La Reina y Macul**, donde muchos de nuestros clientes habituales llegan en pocos minutos.
 
-También recibimos perros de comunas como Peñalolén, La Florida, Vitacura, Santiago Centro y muchas más. No importa de qué sector de Santiago vengas, en WashDog tu perro va a recibir el mismo nivel de cuidado y dedicación.
+También recibimos perros de comunas como Peñalolén, La Florida, Vitacura, Santiago Centro y muchas más. No importa de qué sector de Santiago vengas, en Washdog tu perro va a recibir el mismo nivel de cuidado y dedicación.
 
 ## Agenda tu cita de spa canino
 
 Dale a tu perro la experiencia de relajación y cuidado que se merece. Consulta nuestras tarifas online y **reserva tu hora de spa canino** de forma rápida y sencilla.
 
-👉 **[Agenda tu cita en WashDog](https://www.washdog.cl)**
+👉 **[Agenda tu cita en Washdog](https://www.washdog.cl)**
 
 Tu perro va a salir relajado, con un pelaje hidratado y brillante, y con ganas de volver.
 

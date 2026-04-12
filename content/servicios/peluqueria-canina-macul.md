@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Macul — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Macul — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online en minutos. Sin estrés para él, sin complicaciones para ti."
-keywords: "peluquería canina Macul, WashDog"
+keywords: "peluquería canina Macul, Washdog"
 date: "2026-03-06"
 ---
 
@@ -23,7 +23,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog es la mejor peluquería canina en Macul?
+### ¿Por qué Washdog es la mejor peluquería canina en Macul?
 
 **Un perro a la vez, siempre.**
 Sin jaulas de espera, sin ruido de otros perros. Tu compañero recibe atención 100% dedicada desde que llega hasta que sale moviendo la cola. Así lo hacemos en Macul y así lo valoraron cientos de dueños de Ñuñoa, La Florida y Peñalolén.
@@ -41,7 +41,7 @@ Reserva tu hora directo por WhatsApp o desde nuestra web — cualquier día, a c
 > *"Llevé a mi Golden por primera vez y quedé impresionada. Lo atendieron solo a él, le mandaron fotos y llegó a casa tranquilo y perfumado. No lo cambio por nada."*
 > **— Valentina M., Macul · Golden Retriever · ⭐⭐⭐⭐⭐**
 
-> *"Mi Schnauzer es súper ansioso en las peluquerías. En WashDog salió relajado y con un corte impecable. Se nota que los quieren y saben lo que hacen."*
+> *"Mi Schnauzer es súper ansioso en las peluquerías. En Washdog salió relajado y con un corte impecable. Se nota que los quieren y saben lo que hacen."*
 > **— Rodrigo S., Ñuñoa · Schnauzer Miniatura · ⭐⭐⭐⭐⭐**
 
 ---
@@ -60,9 +60,9 @@ Reserva tu hora directo por WhatsApp o desde nuestra web — cualquier día, a c
 
 
 ---
-### Paseos cerca de WashDog en Macul
+### Paseos cerca de Washdog en Macul
 
-Macul y Ñuñoa son comunas vecinas, lo que hace que WashDog sea una de las peluquerías caninas más cercanas para quienes viven en Macul. Muchos clientes del sector nos visitan regularmente.
+Macul y Ñuñoa son comunas vecinas, lo que hace que Washdog sea una de las peluquerías caninas más cercanas para quienes viven en Macul. Muchos clientes del sector nos visitan regularmente.
 
 **Parques y espacios favoritos en Macul:**
 - **Parque Macul** — zona verde con árboles y espacio abierto para correr
@@ -70,14 +70,14 @@ Macul y Ñuñoa son comunas vecinas, lo que hace que WashDog sea una de las pelu
 - **Canal San Carlos** — paseo lineal ideal para caminatas largas con perros energéticos
 - **Estadio San Carlos de Apoquindo** — alrededores con veredas amplias para pasear
 
-**Cómo llegar a WashDog desde Macul:**
+**Cómo llegar a Washdog desde Macul:**
 Toma **Metro Macul (Línea 4A)** y conecta a Ñuñoa — o simplemente ven en auto por Av. Departamental. Estamos en Irarrázaval 2086 B, a menos de 10 minutos desde Macul.
 
 ---
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar en WashDog es simple: escríbenos por WhatsApp o usa nuestro formulario online, elige día y hora, y listo. Sin esperas, sin llamadas, sin vueltas. Solo tú, tu perro y nosotros.
+Reservar en Washdog es simple: escríbenos por WhatsApp o usa nuestro formulario online, elige día y hora, y listo. Sin esperas, sin llamadas, sin vueltas. Solo tú, tu perro y nosotros.
 
 **[Reserva tu hora por WhatsApp →]**
 
@@ -86,4 +86,4 @@ Reservar en WashDog es simple: escríbenos por WhatsApp o usa nuestro formulario
 
 ---
 
-*WashDog — Peluquería Canina Macul · Atendemos también clientes de Ñuñoa, La Florida y Peñalolén · Agenda abierta todos los días*
+*Washdog — Peluquería Canina Macul · Atendemos también clientes de Ñuñoa, La Florida y Peñalolén · Agenda abierta todos los días*

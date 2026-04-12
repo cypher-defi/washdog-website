@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: "es_CL",
       type: "article",
       publishedTime: data.date,
-      siteName: "Santiago a Cuatro Patas — by WashDog",
+      siteName: "Santiago a Cuatro Patas — by Washdog",
     },
   }
 }

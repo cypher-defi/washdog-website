@@ -1,6 +1,6 @@
 ---
 title: "La Mejor Peluquería Canina en Santiago — Guía para elegir bien"
-description: "Cómo elegir la mejor peluquería canina en Santiago. Qué mirar, preguntas que hacer, señales de alerta y por qué WashDog destaca."
+description: "Cómo elegir la mejor peluquería canina en Santiago. Qué mirar, preguntas que hacer, señales de alerta y por qué Washdog destaca."
 keywords: "mejor peluquería canina Santiago, peluquería canina recomendada Santiago, grooming perros Santiago confiable, peluquería canina calidad Santiago"
 date: "2026-03-06"
 ---
@@ -63,9 +63,9 @@ Las respuestas te van a decir mucho sobre el nivel de profesionalismo del lugar.
 
 ---
 
-## Cómo WashDog cumple cada criterio
+## Cómo Washdog cumple cada criterio
 
-En **WashDog** trabajamos con **un solo perro a la vez**, lo que garantiza una experiencia tranquila y sin distracciones. Usamos únicamente **productos hipoalergénicos premium**, ideales para pieles sensibles y pelajes delicados. Nuestro equipo está capacitado para atender distintas razas y tamaños con paciencia y técnica.
+En **Washdog** trabajamos con **un solo perro a la vez**, lo que garantiza una experiencia tranquila y sin distracciones. Usamos únicamente **productos hipoalergénicos premium**, ideales para pieles sensibles y pelajes delicados. Nuestro equipo está capacitado para atender distintas razas y tamaños con paciencia y técnica.
 
 Podés revisar nuestros servicios de [baño de perros](/servicios/bano-perros), [corte de pelo](/servicios/corte-perros) o nuestro [spa canino](/servicios/spa-canino), todos con precios transparentes y agenda 100% online. Sin sorpresas, sin esperas innecesarias.
 
@@ -73,7 +73,7 @@ Podés revisar nuestros servicios de [baño de perros](/servicios/bano-perros), 
 
 ## Disponible en tu comuna
 
-WashDog está ubicado en Ñuñoa y atiende a clientes de distintos sectores de Santiago. Revisa la información por zona:
+Washdog está ubicado en Ñuñoa y atiende a clientes de distintos sectores de Santiago. Revisa la información por zona:
 
 - [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa)
 - [Peluquería canina Providencia](/servicios/peluqueria-canina-providencia)
@@ -83,7 +83,7 @@ Si buscás la **mejor peluquería canina en Santiago** cerca de tu hogar, estamo
 
 ---
 
-## Reserva en WashDog
+## Reserva en Washdog
 
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun-Dom 10:00-20:00
 

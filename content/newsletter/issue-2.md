@@ -63,7 +63,7 @@ Si tu perro viene del parque jadeando fuerte, con la lengua muy extendida o con 
 
 ---
 
-## 🐶 Oferta WashDog: Tratamiento antipulgas gratis esta semana
+## 🐶 Oferta Washdog: Tratamiento antipulgas gratis esta semana
 
 Con el calor vienen las pulgas — sin drama, pero es real. Esta semana, **cualquier servicio de baño incluye tratamiento antipulgas sin costo adicional**.
 
@@ -77,7 +77,7 @@ Eso es todo por esta semana. Si el newsletter les resultó útil, reenvíenlo a 
 
 Nos vemos el próximo sábado. 🐾
 
-— El equipo WashDog 🐶
+— El equipo Washdog 🐶
 
 ---
 

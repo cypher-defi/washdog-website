@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en San Miguel — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en San Miguel — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa."
-keywords: "corte perros San Miguel, peluquería canina San Miguel, grooming San Miguel, WashDog"
+keywords: "corte perros San Miguel, peluquería canina San Miguel, grooming San Miguel, Washdog"
 date: "2026-04-04"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-04-04"
 
 ---
 
-### ¿Por qué WashDog en San Miguel?
+### ¿Por qué Washdog en San Miguel?
 
 **🗓️ Reserva en 2 minutos, sin llamadas**
 Agenda tu hora online o por WhatsApp cuando quieras, a cualquier hora. Sin esperas, sin vueltas.

@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Cerro Navia — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Cerro Navia — Peluquería Canina Premium Santiago"
 description: "Productos premium, atención personalizada y agenda online. Sin filas, sin sorpresas."
-keywords: "corte perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, WashDog"
+keywords: "corte perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Cerro Navia?
+### ¿Por qué Washdog en Cerro Navia?
 
 **Porque tu perro no es un número en la fila.**
 Atendemos a cada perro de forma individual, sin apuros y sin mezclarlos con otros. Tu compañero recibe toda la atención desde que llega hasta que lo retiras.
@@ -41,7 +41,7 @@ Con nuestra agenda online reservas el horario exacto que más te acomoda, desde 
 — **Marcela R.** · Golden Retriever · Cerro Navia
 
 ⭐⭐⭐⭐⭐
-*"Tengo un Husky y siempre me complicaba encontrar alguien que supiera tratarlo bien. En WashDog sabían exactamente qué hacer. Rápido, limpio y sin dramas. 100% recomendado."*
+*"Tengo un Husky y siempre me complicaba encontrar alguien que supiera tratarlo bien. En Washdog sabían exactamente qué hacer. Rápido, limpio y sin dramas. 100% recomendado."*
 — **Felipe A.** · Husky Siberiano · Pudahuel
 
 ---

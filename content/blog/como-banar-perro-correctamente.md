@@ -1,6 +1,6 @@
 ---
 title: "Cómo Bañar a Tu Perro Correctamente Paso a Paso"
-description: "Aprende cómo bañar a tu perro correctamente en casa con nuestra guía paso a paso para Chile. ¿Prefieres un experto? ¡Agenda en WashDog Ñuñoa hoy!"
+description: "Aprende cómo bañar a tu perro correctamente en casa con nuestra guía paso a paso para Chile. ¿Prefieres un experto? ¡Agenda en Washdog Ñuñoa hoy!"
 date: "2026-03-06"
 lastModified: "2026-04-07"
 author: "José Pablo"
@@ -24,7 +24,7 @@ En los meses de diciembre a marzo, el calor en Santiago puede ser agotador, y lo
 
 ### ¿Varía la frecuencia según la raza o el tipo de pelo?
 
-Absolutamente. Un Golden Retriever o un Border Collie con pelo largo y denso necesita baños más frecuentes y un secado cuidadoso para evitar hongos. En cambio, un Bulldog Francés o un Dachshund de pelo corto puede bañarse cada 4 semanas sin problema. Los perros con piel sensible o alergias pueden requerir productos especiales y frecuencias distintas, algo que en WashDog evaluamos caso a caso.
+Absolutamente. Un Golden Retriever o un Border Collie con pelo largo y denso necesita baños más frecuentes y un secado cuidadoso para evitar hongos. En cambio, un Bulldog Francés o un Dachshund de pelo corto puede bañarse cada 4 semanas sin problema. Los perros con piel sensible o alergias pueden requerir productos especiales y frecuencias distintas, algo que en Washdog evaluamos caso a caso.
 
 ---
 
@@ -99,17 +99,17 @@ Si el estrés es muy intenso, puede ser señal de que el baño en casa no es la 
 
 ---
 
-## ¿Prefieres dejarlo en manos expertas? Conoce WashDog en Ñuñoa, Santiago
+## ¿Prefieres dejarlo en manos expertas? Conoce Washdog en Ñuñoa, Santiago
 
-Si estás en Ñuñoa, Providencia, Las Condes o cualquier comuna de Santiago y prefieres dejarlo en manos de profesionales, en WashDog estamos para ayudarte. Sabemos que cada perro es único, y por eso trabajamos con atención one-to-one, sin jaulas de espera y con productos premium que cuidan la piel y el pelaje de tu mascota.
+Si estás en Ñuñoa, Providencia, Las Condes o cualquier comuna de Santiago y prefieres dejarlo en manos de profesionales, en Washdog estamos para ayudarte. Sabemos que cada perro es único, y por eso trabajamos con atención one-to-one, sin jaulas de espera y con productos premium que cuidan la piel y el pelaje de tu mascota.
 
 ### ¿Por qué elegir una peluquería canina premium cerca de ti?
 
-Una peluquería canina no es solo un lugar donde bañan a tu perro. Es un espacio donde se evalúa la condición de su piel, se detectan señales de pulgas o alergias, y se trabaja con técnicas específicas según la raza. En WashDog ofrecemos desde el baño básico hasta el [corte de pelo canino](/servicios/corte-perros) especializado por raza, siempre con el mismo cuidado y dedicación.
+Una peluquería canina no es solo un lugar donde bañan a tu perro. Es un espacio donde se evalúa la condición de su piel, se detectan señales de pulgas o alergias, y se trabaja con técnicas específicas según la raza. En Washdog ofrecemos desde el baño básico hasta el [corte de pelo canino](/servicios/corte-perros) especializado por raza, siempre con el mismo cuidado y dedicación.
 
 ### Agenda online fácil y atención personalizada para tu mascota
 
-Olvidarte de llamar o esperar respuesta por WhatsApp. En WashDog podés agendar tu hora directamente desde nuestra página web en pocos minutos. Elegís el servicio, el día y el horario que más te acomoden. Así de simple.
+Olvidarte de llamar o esperar respuesta por WhatsApp. En Washdog podés agendar tu hora directamente desde nuestra página web en pocos minutos. Elegís el servicio, el día y el horario que más te acomoden. Así de simple.
 
 ---
 
@@ -127,14 +127,14 @@ Seca con un algodón suave la parte externa del oído. Si notas que sacude la ca
 **¿Es correcto bañar perro correctamente Chile usando el mismo shampoo siempre?**
 Si tu perro no tiene reacciones adversas y el producto es adecuado para su tipo de piel, sí puedes mantenerlo. Si aparecen signos de irritación, cambia de shampoo.
 
-**¿WashDog también atiende gatos?**
+**¿Washdog también atiende gatos?**
 ¡Sí! Contamos con [peluquería para gatos](/servicios/peluqueria-gatos) con el mismo nivel de cuidado y atención personalizada.
 
 ---
 
 ## ¿Buscas peluquería canina en Ñuñoa?
 
-En **WashDog** ofrecemos todo lo que tu perro necesita en un solo lugar:
+En **Washdog** ofrecemos todo lo que tu perro necesita en un solo lugar:
 
 - 🛁 [Baño para perros](/servicios/bano-perros) — shampoo hipoalergénico, secado profesional
 - ✂️ [Corte de pelo canino](/servicios/corte-perros) — todas las razas

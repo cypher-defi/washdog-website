@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Independencia — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Independencia — Peluquería Canina Premium Santiago"
 description: "Tu perro sale limpio, perfumado y feliz. Sin filas, sin sorpresas en el precio, sin stress."
-keywords: "baño perros Independencia, peluquería canina Independencia, grooming Independencia, WashDog"
+keywords: "baño perros Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Independencia?
+### ¿Por qué Washdog en Independencia?
 
 **📍 Cerca de ti, fácil de llegar**
 Estamos en una zona accesible de Independencia, con conexión directa desde Recoleta, Conchalí y el centro de Santiago — en Metro, micro o auto. Reservas online sin tener que venir a preguntar.
@@ -71,4 +71,4 @@ El **baño de perros en Independencia** nunca fue tan fácil de reservar.
 > *Respondemos en menos de 30 minutos en horario hábil. Lunes a sábado, 9:00 a 19:00 hrs.*
 
 ---
-*WashDog · Peluquería Canina Premium · Independencia, Santiago 🐶*
+*Washdog · Peluquería Canina Premium · Independencia, Santiago 🐶*

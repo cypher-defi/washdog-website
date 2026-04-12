@@ -1,6 +1,6 @@
 ---
-title: "Cómo cortar el pelo a tu perro en casa | WashDog"
-description: "Aprende cómo cortar el pelo a tu perro en casa paso a paso. Tips, herramientas y cuándo es mejor ir a la peluquería. ¡Agenda en WashDog Santiago!"
+title: "Cómo cortar el pelo a tu perro en casa | Washdog"
+description: "Aprende cómo cortar el pelo a tu perro en casa paso a paso. Tips, herramientas y cuándo es mejor ir a la peluquería. ¡Agenda en Washdog Santiago!"
 date: "2026-03-13"
 lastModified: "2026-04-07"
 author: "José Pablo"
@@ -70,7 +70,7 @@ Tu perro te comunica todo con el cuerpo. Detente si notas: jadeo excesivo, tembl
 
 ### Cómo crear un ambiente tranquilo y de confianza en Santiago
 
-Elige un momento del día en que tu perro esté tranquilo, idealmente después de un paseo. Pon música suave, habla con voz calmada y haz pausas frecuentes. Si estás en Ñuñoa o en cualquier comuna de Santiago y sientes que el proceso es demasiado estresante para tu mascota, en WashDog estamos para ayudarte con una atención one-to-one pensada para que tu perro se sienta seguro.
+Elige un momento del día en que tu perro esté tranquilo, idealmente después de un paseo. Pon música suave, habla con voz calmada y haz pausas frecuentes. Si estás en Ñuñoa o en cualquier comuna de Santiago y sientes que el proceso es demasiado estresante para tu mascota, en Washdog estamos para ayudarte con una atención one-to-one pensada para que tu perro se sienta seguro.
 
 ---
 
@@ -80,9 +80,9 @@ Elige un momento del día en que tu perro esté tranquilo, idealmente después d
 
 Hay situaciones en que lo más responsable es delegar: razas con cortes de estándar muy específicos (como Poodle, Cocker o Schnauzer), perros con problemas de piel, animales muy ansiosos o pelajes muy enredados que ya superaron el nivel de manejo casero. También cuando necesitas un **deslanado profundo** o un **tratamiento antipulgas** integrado al baño.
 
-### Peluquería canina en Ñuñoa y Santiago: qué ofrece WashDog
+### Peluquería canina en Ñuñoa y Santiago: qué ofrece Washdog
 
-En WashDog somos una [peluquería canina en Santiago](/servicios/peluqueria-canina) especializada en brindar una experiencia premium para tu mascota. Trabajamos con productos de alta calidad, atención personalizada y un equipo apasionado que trata a cada perro según su carácter y necesidades. Si quieres conocer nuestros valores y lo que incluye cada servicio, visita nuestra sección de [corte de pelo canino](/servicios/corte-perros) y compara las opciones disponibles.
+En Washdog somos una [peluquería canina en Santiago](/servicios/peluqueria-canina) especializada en brindar una experiencia premium para tu mascota. Trabajamos con productos de alta calidad, atención personalizada y un equipo apasionado que trata a cada perro según su carácter y necesidades. Si quieres conocer nuestros valores y lo que incluye cada servicio, visita nuestra sección de [corte de pelo canino](/servicios/corte-perros) y compara las opciones disponibles.
 
 ---
 
@@ -105,9 +105,9 @@ Preferiblemente después del baño, cuando la uña está más blanda y más fác
 
 ---
 
-## Agenda tu turno en WashDog: peluquería canina premium en Santiago
+## Agenda tu turno en Washdog: peluquería canina premium en Santiago
 
-Si después de leer todo esto sientes que prefieres dejarlo en manos expertas, o simplemente quieres complementar el cuidado en casa con una sesión profesional, en WashDog te esperamos. Saber **cómo cortar pelo perro** es valioso, pero contar con un equipo que ama lo que hace marca la diferencia en el resultado y en cómo se siente tu mascota.
+Si después de leer todo esto sientes que prefieres dejarlo en manos expertas, o simplemente quieres complementar el cuidado en casa con una sesión profesional, en Washdog te esperamos. Saber **cómo cortar pelo perro** es valioso, pero contar con un equipo que ama lo que hace marca la diferencia en el resultado y en cómo se siente tu mascota.
 
 Agenda fácil online, atención personalizada y productos premium para que tu perro salga feliz, limpio y con el mejor look del barrio.
 
@@ -115,7 +115,7 @@ Agenda fácil online, atención personalizada y productos premium para que tu pe
 
 ## ¿Buscas peluquería canina en Santiago?
 
-En **WashDog** cuidamos a tu perro como si fuera el nuestro: baño hipoalergénico, [corte de pelo profesional](/servicios/corte-perros) para todas las razas y atención one-to-one en Ñuñoa.
+En **Washdog** cuidamos a tu perro como si fuera el nuestro: baño hipoalergénico, [corte de pelo profesional](/servicios/corte-perros) para todas las razas y atención one-to-one en Ñuñoa.
 
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
 

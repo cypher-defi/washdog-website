@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en La Reina — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en La Reina — Peluquería Canina Premium Santiago"
 description: "Atención premium, productos hipoalergénicos y agenda online en minutos. Porque tu compañero se merece lo mejor."
-keywords: "peluquería canina La Reina, WashDog"
+keywords: "peluquería canina La Reina, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog en La Reina?
+### ¿Por qué Washdog en La Reina?
 
 **Un perro a la vez, sin apuro ni estrés**
 Tu perro recibe atención individual de principio a fin. Sin jaulas de espera, sin filas, sin carreras. Solo el cuidado que merece alguien de la familia.
@@ -41,7 +41,7 @@ Sin llamadas, sin "te llamo mañana". Agenda tu hora online ahora mismo y recibe
 — **Claudia M.** — Labrador Retriever, La Reina
 
 ⭐⭐⭐⭐⭐
-*"Mi Schnauzer tiene piel sensible y siempre terminaba irritado en otros lugares. En WashDog usaron productos especiales y quedó increíble. La peluquería canina La Reina que estaba buscando."*
+*"Mi Schnauzer tiene piel sensible y siempre terminaba irritado en otros lugares. En Washdog usaron productos especiales y quedó increíble. La peluquería canina La Reina que estaba buscando."*
 — **Tomás R.** — Schnauzer Miniatura, Ñuñoa
 
 ---
@@ -70,4 +70,4 @@ Atendemos clientes de **La Reina, Ñuñoa, Macul, Peñalolén y el sector orient
 
 ---
 
-*WashDog — Peluquería canina premium en La Reina, Santiago.*
+*Washdog — Peluquería canina premium en La Reina, Santiago.*

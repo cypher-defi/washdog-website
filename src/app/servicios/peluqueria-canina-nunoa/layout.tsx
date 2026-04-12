@@ -1,14 +1,14 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Peluquería Canina Ñuñoa | WashDog",
+  title: "Peluquería Canina Ñuñoa | Washdog",
   description:
     "Peluquería canina en Ñuñoa, Santiago. Baño, corte y cuidado premium con atención one-to-one. Sin jaulas, sin apuros — agenda online en 2 minutos.",
   keywords:
     "peluquería canina Ñuñoa, peluquería canina Ñuñoa Santiago, grooming perros Ñuñoa, baño perros Ñuñoa, corte pelo perros Ñuñoa",
   alternates: { canonical: "https://washdog.cl/servicios/peluqueria-canina-nunoa" },
   openGraph: {
-    title: "Peluquería Canina Ñuñoa | WashDog",
+    title: "Peluquería Canina Ñuñoa | Washdog",
     description:
       "Baño, corte y cuidado premium para tu perro en Ñuñoa. Atención individual, productos hipoalergénicos y agenda online.",
     url: "https://washdog.cl/servicios/peluqueria-canina-nunoa",

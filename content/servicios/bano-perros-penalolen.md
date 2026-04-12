@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Peñalolén — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Peñalolén — Peluquería Canina Premium Santiago"
 description: "Productos premium, manos expertas y agenda online — sin salir de tu comuna."
-keywords: "baño perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, WashDog"
+keywords: "baño perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Peñalolén?
+### ¿Por qué Washdog en Peñalolén?
 
 **🛡️ Confianza que se nota desde el primer baño**
 Somos una peluquería canina premium con experiencia en todas las razas. Nuestros clientes de Peñalolén, La Florida y Macul nos eligen porque saben que su perro queda en buenas manos — y lo comprueban cada vez que lo retiran.
@@ -58,7 +58,7 @@ Usamos línea premium hipoalergénica, apta para perros con piel sensible o aler
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Tu semana está llena — lo entendemos. Por eso el **baño de perros en Peñalolén** con WashDog es simple: reservas en 2 minutos, traes a tu perro y nosotros hacemos el resto.
+Tu semana está llena — lo entendemos. Por eso el **baño de perros en Peñalolén** con Washdog es simple: reservas en 2 minutos, traes a tu perro y nosotros hacemos el resto.
 
 Si algo no te convence, lo solucionamos. Así de simple.
 
@@ -68,4 +68,4 @@ Si algo no te convence, lo solucionamos. Así de simple.
 **[📅 Ver disponibilidad online]**
 
 ---
-*WashDog · Peluquería canina premium · Peñalolén, Santiago*
+*Washdog · Peluquería canina premium · Peñalolén, Santiago*

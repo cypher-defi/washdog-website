@@ -9,7 +9,7 @@ commune: "Ñuñoa"
 
 # Santiago a Cuatro Patas — Edición #1
 
-*La guía semanal para vivir Santiago con tu perro — by WashDog*
+*La guía semanal para vivir Santiago con tu perro — by Washdog*
 
 ---
 
@@ -29,7 +29,7 @@ Entre semana tiene una calma ideal para un paseo tranquilo. Los fines de semana 
 
 **📌 Cómo llegar:** Av. Condell con Av. Italia, Providencia.
 
-> *Tip de uso:* Si tu perro acaba de pasar por el baño del sábado en WashDog, el parque queda a pocos minutos y es el cierre perfecto para la mañana.
+> *Tip de uso:* Si tu perro acaba de pasar por el baño del sábado en Washdog, el parque queda a pocos minutos y es el cierre perfecto para la mañana.
 
 ---
 
@@ -71,11 +71,11 @@ Un grooming con deslanado ayuda a que el pelaje respire mejor y regule la temper
 
 ---
 
-## 🐶 Oferta WashDog esta semana: Corte + Baño al precio del corte
+## 🐶 Oferta Washdog esta semana: Corte + Baño al precio del corte
 
 Si tu perro necesita un deslanado antes de que llegue el peor calor del verano —y después de leer el tip de arriba probablemente estás pensando en eso—, esta semana es buen momento.
 
-En WashDog están ofreciendo **baño incluido en el precio del corte**, lo que significa que tu perro sale limpio, peinado y listo para el parque sin pagar extra por el baño.
+En Washdog están ofreciendo **baño incluido en el precio del corte**, lo que significa que tu perro sale limpio, peinado y listo para el parque sin pagar extra por el baño.
 
 👉 [Ver detalle del servicio en washdog.cl](https://www.washdog.cl/servicios/corte-perros)
 
@@ -85,7 +85,7 @@ Eso es todo por esta primera edición. Nos vemos la semana que viene con más lu
 
 Si conoces un parque, café, tienda o rincón dog-friendly que merece aparecer aquí, escríbenos. Esta guía la construimos entre todos.
 
-— El equipo WashDog 🐶
+— El equipo Washdog 🐶
 
 ---
 

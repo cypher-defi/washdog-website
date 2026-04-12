@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en San Joaquín — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en San Joaquín — Peluquería Canina Premium Santiago"
 description: "Secado profesional, productos hipoalergénicos y atención personalizada — a minutos de tu casa."
-keywords: "baño perros San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, WashDog"
+keywords: "baño perros San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en San Joaquín?
+### ¿Por qué Washdog en San Joaquín?
 
 **📍 Estamos cerquita — sin viajes largos con tu perro**
 A minutos de San Joaquín, con fácil acceso desde Macul, Ñuñoa y San Miguel. Llegar es simple, y tu perro no tiene que sufrir un viaje eterno para estar limpio.
@@ -41,7 +41,7 @@ Agenda tu hora por WhatsApp o a través de nuestro formulario online, disponible
 
 ---
 
-> *"Probé con varias peluquerías del sector y ninguna como WashDog. Se nota que quieren a los perros, no los tratan como una fábrica. Mi Negra sale feliz cada vez."*
+> *"Probé con varias peluquerías del sector y ninguna como Washdog. Se nota que quieren a los perros, no los tratan como una fábrica. Mi Negra sale feliz cada vez."*
 > **— Rodrigo P., Macul · Labrador Retriever 🐕 ⭐⭐⭐⭐⭐**
 
 ---
@@ -73,5 +73,5 @@ Tu perro vuelve a casa limpio, perfumado y contento. Tú, sin mojarte ni rasguñ
 [Ver disponibilidad online →](#)
 
 ---
-*WashDog · Peluquería canina premium · Santiago, Chile*
+*Washdog · Peluquería canina premium · Santiago, Chile*
 *Atendemos San Joaquín, Ñuñoa, Macul, San Miguel y comunas aledañas*

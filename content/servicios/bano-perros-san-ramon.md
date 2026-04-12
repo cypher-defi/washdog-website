@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en San Ramón — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en San Ramón — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium en Ñuñoa — a solo 15 minutos de San Ramón, La Granja y El Bosque."
-keywords: "baño perros San Ramón, peluquería canina San Ramón, grooming San Ramón, WashDog"
+keywords: "baño perros San Ramón, peluquería canina San Ramón, grooming San Ramón, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog para el baño perros en San Ramón?
+### ¿Por qué Washdog para el baño perros en San Ramón?
 
 **Productos que cuidan de verdad**
 Usamos shampoos hipoalergénicos y libre de químicos agresivos. Ideal para perros con piel sensible, alergias o que simplemente merecen lo mejor.
@@ -68,4 +68,4 @@ Reservar es fácil: escríbenos por WhatsApp, dinos el nombre y tamaño de tu pe
 ¿Prefieres elegir fecha y hora tú mismo?
 **[Ver disponibilidad online](#)**
 
-> 📍 WashDog · Ñuñoa, Santiago · A 15 min de San Ramón, La Granja, La Pintana y El Bosque.
+> 📍 Washdog · Ñuñoa, Santiago · A 15 min de San Ramón, La Granja, La Pintana y El Bosque.

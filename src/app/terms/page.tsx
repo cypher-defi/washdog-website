@@ -47,7 +47,7 @@ export default function TermsPage() {
           </h2>
           <p>
             El Sitio Web es operado por Los Pelusos SpA (en adelante,
-            &quot;WashDog&quot;), con domicilio en Chile.
+            &quot;Washdog&quot;), con domicilio en Chile.
           </p>
           <p>
             Correo electrónico de contacto:{" "}
@@ -59,7 +59,7 @@ export default function TermsPage() {
           <h2 className="text-xl font-semibold text-primary mt-8">2. Objeto</h2>
           <p>
             El Sitio Web tiene como finalidad proporcionar información sobre los
-            servicios, productos y soluciones ofrecidas por WashDog, así como
+            servicios, productos y soluciones ofrecidas por Washdog, así como
             permitir el contacto con clientes y potenciales usuarios.
           </p>
 
@@ -74,7 +74,7 @@ export default function TermsPage() {
             </li>
             <li>
               No utilizar el Sitio Web para fines ilícitos o que puedan afectar a
-              WashDog o a terceros.
+              Washdog o a terceros.
             </li>
             <li>
               No introducir virus, malware u otros elementos que puedan dañar o
@@ -82,7 +82,7 @@ export default function TermsPage() {
             </li>
           </ul>
           <p>
-            WashDog se reserva el derecho de suspender o restringir el acceso al
+            Washdog se reserva el derecho de suspender o restringir el acceso al
             Sitio Web en caso de uso indebido.
           </p>
 
@@ -92,7 +92,7 @@ export default function TermsPage() {
           <p>
             Todos los contenidos del Sitio Web, incluyendo textos, imágenes,
             logotipos, marcas, diseños, fotografías y código, son propiedad de
-            WashDog o de terceros que han autorizado su uso, y están protegidos
+            Washdog o de terceros que han autorizado su uso, y están protegidos
             por la legislación chilena vigente.
           </p>
           <p>
@@ -104,7 +104,7 @@ export default function TermsPage() {
             5. Responsabilidad
           </h2>
           <p>
-            El Sitio Web se ofrece &quot;tal como está&quot;. WashDog no garantiza:
+            El Sitio Web se ofrece &quot;tal como está&quot;. Washdog no garantiza:
           </p>
           <ul className="list-disc pl-6 space-y-2">
             <li>La disponibilidad permanente del Sitio Web.</li>
@@ -115,7 +115,7 @@ export default function TermsPage() {
             </li>
           </ul>
           <p>
-            WashDog no será responsable por daños derivados del uso o imposibilidad
+            Washdog no será responsable por daños derivados del uso o imposibilidad
             de uso del Sitio Web.
           </p>
 
@@ -123,7 +123,7 @@ export default function TermsPage() {
             6. Enlaces a terceros
           </h2>
           <p>
-            El Sitio Web puede contener enlaces a sitios de terceros. WashDog no se
+            El Sitio Web puede contener enlaces a sitios de terceros. Washdog no se
             responsabiliza por los contenidos, servicios o políticas de privacidad
             de dichos sitios.
           </p>
@@ -132,7 +132,7 @@ export default function TermsPage() {
             7. Modificaciones
           </h2>
           <p>
-            WashDog se reserva el derecho de modificar estos Términos y Condiciones
+            Washdog se reserva el derecho de modificar estos Términos y Condiciones
             en cualquier momento. Las modificaciones entrarán en vigor desde su
             publicación en el Sitio Web.
           </p>

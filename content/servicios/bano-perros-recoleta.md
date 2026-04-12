@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Recoleta — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Recoleta — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y precio claro antes de confirmar. Sin sorpresas, sin estrés."
-keywords: "baño perros Recoleta, peluquería canina Recoleta, grooming Recoleta, WashDog"
+keywords: "baño perros Recoleta, peluquería canina Recoleta, grooming Recoleta, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Recoleta?
+### ¿Por qué Washdog en Recoleta?
 
 **Porque tu perro es atendido uno a uno — sin jaulas, sin esperas.**
 Nada de dejarlo en una jaula mientras atienden a otros cinco. En su turno, toda la atención es para él. Lo notará. Tú también.
@@ -39,7 +39,7 @@ Por WhatsApp o formulario online, desde el celular, a cualquier hora. Sin llamad
 > *"Llevé a mi Golden por primera vez y quedé más que conforme. Lo trataron con mucha calma, salió perfumado y me mandaron foto antes de buscarlo. Ya agendé para el próximo mes."*
 > — **Francisca R., Recoleta** 🐾 Golden Retriever ⭐⭐⭐⭐⭐
 
-> *"Tengo un Shih Tzu con piel sensible y siempre me preocupa el shampoo que usan. En WashDog me explicaron todo antes, usaron productos hipoalergénicos y quedó impecable. Voy a seguir viniendo."*
+> *"Tengo un Shih Tzu con piel sensible y siempre me preocupa el shampoo que usan. En Washdog me explicaron todo antes, usaron productos hipoalergénicos y quedó impecable. Voy a seguir viniendo."*
 > — **Rodrigo M., Independencia** 🐾 Shih Tzu ⭐⭐⭐⭐⭐
 
 ---

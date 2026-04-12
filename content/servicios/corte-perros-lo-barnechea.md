@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Lo Barnechea — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Lo Barnechea — Peluquería Canina Premium Santiago"
 description: "Atención individual, productos premium y agenda online. Tu perro impecable y tranquilo — sin sorpresas."
-keywords: "corte perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, WashDog"
+keywords: "corte perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, Washdog"
 date: "2026-03-13"
 ---
 
@@ -20,7 +20,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Lo Barnechea?
+### ¿Por qué Washdog en Lo Barnechea?
 
 **Porque tu perro no es uno más.** Lo atendemos de forma individual, en un espacio tranquilo y sin apuros. Razas de pelo largo, doble capa, temperamentos difíciles — tenemos experiencia con todo.
 
@@ -39,7 +39,7 @@ date: "2026-03-13"
 > — **Catalina M., Lo Barnechea** — Golden Retriever, 3 años
 
 ⭐⭐⭐⭐⭐
-> *"Mi Schnauzer es muy nervioso con extraños y siempre me preocupa dejarlo. En WashDog lo trataron con una paciencia increíble. Ya vamos tres veces y cada vez sale perfecto. Lo recomiendo a todos mis vecinos de Vitacura y La Reina también."*
+> *"Mi Schnauzer es muy nervioso con extraños y siempre me preocupa dejarlo. En Washdog lo trataron con una paciencia increíble. Ya vamos tres veces y cada vez sale perfecto. Lo recomiendo a todos mis vecinos de Vitacura y La Reina también."*
 > — **Rodrigo F., Lo Barnechea** — Schnauzer Miniatura, 5 años
 
 ---

@@ -64,19 +64,19 @@ La diferencia de precios entre peluquerías no es solo marketing. Influyen facto
 - **Capacitación del equipo**: groomers certificados y con experiencia en razas específicas.
 - **Modalidad de atención**: algunos locales atienden varios perros al mismo tiempo, mientras que otros trabajan con atención individual.
 
-En WashDog atendemos **un solo perro a la vez**, lo que significa que tu mascota recibe atención completa, sin esperas en jaula y sin el estrés de estar rodeada de otros animales. Usamos productos hipoalergénicos premium, seguros para pieles sensibles. Si estás en Ñuñoa o alrededores, puedes revisar nuestros servicios en [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa). También atendemos clientes que vienen desde [peluquería canina Providencia](/servicios/peluqueria-canina-providencia).
+En Washdog atendemos **un solo perro a la vez**, lo que significa que tu mascota recibe atención completa, sin esperas en jaula y sin el estrés de estar rodeada de otros animales. Usamos productos hipoalergénicos premium, seguros para pieles sensibles. Si estás en Ñuñoa o alrededores, puedes revisar nuestros servicios en [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa). También atendemos clientes que vienen desde [peluquería canina Providencia](/servicios/peluqueria-canina-providencia).
 
 ---
 
 ## Precios transparentes, sin sorpresas
 
-Uno de los problemas más frecuentes que escuchamos de dueños de mascotas es llegar a buscar a su perro y encontrarse con un cobro muy distinto al acordado. En WashDog nuestros precios son claros desde el principio. Puedes agendar online, revisar el valor antes de confirmar y saber exactamente qué incluye cada servicio.
+Uno de los problemas más frecuentes que escuchamos de dueños de mascotas es llegar a buscar a su perro y encontrarse con un cobro muy distinto al acordado. En Washdog nuestros precios son claros desde el principio. Puedes agendar online, revisar el valor antes de confirmar y saber exactamente qué incluye cada servicio.
 
-Si estás buscando el **precio peluquería canina Santiago** que sea justo, transparente y respaldado por un servicio de calidad real, en WashDog estás en el lugar correcto.
+Si estás buscando el **precio peluquería canina Santiago** que sea justo, transparente y respaldado por un servicio de calidad real, en Washdog estás en el lugar correcto.
 
 ---
 
-## Reserva en WashDog
+## Reserva en Washdog
 
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun-Dom 10:00-20:00
 

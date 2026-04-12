@@ -1,5 +1,5 @@
 ---
-title: "Auto Lavado de Perros en Ñuñoa, Santiago Chile | WashDog"
+title: "Auto Lavado de Perros en Ñuñoa, Santiago Chile | Washdog"
 description: "Auto lavado de perros en Ñuñoa, Santiago, Chile. Tinas profesionales, shampoo hipoalergénico y secadores de alto rendimiento en Irarrázaval 2086 B. Reserva online."
 keywords: "auto lavado perros Santiago Chile, auto lavado perros Ñuñoa, self-service perros Santiago Chile, lavar perros yo mismo Ñuñoa, autolavado canino Ñuñoa Santiago"
 date: "2026-03-06"
@@ -36,7 +36,7 @@ communes:
 
 # Auto Lavado de Perros en Ñuñoa, Santiago Chile
 
-Si buscas un **auto lavado de perros en Santiago, Chile** que combine comodidad, ahorro y equipamiento profesional, WashDog es tu mejor opción. Nuestro local está en **Irarrázaval 2086 B, Ñuñoa, Santiago** — a pasos del metro, accesible desde cualquier comuna del Gran Santiago. El servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
+Si buscas un **auto lavado de perros en Santiago, Chile** que combine comodidad, ahorro y equipamiento profesional, Washdog es tu mejor opción. Nuestro local está en **Irarrázaval 2086 B, Ñuñoa, Santiago** — a pasos del metro, accesible desde cualquier comuna del Gran Santiago. El servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
 
 ## ¿Qué incluye el servicio?
 
@@ -53,7 +53,7 @@ Esto es lo que tendrás disponible durante tu sesión:
 
 Es perfecto para dueños que bañan a sus perros con frecuencia, para quienes tienen razas grandes que simplemente no caben en la tina de la casa, o para quienes quieren controlar cada detalle del baño de su mascota.
 
-## ¿Por qué elegir WashDog?
+## ¿Por qué elegir Washdog?
 
 No somos el único lugar con tinas y shampoo, pero sí nos tomamos en serio cada detalle del servicio:
 
@@ -62,7 +62,7 @@ No somos el único lugar con tinas y shampoo, pero sí nos tomamos en serio cada
 - **Instalaciones limpias y desinfectadas**: cada estación se limpia entre sesión y sesión. La higiene no es negociable.
 - **Agenda online**: puedes reservar tu horario desde el celular en pocos pasos, sin llamadas ni esperas. Llegas, bañas a tu perro y listo.
 
-WashDog es una peluquería canina premium que lleva años atendiendo mascotas en Santiago, así que el auto lavado no es un servicio improvisado: es una extensión natural de nuestra experiencia en cuidado animal.
+Washdog es una peluquería canina premium que lleva años atendiendo mascotas en Santiago, así que el auto lavado no es un servicio improvisado: es una extensión natural de nuestra experiencia en cuidado animal.
 
 ## Cobertura en Santiago
 
@@ -72,7 +72,7 @@ Pero no solo atendemos a quienes viven cerca. Recibimos clientes de **28 comunas
 
 ## Agenda tu cita
 
-Reservar tu sesión de auto lavado es rápido y fácil. Entra a **[www.washdog.cl](https://www.washdog.cl)**, elige el horario que más te acomode y llega con tu perro listo para un buen baño. Consulta nuestras tarifas online y descubre por qué cada vez más dueños en Santiago eligen el auto lavado de WashDog.
+Reservar tu sesión de auto lavado es rápido y fácil. Entra a **[www.washdog.cl](https://www.washdog.cl)**, elige el horario que más te acomode y llega con tu perro listo para un buen baño. Consulta nuestras tarifas online y descubre por qué cada vez más dueños en Santiago eligen el auto lavado de Washdog.
 
 **Tu perro merece productos premium. Tu casa merece quedar limpia. Y tú mereces una experiencia sin complicaciones.**
 

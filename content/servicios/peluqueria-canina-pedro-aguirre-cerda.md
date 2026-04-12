@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Pedro Aguirre Cerda — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Pedro Aguirre Cerda — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado premium con agenda online en 2 minutos — sin filas, sin estrés."
-keywords: "peluquería canina Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, WashDog"
+keywords: "peluquería canina Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Pedro Aguirre Cerda?
+### ¿Por qué Washdog en Pedro Aguirre Cerda?
 
 **Porque tu perro no es cualquier perro.**
 Sabemos que entregarlo en manos desconocidas genera dudas. Por eso mostramos fotos reales del proceso, trabajamos con peluqueros especializados por raza y garantizamos un ambiente sin jaulas ni esperas estresantes.

@@ -1,7 +1,7 @@
 ---
-title: "Peluquería Labrador Retriever en Ñuñoa — WashDog Santiago"
-description: "Grooming para Labrador Retriever en Ñuñoa. Baño deslanador, secado profundo y cepillado de subpelo para manejar la muda intensa. Sin rapar. Reserva en WashDog."
-keywords: "peluquería Labrador Retriever Ñuñoa, baño Labrador Santiago, grooming Labrador Chile, WashDog"
+title: "Peluquería Labrador Retriever en Ñuñoa — Washdog Santiago"
+description: "Grooming para Labrador Retriever en Ñuñoa. Baño deslanador, secado profundo y cepillado de subpelo para manejar la muda intensa. Sin rapar. Reserva en Washdog."
+keywords: "peluquería Labrador Retriever Ñuñoa, baño Labrador Santiago, grooming Labrador Chile, Washdog"
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
@@ -18,7 +18,7 @@ El Labrador tiene **doble capa**: una capa exterior corta y resistente al agua, 
 
 El error más común: bañar al Labrador sin cepillado de subpelo previo. El agua fija el pelo muerto contra la piel en lugar de liberarlo, y el secado incompleto genera humedad atrapada que en pocos días produce **hot spots** o mal olor.
 
-En WashDog el protocolo para Labrador empieza siempre con cepillado profundo de subpelo antes del baño, y termina con secado completo capa por capa.
+En Washdog el protocolo para Labrador empieza siempre con cepillado profundo de subpelo antes del baño, y termina con secado completo capa por capa.
 
 ---
 
@@ -67,7 +67,7 @@ Sí. Atendemos Labradores de todos los tamaños. Si tu perro tiene dificultad pa
 
 ## Lo que dicen nuestros clientes
 
-> *"Mi Labrador siempre huele raro a los dos días del baño — pero después de ir a WashDog duró semanas sin olor. Dijeron que le sacaron una cantidad enorme de subpelo muerto que tenía acumulado. Primera vez que entiendo para qué sirve el baño deslanador."*
+> *"Mi Labrador siempre huele raro a los dos días del baño — pero después de ir a Washdog duró semanas sin olor. Dijeron que le sacaron una cantidad enorme de subpelo muerto que tenía acumulado. Primera vez que entiendo para qué sirve el baño deslanador."*
 > **— Francisco T., Ñuñoa ⭐⭐⭐⭐⭐**
 
 ---
@@ -91,7 +91,7 @@ Sí. Atendemos Labradores de todos los tamaños. Si tu perro tiene dificultad pa
 
 ---
 
-## Agenda tu hora en WashDog
+## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
 🕐 Lunes a domingo, 10:00–20:00

@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Santiago Centro — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Santiago Centro — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y resultados que se notan — reserva en 2 minutos desde tu celular."
-keywords: "peluquería canina Santiago Centro, WashDog"
+keywords: "peluquería canina Santiago Centro, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué elegir WashDog en Santiago Centro?
+### ¿Por qué elegir Washdog en Santiago Centro?
 
 **Un perro a la vez, toda tu atención.**
 No somos una fábrica de baños. Atendemos a tu perro de forma individual, sin aglomeraciones, para que vuelva a casa relajado y feliz — no estresado.

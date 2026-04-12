@@ -47,7 +47,7 @@ function getResult(coat: CoatType, activity: ActivityLevel, skin: Skin) {
     bath: `cada ${min}–${max} semanas`,
     groom: GROOM_FREQ[coat],
     skinTip: skin === 'sensitive'
-      ? 'Con piel sensible, usa siempre shampoo hipoalergénico sin sulfatos ni parabenos. En WashDog trabajamos exclusivamente con productos para piel sensible.'
+      ? 'Con piel sensible, usa siempre shampoo hipoalergénico sin sulfatos ni parabenos. En Washdog trabajamos exclusivamente con productos para piel sensible.'
       : null,
   }
 }
@@ -197,7 +197,7 @@ export function GroomingCalculator() {
                 rel='noopener noreferrer'
                 className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-6 py-3 rounded-full hover:bg-accent-blue transition-all tracking-[0.15em] uppercase shadow-lg shadow-primary/20'
               >
-                Reservar en WashDog
+                Reservar en Washdog
               </Link>
               <button onClick={reset} className='text-sm text-primary/40 hover:text-primary transition-colors'>
                 Recalcular

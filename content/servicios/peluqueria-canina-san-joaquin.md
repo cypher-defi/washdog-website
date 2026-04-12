@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en San Joaquín — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en San Joaquín — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online en minutos — sin estrés para él ni para ti."
-keywords: "peluquería canina San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, WashDog"
+keywords: "peluquería canina San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en San Joaquín?
+### ¿Por qué Washdog en San Joaquín?
 
 **Tu perro no es un número — es el único que importa en su turno.**
 Atendemos de forma personalizada, sin hacinamiento ni esperas estresantes. Un perro a la vez, con toda nuestra atención puesta en él.
@@ -36,7 +36,7 @@ Reserva por WhatsApp o formulario web las 24 horas. Horarios flexibles pensados 
 
 ### Lo que dicen nuestros clientes en San Joaquín
 
-> *"Llevé a Simón, mi Schnauzer, con mucho miedo porque en otros lugares lo devolvían alterado. En WashDog volvió tranquilo, limpio y con el corte perfecto. Ya somos clientes fijos."*
+> *"Llevé a Simón, mi Schnauzer, con mucho miedo porque en otros lugares lo devolvían alterado. En Washdog volvió tranquilo, limpio y con el corte perfecto. Ya somos clientes fijos."*
 > **— Carolina M., San Joaquín** ⭐⭐⭐⭐⭐
 
 > *"Por fin una peluquería que me dice el precio antes, no al retirar al perro. Mila, mi Cocker, quedó preciosa y los productos no le irritaron la piel como otras veces. 100% recomendado."*
@@ -68,4 +68,4 @@ Reservar es fácil: escríbenos por WhatsApp, cuéntanos la raza y el servicio q
 
 ---
 
-*WashDog — Peluquería canina en San Joaquín, Santiago. Atendemos también clientes de San Miguel, Ñuñoa, Macul y Pedro Aguirre Cerda.*
+*Washdog — Peluquería canina en San Joaquín, Santiago. Atendemos también clientes de San Miguel, Ñuñoa, Macul y Pedro Aguirre Cerda.*

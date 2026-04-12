@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en La Granja — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en La Granja — Peluquería Canina Premium Santiago"
 description: "Productos premium, atención personalizada y agenda online. Sin esperas, sin sorpresas."
-keywords: "baño perros La Granja, peluquería canina La Granja, grooming La Granja, WashDog"
+keywords: "baño perros La Granja, peluquería canina La Granja, grooming La Granja, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en La Granja?
+### ¿Por qué Washdog en La Granja?
 
 **📍 Cerca tuyo, sin complicaciones**
 Atendemos a vecinos de La Granja, San Ramón, La Cisterna y comunas cercanas. Agenda tu hora online en menos de 2 minutos y llega directo, sin filas ni esperas.
@@ -67,5 +67,5 @@ El baño perros La Granja más completo, con los productos que se merece y el tr
 **[Ver disponibilidad online]**
 
 ---
-*WashDog · Peluquería canina premium · Santiago, Chile*
+*Washdog · Peluquería canina premium · Santiago, Chile*
 *Atendemos La Granja, San Ramón, La Cisterna y comunas aledañas*

@@ -9,7 +9,7 @@ commune: "Vitacura"
 
 # Santiago a Cuatro Patas — Edición #4
 
-*La guía semanal para vivir Santiago con tu perro — by WashDog*
+*La guía semanal para vivir Santiago con tu perro — by Washdog*
 
 ---
 
@@ -67,7 +67,7 @@ El baño post-aventura no es un capricho — es mantenimiento real.
 
 ---
 
-## 🐶 WashDog esta semana
+## 🐶 Washdog esta semana
 
 Después de un fin de semana en el Cajón del Maipo, tu perro probablemente vuelve con barro, tierra y el pelo con olor a aventura. El baño del lunes o martes es parte del ritual.
 
@@ -77,4 +77,4 @@ Después de un fin de semana en el Cajón del Maipo, tu perro probablemente vuel
 
 Eso es todo por esta edición. La semana que viene seguimos explorando Santiago a cuatro patas.
 
-— El equipo WashDog 🐶
+— El equipo Washdog 🐶

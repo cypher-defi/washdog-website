@@ -2,16 +2,16 @@ import type { Metadata } from "next"
 import { ServiceJsonLd } from "@/components/ServiceJsonLd"
 
 export const metadata: Metadata = {
-  title: "Baño de Perros Santiago | WashDog Ñuñoa",
+  title: "Baño de Perros Santiago | Washdog Ñuñoa",
   description:
-    "Baño profesional de perros en Santiago. Shampoo hipoalergénico, secado profesional y atención individual. Agenda online — WashDog Ñuñoa.",
+    "Baño profesional de perros en Santiago. Shampoo hipoalergénico, secado profesional y atención individual. Agenda online — Washdog Ñuñoa.",
   keywords:
     "baño perros Santiago, baño canino Santiago, lavar perro Santiago, baño hipoalergénico perros Ñuñoa",
   alternates: { canonical: "https://washdog.cl/servicios/bano" },
   openGraph: {
-    title: "Baño de Perros Santiago | WashDog Ñuñoa",
+    title: "Baño de Perros Santiago | Washdog Ñuñoa",
     description:
-      "Baño profesional con shampoo hipoalergénico, secado y atención individual en WashDog Ñuñoa.",
+      "Baño profesional con shampoo hipoalergénico, secado y atención individual en Washdog Ñuñoa.",
     url: "https://washdog.cl/servicios/bano",
     locale: "es_CL",
     type: "website",
@@ -27,7 +27,7 @@ const serviceSchema = {
   provider: {
     "@type": "LocalBusiness",
     "@id": "https://washdog.cl",
-    name: "WashDog",
+    name: "Washdog",
     url: "https://washdog.cl",
   },
   areaServed: {

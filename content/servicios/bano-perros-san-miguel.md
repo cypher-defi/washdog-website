@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en San Miguel — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en San Miguel — Peluquería Canina Premium Santiago"
 description: "Limpieza profesional, trato personalizado y sin el drama del baño en casa. Reserva en 2 minutos."
-keywords: "baño perros San Miguel, peluquería canina San Miguel, grooming San Miguel, WashDog"
+keywords: "baño perros San Miguel, peluquería canina San Miguel, grooming San Miguel, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog es el baño de perros preferido en San Miguel?
+### ¿Por qué Washdog es el baño de perros preferido en San Miguel?
 
 **📍 Cómodo para toda la zona sur**
 Atendemos clientes desde San Miguel, Pedro Aguirre Cerda, Lo Espejo y San Joaquín. Sin cruzar Santiago de punta a punta para encontrar un buen servicio.
@@ -60,7 +60,7 @@ Ambiente calmado, sin gritos ni perros de fondo estresando a todos. Cada mascota
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Tu perro te da amor todos los días. El baño en WashDog es tu forma de devolverle el favor — con productos de verdad, trato calmado y un resultado que se nota.
+Tu perro te da amor todos los días. El baño en Washdog es tu forma de devolverle el favor — con productos de verdad, trato calmado y un resultado que se nota.
 
 **Así de simple es reservar tu baño de perros en San Miguel:**
 1. Escríbenos por WhatsApp o completa el formulario
@@ -72,4 +72,4 @@ Tu perro te da amor todos los días. El baño en WashDog es tu forma de devolver
 [Ver disponibilidad online](#)
 
 ---
-*WashDog — Peluquería canina premium en Santiago. Atendemos San Miguel, Pedro Aguirre Cerda, Lo Espejo, San Joaquín y comunas aledañas.*
+*Washdog — Peluquería canina premium en Santiago. Atendemos San Miguel, Pedro Aguirre Cerda, Lo Espejo, San Joaquín y comunas aledañas.*

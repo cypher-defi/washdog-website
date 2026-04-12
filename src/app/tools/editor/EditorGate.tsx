@@ -50,7 +50,7 @@ export function EditorGate() {
         {/* Logo */}
         <div style={{ marginBottom: "28px", textAlign: "center" }}>
           <div style={{ fontSize: "11px", fontWeight: 700, letterSpacing: "0.2em", textTransform: "uppercase", color: "#F2C94C", marginBottom: "8px" }}>
-            WashDog
+            Washdog
           </div>
           <div style={{ fontSize: "20px", fontWeight: 700, color: "white" }}>
             Template Editor

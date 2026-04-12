@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Cerro Navia — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Cerro Navia — Peluquería Canina Premium Santiago"
 description: "Productos premium, atención personalizada y agenda online en 2 minutos — para que llegues cuando te acomode."
-keywords: "baño perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, WashDog"
+keywords: "baño perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en Cerro Navia?
+### ¿Por qué Washdog en Cerro Navia?
 
 **💰 Precio claro, sin sorpresas al retirar**
 Desde $25.000 CLP según el tamaño de tu perro. Te decimos el valor exacto antes de empezar — sin cobros extras que aparecen de la nada.
@@ -30,7 +30,7 @@ Desde $25.000 CLP según el tamaño de tu perro. Te decimos el valor exacto ante
 Nada de llamadas ni esperar que alguien conteste. Elige el día y la hora que te quede bien — con horarios de mañana, tarde y fines de semana disponibles.
 
 **🤍 Tu perro en manos de alguien que realmente lo cuida**
-No somos una cadena ni un local donde entran 10 perros a la vez. En WashDog tu perro es el único que importa en ese momento — lo atendemos como si fuera nuestro.
+No somos una cadena ni un local donde entran 10 perros a la vez. En Washdog tu perro es el único que importa en ese momento — lo atendemos como si fuera nuestro.
 
 > *"No todas las peluquerías son iguales. Aquí tu perro no es un número más."*
 

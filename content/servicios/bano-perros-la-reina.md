@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en La Reina — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en La Reina — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y agenda online 24/7 — a minutos de tu casa."
-keywords: "baño perros La Reina, peluquería canina La Reina, grooming La Reina, WashDog"
+keywords: "baño perros La Reina, peluquería canina La Reina, grooming La Reina, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en La Reina?
+### ¿Por qué Washdog en La Reina?
 
 **📍 Ubicados a minutos de La Reina, Ñuñoa y Macul**
 Sin cruzar Santiago ni perder media mañana. Fácil acceso con estacionamiento disponible y dirección exacta desde el momento en que reservas.
@@ -41,7 +41,7 @@ Nada de "depende" ni sorpresas al llegar. Sabes cuánto pagas antes de reservar.
 — **Francisca M., La Reina** — Golden Retriever
 
 ⭐⭐⭐⭐⭐
-*"Mi Beagle tiene piel súper sensible y siempre me complica en otros lugares. En WashDog me preguntaron todo antes de empezar y usaron productos especiales sin cobrarme extra. Totalmente recomendado."*
+*"Mi Beagle tiene piel súper sensible y siempre me complica en otros lugares. En Washdog me preguntaron todo antes de empezar y usaron productos especiales sin cobrarme extra. Totalmente recomendado."*
 — **Rodrigo V., Ñuñoa** — Beagle
 
 ---

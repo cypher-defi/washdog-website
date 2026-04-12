@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Cerro Navia — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Cerro Navia — Peluquería Canina Premium Santiago"
 description: "El servicio premium que buscabas, ahora a pasos de tu casa. Sin sorpresas, sin esperas, sin vueltas."
-keywords: "peluquería canina Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, WashDog"
+keywords: "peluquería canina Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en Cerro Navia?
+### ¿Por qué Washdog en Cerro Navia?
 
 **Cerca de tu casa, sin perder el día**
 Olvidate de cruzar media ciudad para encontrar un buen servicio. Atendemos a vecinos de Cerro Navia, Pudahuel, Lo Prado y Quinta Normal — porque tu perro se lo merece sin que tengas que complicarte.
@@ -41,7 +41,7 @@ Nada de sorpresas al final. Te cotizamos al tiro según el tamaño y la raza. Lo
 — **Valentina R.** — mamá de Bruno, Labrador Retriever, Cerro Navia
 
 ⭐⭐⭐⭐⭐
-*"Mi Schnauzer es complicado para el corte y en todos lados me decían que no. En WashDog lo atendieron sin drama y quedó impecable. 100% recomendado."*
+*"Mi Schnauzer es complicado para el corte y en todos lados me decían que no. En Washdog lo atendieron sin drama y quedó impecable. 100% recomendado."*
 — **Rodrigo M.** — papá de Copete, Schnauzer Miniatura, Pudahuel
 
 ---
@@ -62,11 +62,11 @@ Nada de sorpresas al final. Te cotizamos al tiro según el tamaño y la raza. Lo
 
 Reservar es fácil: escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, elige el día y la hora que más te acomoda — y listo. Sin llamadas eternas, sin filas.
 
-Cientos de perros de Cerro Navia, Lo Prado y comunas cercanas ya pasaron por WashDog. El tuyo puede ser el próximo.
+Cientos de perros de Cerro Navia, Lo Prado y comunas cercanas ya pasaron por Washdog. El tuyo puede ser el próximo.
 
 **[🟢 Reserva tu hora por WhatsApp →]**
 
 **[📅 Ver disponibilidad online]**
 
 ---
-*WashDog — Peluquería canina Cerro Navia · Atención personalizada · Productos premium hipoalergénicos · Agenda online disponible las 24 hrs*
+*Washdog — Peluquería canina Cerro Navia · Atención personalizada · Productos premium hipoalergénicos · Agenda online disponible las 24 hrs*

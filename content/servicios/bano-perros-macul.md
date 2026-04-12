@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Macul — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Macul — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos premium, atención uno a uno y agenda online en 2 minutos. Sin filas, sin estrés — para ti ni para él."
-keywords: "baño perros Macul, peluquería canina Macul, grooming Macul, WashDog"
+keywords: "baño perros Macul, peluquería canina Macul, grooming Macul, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Macul?
+### ¿Por qué Washdog en Macul?
 
 **📍 El más conveniente entre Macul y Ñuñoa**
 Estamos a minutos de Macul, con fácil acceso en micro, metro y estacionamiento cercano. Sin tener que cruzar media ciudad para darle un buen baño a tu compañero.

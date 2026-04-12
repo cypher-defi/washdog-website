@@ -1,12 +1,12 @@
 ---
-title: "WashDog peluquería canina en Cerrillos — Peluquería Canina Premium Santiago"
-description: "En WashDog cuidamos a tu compañero como si fuera nuestro: con productos premium, atención personalizada y agenda online en 2 minutos."
-keywords: "peluquería canina Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, WashDog"
+title: "Washdog peluquería canina en Cerrillos — Peluquería Canina Premium Santiago"
+description: "En Washdog cuidamos a tu compañero como si fuera nuestro: con productos premium, atención personalizada y agenda online en 2 minutos."
+keywords: "peluquería canina Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, Washdog"
 date: "2026-03-10"
 ---
 
 # Tu perro, impecable y feliz — Peluquería Canina Cerrillos
-## En WashDog cuidamos a tu compañero como si fuera nuestro: con productos premium, atención personalizada y agenda online en 2 minutos.
+## En Washdog cuidamos a tu compañero como si fuera nuestro: con productos premium, atención personalizada y agenda online en 2 minutos.
 
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog es la peluquería canina en Cerrillos que estabas buscando?
+### ¿Por qué Washdog es la peluquería canina en Cerrillos que estabas buscando?
 
 **Porque tu perro no es un número más.**
 Atendemos de a un perro a la vez. Sin filas, sin apuros, sin estrés para él ni para ti. Cada visita es 100% personalizada.
@@ -43,7 +43,7 @@ Agenda tu hora online en menos de 2 minutos, desde el celular, a cualquier hora 
 — **Valentina R., Cerrillos** *(Golden Retriever, Simón)*
 
 ⭐⭐⭐⭐⭐
-*"Buscaba una peluquería canina cerca de Maipú que fuera confiable y encontré WashDog. El resultado fue increíble y me avisaron cuando Lola estuvo lista. Atención de primera."*
+*"Buscaba una peluquería canina cerca de Maipú que fuera confiable y encontré Washdog. El resultado fue increíble y me avisaron cuando Lola estuvo lista. Atención de primera."*
 — **Rodrigo M., Maipú** *(Schnauzer Miniatura, Lola)*
 
 ---

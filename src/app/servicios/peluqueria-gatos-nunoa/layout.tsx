@@ -1,14 +1,14 @@
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Peluquería para Gatos Ñuñoa | WashDog",
+  title: "Peluquería para Gatos Ñuñoa | Washdog",
   description:
-    "Peluquería y baño para gatos en Ñuñoa, Santiago. Atención delicada, productos seguros para felinos y agenda online. WashDog — Irarrázaval 2086 B.",
+    "Peluquería y baño para gatos en Ñuñoa, Santiago. Atención delicada, productos seguros para felinos y agenda online. Washdog — Irarrázaval 2086 B.",
   keywords:
     "peluquería gatos Ñuñoa, baño gatos Santiago, corte pelo gatos Ñuñoa, grooming gatos Santiago",
   alternates: { canonical: "https://washdog.cl/servicios/peluqueria-gatos-nunoa" },
   openGraph: {
-    title: "Peluquería para Gatos Ñuñoa | WashDog",
+    title: "Peluquería para Gatos Ñuñoa | Washdog",
     description:
       "Baño y corte delicado para gatos en Ñuñoa. Ambiente tranquilo, productos seguros para felinos.",
     url: "https://washdog.cl/servicios/peluqueria-gatos-nunoa",

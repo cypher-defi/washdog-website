@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Providencia — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Providencia — Peluquería Canina Premium Santiago"
 description: "Atención individual, productos premium y un resultado que lo hará lucir como nunca — reserva en minutos desde tu celular."
-keywords: "corte perros Providencia, peluquería canina Providencia, grooming Providencia, WashDog"
+keywords: "corte perros Providencia, peluquería canina Providencia, grooming Providencia, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en Providencia?
+### ¿Por qué Washdog en Providencia?
 
 **Tu perro nunca está solo ni encerrado.**
 Atendemos de a un perro a la vez. Sin jaulas colectivas, sin ruido de otros animales, sin estrés innecesario. Mientras tú no estás, nosotros lo tratamos como si sí estuvieras mirando.
@@ -39,7 +39,7 @@ Peluqueros especializados por raza y una garantía real: si el resultado no cump
 > *"Llevé a Mochi por primera vez y quedé impresionada. Es Bichón Maltés y tiene el pelo muy fino — en otros lugares siempre quedaba desprolijo. Acá le preguntaron cómo lo quería, le mandaron foto antes de buscarlo y llegó perfumado y feliz. No voy a ningún otro lado."*
 > **— Francisca R., Providencia** | 🐾 Bichón Maltés ⭐⭐⭐⭐⭐
 
-> *"Tengo un Husky y siempre tuve miedo de que no supieran manejarle el pelo de doble capa. WashDog lo deslanó perfecto, sin dejarlo con aspecto raro. El ambiente es súper tranquilo y se nota que lo trataron bien porque llegó relajado, no asustado como en otros lados."*
+> *"Tengo un Husky y siempre tuve miedo de que no supieran manejarle el pelo de doble capa. Washdog lo deslanó perfecto, sin dejarlo con aspecto raro. El ambiente es súper tranquilo y se nota que lo trataron bien porque llegó relajado, no asustado como en otros lados."*
 > **— Tomás V., Ñuñoa** | 🐾 Husky Siberiano ⭐⭐⭐⭐⭐
 
 ---

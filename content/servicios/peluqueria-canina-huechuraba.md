@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Huechuraba — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Huechuraba — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. A minutos de donde vives."
-keywords: "peluquería canina Huechuraba, WashDog"
+keywords: "peluquería canina Huechuraba, Washdog"
 date: "2026-03-06"
 ---
 
@@ -23,7 +23,7 @@ Porque él te lo da todo. Lo menos que puedes hacer es que esté impecable y fel
 
 ---
 
-### ¿Por qué WashDog en Huechuraba?
+### ¿Por qué Washdog en Huechuraba?
 
 **🐶 Un perro a la vez, toda la atención para él**
 No somos una fábrica. Cada atención es personalizada: sin jaulas de espera innecesarias, sin estrés. Tu perro entra con la cola abajo y sale meneándola.
@@ -38,10 +38,10 @@ Ubicados en Huechuraba, con fácil acceso en auto y estacionamiento disponible. 
 
 ### Lo que dicen los papás y mamás de nuestros clientes peludos 🐶
 
-> *"Llevé a Simba por primera vez y no lo podía creer. Volvió perfumado, tranquilo y con el pelo increíble. Ya somos clientes fijos de WashDog."*
+> *"Llevé a Simba por primera vez y no lo podía creer. Volvió perfumado, tranquilo y con el pelo increíble. Ya somos clientes fijos de Washdog."*
 > **— Valentina R., mamá de Simba 🐕 Golden Retriever** ⭐⭐⭐⭐⭐
 
-> *"Busqué peluquería canina en Huechuraba y encontré WashDog. El trato fue excelente, me mandaron fotos durante el baño y el precio es muy justo para la calidad. Totalmente recomendado."*
+> *"Busqué peluquería canina en Huechuraba y encontré Washdog. El trato fue excelente, me mandaron fotos durante el baño y el precio es muy justo para la calidad. Totalmente recomendado."*
 > **— Rodrigo M., papá de Coco 🐩 Bichón Maltes** ⭐⭐⭐⭐⭐
 
 ---
@@ -60,7 +60,7 @@ Ubicados en Huechuraba, con fácil acceso en auto y estacionamiento disponible. 
 
 
 ---
-### Paseos cerca de WashDog en Huechuraba
+### Paseos cerca de Washdog en Huechuraba
 
 Huechuraba tiene espacios naturales excelentes para perros, especialmente en el sector alto de la comuna. Muchos clientes del sector norte de Santiago nos eligen por la calidad del servicio y el trato individualizado.
 
@@ -70,7 +70,7 @@ Huechuraba tiene espacios naturales excelentes para perros, especialmente en el 
 - **Av. Los Libertadores** — veredas amplias en el corredor principal de la comuna
 - **Sector La Punta** — zona residencial tranquila con espacios verdes informales
 
-**Cómo llegar a WashDog desde Huechuraba:**
+**Cómo llegar a Washdog desde Huechuraba:**
 La mejor ruta en auto es por Av. Recoleta → Av. Irarrázaval, aproximadamente 25-30 minutos. En transporte público, combina bus desde Huechuraba hacia el centro y luego metro Línea 3 hasta la estación Ñuñoa.
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Renca — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Renca — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online — sin cruzar Santiago."
-keywords: "baño perros Renca, peluquería canina Renca, grooming Renca, WashDog"
+keywords: "baño perros Renca, peluquería canina Renca, grooming Renca, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en Renca?
+### ¿Por qué Washdog en Renca?
 
 **Precios transparentes, sin sorpresas al final**
 Publicamos los valores según tamaño antes de que reserves. Sabes exactamente cuánto vas a pagar — desde $25.000 CLP — sin letra chica ni cobros de último momento.
@@ -58,11 +58,11 @@ Sin llamadas, sin vueltas. Agenda online disponible 24/7, con horarios de lunes 
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar el **baño perros en Renca** con WashDog es simple: elige tu horario, confirma por WhatsApp o formulario, y llega tranquilo. Nada más. Sin filas, sin sorpresas — solo un perro limpio y feliz esperándote a la salida.
+Reservar el **baño perros en Renca** con Washdog es simple: elige tu horario, confirma por WhatsApp o formulario, y llega tranquilo. Nada más. Sin filas, sin sorpresas — solo un perro limpio y feliz esperándote a la salida.
 
 **[Reserva tu hora por WhatsApp →](#)**
 
 **[Ver disponibilidad online](#)**
 
 ---
-*WashDog — Peluquería canina premium en Santiago. Atendemos Renca, Pudahuel, Quinta Normal, Lo Prado y comunas cercanas.*
+*Washdog — Peluquería canina premium en Santiago. Atendemos Renca, Pudahuel, Quinta Normal, Lo Prado y comunas cercanas.*

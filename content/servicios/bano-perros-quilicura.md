@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Quilicura — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Quilicura — Peluquería Canina Premium Santiago"
 description: "Secado profesional, productos hipoalergénicos y atención uno a uno — a minutos de tu casa."
-keywords: "baño perros Quilicura, peluquería canina Quilicura, grooming Quilicura, WashDog"
+keywords: "baño perros Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-11"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-11"
 
 ---
 
-### ¿Por qué WashDog en Quilicura?
+### ¿Por qué Washdog en Quilicura?
 
 **📍 Cerca de Quilicura, fácil de llegar**
 Atendemos a dueños de Quilicura, Renca, Conchalí y Lo Barnechea. Ubicación accesible, sin complicarte el día. Coordina tu horario exacto desde el celular y llega cuando quieras.
@@ -60,7 +60,7 @@ Sin llamadas, sin esperas. Elige día, hora y listo. Recibes confirmación inmed
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar el **baño perros Quilicura** en WashDog toma menos de 2 minutos. Elige tu horario, confírmalo por WhatsApp y llega tranquilo sabiendo que tu perro va a quedar en las mejores manos.
+Reservar el **baño perros Quilicura** en Washdog toma menos de 2 minutos. Elige tu horario, confírmalo por WhatsApp y llega tranquilo sabiendo que tu perro va a quedar en las mejores manos.
 
 **Sin filas. Sin jaulas. Sin sorpresas.**
 
@@ -69,4 +69,4 @@ Reservar el **baño perros Quilicura** en WashDog toma menos de 2 minutos. Elige
 [Ver disponibilidad online](https://washdog.cl)
 
 ---
-*WashDog — Peluquería canina premium en Santiago · Atendemos Quilicura, Renca, Conchalí y comunas aledañas*
+*Washdog — Peluquería canina premium en Santiago · Atendemos Quilicura, Renca, Conchalí y comunas aledañas*

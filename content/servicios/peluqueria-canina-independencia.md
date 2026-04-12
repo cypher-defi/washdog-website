@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Independencia — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Independencia — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y agenda online. Sin estrés para él. Sin complicaciones para ti."
-keywords: "peluquería canina Independencia, peluquería canina Independencia, grooming Independencia, WashDog"
+keywords: "peluquería canina Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-09"
 ---
 
@@ -25,10 +25,10 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en Independencia?
+### ¿Por qué Washdog en Independencia?
 
 **Porque tu perro no es cualquier perro.**
-En WashDog cada atención es individual. Sin jaulas de espera, sin aglomeración. Solo tu perro, nuestro equipo y toda la dedicación del mundo.
+En Washdog cada atención es individual. Sin jaulas de espera, sin aglomeración. Solo tu perro, nuestro equipo y toda la dedicación del mundo.
 
 **Productos 100% premium e hipoalergénicos.**
 Usamos líneas profesionales seguras para pieles sensibles y cachorros. Sin irritaciones, sin sorpresas. Porque lo que le ponemos encima importa tanto como el corte.
@@ -43,7 +43,7 @@ Agenda online disponible las 24 horas por WhatsApp o formulario web. Sin llamada
 > *"Llevé a mi Border Collie por primera vez y no podía creer el resultado. Lo trataron con mucho cariño, salió perfecto y sin estrés. Definitivamente el mejor lugar de peluquería canina en Independencia."*
 > — **Rodrigo M., Independencia** ⭐⭐⭐⭐⭐
 
-> *"Siempre había buscado algo cercano a Recoleta con buena calidad. WashDog superó todo lo que esperaba. Mi Bichón quedó impecable y me mandaron fotos durante el proceso. Muy recomendado."*
+> *"Siempre había buscado algo cercano a Recoleta con buena calidad. Washdog superó todo lo que esperaba. Mi Bichón quedó impecable y me mandaron fotos durante el proceso. Muy recomendado."*
 > — **Camila V., Recoleta** ⭐⭐⭐⭐⭐
 
 ---

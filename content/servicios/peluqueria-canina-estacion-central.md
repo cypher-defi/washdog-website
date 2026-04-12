@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Estación Central — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Estación Central — Peluquería Canina Premium Santiago"
 description: "Atención profesional, productos premium y reserva en 2 minutos. Sin filas. Sin sorpresas."
-keywords: "peluquería canina Estación Central, peluquería canina Estación Central, grooming Estación Central, WashDog"
+keywords: "peluquería canina Estación Central, peluquería canina Estación Central, grooming Estación Central, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog en Estación Central?
+### ¿Por qué Washdog en Estación Central?
 
 **Porque tu tiempo vale — reserva online en 2 minutos**
 Sin llamadas, sin filas, sin llegar a esperar. Agendas por WhatsApp o desde la web y llegas a la hora exacta. Ideal para la rutina del día a día en una comuna tan movida como Estación Central.
@@ -60,7 +60,7 @@ Precios claros desde $20.000 CLP, sin cobros sorpresa al final. Usamos productos
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-En WashDog entendemos que entre la pega, el día a día y todo lo que implica vivir en Santiago, el cuidado del perro a veces queda postergado. No por descuido — por falta de tiempo. Nosotros hacemos que sea fácil.
+En Washdog entendemos que entre la pega, el día a día y todo lo que implica vivir en Santiago, el cuidado del perro a veces queda postergado. No por descuido — por falta de tiempo. Nosotros hacemos que sea fácil.
 
 Reserva en 2 minutos y ven a la hora que más te acomode. Atendemos en **Estación Central** y somos accesibles desde comunas como **Cerrillos, Pedro Aguirre Cerda, Lo Espejo y Santiago Centro**.
 

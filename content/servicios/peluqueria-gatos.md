@@ -36,9 +36,9 @@ communes:
 
 # Peluquería para Gatos en Santiago: Grooming Felino Especializado
 
-Si buscas una **peluquería para gatos en Santiago** que entienda las necesidades únicas de tu felino, en WashDog contamos con un servicio diseñado especialmente para ellos. Porque el grooming felino no es solo una cuestión de estética: es una práctica de salud que ayuda a prevenir bolas de pelo, detectar problemas de piel a tiempo y reducir significativamente la muda en tu hogar.
+Si buscas una **peluquería para gatos en Santiago** que entienda las necesidades únicas de tu felino, en Washdog contamos con un servicio diseñado especialmente para ellos. Porque el grooming felino no es solo una cuestión de estética: es una práctica de salud que ayuda a prevenir bolas de pelo, detectar problemas de piel a tiempo y reducir significativamente la muda en tu hogar.
 
-Los gatos son animales con temperamentos muy distintos a los perros, y su manejo durante una sesión de peluquería requiere técnicas específicas, paciencia y un ambiente que minimice el estrés. En WashDog lo sabemos, y por eso hemos desarrollado un protocolo de atención felina que prioriza la calma y el bienestar de tu gato en cada paso del proceso.
+Los gatos son animales con temperamentos muy distintos a los perros, y su manejo durante una sesión de peluquería requiere técnicas específicas, paciencia y un ambiente que minimice el estrés. En Washdog lo sabemos, y por eso hemos desarrollado un protocolo de atención felina que prioriza la calma y el bienestar de tu gato en cada paso del proceso.
 
 ## ¿Qué incluye nuestro servicio de peluquería felina?
 
@@ -56,9 +56,9 @@ Nuestro servicio de **peluquería especializada en gatos** está pensado como un
 
 Cada sesión es también una oportunidad para que nuestro equipo revise el estado general de la piel y el pelaje de tu gato. Si detectamos zonas enrojecidas, parásitos, pérdida de pelo inusual u otras señales, te lo informamos para que puedas consultar con tu veterinario a tiempo.
 
-## ¿Por qué elegir WashDog para tu gato?
+## ¿Por qué elegir Washdog para tu gato?
 
-No todas las peluquerías de mascotas están preparadas para atender felinos. En WashDog nos diferenciamos por:
+No todas las peluquerías de mascotas están preparadas para atender felinos. En Washdog nos diferenciamos por:
 
 - **Personal capacitado en manejo felino:** Nuestro equipo está entrenado en técnicas de sujeción suave y lectura del lenguaje corporal de los gatos, lo que nos permite trabajar generando el mínimo estrés posible.
 
@@ -78,7 +78,7 @@ No importa desde qué comuna vengas: tu gato recibirá la misma atención de cal
 
 Dale a tu gato el cuidado profesional que merece. **Reserva ahora tu hora de peluquería felina** de forma rápida y sencilla a través de nuestra plataforma online.
 
-👉 [**Agenda tu cita en WashDog**](https://www.washdog.cl)
+👉 [**Agenda tu cita en Washdog**](https://www.washdog.cl)
 
 ¿Tienes dudas sobre qué servicio necesita tu gato? Escríbenos y te orientamos con gusto.
 

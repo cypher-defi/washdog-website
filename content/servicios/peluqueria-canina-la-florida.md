@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en La Florida — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en La Florida — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y hora exacta. Sin filas, sin estrés, sin sorpresas."
-keywords: "peluquería canina La Florida, WashDog"
+keywords: "peluquería canina La Florida, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog en La Florida?
+### ¿Por qué Washdog en La Florida?
 
 **Un perro a la vez, siempre.**
 No hay jaulas llenas ni apuro por turnos. Tu perro recibe atención completa de principio a fin — ideal para perritos nerviosos, reactivos o razas que necesitan trato especial.
@@ -62,9 +62,9 @@ Sin llamadas, sin esperar en la vereda. Agenda por WhatsApp o formulario online 
 
 
 ---
-### Paseos cerca de WashDog en La Florida
+### Paseos cerca de Washdog en La Florida
 
-La Florida tiene varios parques naturales únicos en Santiago. Antes de venir a WashDog, muchos dueños de La Florida aprovechan de cansarlos un poco — así llegan más tranquilos a la sesión.
+La Florida tiene varios parques naturales únicos en Santiago. Antes de venir a Washdog, muchos dueños de La Florida aprovechan de cansarlos un poco — así llegan más tranquilos a la sesión.
 
 **Parques y espacios favoritos en La Florida:**
 - **Parque Mahuida** — uno de los parques naturales más grandes de Santiago, con senderos de tierra ideales para perros activos
@@ -72,14 +72,14 @@ La Florida tiene varios parques naturales únicos en Santiago. Antes de venir a 
 - **Parque Lo Cañas** — zona residencial tranquila con áreas verdes bien mantenidas
 - **Canal San Carlos** — paseo lineal que conecta varias comunas del sur oriente
 
-**Cómo llegar a WashDog desde La Florida:**
+**Cómo llegar a Washdog desde La Florida:**
 Toma **Metro Las Mercedes (Línea 4)** o **Metro La Florida (Línea 4)** conectando hacia Ñuñoa. En auto por Av. Vicuña Mackenna llegas directo a Irarrázaval en unos 20-25 minutos.
 
 ---
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Agendar en WashDog toma menos de 2 minutos. Escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, y te confirmamos hora al instante. Así de simple.
+Agendar en Washdog toma menos de 2 minutos. Escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, y te confirmamos hora al instante. Así de simple.
 
 Sin filas. Sin esperas. Sin vueltas.
 

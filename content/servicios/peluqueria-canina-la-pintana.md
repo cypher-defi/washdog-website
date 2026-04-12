@@ -1,12 +1,12 @@
 ---
-title: "WashDog peluquería canina en La Pintana — Peluquería Canina Premium Santiago"
-description: "En WashDog lo tratamos como familia: con cuidado real, productos premium y precios sin sorpresas."
-keywords: "peluquería canina La Pintana, peluquería canina La Pintana, grooming La Pintana, WashDog"
+title: "Washdog peluquería canina en La Pintana — Peluquería Canina Premium Santiago"
+description: "En Washdog lo tratamos como familia: con cuidado real, productos premium y precios sin sorpresas."
+keywords: "peluquería canina La Pintana, peluquería canina La Pintana, grooming La Pintana, Washdog"
 date: "2026-03-10"
 ---
 
 # Tu perro, limpio y feliz — Peluquería canina La Pintana
-## En WashDog lo tratamos como familia: con cuidado real, productos premium y precios sin sorpresas.
+## En Washdog lo tratamos como familia: con cuidado real, productos premium y precios sin sorpresas.
 
 ---
 
@@ -21,13 +21,13 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué elegir WashDog en La Pintana?
+### ¿Por qué elegir Washdog en La Pintana?
 
 **💬 Trato personalizado, uno a uno**
 Acá tu perro no espera en jaulas ni comparte espacio con otros. Lo atendemos de forma individual porque sabemos que para vos es familia, no un número.
 
 **💰 Precio claro antes de reservar**
-Nada de "depende" al llegar. En WashDog sabés cuánto pagás desde el primer momento. Sin cobros extra, sin sorpresas al final.
+Nada de "depende" al llegar. En Washdog sabés cuánto pagás desde el primer momento. Sin cobros extra, sin sorpresas al final.
 
 **📱 Reserva en 2 minutos desde el celular**
 Sin llamadas, sin filas, sin complicaciones. Agenda tu hora por WhatsApp o desde nuestro formulario web cuando quieras, las 24 horas.
@@ -39,7 +39,7 @@ Sin llamadas, sin filas, sin complicaciones. Agenda tu hora por WhatsApp o desde
 > *"Llevé a mi Lola, que es una Golden bastante desconfiada, y quedó tranquila todo el tiempo. Salió preciosa y bien perfumada. La atención es muy buena, se nota que le tienen cariño a los animales."*
 > — **Carla M.** · Golden Retriever · La Pintana ⭐⭐⭐⭐⭐
 
-> *"Buscaba peluquería canina La Pintana que fuera de confianza y WashDog cumplió todo. Precio justo, puntual y mi Tito salió feliz. Ya agendé para el mes que viene."*
+> *"Buscaba peluquería canina La Pintana que fuera de confianza y Washdog cumplió todo. Precio justo, puntual y mi Tito salió feliz. Ya agendé para el mes que viene."*
 > — **Jorge R.** · Schnauzer Miniatura · El Bosque ⭐⭐⭐⭐⭐
 
 ---

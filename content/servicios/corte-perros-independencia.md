@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Independencia — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Independencia — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium cerca de vos — productos hipoalergénicos, agenda online y atención 1:1 para tu compañero."
-keywords: "corte perros Independencia, peluquería canina Independencia, grooming Independencia, WashDog"
+keywords: "corte perros Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Independencia?
+### ¿Por qué Washdog en Independencia?
 
 **Atención personalizada, sin apuros.**
 Cada perro tiene su turno, su espacio y su peluquero. Sin atención masiva ni carretes. Tu perro no es uno más en la fila — acá tiene todo nuestro foco.
@@ -39,7 +39,7 @@ Agenda online disponible 24/7, sin llamar ni esperar. Estamos a minutos del Metr
 > *"Llevé a mi Schnauzer por primera vez y no podía creer el resultado. Lo trataron con una paciencia increíble y quedó perfecto. Ya tengo la próxima hora agendada."*
 > **— Francisca M., Independencia** 🐶 Schnauzer Miniatura ⭐⭐⭐⭐⭐
 
-> *"Buscaba un corte de perros en Independencia que fuera de confianza y encontré WashDog. Mi Golden salió precioso y con un olor increíble. Totalmente recomendado para los que vivimos por acá."*
+> *"Buscaba un corte de perros en Independencia que fuera de confianza y encontré Washdog. Mi Golden salió precioso y con un olor increíble. Totalmente recomendado para los que vivimos por acá."*
 > **— Rodrigo T., Recoleta** 🐶 Golden Retriever ⭐⭐⭐⭐⭐
 
 ---

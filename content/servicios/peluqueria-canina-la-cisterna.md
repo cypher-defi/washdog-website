@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en La Cisterna — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en La Cisterna — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado premium con productos hipoalergénicos — agenda online en 2 minutos, sin llamadas ni esperas."
-keywords: "peluquería canina La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, WashDog"
+keywords: "peluquería canina La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en La Cisterna?
+### ¿Por qué Washdog en La Cisterna?
 
 **🏡 Atención uno a uno, sin jaulas ni apuros**
 Tu perro es atendido de forma individual, en un entorno tranquilo y sin la ansiedad de estar junto a otros animales. Para nosotros, cada perro es el único de la sesión.
@@ -39,7 +39,7 @@ Reserva en menos de 2 minutos desde el celular, sin llamadas ni filas. Con horar
 > *"Llevé a mi Golden por primera vez y quedé sorprendida. Lo trataron con tanto cariño, salió limpio, oloroso y con el corte perfecto. Definitivamente volvemos."*
 > — **Valentina R.** · Golden Retriever, 3 años · ⭐⭐⭐⭐⭐
 
-> *"Tenía miedo porque mi Chihuahua es muy nervioso con los extraños, pero en WashDog lo manejaron increíble. Nada que ver con otras peluquerías del sector."*
+> *"Tenía miedo porque mi Chihuahua es muy nervioso con los extraños, pero en Washdog lo manejaron increíble. Nada que ver con otras peluquerías del sector."*
 > — **Marcelo T.** · Chihuahua, 5 años · ⭐⭐⭐⭐⭐
 
 ---

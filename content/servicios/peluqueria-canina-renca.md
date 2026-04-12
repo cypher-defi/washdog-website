@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Renca — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Renca — Peluquería Canina Premium Santiago"
 description: "Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $20.000 CLP."
-keywords: "peluquería canina Renca, peluquería canina Renca, grooming Renca, WashDog"
+keywords: "peluquería canina Renca, peluquería canina Renca, grooming Renca, Washdog"
 date: "2026-03-09"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué WashDog es la peluquería canina de confianza en Renca?
+### ¿Por qué Washdog es la peluquería canina de confianza en Renca?
 
 **Tu perro no es un número en la fila.**
 Atendemos de forma individual — un solo perro por turno. Sin ruido, sin estrés, sin aglomeraciones. Tu compañero entra tranquilo y sale feliz.

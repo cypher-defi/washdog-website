@@ -85,7 +85,7 @@ Si el pelaje llega con nudos significativos, la visita toma más tiempo y puede 
 
 ---
 
-¿Tienes un Golden y buscas un peluquero en Santiago que entienda la raza? En WashDog atendemos cada perro individualmente, con productos específicos para pelo largo y doble capa.
+¿Tienes un Golden y buscas un peluquero en Santiago que entienda la raza? En Washdog atendemos cada perro individualmente, con productos específicos para pelo largo y doble capa.
 
 ## Ver también
 

@@ -1,6 +1,6 @@
 ---
-title: "Cómo secar a tu perro después del baño | WashDog"
-description: "Aprende cómo secar a tu perro después del baño de forma segura y rápida en Santiago. Consejos expertos de WashDog, peluquería canina premium. ¡Agenda hoy!"
+title: "Cómo secar a tu perro después del baño | Washdog"
+description: "Aprende cómo secar a tu perro después del baño de forma segura y rápida en Santiago. Consejos expertos de Washdog, peluquería canina premium. ¡Agenda hoy!"
 date: "2026-03-11"
 lastModified: "2026-04-07"
 author: "José Pablo"
@@ -39,7 +39,7 @@ Si tu perro tiene pelo largo o abundante, el secado activo no es opcional: es es
 
 ## Cómo secar a tu perro en casa después del baño: paso a paso
 
-Con la técnica correcta, puedes secar a tu perro de forma segura y eficiente en casa. Aquí te dejamos el proceso que usamos como referencia en WashDog.
+Con la técnica correcta, puedes secar a tu perro de forma segura y eficiente en casa. Aquí te dejamos el proceso que usamos como referencia en Washdog.
 
 ### Paso 1 – Retira el exceso de agua con una toalla absorbente
 
@@ -82,7 +82,7 @@ Si no tienes secador a mano, la clave es maximizar la absorción: usa dos o tres
 
 ## Errores comunes al secar a tu perro que debes evitar
 
-Secar mal a tu perro puede ser tan perjudicial como no secarlo. Estos son los errores más frecuentes que vemos en WashDog:
+Secar mal a tu perro puede ser tan perjudicial como no secarlo. Estos son los errores más frecuentes que vemos en Washdog:
 
 - **Usar temperatura muy alta** con el secador: quema la piel y reseca el pelo.
 - **Frotar demasiado fuerte con la toalla**: genera nudos, rompe el pelo y puede irritar la piel.
@@ -96,9 +96,9 @@ Secar mal a tu perro puede ser tan perjudicial como no secarlo. Estos son los er
 
 Hay situaciones en las que el secado en casa simplemente no es suficiente: razas con doble capa de pelo, perros muy ansiosos con el secador, o cuando simplemente no tienes el tiempo ni el equipamiento para hacerlo bien.
 
-### Ventajas del secado profesional en WashDog: Providencia, Las Condes y Ñuñoa
+### Ventajas del secado profesional en Washdog: Providencia, Las Condes y Ñuñoa
 
-En WashDog usamos secadores profesionales de alta potencia con control de temperatura preciso, combinados con técnicas de cepillado que garantizan un secado completo, desde la piel hasta las puntas. El resultado es un pelaje esponjado, libre de humedad, con menos enredos y mucho más sano. Si estás en Ñuñoa, Providencia o Las Condes y prefieres dejarlo en manos de profesionales, en WashDog estamos para ayudarte.
+En Washdog usamos secadores profesionales de alta potencia con control de temperatura preciso, combinados con técnicas de cepillado que garantizan un secado completo, desde la piel hasta las puntas. El resultado es un pelaje esponjado, libre de humedad, con menos enredos y mucho más sano. Si estás en Ñuñoa, Providencia o Las Condes y prefieres dejarlo en manos de profesionales, en Washdog estamos para ayudarte.
 
 Puedes revisar todos los detalles de nuestro servicio de [baño para perros](/servicios/bano-perros), que incluye secado profesional completo con productos premium hipoalergénicos. También ofrecemos [corte de pelo canino](/servicios/corte-perros) para todas las razas, donde el secado forma parte integral del proceso.
 
@@ -127,15 +127,15 @@ Con paciencia y desensibilización gradual. Comienza encendiendo el secador a di
 
 ---
 
-## Confía el baño y secado de tu perro a los expertos de WashDog
+## Confía el baño y secado de tu perro a los expertos de Washdog
 
-Aprender **cómo secar a tu perro después del baño** correctamente marca una diferencia real en su salud y bienestar. Pero si buscas un resultado profesional, sin estrés para tu mascota y con productos de primera calidad, WashDog es tu lugar en Santiago. Atendemos de forma individual, sin jaulas, sin apuro y con todo el amor que tu perro merece.
+Aprender **cómo secar a tu perro después del baño** correctamente marca una diferencia real en su salud y bienestar. Pero si buscas un resultado profesional, sin estrés para tu mascota y con productos de primera calidad, Washdog es tu lugar en Santiago. Atendemos de forma individual, sin jaulas, sin apuro y con todo el amor que tu perro merece.
 
 ---
 
 ## ¿Tu perro necesita un buen grooming?
 
-Agenda en **WashDog** — atención individual, sin jaulas, sin apuro:
+Agenda en **Washdog** — atención individual, sin jaulas, sin apuro:
 
 - 🛁 [Baño para perros](/servicios/bano-perros) — shampoo hipoalergénico, secado profesional
 - ✂️ [Corte de pelo canino](/servicios/corte-perros) — todas las razas

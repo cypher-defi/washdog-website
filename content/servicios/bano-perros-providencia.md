@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Providencia — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Providencia — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y agenda online en minutos — sin colas, sin estrés."
-keywords: "baño perros Providencia, peluquería canina Providencia, grooming Providencia, WashDog"
+keywords: "baño perros Providencia, peluquería canina Providencia, grooming Providencia, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Providencia?
+### ¿Por qué Washdog en Providencia?
 
 **📍 A pasos de donde vives**
 Estamos en el corazón de Providencia, con fácil acceso en metro o auto desde Ñuñoa, Las Condes y Santiago Centro. Sin viajes largos, sin complicaciones.
@@ -36,7 +36,7 @@ Sin llamadas, sin esperar que alguien conteste. Reserva tu hora desde el celular
 
 ### Lo que dicen nuestros clientes en Providencia
 
-> *"Llevaba tiempo buscando un lugar de confianza cerca de casa. En WashDog el trato fue increíble — Toby salió hermoso, olía espectacular y me mandaron fotos de todo el proceso. ¡Ya somos clientes fijos!"*
+> *"Llevaba tiempo buscando un lugar de confianza cerca de casa. En Washdog el trato fue increíble — Toby salió hermoso, olía espectacular y me mandaron fotos de todo el proceso. ¡Ya somos clientes fijos!"*
 > **⭐⭐⭐⭐⭐ — Catalina R., Golden Retriever | Providencia**
 
 > *"Lo que más me gustó fue la tranquilidad de saber que mi perra estaba bien atendida. Sin ruido, sin jaulas, solo ella. El baño perros Providencia que buscaba hace rato."*
@@ -68,4 +68,4 @@ Reservar es simple: elige tu horario, confírmanos la raza y el tamaño de tu pe
 [Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
-*WashDog — Peluquería canina premium en Providencia, Santiago. También atendemos desde Ñuñoa, Las Condes y Santiago Centro.*
+*Washdog — Peluquería canina premium en Providencia, Santiago. También atendemos desde Ñuñoa, Las Condes y Santiago Centro.*

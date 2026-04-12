@@ -55,7 +55,7 @@ Cada 3 a 4 semanas en general. Depende de la raza y el estilo de vida.
 **¿El baño en casa puede dañar a mi perro?**
 Puede, si usas productos inadecuados o no secas bien el pelaje. Los errores más comunes afectan la piel sin que lo notes de inmediato.
 
-**¿WashDog también atiende gatos?**
+**¿Washdog también atiende gatos?**
 Sí, contamos con [peluquería para gatos en Ñuñoa](/servicios/peluqueria-gatos-nunoa).
 
 **¿Necesito reservar con anticipación?**

@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Macul — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Macul — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y peluqueros especializados en todas las razas — a minutos de tu casa."
-keywords: "corte perros Macul, peluquería canina Macul, grooming Macul, WashDog"
+keywords: "corte perros Macul, peluquería canina Macul, grooming Macul, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog para el corte de perros en Macul?
+### ¿Por qué Washdog para el corte de perros en Macul?
 
 **Nunca más de 3 perros al mismo tiempo.**
 Tu perro no pasa horas encerrado en una jaula esperando su turno. Lo atendemos con calma, sin apuro y sin aglomeraciones — algo difícil de encontrar en peluquerías de alta rotación en Ñuñoa o La Florida.
@@ -39,7 +39,7 @@ Sin llamadas, sin ir a preguntar si hay hora disponible. Reservas cuando quieras
 > *"Llevé a mi French Poodle con el pelo bastante descuidado y quedé impresionada con el resultado. Lo trataron con una paciencia increíble y salió hermoso. Ya agendé para el próximo mes."*
 > — **Catalina M., Macul** · 🐩 French Poodle ⭐⭐⭐⭐⭐
 
-> *"Buscaba corte de perros en Macul y encontré WashDog. Le llevé mi Labrador que no es muy fan de la peluquería y me contaron cómo estuvo durante todo el proceso. Eso me dio mucha tranquilidad. Volvemos."*
+> *"Buscaba corte de perros en Macul y encontré Washdog. Le llevé mi Labrador que no es muy fan de la peluquería y me contaron cómo estuvo durante todo el proceso. Eso me dio mucha tranquilidad. Volvemos."*
 > — **Rodrigo F., Peñalolén** · 🐕 Labrador Retriever ⭐⭐⭐⭐⭐
 
 ---
@@ -67,4 +67,4 @@ Reservar es simple: elige tu horario en la agenda online o escríbenos por Whats
 **[Ver disponibilidad online]**
 
 ---
-*WashDog — Peluquería canina premium · Atendemos Macul, Ñuñoa, Peñalolén y La Florida*
+*Washdog — Peluquería canina premium · Atendemos Macul, Ñuñoa, Peñalolén y La Florida*

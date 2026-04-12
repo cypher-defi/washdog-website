@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en La Reina — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en La Reina — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y un equipo que trata a tu perro como merece."
-keywords: "corte perros La Reina, peluquería canina La Reina, grooming La Reina, WashDog"
+keywords: "corte perros La Reina, peluquería canina La Reina, grooming La Reina, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,13 +21,13 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en La Reina?
+### ¿Por qué Washdog en La Reina?
 
 **Especialistas en todas las razas, sin excepción**
 Peluqueros con experiencia real en razas de doble capa, pelajes rizados, razas toy y todo lo que venga. Tu perro no es un experimento.
 
 **Atención uno a uno, sin jaulas de espera**
-En WashDog tu perro no espera encerrado mientras atendemos a otros. Llega, lo atendemos, se va feliz. Así de simple. Lo valoramos especialmente nuestros clientes de La Reina, Ñuñoa, Providencia y Peñalolén.
+En Washdog tu perro no espera encerrado mientras atendemos a otros. Llega, lo atendemos, se va feliz. Así de simple. Lo valoramos especialmente nuestros clientes de La Reina, Ñuñoa, Providencia y Peñalolén.
 
 **Reserva fácil, precio claro desde el primer momento**
 Sin llamadas interminables ni sorpresas al retirar. Agenda online 24/7 o por WhatsApp en segundos, con precios transparentes desde $25.000 CLP.
@@ -58,7 +58,7 @@ Sin llamadas interminables ni sorpresas al retirar. Agenda online 24/7 o por Wha
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar un **corte de perros en La Reina** con WashDog toma menos de 2 minutos. Elige tu horario, cuéntanos la raza y mándanos fotos de referencia si quieres un resultado específico. Nosotros nos encargamos del resto.
+Reservar un **corte de perros en La Reina** con Washdog toma menos de 2 minutos. Elige tu horario, cuéntanos la raza y mándanos fotos de referencia si quieres un resultado específico. Nosotros nos encargamos del resto.
 
 **[Reserva tu hora por WhatsApp →](https://wa.me/)**
 

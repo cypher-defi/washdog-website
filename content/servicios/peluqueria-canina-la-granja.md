@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en La Granja — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en La Granja — Peluquería Canina Premium Santiago"
 description: "Baño, corte y cuidado profesional para tu compañero — con productos premium y atención personalizada en Santiago Sur."
-keywords: "peluquería canina La Granja, peluquería canina La Granja, grooming La Granja, WashDog"
+keywords: "peluquería canina La Granja, peluquería canina La Granja, grooming La Granja, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en La Granja?
+### ¿Por qué Washdog en La Granja?
 
 **Tu perro no espera enjaulado.**
 Atendemos de a un perro por vez. Sin apuros, sin ruido, sin miedo. Tu compañero recibe toda la atención desde que llega hasta que sale.
@@ -39,7 +39,7 @@ Agenda tu hora por WhatsApp o desde el formulario online, las 24 horas. Confirma
 > *"Llevé a mi Labrador por primera vez y quedé impresionada. Lo trataron con mucha paciencia, salió perfumado y súper tranquilo. Se nota que le tienen cariño a los animales."*
 > **— Marcela R., dueña de Bruno (Labrador, 3 años)** ⭐⭐⭐⭐⭐
 
-> *"Antes iba a una peluquería del barrio y mi Schnauzer salía estresado. En WashDog lo atienden solos, sin otros perros cerca. Nunca más cambio."*
+> *"Antes iba a una peluquería del barrio y mi Schnauzer salía estresado. En Washdog lo atienden solos, sin otros perros cerca. Nunca más cambio."*
 > **— Rodrigo P., dueño de Coco (Schnauzer miniatura, 5 años)** ⭐⭐⭐⭐⭐
 
 ---
@@ -58,7 +58,7 @@ Agenda tu hora por WhatsApp o desde el formulario online, las 24 horas. Confirma
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar en WashDog es simple: escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, y te confirmamos la hora disponible en minutos. Sin formularios complicados, sin esperas.
+Reservar en Washdog es simple: escríbenos por WhatsApp, cuéntanos la raza y el tamaño de tu perro, y te confirmamos la hora disponible en minutos. Sin formularios complicados, sin esperas.
 
 Atendemos en **La Granja** y recibimos clientes de toda la zona sur de Santiago: La Cisterna, San Miguel, San Ramón, El Bosque y alrededores.
 

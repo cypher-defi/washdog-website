@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Quilicura — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Quilicura — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium, con productos hipoalergénicos y atención uno a uno. Sin jaulas de espera, sin apuros."
-keywords: "corte perros Quilicura, peluquería canina Quilicura, grooming Quilicura, WashDog"
+keywords: "corte perros Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué elegir WashDog para el corte de perros en Quilicura?
+### ¿Por qué elegir Washdog para el corte de perros en Quilicura?
 
 **Un perro a la vez, siempre.**
 No trabajamos en masa. Mientras tu perro está con nosotros, tiene la atención completa de nuestro equipo. Sin jaulas de espera, sin ruido de otros animales, sin estrés.

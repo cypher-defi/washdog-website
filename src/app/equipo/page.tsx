@@ -5,14 +5,14 @@ import { getAllIssues } from "@/lib/newsletter"
 import { StaticFooter } from "@/components/layout/StaticFooter"
 
 export const metadata: Metadata = {
-  title: "José Pablo — Fundador de WashDog | Peluquería Canina Ñuñoa",
+  title: "José Pablo — Fundador de Washdog | Peluquería Canina Ñuñoa",
   description:
-    "WashDog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros. Atención personalizada, sin empleados, en Ñuñoa.",
+    "Washdog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros. Atención personalizada, sin empleados, en Ñuñoa.",
   alternates: { canonical: "https://washdog.cl/equipo" },
   openGraph: {
-    title: "José Pablo — Fundador de WashDog",
+    title: "José Pablo — Fundador de Washdog",
     description:
-      "WashDog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros.",
+      "Washdog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros.",
     url: "https://washdog.cl/equipo",
     locale: "es_CL",
     type: "profile",
@@ -26,7 +26,7 @@ const personSchema = {
   "@id": "https://washdog.cl/#jose-pablo",
   name: "José Pablo",
   jobTitle: "Fundador y Peluquero Canino",
-  description: "Fundador de WashDog. Dueño de perros y residente de Ñuñoa. Abrió WashDog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
+  description: "Fundador de Washdog. Dueño de perros y residente de Ñuñoa. Abrió Washdog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
   url: "https://washdog.cl/equipo",
   knowsAbout: [
     "peluquería canina",
@@ -68,10 +68,10 @@ export default function EquipoPage() {
               </span>
             </div>
             <h1 className="text-3xl md:text-4xl font-semibold text-primary mb-4 tracking-tight leading-snug">
-              Cada perro que entra a WashDog lo atiendo yo. Siempre.
+              Cada perro que entra a Washdog lo atiendo yo. Siempre.
             </h1>
             <p className="text-primary/60 text-lg font-light leading-relaxed">
-              Soy José Pablo, fundador y único dueño de WashDog.
+              Soy José Pablo, fundador y único dueño de Washdog.
             </p>
           </div>
         </section>
@@ -97,7 +97,7 @@ export default function EquipoPage() {
 
               <h2>Lo que eso significa para ti</h2>
               <p>
-                Cuando traes a tu perro a WashDog, no lo recibe un empleado con rotación mensual. Lo recibo
+                Cuando traes a tu perro a Washdog, no lo recibe un empleado con rotación mensual. Lo recibo
                 yo — el mismo que empezó esto porque entiendo lo que se siente dejar a tu mascota en manos
                 de alguien que no la conoce.
               </p>
@@ -114,7 +114,7 @@ export default function EquipoPage() {
                 Pero la atención raramente es personal.
               </p>
               <p>
-                En WashDog no hay empleados que supervisar ni procesos que delegar. Hay un dueño que
+                En Washdog no hay empleados que supervisar ni procesos que delegar. Hay un dueño que
                 construyó este lugar para sus propios perros — y que lo mantiene para los tuyos.
               </p>
             </div>
@@ -127,9 +127,9 @@ export default function EquipoPage() {
                 </div>
                 <div>
                   <p className="font-semibold text-primary text-lg">José Pablo</p>
-                  <p className="text-sm text-accent-blue font-medium mb-2">Fundador · WashDog</p>
+                  <p className="text-sm text-accent-blue font-medium mb-2">Fundador · Washdog</p>
                   <p className="text-primary/60 font-light text-sm leading-relaxed">
-                    Dueño de perros, residente de Ñuñoa. Abrió WashDog en febrero de 2026 porque
+                    Dueño de perros, residente de Ñuñoa. Abrió Washdog en febrero de 2026 porque
                     quería un servicio que él mismo usaría para sus mascotas.
                   </p>
                 </div>
@@ -142,7 +142,7 @@ export default function EquipoPage() {
         <section className="py-16 bg-white border-t border-primary/5">
           <div className="max-w-2xl mx-auto px-6 text-center">
             <h2 className="text-2xl font-semibold text-primary mb-3 tracking-tight">
-              Agenda tu hora en WashDog
+              Agenda tu hora en Washdog
             </h2>
             <p className="text-primary/60 mb-8 font-light">
               Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00

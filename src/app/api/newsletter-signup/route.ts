@@ -41,7 +41,7 @@ function welcomeHtml(firstName: string, unsubscribeUrl: string): string {
             <td style="padding:40px;">
               <p style="margin:0 0 16px;color:#1a1f24;font-size:16px;font-weight:500;">Hola ${name},</p>
               <p style="margin:0 0 16px;color:#475569;font-size:15px;line-height:1.7;font-weight:300;">
-                Te suscribiste a <strong style="color:#1a1f24;font-weight:600;">Santiago a Cuatro Patas</strong>, la guía semanal para vivir Santiago con tu perro — parques, eventos, tips de grooming y ofertas de WashDog.
+                Te suscribiste a <strong style="color:#1a1f24;font-weight:600;">Santiago a Cuatro Patas</strong>, la guía semanal para vivir Santiago con tu perro — parques, eventos, tips de grooming y ofertas de Washdog.
               </p>
               <p style="margin:0 0 32px;color:#475569;font-size:15px;line-height:1.7;font-weight:300;">
                 Cada sábado a las 9:00 AM te llegará la nueva edición. Mientras tanto, puedes leer la primera aquí:
@@ -59,7 +59,7 @@ function welcomeHtml(firstName: string, unsubscribeUrl: string): string {
               <hr style="border:none;border-top:1px solid #f1f5f9;margin:0 0 24px;">
 
               <p style="margin:0;color:#94a3b8;font-size:12px;line-height:1.6;text-align:center;">
-                WashDog · Av. Irarrázaval 2086 B, Ñuñoa<br>
+                Washdog · Av. Irarrázaval 2086 B, Ñuñoa<br>
                 <a href="${unsubscribeUrl}" style="color:#94a3b8;">Cancelar suscripción</a>
               </p>
             </td>

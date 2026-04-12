@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Huechuraba — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Huechuraba — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención personalizada y agenda online. Sin estrés para tu perro — ni para ti."
-keywords: "baño perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, WashDog"
+keywords: "baño perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, Washdog"
 date: "2026-03-10"
 ---
 
@@ -26,7 +26,7 @@ Tu perro no sale simplemente "lavado" — sale transformado.
 
 ---
 
-### ¿Por qué WashDog para el baño perros en Huechuraba?
+### ¿Por qué Washdog para el baño perros en Huechuraba?
 
 **Un perro a la vez, sin apurones ni jaulas**
 No somos una lavandería de mascotas. Atendemos a tu perro con dedicación exclusiva, en un ambiente calmado. Si tu perro es nervioso, aquí encuentra su lugar.

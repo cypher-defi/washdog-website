@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Peñalolén — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Peñalolén — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos premium, atención personalizada y hora reservada solo para él. Sin esperas, sin sorpresas."
-keywords: "peluquería canina Peñalolén, WashDog"
+keywords: "peluquería canina Peñalolén, Washdog"
 date: "2026-03-06"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué elegir WashDog en Peñalolén?
+### ¿Por qué elegir Washdog en Peñalolén?
 
 **Porque tu perro no es un número en la fila.**
 Atendemos con hora reservada y sin sobrecupo. Tu perro recibe atención completa, sin apuros ni esperas compartidas con cinco perros más al mismo tiempo.
@@ -67,5 +67,5 @@ Reservar es simple: elige el servicio, indica el tamaño y raza de tu perro, y c
 
 ---
 
-*WashDog — Peluquería canina premium en Peñalolén, Santiago.*
+*Washdog — Peluquería canina premium en Peñalolén, Santiago.*
 *Atendemos con cariño, profesionalismo y los mejores productos del mercado.*

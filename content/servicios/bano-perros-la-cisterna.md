@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en La Cisterna — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en La Cisterna — Peluquería Canina Premium Santiago"
 description: "Productos premium, atención uno a uno y un perro que vuelve limpio, perfumado y contento — sin el estrés de siempre."
-keywords: "baño perros La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, WashDog"
+keywords: "baño perros La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog en La Cisterna?
+### ¿Por qué Washdog en La Cisterna?
 
 **📍 Ubicación conveniente para La Cisterna y comunas cercanas**
 A minutos desde San Miguel, El Bosque y Pedro Aguirre Cerda. Con estacionamiento disponible y horarios flexibles de lunes a sábado para que no tengas que reorganizar tu día.
@@ -61,10 +61,10 @@ Nada de "depende" ni cobros inesperados al retirar a tu perro. Te decimos el pre
 El **baño perros en La Cisterna** que buscabas existe — y está a pocos minutos de tu casa.
 Reserva en 2 minutos y recibe confirmación inmediata. Sin filas, sin llamadas, sin complicaciones.
 
-[**🐶 Reserva tu hora por WhatsApp →**](https://wa.me/56912345678?text=Hola%20WashDog%2C%20quiero%20reservar%20un%20ba%C3%B1o%20para%20mi%20perro%20en%20La%20Cisterna%20%F0%9F%90%B6)
+[**🐶 Reserva tu hora por WhatsApp →**](https://wa.me/56912345678?text=Hola%20Washdog%2C%20quiero%20reservar%20un%20ba%C3%B1o%20para%20mi%20perro%20en%20La%20Cisterna%20%F0%9F%90%B6)
 
 [Ver disponibilidad online →](#agenda)
 
 ---
 
-*WashDog — Peluquería canina premium en Santiago. Atendemos La Cisterna, San Miguel, El Bosque, Pedro Aguirre Cerda y comunas cercanas.*
+*Washdog — Peluquería canina premium en Santiago. Atendemos La Cisterna, San Miguel, El Bosque, Pedro Aguirre Cerda y comunas cercanas.*

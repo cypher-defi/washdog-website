@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Las Condes — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Las Condes — Peluquería Canina Premium Santiago"
 description: "Peluquería canina profesional, productos premium y agenda online en segundos — sin estrés para él ni para ti."
-keywords: "corte perros Las Condes, peluquería canina Las Condes, grooming Las Condes, WashDog"
+keywords: "corte perros Las Condes, peluquería canina Las Condes, grooming Las Condes, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué WashDog es la peluquería canina de referencia en Las Condes?
+### ¿Por qué Washdog es la peluquería canina de referencia en Las Condes?
 
 **Tu perro no es un número más en la fila**
 Atendemos de forma personalizada, sin sobreagendamiento. Mientras tu perro está con nosotros, tiene toda nuestra atención — igual que en Vitacura, Providencia o La Reina, donde nuestros clientes ya nos conocen.
@@ -39,7 +39,7 @@ Sin llamadas, sin esperas en línea. Agenda por WhatsApp o formulario web y reci
 > ⭐⭐⭐⭐⭐ *"Llevé a mi Golden por primera vez y no puedo creer la diferencia. Lo trataron con un cariño increíble y el corte quedó exactamente como pedí. Definitivamente el mejor corte de perros en Las Condes que he encontrado."*
 > **— Catalina R., Las Condes · Golden Retriever**
 
-> ⭐⭐⭐⭐⭐ *"Tengo un Schnauzer miniatura y siempre me preocupaba que no supieran hacer el corte de raza. En WashDog lo hicieron perfecto. La foto antes de buscarlo fue un detalle que me encantó."*
+> ⭐⭐⭐⭐⭐ *"Tengo un Schnauzer miniatura y siempre me preocupaba que no supieran hacer el corte de raza. En Washdog lo hicieron perfecto. La foto antes de buscarlo fue un detalle que me encantó."*
 > **— Martín V., Providencia · Schnauzer Miniatura**
 
 ---

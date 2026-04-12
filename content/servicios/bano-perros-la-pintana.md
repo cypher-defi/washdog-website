@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en La Pintana — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en La Pintana — Peluquería Canina Premium Santiago"
 description: "Productos premium, trato personalizado y agenda online en 2 minutos. Sin esperas, sin letra chica."
-keywords: "baño perros La Pintana, peluquería canina La Pintana, grooming La Pintana, WashDog"
+keywords: "baño perros La Pintana, peluquería canina La Pintana, grooming La Pintana, Washdog"
 date: "2026-03-12"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-12"
 
 ---
 
-### ¿Por qué elegir WashDog viniendo desde La Pintana?
+### ¿Por qué elegir Washdog viniendo desde La Pintana?
 
 **Porque sabemos que el viaje tiene que valer la pena.**
 Agenda en línea disponible las 24 horas: elegís el día, la hora y llegás justo cuando te corresponde. Sin filas, sin esperar parado con tu perro en brazos.

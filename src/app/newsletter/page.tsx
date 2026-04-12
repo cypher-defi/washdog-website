@@ -31,7 +31,7 @@ export default function NewsletterArchivePage() {
         {/* Header */}
         <section className="bg-primary py-20 text-center">
           <span className="inline-block text-[11px] font-bold tracking-[0.25em] uppercase text-yellow-400 mb-4">
-            🐾 by WashDog
+            🐾 by Washdog
           </span>
           <h1 className="text-4xl md:text-5xl font-semibold text-white tracking-tight mb-3">
             Santiago a Cuatro Patas

@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Huechuraba — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Huechuraba — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y precio claro antes de reservar. Sin sorpresas."
-keywords: "corte perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, WashDog"
+keywords: "corte perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, Washdog"
 date: "2026-03-13"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog cerca de Huechuraba?
+### ¿Por qué Washdog cerca de Huechuraba?
 
 **Tu perro recibe atención uno a uno, nunca en grupo**
 Cada mascota es atendida de forma individual, sin jaulas compartidas ni esperas estresantes entre perros desconocidos. El proceso es tranquilo, con calma y sin apuro.
@@ -69,4 +69,4 @@ Sin llamadas largas. Sin filas. Sin sorpresas al pagar.
 
 ---
 
-> 🐾 *WashDog — Peluquería canina premium en Santiago. Atendemos todas las razas con el cuidado que tu perro merece.*
+> 🐾 *Washdog — Peluquería canina premium en Santiago. Atendemos todas las razas con el cuidado que tu perro merece.*

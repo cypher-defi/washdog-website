@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Las Condes — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Las Condes — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos premium, atención personalizada y agenda online en 2 minutos."
-keywords: "baño perros Las Condes, peluquería canina Las Condes, grooming Las Condes, WashDog"
+keywords: "baño perros Las Condes, peluquería canina Las Condes, grooming Las Condes, Washdog"
 date: "2026-03-10"
 ---
 
@@ -23,7 +23,7 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Las Condes?
+### ¿Por qué Washdog en Las Condes?
 
 **🧴 Productos que cuidan de verdad**
 Usamos exclusivamente líneas premium hipoalergénicas, ideales para razas con piel sensible como Golden Retriever, Shih Tzu, Bulldog o Poodle. Nada genérico, nada agresivo.
@@ -41,7 +41,7 @@ Si el resultado no te convence, lo revisamos sin costo adicional. Así de serios
 > *"Llevé a mi Golden por primera vez buscando un baño perros en Las Condes y no lo voy a cambiar más. Lo trataron increíble, llegó a casa perfumado y súper relajado. Se nota que les importa el animal, no solo el servicio."*
 > **— Claudia M., Las Condes** | Golden Retriever, 3 años ⭐⭐⭐⭐⭐
 
-> *"Tengo un Bulldog Francés con piel súper sensible y siempre me preocupaba llevarlo a peluquerías genéricas. En WashDog usan productos especializados y el cambio fue inmediato. Además la agenda online es demasiado cómoda."*
+> *"Tengo un Bulldog Francés con piel súper sensible y siempre me preocupaba llevarlo a peluquerías genéricas. En Washdog usan productos especializados y el cambio fue inmediato. Además la agenda online es demasiado cómoda."*
 > **— Rodrigo T., Providencia** | Bulldog Francés, 2 años ⭐⭐⭐⭐⭐
 
 ---
@@ -67,4 +67,4 @@ Reservar el baño perros en Las Condes es simple y rápido. Elige el horario que
 **[Ver disponibilidad online](https://washdog.cl/agenda)**
 
 ---
-*WashDog — Peluquería canina premium en Santiago. Atendemos Las Condes, Ñuñoa, Providencia, Vitacura y comunas aledañas.*
+*Washdog — Peluquería canina premium en Santiago. Atendemos Las Condes, Ñuñoa, Providencia, Vitacura y comunas aledañas.*

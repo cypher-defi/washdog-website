@@ -1,7 +1,7 @@
 ---
-title: "WashDog baño perros en Vitacura — Peluquería Canina Premium Santiago"
+title: "Washdog baño perros en Vitacura — Peluquería Canina Premium Santiago"
 description: "Productos hipoalergénicos, atención uno a uno y reserva en 2 minutos. Sin estrés para él. Sin sorpresas para ti."
-keywords: "baño perros Vitacura, peluquería canina Vitacura, grooming Vitacura, WashDog"
+keywords: "baño perros Vitacura, peluquería canina Vitacura, grooming Vitacura, Washdog"
 date: "2026-03-10"
 ---
 
@@ -21,10 +21,10 @@ date: "2026-03-10"
 
 ---
 
-### ¿Por qué WashDog en Vitacura?
+### ¿Por qué Washdog en Vitacura?
 
 **Porque tu perro no es "un perro más"**
-En WashDog trabajamos de a uno. Tu perro no espera enjaulado mientras atendemos a otros. Tiene toda nuestra atención desde que llega hasta que lo buscas.
+En Washdog trabajamos de a uno. Tu perro no espera enjaulado mientras atendemos a otros. Tiene toda nuestra atención desde que llega hasta que lo buscas.
 
 **Precios claros, sin letra chica**
 Te cotizamos antes de empezar según la raza y el tamaño. Lo que acordamos, eso pagas. Sin cobros sorpresa al final.
@@ -36,7 +36,7 @@ Agenda tu hora por WhatsApp o formulario web en menos de 2 minutos. Sin llamadas
 
 ### Lo que dicen nuestros clientes en Vitacura
 
-⭐⭐⭐⭐⭐ *"Llevé a mi Golden por primera vez y quedé enamorada. Lo trataron con una paciencia increíble y llegó a casa oliendo espectacular. WashDog es el baño perros Vitacura que estaba buscando."*
+⭐⭐⭐⭐⭐ *"Llevé a mi Golden por primera vez y quedé enamorada. Lo trataron con una paciencia increíble y llegó a casa oliendo espectacular. Washdog es el baño perros Vitacura que estaba buscando."*
 — **Valentina R., Vitacura** · Max, Golden Retriever
 
 ⭐⭐⭐⭐⭐ *"Mi Schnauzer tiene piel súper sensible y en otros lugares siempre terminaba con irritación. Acá ningún problema, y quedó precioso. Ya agendé para el próximo mes."*
@@ -67,4 +67,4 @@ Atendemos en **Vitacura** y recibimos clientes de **Las Condes, Providencia y La
 *[Ver disponibilidad online]*
 
 ---
-*WashDog · Peluquería canina premium en Santiago · Agenda abierta de lunes a sábado*
+*Washdog · Peluquería canina premium en Santiago · Agenda abierta de lunes a sábado*

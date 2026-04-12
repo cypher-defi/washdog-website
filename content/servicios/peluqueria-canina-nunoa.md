@@ -1,12 +1,12 @@
 ---
-title: "Peluquería Canina en Ñuñoa | WashDog — Atención Premium, Reserva Online"
+title: "Peluquería Canina en Ñuñoa | Washdog — Atención Premium, Reserva Online"
 description: "Peluquería canina en Ñuñoa. Baño completo, corte profesional y atención one-to-one. A pasos del Metro Irarrázaval. Reserva online en 2 minutos."
-keywords: "peluquería canina Ñuñoa, baño perros Ñuñoa, WashDog Ñuñoa"
+keywords: "peluquería canina Ñuñoa, baño perros Ñuñoa, Washdog Ñuñoa"
 date: "2026-03-06"
 ---
 
 # Tu perro, impecable y feliz — Peluquería Canina Ñuñoa
-## En WashDog cuidamos a tu compañero como si fuera nuestro: productos premium, atención one-to-one y agenda online en 2 minutos.
+## En Washdog cuidamos a tu compañero como si fuera nuestro: productos premium, atención one-to-one y agenda online en 2 minutos.
 
 ---
 
@@ -21,7 +21,7 @@ date: "2026-03-06"
 
 ---
 
-### ¿Por qué WashDog en Ñuñoa?
+### ¿Por qué Washdog en Ñuñoa?
 
 **Un solo perro a la vez, siempre.**
 Sin jaulas de espera, sin mezcla con otros animales. Tu perro recibe atención exclusiva de principio a fin — porque el estrés no debería ser parte del baño.
@@ -58,9 +58,9 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 
 
 ---
-### Paseos cerca de WashDog en Ñuñoa
+### Paseos cerca de Washdog en Ñuñoa
 
-Ñuñoa es una de las comunas más amigables con mascotas de Santiago. Muchos de nuestros clientes aprovechan de pasear a sus perros antes o después de la visita a WashDog.
+Ñuñoa es una de las comunas más amigables con mascotas de Santiago. Muchos de nuestros clientes aprovechan de pasear a sus perros antes o después de la visita a Washdog.
 
 **Parques y espacios favoritos en Ñuñoa:**
 - **Parque Juan XXIII** — ideal para perros activos, con áreas verdes amplias y sombra
@@ -68,7 +68,7 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 - **Parque Paraguay** — zona residencial tranquila a pasos de Irarrázaval
 - **Parque Inés de Suárez** — popular entre familias con mascotas del sector
 
-**Cómo llegar a WashDog desde Ñuñoa:**
+**Cómo llegar a Washdog desde Ñuñoa:**
 Estamos en Irarrázaval 2086 B. La forma más fácil es tomar **Metro Ñuñoa (Línea 3)** o **Metro Irarrázaval (Línea 3)** — quedamos a menos de 10 minutos caminando desde cualquier estación del eje Irarrázaval.
 
 ---
@@ -78,7 +78,7 @@ Estamos en Irarrázaval 2086 B. La forma más fácil es tomar **Metro Ñuñoa (L
 ### Preguntas frecuentes — Peluquería canina en Ñuñoa
 
 ### ¿Cuánto cuesta la peluquería canina en Ñuñoa?
-En WashDog los precios parten desde $20.000 CLP para perros pequeños, $25.000 para medianos y $35.000 para perros grandes. El precio final depende de la raza, el largo del pelo y el estado del pelaje. Sin cobros sorpresa.
+En Washdog los precios parten desde $20.000 CLP para perros pequeños, $25.000 para medianos y $35.000 para perros grandes. El precio final depende de la raza, el largo del pelo y el estado del pelaje. Sin cobros sorpresa.
 
 ### ¿Dónde está ubicada la peluquería canina en Ñuñoa?
 Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago, Chile. A menos de 10 minutos caminando desde el Metro Ñuñoa y el Metro Irarrázaval (Línea 3).
@@ -96,7 +96,7 @@ Sí, trabajamos con reserva para garantizar atención individual. Puedes agendar
 
 ### ¿Listo para darle lo mejor a tu perro?
 
-Reservar en WashDog es tan fácil como esto: elige el servicio, selecciona tu hora disponible y recibe confirmación inmediata. Sin filas, sin llamadas, sin complicaciones. Atendemos en Ñuñoa y recibimos clientes de Providencia, Macul y La Reina.
+Reservar en Washdog es tan fácil como esto: elige el servicio, selecciona tu hora disponible y recibe confirmación inmediata. Sin filas, sin llamadas, sin complicaciones. Atendemos en Ñuñoa y recibimos clientes de Providencia, Macul y La Reina.
 
 **[🟢 Reserva tu hora por WhatsApp →]**
 

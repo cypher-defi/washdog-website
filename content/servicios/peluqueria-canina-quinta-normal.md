@@ -1,7 +1,7 @@
 ---
-title: "WashDog peluquería canina en Quinta Normal — Peluquería Canina Premium Santiago"
+title: "Washdog peluquería canina en Quinta Normal — Peluquería Canina Premium Santiago"
 description: "Atención personalizada, productos premium y reserva online en minutos — sin esperas, sin estrés."
-keywords: "peluquería canina Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, WashDog"
+keywords: "peluquería canina Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, Washdog"
 date: "2026-03-09"
 ---
 
@@ -23,7 +23,7 @@ date: "2026-03-09"
 
 ---
 
-### ¿Por qué elegir WashDog en Quinta Normal?
+### ¿Por qué elegir Washdog en Quinta Normal?
 
 **Uno a uno, siempre.**
 Tu perro no comparte espacio ni espera en jaulas colectivas. Recibe atención exclusiva de principio a fin — porque tu tranquilidad importa tanto como su comodidad.
@@ -38,7 +38,7 @@ Agenda tu hora por WhatsApp o formulario web las 24 horas. Sin esperar que atien
 
 ### Lo que dicen nuestros clientes en Quinta Normal
 
-> *"Llevé a Copito, mi Bichón Maltés, con mucho miedo porque en otros lados lo estresaban demasiado. En WashDog lo trataron increíble — llegó feliz, oliendo rico y con un corte impecable. No voy a ningún otro lado."*
+> *"Llevé a Copito, mi Bichón Maltés, con mucho miedo porque en otros lados lo estresaban demasiado. En Washdog lo trataron increíble — llegó feliz, oliendo rico y con un corte impecable. No voy a ningún otro lado."*
 > **— Carolina M. | Quinta Normal ⭐⭐⭐⭐⭐**
 > *Raza: Bichón Maltés*
 
@@ -70,4 +70,4 @@ Reservar es fácil: escríbenos por WhatsApp, cuéntanos el nombre y la raza de 
 [Ver disponibilidad online]
 
 ---
-*WashDog — Quinta Normal, Santiago. Atendemos también a clientes de Estación Central, Lo Prado, Pudahuel y Cerro Navia.*
+*Washdog — Quinta Normal, Santiago. Atendemos también a clientes de Estación Central, Lo Prado, Pudahuel y Cerro Navia.*

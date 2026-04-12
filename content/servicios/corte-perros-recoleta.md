@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en Recoleta — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en Recoleta — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium a minutos de tu casa — atención personalizada, productos hipoalergénicos y resultados que se notan."
-keywords: "corte perros Recoleta, peluquería canina Recoleta, grooming Recoleta, WashDog"
+keywords: "corte perros Recoleta, peluquería canina Recoleta, grooming Recoleta, Washdog"
 date: "2026-03-13"
 ---
 
@@ -24,7 +24,7 @@ date: "2026-03-13"
 
 ---
 
-### ¿Por qué WashDog en Recoleta?
+### ¿Por qué Washdog en Recoleta?
 
 **Porque tu perro no es un número más.**
 Trabajamos con un solo perro a la vez, sin jaulas colectivas, sin apuro. El ambiente es calmado y la atención es 100% personalizada desde que llega hasta que se va.

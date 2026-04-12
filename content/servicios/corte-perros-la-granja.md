@@ -1,7 +1,7 @@
 ---
-title: "WashDog corte perros en La Granja — Peluquería Canina Premium Santiago"
+title: "Washdog corte perros en La Granja — Peluquería Canina Premium Santiago"
 description: "Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa."
-keywords: "corte perros La Granja, peluquería canina La Granja, grooming La Granja, WashDog"
+keywords: "corte perros La Granja, peluquería canina La Granja, grooming La Granja, Washdog"
 date: "2026-04-04"
 ---
 
@@ -21,7 +21,7 @@ date: "2026-04-04"
 
 ---
 
-### ¿Por qué WashDog en La Granja?
+### ¿Por qué Washdog en La Granja?
 
 **🗓️ Reserva en 2 minutos, sin llamadas**
 Agenda tu hora online o por WhatsApp cuando quieras, a cualquier hora. Sin esperas, sin vueltas.

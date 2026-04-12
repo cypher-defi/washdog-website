@@ -77,7 +77,7 @@ export function NewsletterBanner() {
         )}
 
         <p className="text-white/25 text-xs mt-5">
-          by WashDog · Ñuñoa, Santiago
+          by Washdog · Ñuñoa, Santiago
         </p>
       </div>
     </section>
