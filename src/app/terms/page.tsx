@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Términos y Condiciones",
   description: "Términos y condiciones de uso del sitio web Washdog",
   alternates: {
-    canonical: "https://www.washdog.cl/terms"
+    canonical: "https://washdog.cl/terms"
   },
   robots: {
     index: false,
@@ -31,8 +31,8 @@ export default function TermsPage() {
         <div className="prose prose-sm text-primary/80 space-y-6">
           <p>
             Bienvenido a{" "}
-            <a href="https://www.washdog.cl" className="text-accent-blue">
-              https://www.washdog.cl
+            <a href="https://washdog.cl" className="text-accent-blue">
+              https://washdog.cl
             </a>{" "}
             (en adelante, el &quot;Sitio Web&quot;).
           </p>

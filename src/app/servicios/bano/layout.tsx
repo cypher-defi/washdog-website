@@ -7,12 +7,12 @@ export const metadata: Metadata = {
     "Baño profesional de perros en Santiago. Shampoo hipoalergénico, secado profesional y atención individual. Agenda online — WashDog Ñuñoa.",
   keywords:
     "baño perros Santiago, baño canino Santiago, lavar perro Santiago, baño hipoalergénico perros Ñuñoa",
-  alternates: { canonical: "https://www.washdog.cl/servicios/bano" },
+  alternates: { canonical: "https://washdog.cl/servicios/bano" },
   openGraph: {
     title: "Baño de Perros Santiago | WashDog Ñuñoa",
     description:
       "Baño profesional con shampoo hipoalergénico, secado y atención individual en WashDog Ñuñoa.",
-    url: "https://www.washdog.cl/servicios/bano",
+    url: "https://washdog.cl/servicios/bano",
     locale: "es_CL",
     type: "website",
   },
@@ -26,9 +26,9 @@ const serviceSchema = {
   description: "Baño profesional con shampoo hipoalergénico, secado delicado y atención individual para perros en Ñuñoa, Santiago.",
   provider: {
     "@type": "LocalBusiness",
-    "@id": "https://www.washdog.cl",
+    "@id": "https://washdog.cl",
     name: "WashDog",
-    url: "https://www.washdog.cl",
+    url: "https://washdog.cl",
   },
   areaServed: {
     "@type": "City",
@@ -75,9 +75,9 @@ const breadcrumb = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
-    { "@type": "ListItem", position: 2, name: "Servicios", item: "https://www.washdog.cl/servicios" },
-    { "@type": "ListItem", position: 3, name: "Baño de Perros Santiago", item: "https://www.washdog.cl/servicios/bano" }
+    { "@type": "ListItem", position: 1, name: "Inicio", item: "https://washdog.cl" },
+    { "@type": "ListItem", position: 2, name: "Servicios", item: "https://washdog.cl/servicios" },
+    { "@type": "ListItem", position: 3, name: "Baño de Perros Santiago", item: "https://washdog.cl/servicios/bano" }
   ]
 }
 

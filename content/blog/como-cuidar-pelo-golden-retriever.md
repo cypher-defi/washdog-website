@@ -2,6 +2,7 @@
 title: "Cómo cuidar el pelo de un Golden Retriever"
 description: "El Golden tiene uno de los pelajes más hermosos y exigentes. Aprende a mantenerlo limpio, sin nudos y saludable con esta guía práctica."
 date: "2026-04-04"
+lastModified: "2026-04-07"
 author: "José Pablo"
 category: "Peluquería"
 readTime: "5 min"

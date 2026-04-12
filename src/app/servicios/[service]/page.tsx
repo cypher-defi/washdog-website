@@ -22,11 +22,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: servicio.title,
     description: servicio.description,
     keywords: servicio.keywords,
-    alternates: { canonical: `https://www.washdog.cl/servicios/${service}` },
+    alternates: { canonical: `https://washdog.cl/servicios/${service}` },
     openGraph: {
       title: servicio.title,
       description: servicio.description,
-      url: `https://www.washdog.cl/servicios/${service}`,
+      url: `https://washdog.cl/servicios/${service}`,
       locale: "es_CL",
       type: "website",
       siteName: "Washdog",

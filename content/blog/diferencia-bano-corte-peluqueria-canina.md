@@ -2,6 +2,7 @@
 title: "¿Cuál es la diferencia entre baño y corte en peluquería canina?"
 description: "Muchos dueños no saben exactamente qué incluye cada servicio. Acá te explicamos qué pasa en cada uno y cómo saber cuál necesita tu perro."
 date: "2026-04-04"
+lastModified: "2026-04-07"
 author: "José Pablo"
 category: "Peluquería"
 readTime: "3 min"

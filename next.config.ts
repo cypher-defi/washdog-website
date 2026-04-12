@@ -21,6 +21,25 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  async redirects() {
+    return [
+      {
+        source: "/servicios/auto-lavado-perros-san-ramon",
+        destination: "/servicios/bano-perros-san-ramon",
+        permanent: true,
+      },
+      {
+        source: "/servicios/peluqueria-gatos-lo-prado",
+        destination: "/servicios/peluqueria-gatos",
+        permanent: true,
+      },
+      {
+        source: "/servicios/spa-canino-san-miguel",
+        destination: "/servicios/peluqueria-canina-san-miguel",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

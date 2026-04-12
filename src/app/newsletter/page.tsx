@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   title: "Santiago a Cuatro Patas — Newsletter para dueños de perros en Santiago",
   description:
     "Archivo de la guía semanal para vivir Santiago con tu perro. Lugares dog-friendly, parques, eventos y tips de cuidado canino.",
-  alternates: { canonical: "https://www.washdog.cl/newsletter" },
+  alternates: { canonical: "https://washdog.cl/newsletter" },
   openGraph: {
     title: "Santiago a Cuatro Patas",
     description: "La guía semanal para vivir Santiago con tu perro.",
-    url: "https://www.washdog.cl/newsletter",
+    url: "https://washdog.cl/newsletter",
     locale: "es_CL",
     type: "website",
     siteName: "Washdog",

@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${data.subject_line || data.title} | Santiago a Cuatro Patas`,
     description: data.description,
-    alternates: { canonical: `https://www.washdog.cl/newsletter/${issue}` },
+    alternates: { canonical: `https://washdog.cl/newsletter/${issue}` },
     openGraph: {
       title: data.subject_line || data.title,
       description: data.description,
-      url: `https://www.washdog.cl/newsletter/${issue}`,
+      url: `https://washdog.cl/newsletter/${issue}`,
       locale: "es_CL",
       type: "article",
       publishedTime: data.date,

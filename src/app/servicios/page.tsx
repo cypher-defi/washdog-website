@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: "Servicios de Peluquería Canina | Washdog Ñuñoa",
   description:
     "Baño, corte, auto-lavado y peluquería para gatos en Ñuñoa, Santiago. Atención personalizada con productos hipoalergénicos. Reserva online.",
-  alternates: { canonical: "https://www.washdog.cl/servicios" },
+  alternates: { canonical: "https://washdog.cl/servicios" },
   openGraph: {
     title: "Servicios de Peluquería Canina | Washdog Ñuñoa",
     description:
       "Baño, corte, auto-lavado y peluquería para gatos en Ñuñoa, Santiago.",
-    url: "https://www.washdog.cl/servicios",
+    url: "https://washdog.cl/servicios",
     locale: "es_CL",
     type: "website",
     siteName: "Washdog",

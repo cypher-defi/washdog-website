@@ -52,7 +52,7 @@ const serviceSchema = {
   "@type": "Service",
   name: "Corte y peluquería canina en Ñuñoa",
   description: "Corte de pelo profesional para perros en Ñuñoa. Incluye baño, brushing, limpieza de orejas y atención individualizada.",
-  provider: { "@type": "LocalBusiness", name: "WashDog", url: "https://www.washdog.cl" },
+  provider: { "@type": "LocalBusiness", name: "WashDog", url: "https://washdog.cl" },
   areaServed: { "@type": "City", name: "Ñuñoa, Santiago, Chile" },
   offers: [
     { "@type": "Offer", name: "Corte perro pequeño (pelo corto)", price: "20000", priceCurrency: "CLP" },

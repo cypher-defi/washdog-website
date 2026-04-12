@@ -52,7 +52,7 @@ export async function GET(req: NextRequest) {
     h1{font-size:22px}p{color:#666}a{color:#d97706}</style></head>
     <body><h1>Listo 👋</h1>
     <p>Tu suscripción a <strong>Santiago a Cuatro Patas</strong> ha sido cancelada.</p>
-    <p><a href="https://www.washdog.cl">Volver a washdog.cl</a></p>
+    <p><a href="https://washdog.cl">Volver a washdog.cl</a></p>
     </body></html>`,
     { status: 200, headers: { "Content-Type": "text/html" } }
   )

@@ -102,7 +102,7 @@ export function ServiceJsonLd({ slug }: Props) {
     description: service.description,
     provider: {
       '@type': 'LocalBusiness',
-      '@id': 'https://www.washdog.cl',
+      '@id': 'https://washdog.cl',
       name: 'Washdog',
     },
     areaServed: commune
@@ -124,7 +124,7 @@ export function ServiceJsonLd({ slug }: Props) {
         description: service.priceRange,
       },
       availability: 'https://schema.org/InStock',
-      url: `https://www.washdog.cl/servicios/${slug}`,
+      url: `https://washdog.cl/servicios/${slug}`,
     },
   }
 
