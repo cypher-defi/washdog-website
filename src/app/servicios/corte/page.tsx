@@ -13,11 +13,11 @@ const BookingModal = dynamic(
 )
 
 const includes = [
-  { icon: "lucide:bath", text: "Baño completo con shampoo hipoalergénico" },
+  { icon: "lucide:bath", text: "Baño completo con shampoo hipoalergénico libre de parabenos y sulfatos" },
   { icon: "lucide:scissors", text: "Corte de pelo adaptado a tu raza y preferencias" },
   { icon: "lucide:wind", text: "Brushing completo para eliminar pelo muerto" },
   { icon: "lucide:ear", text: "Limpieza de orejas incluida" },
-  { icon: "lucide:heart", text: "Atención individual, a el ritmo de tu perro" },
+  { icon: "lucide:heart", text: "Atención individual, al ritmo de tu perro — sin otros perros en la sala" },
   { icon: "lucide:clock", text: "Duración: 1 a 2 horas según raza y tamaño" }
 ]
 

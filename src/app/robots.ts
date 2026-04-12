@@ -10,9 +10,9 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "PerplexityBot", allow: "/" },
       { userAgent: "Applebot-Extended", allow: "/" },
       { userAgent: "CCBot", allow: "/" },
-      { userAgent: "Googlebot", allow: "/" },
-      { userAgent: "Bingbot", allow: "/" },
-      { userAgent: "*", allow: "/" },
+      { userAgent: "Googlebot", allow: "/", disallow: ["/api/", "/privacy", "/terms"] },
+      { userAgent: "Bingbot", allow: "/", disallow: ["/api/", "/privacy", "/terms"] },
+      { userAgent: "*", allow: "/", disallow: ["/api/"] },
     ],
     sitemap: [
       "https://www.washdog.cl/sitemap.xml",

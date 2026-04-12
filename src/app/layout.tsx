@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: "%s | Washdog Ñuñoa"
   },
   description:
-    "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota. Reserva tu hora fácilmente.",
+    "Peluquería canina en Ñuñoa. Sin jaulas — tu perro es el único en el local. Shampoo hipoalergénico, precio confirmado antes de empezar. Reserva en línea.",
   openGraph: {
     type: "website",
     locale: "es_CL",
@@ -39,14 +39,14 @@ export const metadata: Metadata = {
     siteName: "Washdog",
     title: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
     description:
-      "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota.",
+      "Peluquería canina en Ñuñoa. Sin jaulas — tu perro es el único en el local. Shampoo hipoalergénico, precio confirmado antes de empezar.",
     images: ["/hero-beagle.png"]
   },
   twitter: {
     card: "summary_large_image",
     title: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
     description:
-      "Baño y peluquería canina en Ñuñoa, Santiago. Baños suaves, cortes profesionales y cuidado amoroso para tu mascota.",
+      "Peluquería canina en Ñuñoa. Sin jaulas — tu perro es el único en el local. Shampoo hipoalergénico, precio confirmado antes de empezar.",
     images: ["/hero-beagle.png"],
   },
   alternates: {

@@ -41,7 +41,7 @@ export function Hero({ onBookClick, rating = 4.9 }: HeroProps) {
 
         {/* Subheadline */}
         <p className='text-white text-base sm:text-lg md:text-xl font-normal max-w-2xl mx-auto mb-6 leading-relaxed [text-shadow:0_2px_12px_rgba(0,0,0,0.45)]'>
-          Baños y cortes con atención personalizada y sin químicos agresivos.
+          Sin jaulas, sin esperas, sin sorpresas en el precio.
           Abierto todos los días de 10 a 20h.
         </p>
 

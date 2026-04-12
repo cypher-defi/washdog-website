@@ -12,12 +12,12 @@ const BookingModal = dynamic(
 )
 
 const includes = [
-  { icon: "lucide:droplets", text: "Baño profesional con shampoo hipoalergénico suave" },
-  { icon: "lucide:wind", text: "Secado delicado con baja temperatura" },
-  { icon: "lucide:heart", text: "Atención individual — tu perro es el único en la sala" },
-  { icon: "lucide:shield-check", text: "Sin químicos agresivos, seguro para pieles sensibles" },
-  { icon: "lucide:spray-can", text: "Instalaciones higienizadas tras cada atención" },
-  { icon: "lucide:clock", text: "Duración: 15 a 30 minutos según tamaño" }
+  { icon: "lucide:bath", text: "Bañera profesional elevada — sin agacharte, sin mojarte" },
+  { icon: "lucide:wind", text: "Secador de alta potencia — tu perro sale completamente seco" },
+  { icon: "lucide:shield-check", text: "Shampoo hipoalergénico libre de parabenos y sulfatos incluido" },
+  { icon: "lucide:package", text: "Toallas incluidas — no necesitas traer nada" },
+  { icon: "lucide:spray-can", text: "Instalaciones higienizadas tras cada uso" },
+  { icon: "lucide:clock", text: "Duración: 20 a 40 minutos según el tamaño de tu perro" }
 ]
 
 const pricing = [
@@ -27,8 +27,8 @@ const pricing = [
 
 const faqs = [
   {
-    q: "¿Qué es el servicio de baño en Washdog?",
-    a: "Ofrecemos baño profesional con shampoo hipoalergénico, secado y atención individual. Tu perro entra solo a la sala, sin otros animales presentes, lo que reduce el estrés."
+    q: "¿Qué es el autolavado?",
+    a: "Tú bañas a tu perro usando nuestras instalaciones profesionales: bañera elevada, secador de alta potencia, shampoo hipoalergénico y toallas. Ideal si prefieres el contacto directo con tu perro sin los problemas de bañarlo en casa."
   },
   {
     q: "¿Dónde están ubicados?",
@@ -40,7 +40,7 @@ const faqs = [
   },
   {
     q: "¿Necesito reservar con anticipación?",
-    a: "Sí, trabajamos con reserva previa para garantizar la atención individual de tu perro. Puedes agendar en menos de 2 minutos desde nuestra web."
+    a: "Sin cita o con reserva — como prefieras. Si quieres asegurar tu turno, puedes agendar en menos de 2 minutos desde nuestra web."
   }
 ]
 

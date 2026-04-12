@@ -15,7 +15,7 @@ const includes = [
   { icon: "lucide:droplets", text: "Baño con shampoo hipoalergénico suave" },
   { icon: "lucide:wind", text: "Secado delicado con baja temperatura" },
   { icon: "lucide:heart", text: "Atención individual — tu perro es el único en la sala" },
-  { icon: "lucide:shield-check", text: "Sin químicos agresivos, seguro para pieles sensibles" },
+  { icon: "lucide:shield-check", text: "Shampoo hipoalergénico libre de parabenos y sulfatos — seguro para pieles sensibles" },
   { icon: "lucide:clock", text: "Duración: 15 a 30 minutos según tamaño" }
 ]
 
@@ -27,7 +27,7 @@ const pricing = [
 const faqs = [
   {
     q: "¿Necesito reservar con anticipación?",
-    a: "Sí, trabajamos con reserva previa para garantizar la atención individual de tu perro. Puedes agendar desde nuestra web en menos de 2 minutos."
+    a: "Sin cita o con reserva — como prefieras. Si quieres asegurar tu horario, puedes agendar en menos de 2 minutos desde nuestra web."
   },
   {
     q: "¿Usan shampoo de la peluquería o traigo el mío?",
@@ -69,7 +69,7 @@ export default function BanoPage() {
               <span className='text-accent-blue'>en Ñuñoa</span>
             </h1>
             <p className='text-primary/60 text-lg font-light leading-relaxed max-w-2xl mb-8'>
-              Baño profesional con shampoo hipoalergénico, secado delicado y atención individual.
+              Baño profesional con shampoo hipoalergénico libre de parabenos y sulfatos, secado profesional y atención individual. Sin jaulas — tu perro es el único en la sala.
               Abierto todos los días de 10 a 20h en Irarrázaval 2086 B, Ñuñoa.
             </p>
             <button
