@@ -150,3 +150,11 @@ Agenda fácilmente en línea y dale a tu perro el cuidado que necesita, especial
 📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
+
+## Agenda tu cita en tu comuna
+
+- [Ñuñoa](/servicios/bano-perros-nunoa)
+- [Providencia](/servicios/bano-perros-providencia)
+- [La Reina](/servicios/bano-perros-la-reina)
+- [Macul](/servicios/bano-perros-macul)
+- [Las Condes](/servicios/bano-perros-las-condes)
