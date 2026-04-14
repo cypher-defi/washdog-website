@@ -102,7 +102,7 @@ export function ServiceJsonLd({ slug }: Props) {
     description: service.description,
     provider: {
       '@type': 'LocalBusiness',
-      '@id': 'https://washdog.cl',
+      '@id': 'https://www.washdog.cl',
       name: 'Washdog',
     },
     areaServed: commune
