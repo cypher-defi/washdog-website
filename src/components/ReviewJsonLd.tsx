@@ -13,7 +13,7 @@ export async function ReviewJsonLd() {
     "@type": "Review",
     itemReviewed: {
       "@type": "LocalBusiness",
-      "@id": "https://washdog.cl",
+      "@id": "https://www.washdog.cl",
       name: "Washdog",
     },
     reviewRating: {

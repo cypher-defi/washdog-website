@@ -8,16 +8,16 @@ interface Props {
 // Named author entity — improves E-E-A-T signals for Google's helpful content system
 const WASHDOG_AUTHOR = {
   "@type": "Person",
-  "@id": "https://washdog.cl/#jose-pablo",
+  "@id": "https://www.washdog.cl/#jose-pablo",
   name: "José Pablo",
   jobTitle: "Fundador y Peluquero Canino",
   description: "Fundador de Washdog. Dueño de perros y residente de Ñuñoa. Abrió Washdog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
-  url: "https://washdog.cl/equipo",
+  url: "https://www.washdog.cl/equipo",
   worksFor: {
     "@type": "Organization",
-    "@id": "https://washdog.cl",
+    "@id": "https://www.washdog.cl",
     name: "Washdog",
-    url: "https://washdog.cl",
+    url: "https://www.washdog.cl",
   },
 }
 
@@ -29,9 +29,9 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://washdog.cl" },
-      { "@type": "ListItem", position: 2, name: "Blog", item: "https://washdog.cl/blog" },
-      { "@type": "ListItem", position: 3, name: post?.title ?? "Artículo", item: `https://washdog.cl/blog/${slug}` }
+      { "@type": "ListItem", position: 1, name: "Inicio", item: "https://www.washdog.cl" },
+      { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.washdog.cl/blog" },
+      { "@type": "ListItem", position: 3, name: post?.title ?? "Artículo", item: `https://www.washdog.cl/blog/${slug}` }
     ]
   }
 
@@ -44,24 +44,24 @@ export default async function BlogSlugLayout({ children, params }: Props) {
     dateModified: post.lastModified ?? post.date,
     image: {
       "@type": "ImageObject",
-      url: "https://washdog.cl/hero-beagle.png",
+      url: "https://www.washdog.cl/hero-beagle.png",
       width: 1200,
       height: 630,
     },
     author: WASHDOG_AUTHOR,
     publisher: {
       "@type": "Organization",
-      "@id": "https://washdog.cl",
+      "@id": "https://www.washdog.cl",
       name: "Washdog",
-      url: "https://washdog.cl",
+      url: "https://www.washdog.cl",
       logo: {
         "@type": "ImageObject",
-        url: "https://washdog.cl/washdog-social.png",
+        url: "https://www.washdog.cl/washdog-social.png",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://washdog.cl/blog/${slug}`,
+      "@id": `https://www.washdog.cl/blog/${slug}`,
     },
     speakable: {
       "@type": "SpeakableSpecification",

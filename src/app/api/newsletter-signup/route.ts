@@ -4,7 +4,7 @@ import { createHmac } from "crypto"
 const RESEND_API_KEY      = process.env.RESEND_API_KEY!
 const RESEND_AUDIENCE     = process.env.RESEND_AUDIENCE_ID!
 const NEWSLETTER_SECRET   = process.env.NEWSLETTER_SECRET ?? "changeme"
-const BASE_URL            = "https://washdog.cl"
+const BASE_URL            = "https://www.washdog.cl"
 
 function makeUnsubscribeToken(email: string): string {
   const ts  = Math.floor(Date.now() / 1000)

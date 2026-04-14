@@ -124,7 +124,7 @@ export function ServiceJsonLd({ slug }: Props) {
         description: service.priceRange,
       },
       availability: 'https://schema.org/InStock',
-      url: `https://washdog.cl/servicios/${slug}`,
+      url: `https://www.washdog.cl/servicios/${slug}`,
     },
   }
 

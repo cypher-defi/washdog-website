@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: "José Pablo — Fundador de Washdog | Peluquería Canina Ñuñoa",
   description:
     "Washdog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros. Atención personalizada, sin empleados, en Ñuñoa.",
-  alternates: { canonical: "https://washdog.cl/equipo" },
+  alternates: { canonical: "https://www.washdog.cl/equipo" },
   openGraph: {
     title: "José Pablo — Fundador de Washdog",
     description:
       "Washdog nació porque su fundador no encontraba un lugar donde bañar bien a sus perros.",
-    url: "https://washdog.cl/equipo",
+    url: "https://www.washdog.cl/equipo",
     locale: "es_CL",
     type: "profile",
     siteName: "Washdog",
@@ -23,11 +23,11 @@ export const metadata: Metadata = {
 const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://washdog.cl/#jose-pablo",
+  "@id": "https://www.washdog.cl/#jose-pablo",
   name: "José Pablo",
   jobTitle: "Fundador y Peluquero Canino",
   description: "Fundador de Washdog. Dueño de perros y residente de Ñuñoa. Abrió Washdog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
-  url: "https://washdog.cl/equipo",
+  url: "https://www.washdog.cl/equipo",
   knowsAbout: [
     "peluquería canina",
     "baño de perros",
@@ -37,9 +37,9 @@ const personSchema = {
   ],
   worksFor: {
     "@type": "Organization",
-    "@id": "https://washdog.cl",
+    "@id": "https://www.washdog.cl",
     name: "Washdog",
-    url: "https://washdog.cl",
+    url: "https://www.washdog.cl",
   },
 }
 

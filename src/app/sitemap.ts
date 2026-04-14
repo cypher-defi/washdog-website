@@ -4,7 +4,7 @@ import path from "path"
 import { getAllPosts } from "@/lib/blog"
 import { getAllIssues } from "@/lib/newsletter"
 
-const baseUrl = "https://washdog.cl"
+const baseUrl = "https://www.washdog.cl"
 
 function getServicePages(): { slug: string; lastModified: Date }[] {
   try {

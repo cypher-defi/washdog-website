@@ -23,11 +23,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: `https://washdog.cl/blog/${slug}` },
+    alternates: { canonical: `https://www.washdog.cl/blog/${slug}` },
     openGraph: {
       title: post.title,
       description: post.description,
-      url: `https://washdog.cl/blog/${slug}`,
+      url: `https://www.washdog.cl/blog/${slug}`,
       locale: "es_CL",
       type: "article",
       publishedTime: post.date,

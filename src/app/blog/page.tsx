@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Blog | Consejos para el cuidado de tu perro",
   description:
     "Artículos sobre higiene, baño y peluquería canina. Consejos prácticos de los expertos de Washdog Ñuñoa.",
-  alternates: { canonical: "https://washdog.cl/blog" }
+  alternates: { canonical: "https://www.washdog.cl/blog" }
 }
 
 const categoryColors: Record<string, string> = {

@@ -15,8 +15,8 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "*", allow: "/", disallow: ["/api/"] },
     ],
     sitemap: [
-      "https://washdog.cl/sitemap.xml",
-      "https://washdog.cl/sitemap-local.xml",
+      "https://www.washdog.cl/sitemap.xml",
+      "https://www.washdog.cl/sitemap-local.xml",
     ]
   }
 }

@@ -25,7 +25,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://washdog.cl"),
+  metadataBase: new URL("https://www.washdog.cl"),
   title: {
     default: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
     template: "%s | Washdog Ñuñoa"
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "es_CL",
-    url: "https://washdog.cl",
+    url: "https://www.washdog.cl",
     siteName: "Washdog",
     title: "Washdog | Baño y Peluquería Canina en Ñuñoa, Santiago",
     description:
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     images: ["/hero-beagle.png"],
   },
   alternates: {
-    canonical: "https://washdog.cl"
+    canonical: "https://www.washdog.cl"
   },
   robots: {
     index: true,
