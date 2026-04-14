@@ -3,7 +3,7 @@ title: "Tener guagua y perro en casa: cómo mantener la higiene sin perder la ca
 description: "Llegó un bebé a casa y tienes perro. Descubre cómo mantener la higiene de tu mascota sin estresarte ni poner en riesgo la salud de tu recién nacido. Consejos prácticos desde Santiago."
 date: "2026-04-13"
 lastModified: "2026-04-13"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Salud"
 readTime: "5 min"
 ---
@@ -76,20 +76,18 @@ La alergia a mascotas existe, pero no es causada por el pelo — sino por la cas
 
 ---
 
-## Agenda el baño de tu perro — y descansa tú también
+En Washdog, en Ñuñoa, tu perro queda limpio, seco y listo — mientras tú te dedicas a lo que más importa en este momento de tu vida.
 
-No tienes que hacerlo todo. En Washdog tu perro queda limpio, seco y feliz, mientras tú te dedicas a lo que más importa.
-
-[**Reserva en 2 minutos por WhatsApp →**](https://wa.me/56912345678)
-
-[Ver disponibilidad online](https://washdog.cl/agenda)
-
-## Artículos relacionados
+## Ver también
 
 - [¿Con qué frecuencia debes bañar a tu perro?](/blog/frecuencia-bano-perros)
 - [Qué shampoo usar para perros](/blog/shampoo-correcto-perros)
 - [Baño de perros en Las Condes](/servicios/bano-perros-las-condes)
 - [Baño de perros en Ñuñoa](/servicios/bano-perros-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
 ## Agenda tu cita en tu comuna
 

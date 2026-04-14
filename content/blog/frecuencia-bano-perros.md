@@ -3,7 +3,7 @@ title: "¿Con qué frecuencia debes bañar a tu perro?"
 description: "Descubre cada cuánto tiempo debes bañar a tu perro según su raza, tipo de pelo y estilo de vida. Consejos prácticos de peluquería canina en Ñuñoa."
 date: "2026-02-15"
 lastModified: "2026-02-15"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Baño"
 readTime: "4 min"
 ---

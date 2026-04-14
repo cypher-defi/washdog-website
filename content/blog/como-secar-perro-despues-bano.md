@@ -3,7 +3,7 @@ title: "Cómo secar a tu perro después del baño | Washdog"
 description: "Aprende cómo secar a tu perro después del baño de forma segura y rápida en Santiago. Consejos expertos de Washdog, peluquería canina premium. ¡Agenda hoy!"
 date: "2026-03-11"
 lastModified: "2026-04-07"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Baño"
 readTime: "8 min"
 ---

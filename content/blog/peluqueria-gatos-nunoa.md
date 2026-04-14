@@ -3,7 +3,7 @@ title: "Peluquería para gatos en Ñuñoa: lo que debes saber"
 description: "Guía completa sobre el grooming felino en Ñuñoa. Cuándo llevar a tu gato al peluquero, qué incluye el servicio y cómo prepararlo para una buena experiencia."
 date: "2026-03-05"
 lastModified: "2026-03-05"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Peluquería"
 readTime: "5 min"
 ---

@@ -63,9 +63,8 @@ La respuesta varía según la raza, pero aquí van las pautas generales:
 
 ### Agenda tu hora
 
-[**Reserva por WhatsApp →**](https://wa.me/56912345678)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 

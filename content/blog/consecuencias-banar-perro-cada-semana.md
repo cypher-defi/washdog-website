@@ -3,7 +3,7 @@ title: "¿Bañas a tu perro cada semana? Esto le está pasando a su piel"
 description: "Bañar a tu perro con demasiada frecuencia parece una buena idea, pero puede dañar su piel y pelaje. Descubre la frecuencia correcta según la raza y el estilo de vida de tu mascota."
 date: "2026-04-13"
 lastModified: "2026-04-13"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Baño"
 readTime: "5 min"
 ---
@@ -94,22 +94,18 @@ Si quedó muy sucio puntualmente, puedes bañarlo. Pero usa shampoo suave, enjua
 
 ---
 
-## ¿Cuándo fue el último baño de tu perro?
+Si llevas más de 4 semanas sin bañar a tu perro, o notas que su pelo está opaco y su piel descamando, es momento de un baño profesional. En Washdog, en Ñuñoa, evaluamos el estado de la piel de cada perro y elegimos los productos adecuados para su tipo de pelaje.
 
-Si llevas más de 4 semanas sin bañarlo, o si notas que su pelo está opaco y su piel descamando, es momento de un baño profesional.
-
-En Washdog evaluamos el estado de la piel de tu perro y usamos los productos adecuados para su tipo de pelaje.
-
-[**Reserva tu hora →**](https://wa.me/56912345678)
-
-[Ver disponibilidad online](https://washdog.cl/agenda)
-
-## Artículos relacionados
+## Ver también
 
 - [¿Con qué frecuencia debes bañar a tu perro?](/blog/frecuencia-bano-perros)
-- [Qué shampoo usar para perros](/blog/shampoo-correcto-perros)
-- [Errores comunes al bañar a tu perro](/blog/errores-banar-perro)
+- [Los mejores shampoos para perros según su pelaje](/blog/mejores-shampoos-perros-tipo-pelaje)
 - [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
+- [Baño de perros en Ñuñoa](/servicios/bano-perros-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
 ## Agenda tu cita en tu comuna
 

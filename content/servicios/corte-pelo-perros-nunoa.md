@@ -69,9 +69,8 @@ No tienes que viajar lejos para dejar a tu perro en buenas manos.
 
 Sin llamadas. Sin filas. Sin sorpresas en el precio.
 
-[**Reserva por WhatsApp →**](https://wa.me/56912345678)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 

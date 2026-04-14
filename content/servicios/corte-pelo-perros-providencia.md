@@ -67,9 +67,8 @@ Si no sabes con qué frecuencia llevar a tu perro, cuéntanos la raza al reserva
 
 ### Reserva tu hora — desde Providencia es muy fácil llegar
 
-[**Reserva por WhatsApp →**](https://wa.me/56912345678)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 

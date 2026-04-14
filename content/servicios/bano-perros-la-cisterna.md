@@ -61,7 +61,7 @@ Nada de "depende" ni cobros inesperados al retirar a tu perro. Te decimos el pre
 El **baño perros en La Cisterna** que buscabas existe — y está a pocos minutos de tu casa.
 Reserva en 2 minutos y recibe confirmación inmediata. Sin filas, sin llamadas, sin complicaciones.
 
-[**🐶 Reserva tu hora por WhatsApp →**](https://wa.me/56912345678?text=Hola%20Washdog%2C%20quiero%20reservar%20un%20ba%C3%B1o%20para%20mi%20perro%20en%20La%20Cisterna%20%F0%9F%90%B6)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
 [Ver disponibilidad online →](#agenda)
 

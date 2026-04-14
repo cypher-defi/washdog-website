@@ -3,7 +3,7 @@ title: "¿Cuándo llevar a tu perro al peluquero por primera vez?"
 description: "La primera visita al peluquero marca la relación de tu perro con el grooming para siempre. Aprende cuándo es el momento ideal y cómo prepararlos."
 date: "2026-04-04"
 lastModified: "2026-04-07"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Peluquería"
 readTime: "4 min"
 ---

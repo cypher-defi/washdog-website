@@ -18,7 +18,7 @@ const features = [
     icon: "lucide:shield-check",
     title: "Atención experta y con cuidado",
     description:
-      "Conocemos cada raza. José Pablo atiende a cada perro individualmente con técnica y productos adecuados para su tipo de pelaje.",
+      "Conocemos cada raza. Atendemos a cada perro individualmente con técnica y productos adecuados para su tipo de pelaje.",
     iconBgClass: "bg-accent-green/20",
     iconColorClass: "text-accent-green-dark",
     hoverBorderClass: "hover:border-accent-green/50",

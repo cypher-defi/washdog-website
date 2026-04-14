@@ -3,7 +3,7 @@ title: "5 señales de que tu perro necesita un corte de pelo"
 description: "¿No sabes cuándo llevar a tu perro al peluquero? Descubre las 5 señales más claras de que es hora de un corte profesional en Ñuñoa."
 date: "2026-03-01"
 lastModified: "2026-04-07"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Peluquería"
 readTime: "3 min"
 ---

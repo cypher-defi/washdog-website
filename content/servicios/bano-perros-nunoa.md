@@ -69,7 +69,6 @@ Reservar el **baño perros en Ñuñoa** es simple: elige día y hora, confírman
 
 ¿Todavía tienes dudas? Cuéntanos la raza de tu perro y te respondemos al instante.
 
-**[📅 Ver disponibilidad online](https://washdog.cl/agenda)**
 
 ---
 *Washdog — Peluquería canina premium en Ñuñoa, Santiago.*

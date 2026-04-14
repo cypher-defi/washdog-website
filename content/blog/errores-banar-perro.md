@@ -3,7 +3,7 @@ title: "Errores al Bañar a tu Perro: Guía Completa Santiago"
 description: "Descubre los errores más comunes al bañar a tu perro y cómo evitarlos. Consejos expertos de Washdog, peluquería canina premium en Ñuñoa, Santiago. ¡Agenda hoy!"
 date: "2026-03-09"
 lastModified: "2026-04-07"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Baño"
 readTime: "8 min"
 ---

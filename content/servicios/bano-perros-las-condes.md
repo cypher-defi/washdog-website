@@ -64,7 +64,6 @@ Reservar el baño perros en Las Condes es simple y rápido. Elige el horario que
 
 **[Reserva tu hora por WhatsApp →](https://wa.me/56900000000)**
 
-**[Ver disponibilidad online](https://washdog.cl/agenda)**
 
 ---
 *Washdog — Peluquería canina premium en Santiago. Atendemos Las Condes, Ñuñoa, Providencia, Vitacura y comunas aledañas.*

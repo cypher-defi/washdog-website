@@ -3,7 +3,7 @@ title: "Peluquería canina en Ñuñoa: qué buscar y cómo elegir"
 description: "Guía para elegir la mejor peluquería canina en Ñuñoa. Qué incluye un buen servicio, cuándo llevar a tu perro y qué preguntar antes de reservar."
 date: "2026-03-05"
 lastModified: "2026-03-05"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Peluquería"
 readTime: "5 min"
 ---

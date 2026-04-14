@@ -63,9 +63,8 @@ La Reina es una de las comunas con mayor diversidad de razas en Santiago. En Was
 
 ### Agenda tu hora
 
-[**Reserva por WhatsApp →**](https://wa.me/56912345678)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 

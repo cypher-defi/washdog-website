@@ -65,7 +65,6 @@ Reservar es simple: elige tu horario, confírmanos la raza y el tamaño de tu pe
 
 [**Reserva tu hora por WhatsApp →**](https://wa.me/56XXXXXXXXX)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 *Washdog — Peluquería canina premium en Providencia, Santiago. También atendemos desde Ñuñoa, Las Condes y Santiago Centro.*

@@ -8,8 +8,8 @@ interface Props {
 // Named author entity — improves E-E-A-T signals for Google's helpful content system
 const WASHDOG_AUTHOR = {
   "@type": "Person",
-  "@id": "https://www.washdog.cl/#jose-pablo",
-  name: "José Pablo",
+  "@id": "https://www.washdog.cl/#jose-pablo-ibarra",
+  name: "José Pablo Ibarra",
   jobTitle: "Fundador y Peluquero Canino",
   description: "Fundador de Washdog. Dueño de perros y residente de Ñuñoa. Abrió Washdog en febrero de 2026 para ofrecer una atención canina verdaderamente personalizada en Santiago.",
   url: "https://www.washdog.cl/equipo",

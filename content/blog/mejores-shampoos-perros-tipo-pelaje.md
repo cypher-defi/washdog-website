@@ -3,7 +3,7 @@ title: "Los mejores shampoos para perros según su tipo de pelaje (2026)"
 description: "Guía completa para elegir el shampoo correcto para tu perro según si tiene pelo corto, largo, rizado, doble capa o piel sensible. Incluye recomendaciones de uso y errores a evitar."
 date: "2026-04-13"
 lastModified: "2026-04-13"
-author: "José Pablo"
+author: "José Pablo Ibarra"
 category: "Cuidado"
 readTime: "6 min"
 ---
@@ -149,20 +149,17 @@ Los shampoos que contienen biotina, omega-3 y zinc pueden mejorar la condición 
 
 ---
 
-## Reserva un baño profesional adaptado a tu perro
+## Ver también
 
-En Washdog usamos el shampoo correcto para cada tipo de pelaje, con secado completo y revisión de piel incluida.
-
-[**Reserva tu hora →**](https://wa.me/56912345678)
-
-[Ver disponibilidad online](https://washdog.cl/agenda)
-
-## Artículos relacionados
-
-- [Qué shampoo usar para perros: guía básica](/blog/shampoo-correcto-perros)
 - [¿Con qué frecuencia bañar a tu perro?](/blog/frecuencia-bano-perros)
-- [Consecuencias de bañar a tu perro cada semana](/blog/consecuencias-banar-perro-cada-semana)
-- [Cómo cuidar el pelo de un Golden Retriever](/blog/como-cuidar-pelo-golden-retriever)
+- [¿Bañas a tu perro cada semana? Esto le está pasando a su piel](/blog/consecuencias-banar-perro-cada-semana)
+- [Paseadores de perros en Santiago: el eslabón que falta para la higiene](/blog/paseadores-perros-bano-higiene)
+- [Baño de perros en Ñuñoa](/servicios/bano-perros-nunoa)
+- [Peluquería canina en Ñuñoa](/servicios/peluqueria-canina-nunoa)
+
+## Agenda tu hora en Washdog
+
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
 ## Agenda tu cita en tu comuna
 

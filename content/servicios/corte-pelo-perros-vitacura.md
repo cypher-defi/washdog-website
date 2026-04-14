@@ -65,9 +65,8 @@ En Washdog hacemos eso. No es un baño rápido con una máquina — es un servic
 
 ### Reserva desde Vitacura — fácil y sin llamadas
 
-[**Escríbenos por WhatsApp →**](https://wa.me/56912345678)
+[Reserva a través de Google Maps](https://share.google/8t1bo1xyYIfTKyDAw)
 
-[Ver disponibilidad online](https://washdog.cl/agenda)
 
 ---
 
