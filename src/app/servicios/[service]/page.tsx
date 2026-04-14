@@ -39,24 +39,8 @@ export default async function ServicioHubPage({ params }: Props) {
   const servicio = await getServicio(service)
   if (!servicio) notFound()
 
-  const faqSchema = servicio.faqs.length > 0 ? {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: servicio.faqs.map(f => ({
-      "@type": "Question",
-      name: f.question,
-      acceptedAnswer: { "@type": "Answer", text: f.answer }
-    }))
-  } : null
-
   return (
     <>
-      {faqSchema && (
-        <script
-          type='application/ld+json'
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
       <StaticNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
