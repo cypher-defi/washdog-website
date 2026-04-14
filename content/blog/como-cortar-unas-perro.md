@@ -4,6 +4,7 @@ description: "Aprende cómo cortar uñas a tu perro en casa paso a paso sin hace
 date: "2026-04-13"
 category: "Salud"
 readTime: "8 min"
+author: "José Pablo Ibarra"
 ---
 
 Si alguna vez te has preguntado **cómo cortar uñas perro Chile** sin que termine en drama —ni para ti ni para tu mascota—, llegaste al artículo indicado. Las uñas largas son uno de los problemas más subestimados en el cuidado canino, y en WashDog lo vemos todos los días. Un corte mal hecho puede doler, sangrar y dejarle el susto a tu perro para siempre. Pero con la técnica correcta, información clara y un poco de paciencia, es totalmente posible hacerlo en casa o confiar en un profesional que lo haga bien desde el primer intento.

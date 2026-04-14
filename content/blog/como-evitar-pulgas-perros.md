@@ -4,6 +4,7 @@ description: "Descubre cómo evitar pulgas en perros con métodos naturales en S
 date: "2026-04-13"
 category: "Salud"
 readTime: "8 min"
+author: "José Pablo Ibarra"
 ---
 
 Si alguna vez has visto a tu perro rascarse sin parar, sacudir la cabeza constantemente o morderse la cola, probablemente ya sabes de lo que estamos hablando. Las pulgas son uno de los problemas más comunes y frustrantes para los dueños de mascotas en Chile, especialmente durante los meses más cálidos. En este artículo te explicamos **cómo evitar pulgas en perros Chile** de manera natural, con métodos efectivos, seguros y fáciles de aplicar en casa.

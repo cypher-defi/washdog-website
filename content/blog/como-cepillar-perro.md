@@ -4,6 +4,7 @@ description: "Aprende cómo cepillar a tu perro según su pelaje: herramientas, 
 date: "2026-04-13"
 category: "Cuidado"
 readTime: "6 min"
+author: "José Pablo Ibarra"
 ---
 
 Saber **cómo cepillar a tu perro** correctamente es una de las cosas más importantes que puedes hacer por su salud y bienestar. No se trata solo de estética: un buen cepillado evita enredos, reduce la caída de pelo en casa, estimula la circulación de la piel y te permite detectar a tiempo problemas como pulgas, irritaciones o heridas. Si tienes un perro en Santiago, especialmente en comunas como Ñuñoa, Providencia o Las Condes, este artículo es para ti.

@@ -4,6 +4,7 @@ description: "¿Tu perro huele mal aunque lo bañes? Descubre cómo eliminar el 
 date: "2026-04-13"
 category: "Salud"
 readTime: "7 min"
+author: "José Pablo Ibarra"
 ---
 
 ¿Tu perro huele mal aunque lo bañes seguido? No estás solo. Saber **cómo eliminar olor perro** es una de las consultas más frecuentes entre los dueños de mascotas en Santiago, y la respuesta no siempre es tan simple como "báñalo más seguido". A veces el problema viene de adentro, y bañarlo sin entender la causa solo disimula el olor por unos días. En este artículo te explicamos todo lo que necesitas saber, desde las causas reales hasta las soluciones que sí funcionan.

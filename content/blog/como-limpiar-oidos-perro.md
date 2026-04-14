@@ -4,6 +4,7 @@ description: "Aprende cómo limpiar los oídos a tu perro en casa de forma segur
 date: "2026-04-13"
 category: "Salud"
 readTime: "7 min"
+author: "José Pablo Ibarra"
 ---
 
 Saber **cómo limpiar oídos perro** correctamente es una de las habilidades más importantes que puedes desarrollar como dueño responsable. Y aunque parece sencillo, hacerlo mal puede causar irritaciones, infecciones o un trauma innecesario para tu peludo. En esta guía te explicamos todo lo que necesitas saber: desde los productos adecuados hasta el paso a paso completo, con consejos reales de nuestro equipo de groomers en WashDog.
