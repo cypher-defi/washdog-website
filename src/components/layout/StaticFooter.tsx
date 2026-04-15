@@ -119,40 +119,40 @@ export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: New
               </ul>
             </div>
 
-            {/* Contact Info */}
-            <div className='md:col-span-2 md:col-start-10 text-sm space-y-6'>
+            {/* Contact Info + Hours */}
+            <div className='col-span-2 md:col-span-3 md:col-start-10 text-sm space-y-4'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
-              <a
-                href='https://share.google/8t1bo1xyYIfTKyDAw'
-                target='_blank'
-                rel='noopener noreferrer'
-                className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'
-              >
-                <Icon icon='lucide:map-pin' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4' />
-                Irarrázaval 2086 B, Ñuñoa
-              </a>
-              <a
-                href='tel:+56987230388'
-                className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'
-              >
-                <Icon icon='lucide:phone' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4' />
-                +56 9 8723 0388
-              </a>
-              <a
-                href='mailto:contacto@washdog.cl'
-                className='flex items-center gap-4 text-white/70 hover:text-white transition-colors group'
-              >
-                <Icon icon='lucide:mail' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4' />
-                contacto@washdog.cl
-              </a>
-            </div>
-
-            {/* Hours */}
-            <div className='md:col-span-2 md:col-start-12 text-sm space-y-6'>
-              <h4 className='text-white font-medium text-lg'>Horario</h4>
-              <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
-                <p>Lun - Dom</p>
-                <p>10:00 - 20:00</p>
+              <div className='flex flex-wrap gap-x-5 gap-y-3 md:flex-col md:gap-x-0 md:space-y-6'>
+                <a
+                  href='https://share.google/8t1bo1xyYIfTKyDAw'
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='flex items-center gap-2 text-white/70 hover:text-white transition-colors group'
+                >
+                  <Icon icon='lucide:map-pin' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4 shrink-0' />
+                  <span className='min-w-0 wrap-break-word'>Irarrázaval 2086 B, Ñuñoa</span>
+                </a>
+                <a
+                  href='tel:+56987230388'
+                  className='flex items-center gap-2 text-white/70 hover:text-white transition-colors group'
+                >
+                  <Icon icon='lucide:phone' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4 shrink-0' />
+                  <span className='min-w-0'>+56 9 8723 0388</span>
+                </a>
+                <a
+                  href='mailto:contacto@washdog.cl'
+                  className='flex items-center gap-2 text-white/70 hover:text-white transition-colors group'
+                >
+                  <Icon icon='lucide:mail' className='text-accent-blue group-hover:scale-110 transition-transform w-4 h-4 shrink-0' />
+                  <span className='min-w-0 break-all'>contacto@washdog.cl</span>
+                </a>
+              </div>
+              <div className='pt-2'>
+                <h4 className='text-white font-medium text-lg mb-4'>Horario</h4>
+                <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
+                  <p>Lun - Dom</p>
+                  <p>10:00 - 20:00</p>
+                </div>
               </div>
             </div>
           </div>
