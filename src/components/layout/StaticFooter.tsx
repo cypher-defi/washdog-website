@@ -151,7 +151,7 @@ export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: New
                 <h4 className='text-white font-medium text-lg mb-4'>Horario</h4>
                 <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                   <p>Lun - Dom</p>
-                  <p>10:00 - 20:00</p>
+                  <p className='whitespace-nowrap'>10:00 - 20:00</p>
                 </div>
               </div>
             </div>
