@@ -40,7 +40,7 @@ async function fetchPlaceDetails(fields: string) {
     `&language=es` +
     `&key=${apiKey}`
 
-  const res = await fetch(url, { cache: "force-cache" })
+  const res = await fetch(url, { next: { revalidate: 86400 } })
   if (!res.ok) return null
 
   const json = await res.json()
