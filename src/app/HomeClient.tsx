@@ -7,7 +7,9 @@ import {
   HowItWorks,
   Services,
   Features,
+  MidPageCTA,
   Testimonials,
+  EmotiveClose,
   FAQ,
   Contact,
   NewsletterBanner
@@ -34,9 +36,11 @@ export function HomeClient({ rating, reviews, newsletterIssues }: { rating: numb
         <HowItWorks />
         <Services onBookClick={booking.openModal} />
         <Features />
+        <MidPageCTA onBookClick={booking.openModal} rating={rating} />
         <Testimonials reviews={reviews} />
         <NewsletterBanner />
         <FAQ />
+        <EmotiveClose onBookClick={booking.openModal} rating={rating} />
         <Contact />
       </main>
 

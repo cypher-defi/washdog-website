@@ -5,6 +5,7 @@ import { getAllServicios, getServicio } from "@/lib/servicios"
 import { getAllIssues } from "@/lib/newsletter"
 import { StaticNavbar } from "@/components/layout/StaticNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
+import { ServiceBookingCTA } from "@/components/ServiceBookingCTA"
 
 interface Props {
   params: Promise<{ service: string }>
@@ -106,25 +107,7 @@ export default async function ServicioHubPage({ params }: Props) {
           </section>
         )}
 
-        {/* CTA */}
-        <section className='py-16 bg-white border-t border-primary/5'>
-          <div className='max-w-2xl mx-auto px-6 text-center'>
-            <h2 className='text-2xl font-semibold text-primary mb-3 tracking-tight'>
-              Agenda tu hora en Washdog
-            </h2>
-            <p className='text-primary/60 mb-8 font-light'>
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
-            </p>
-            <Link
-              href='https://share.google/8t1bo1xyYIfTKyDAw'
-              target='_blank'
-              rel='noopener noreferrer'
-              className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-blue transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
-            >
-              Reservar a través de Google Maps
-            </Link>
-          </div>
-        </section>
+        <ServiceBookingCTA />
       </main>
       <StaticFooter newsletterIssues={getAllIssues()} />
     </>

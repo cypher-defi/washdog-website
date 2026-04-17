@@ -5,9 +5,9 @@ import { Icon } from "@iconify/react"
 const features = [
   {
     icon: "lucide:heart-handshake",
-    title: "Atención uno a uno",
+    title: "Tu perro sale tranquilo, no estresado",
     description:
-      "Tu perro es atendido de forma individual. Nada de turnos compartidos ni esperas largas - toda la atención es para él.",
+      "Sin jaulas, sin esperas con otros animales. Atención individual de principio a fin — porque el estrés no debería ser parte del baño.",
     iconBgClass: "bg-accent-blue/10",
     iconColorClass: "text-accent-blue",
     hoverBorderClass: "hover:border-accent-blue/30",
@@ -16,9 +16,9 @@ const features = [
   },
   {
     icon: "lucide:shield-check",
-    title: "Atención experta y con cuidado",
+    title: "Sale impecable, sin importar la raza",
     description:
-      "Conocemos cada raza. Atendemos a cada perro individualmente con técnica y productos adecuados para su tipo de pelaje.",
+      "Yorkshire, Golden, Husky o Schnauzer — conocemos cada pelaje. Tu perro sale como recién salido de revista, cada vez.",
     iconBgClass: "bg-accent-green/20",
     iconColorClass: "text-accent-green-dark",
     hoverBorderClass: "hover:border-accent-green/50",
@@ -27,9 +27,9 @@ const features = [
   },
   {
     icon: "lucide:flask-conical",
-    title: "Shampoo sin químicos agresivos",
+    title: "Sin irritaciones, sin reacciones",
     description:
-      "Usamos productos hipoalergénicos, sin parabenos. Seguros para pieles sensibles, cachorros y perros alérgicos.",
+      "Productos hipoalergénicos, sin parabenos. Lo que entra al cuerpo de tu perro importa — especialmente si tiene piel sensible.",
     iconBgClass: "bg-accent-peach/10",
     iconColorClass: "text-accent-peach-dark",
     hoverBorderClass: "hover:border-accent-peach/50",

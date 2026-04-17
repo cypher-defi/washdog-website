@@ -1,8 +1,10 @@
 export { Hero } from './Hero';
 export { HowItWorks } from './HowItWorks';
 export { Features } from './Features';
+export { MidPageCTA } from './MidPageCTA';
 export { Services } from './Services';
 export { Testimonials } from './Testimonials';
+export { EmotiveClose } from './EmotiveClose';
 export { FAQ } from './FAQ';
 export { Contact } from './Contact';
 export { NewsletterBanner } from './NewsletterBanner';
