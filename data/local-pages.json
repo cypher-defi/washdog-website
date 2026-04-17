@@ -51,7 +51,6 @@
     "corte-perros-la-pintana",
     "corte-perros-la-reina",
     "corte-perros-las-condes",
-    "corte-perros-lo-barnechea",
     "corte-perros-lo-espejo",
     "corte-perros-lo-prado",
     "corte-perros-macul",
@@ -64,7 +63,6 @@
     "corte-perros-recoleta",
     "corte-perros-renca",
     "corte-perros-san-joaquin",
-    "corte-perros-san-miguel",
     "corte-perros-san-ramon",
     "corte-perros-santiago-centro",
     "corte-perros-vitacura",
@@ -110,5 +108,5 @@
     "precio-peluqueria",
     "spa-canino"
   ],
-  "generated_at": "2026-04-17T08:22:22.136833"
+  "generated_at": "2026-04-17T08:30:38.864814"
 }
