@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en La Florida. Peluquería canina profes
 keywords: "corte pelo perros La Florida, peluquería canina La Florida corte, grooming La Florida Santiago"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en La Florida
-## El grooming profesional que tu perro merece — cerca de La Florida.
-
----
-
 ### ¿Qué incluye el corte?
 
 ✂️ **Corte de pelo según raza y largo preferido**  

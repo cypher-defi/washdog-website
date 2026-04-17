@@ -4,12 +4,6 @@ description: "Tu perro sale limpio, perfumado y feliz. Sin filas, sin sorpresas 
 keywords: "baño perros Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de Perros en Independencia — Profesional y con Cariño 🐾
-## Tu perro sale limpio, perfumado y feliz. Sin filas, sin sorpresas en el precio, sin stress.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🛁 **Baño profundo con shampoo hipoalergénico** — seguro para pieles sensibles y razas delicadas

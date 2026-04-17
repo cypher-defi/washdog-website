@@ -4,10 +4,6 @@ description: "Atención personalizada, productos premium y agenda online. Sin es
 keywords: "peluquería canina Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro merece lo mejor — Peluquería canina Independencia
-## Atención personalizada, productos premium y agenda online. Sin estrés para él. Sin complicaciones para ti.
-
 [Botón: **"Reserva tu hora por WhatsApp →"**] [CTA secundario: Ver disponibilidad online]
 
 *Agenda disponible esta semana 🐾 — Atendemos Independencia, Recoleta, Conchalí y alrededores*

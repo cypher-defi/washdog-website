@@ -42,7 +42,6 @@ relatedServices:
   - href: /servicios/precio-peluqueria
     label: Ver precios
 ---
-
 Un buen corte no es solo estética. Es salud, comodidad y bienestar para tu perro. En Washdog ofrecemos peluquería canina profesional con atención individual, productos hipoalergénicos y el tiempo necesario para que tu perro salga tranquilo y bien arreglado.
 
 ## Qué incluye el servicio

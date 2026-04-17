@@ -4,12 +4,6 @@ description: "Corte de pelo profesional para perros en Ñuñoa. Sin jaulas, sin 
 keywords: "corte pelo perros Ñuñoa, peluquería canina Ñuñoa corte, grooming Ñuñoa, corte perros Santiago"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Ñuñoa
-## Sin jaulas, sin esperas, con el resultado que tu perro merece.
-
----
-
 ### ¿Qué incluye el corte de pelo?
 
 ✂️ **Corte según raza y estándar** — respetando la forma natural de cada pelaje  

@@ -4,10 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y agenda onlin
 keywords: "baño perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño para perros en Huechuraba que realmente los deja felices
-## Productos hipoalergénicos, atención personalizada y agenda online. Sin estrés para tu perro — ni para ti.
-
 [Botón: **"Reserva tu hora por WhatsApp →"**]
 *Sin costo de reserva · Solo toma 2 minutos · Confirmas por WhatsApp*
 

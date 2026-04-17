@@ -4,12 +4,6 @@ description: "Atención premium, productos hipoalergénicos y agenda online en m
 keywords: "peluquería canina La Reina, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro impecable y feliz — Peluquería Canina La Reina
-## Atención premium, productos hipoalergénicos y agenda online en minutos. Porque tu compañero se merece lo mejor.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 * 🛁 **Baño completo** con secado profesional y perfume de larga duración

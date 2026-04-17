@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y peluqueros especializ
 keywords: "corte perros Macul, peluquería canina Macul, grooming Macul, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Macul que se nota desde el primer vistazo
-## Atención personalizada, productos premium y peluqueros especializados en todas las razas — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 * ✂️ **Corte a medida según tu raza** — respetamos el estándar de cada perro o el estilo que prefieras

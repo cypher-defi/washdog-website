@@ -4,12 +4,6 @@ description: "Corte de pelo profesional para perros en Las Condes. Grooming prem
 keywords: "corte pelo perros Las Condes, peluquería canina Las Condes corte, grooming Las Condes, Washdog"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Las Condes
-## El grooming que tu perro merece — sin el estrés que no necesita.
-
----
-
 ### ¿Qué incluye el corte de pelo en Washdog?
 
 ✂️ **Corte según el estándar de la raza** — desde el Yorkshire tradicional hasta el Poodle continental  

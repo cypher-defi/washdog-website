@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online. Sin fi
 keywords: "corte perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Peñalolén que tu mejor amigo merece
-## Atención personalizada, productos premium y agenda online. Sin filas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte a medida** según la raza y el estilo que elijas — resultados prolijos, siempre

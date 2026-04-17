@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y precio claro desde el
 keywords: "peluquería canina Recoleta, peluquería canina Recoleta, grooming Recoleta, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Recoleta
-## Atención personalizada, productos premium y precio claro desde el primer momento. Sin sorpresas, sin jaulas de espera.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos aptos para pieles sensibles y cachorros

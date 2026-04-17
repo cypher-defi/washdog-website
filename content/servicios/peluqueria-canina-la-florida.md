@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y hora exacta. Sin fila
 keywords: "peluquería canina La Florida, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina La Florida
-## Atención personalizada, productos premium y hora exacta. Sin filas, sin estrés, sin sorpresas.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con shampú hipoalergénico premium — cuida la piel y el manto sin irritar

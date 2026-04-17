@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Providencia. Grooming profesional con
 keywords: "corte pelo perros Providencia, peluquería canina Providencia corte, grooming Providencia, corte perros Santiago"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Providencia
-## Grooming profesional que tu perro va a agradecer — y tú también.
-
----
-
 ### ¿Qué incluye el servicio de corte?
 
 ✂️ **Corte según raza y estándar de la especie** — no un corte genérico para todos  

@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y precio claro antes de
 keywords: "baño perros Recoleta, peluquería canina Recoleta, grooming Recoleta, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño perros Recoleta que tu compañero va a amar
-## Atención personalizada, productos premium y precio claro antes de confirmar. Sin sorpresas, sin estrés.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico, seguro para todo tipo de piel

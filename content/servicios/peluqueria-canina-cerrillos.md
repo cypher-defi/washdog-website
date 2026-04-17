@@ -4,12 +4,6 @@ description: "En Washdog cuidamos a tu compañero como si fuera nuestro: con pro
 keywords: "peluquería canina Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Cerrillos
-## En Washdog cuidamos a tu compañero como si fuera nuestro: con productos premium, atención personalizada y agenda online en 2 minutos.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos que cuidan su piel y pelaje

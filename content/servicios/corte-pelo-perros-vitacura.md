@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Vitacura. Grooming premium con produc
 keywords: "corte pelo perros Vitacura, peluquería canina Vitacura corte, grooming Vitacura, Washdog Vitacura"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Vitacura
-## Grooming de nivel profesional para los perros del sector oriente.
-
----
-
 ### ¿Qué incluye el servicio de corte en Washdog?
 
 ✂️ **Corte según el estándar de la raza o la preferencia del dueño**  

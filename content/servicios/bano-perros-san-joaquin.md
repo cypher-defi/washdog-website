@@ -4,12 +4,6 @@ description: "Secado profesional, productos hipoalergénicos y atención persona
 keywords: "baño perros San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de perros en San Joaquín que tu peludo merece
-## Secado profesional, productos hipoalergénicos y atención personalizada — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño completo** con champú hipoalergénico premium, suave para su piel

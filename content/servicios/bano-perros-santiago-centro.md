@@ -4,10 +4,6 @@ description: "Atención personalizada, productos premium y agenda online — sin
 keywords: "baño perros Santiago Centro, peluquería canina Santiago Centro, grooming Santiago Centro, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro merece el mejor baño perros Santiago Centro
-## Atención personalizada, productos premium y agenda online — sin complicaciones ni sorpresas en la boleta.
-
 [**Reserva tu hora por WhatsApp →**] [Ver disponibilidad online]
 
 ---

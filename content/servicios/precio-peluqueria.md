@@ -15,7 +15,6 @@ relatedServices:
   - href: /servicios/peluqueria-gatos
     label: Peluquería para gatos
 ---
-
 Los precios de peluquería canina en Santiago varían bastante según el servicio, el tamaño del perro y el estándar del local. Esta guía te ayuda a entender qué esperar antes de reservar.
 
 ## ¿Qué factores definen el precio?

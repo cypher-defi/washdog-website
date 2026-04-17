@@ -4,12 +4,6 @@ description: "Atención profesional, productos premium y reserva en 2 minutos. S
 keywords: "peluquería canina Estación Central, peluquería canina Estación Central, grooming Estación Central, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Estación Central
-## Atención profesional, productos premium y reserva en 2 minutos. Sin filas. Sin sorpresas.
-
----
-
 ### ¿Qué incluye la peluquería canina?
 
 - 🛁 **Baño completo** con shampoo hipoalergénico, secado y perfume incluido

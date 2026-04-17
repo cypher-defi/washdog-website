@@ -4,10 +4,6 @@ description: "Sin estrés, sin sorpresas, con el cariño que él se merece."
 keywords: "peluquería canina Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro limpio y feliz — Peluquería Canina Lo Espejo
-## Sin estrés, sin sorpresas, con el cariño que él se merece.
-
 En Washdog sabemos que tu perro es familia. Por eso cada baño, cada corte y cada uña cortada se hace con calma, productos premium y atención personalizada. **Precios claros desde $25.000 CLP — sin letras chicas.**
 
 ---

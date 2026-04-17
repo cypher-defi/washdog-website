@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en La Reina. Grooming profesional con ba
 keywords: "corte pelo perros La Reina, peluquería canina La Reina corte, grooming La Reina Santiago, Washdog"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en La Reina
-## Cuidado profesional a pasos de tu casa.
-
----
-
 ### ¿Qué incluye el corte de pelo?
 
 ✂️ **Corte adaptado al tipo de pelaje y estándar de raza**  

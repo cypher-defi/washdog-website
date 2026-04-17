@@ -4,9 +4,6 @@ description: "¿Cuánto cuesta la peluquería canina en Santiago? Comparativa de
 keywords: "precio peluquería canina Santiago, cuánto cuesta peluquería perros Santiago, tarifa baño perros Santiago, costo grooming perros Chile"
 date: "2026-03-06"
 ---
-
-# ¿Cuánto cuesta la peluquería canina en Santiago? Guía de precios 2025
-
 Si tienes un perro y vives en Santiago, probablemente ya te has preguntado por qué el **precio peluquería canina Santiago** varía tanto de un local a otro. Desde $10.000 hasta $80.000 o más por una misma atención, la diferencia puede ser enorme. En esta guía te explicamos qué factores influyen en el costo, qué incluye cada servicio y cómo tomar una decisión informada para el cuidado de tu mascota.
 
 ---

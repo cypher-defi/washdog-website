@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Santiago Centro. Peluquería canina p
 keywords: "corte pelo perros Santiago Centro, peluquería canina Santiago Centro, grooming Santiago Centro, Washdog"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Santiago Centro
-## Grooming profesional accesible desde el corazón de Santiago.
-
----
-
 ### ¿Qué incluye el corte de pelo?
 
 ✂️ **Corte según raza y preferencia — no un corte genérico para todos**  

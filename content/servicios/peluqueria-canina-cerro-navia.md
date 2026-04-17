@@ -4,12 +4,6 @@ description: "El servicio premium que buscabas, ahora a pasos de tu casa. Sin so
 keywords: "peluquería canina Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro, limpio y feliz — Peluquería Canina Cerro Navia
-## El servicio premium que buscabas, ahora a pasos de tu casa. Sin sorpresas, sin esperas, sin vueltas.
-
----
-
 ### ¿Qué incluye la peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos — suave con su piel, potente con la suciedad

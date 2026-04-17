@@ -4,12 +4,6 @@ description: "Baño, corte y cuidado premium — con atención individual, produ
 keywords: "peluquería canina Vitacura, Washdog"
 date: "2026-03-06"
 ---
-
-# Peluquería canina Vitacura que trata a tu perro como se merece
-## Baño, corte y cuidado premium — con atención individual, productos hipoalergénicos y reserva online en 2 minutos.
-
----
-
 ### ¿Qué incluye nuestro servicio de peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos certificados, secado profesional y perfume de calidad

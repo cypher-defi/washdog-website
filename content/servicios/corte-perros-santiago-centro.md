@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online. Sin ll
 keywords: "corte perros Santiago Centro, peluquería canina Santiago Centro, grooming Santiago Centro, Washdog"
 date: "2026-03-12"
 ---
-
-# Corte de perros en Santiago Centro que tu mejor amigo merece
-## Atención personalizada, productos premium y agenda online. Sin llamadas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte a medida** según raza, tipo de pelo y preferencia del dueño

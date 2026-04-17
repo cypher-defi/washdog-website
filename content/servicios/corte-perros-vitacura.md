@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online — sin
 keywords: "corte perros Vitacura, peluquería canina Vitacura, grooming Vitacura, Washdog"
 date: "2026-03-13"
 ---
-
-# El corte perros Vitacura que tu mejor amigo merece
-## Atención personalizada, productos premium y agenda online — sin llamadas, sin esperas.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte profesional adaptado a tu raza** — resultado impecable, no un estilo genérico

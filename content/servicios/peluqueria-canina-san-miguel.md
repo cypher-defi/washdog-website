@@ -4,12 +4,6 @@ description: "Atención personalizada, productos hipoalergénicos premium y agen
 keywords: "peluquería canina San Miguel, peluquería canina San Miguel, grooming San Miguel, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina San Miguel
-## Atención personalizada, productos hipoalergénicos premium y agenda online en 2 minutos. Sin filas, sin estrés.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con secado profesional y perfume de larga duración

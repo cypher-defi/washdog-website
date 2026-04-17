@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y agenda onlin
 keywords: "baño perros La Reina, peluquería canina La Reina, grooming La Reina, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de perros en La Reina que tu peludo va a amar
-## Productos hipoalergénicos, atención personalizada y agenda online 24/7 — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🧴 **Shampoo y acondicionador hipoalergénico** — sin parabenos, seguro para pieles sensibles

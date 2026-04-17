@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos premium, trato personalizado y resultad
 keywords: "baño perros Cerrillos, peluquería canina Cerrillos, grooming Cerrillos, Washdog"
 date: "2026-03-12"
 ---
-
-# Baño de perros en Cerrillos que tu mejor amigo merece
-## Productos hipoalergénicos premium, trato personalizado y resultados que se notan desde el primer olfato.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con productos hipoalergénicos premium, seguros para todo tipo de piel y pelaje

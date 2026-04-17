@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y agenda onlin
 keywords: "baño perros Providencia, peluquería canina Providencia, grooming Providencia, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño perros Providencia que tu compañero va a amar
-## Productos hipoalergénicos, atención personalizada y agenda online en minutos — sin colas, sin estrés.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🧴 **Baño con shampoo hipoalergénico** — suave con su piel, sin irritaciones ni reacciones  

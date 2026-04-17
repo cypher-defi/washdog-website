@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online — sin
 keywords: "baño perros Renca, peluquería canina Renca, grooming Renca, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño perros Renca que tu compañero va a agradecer
-## Atención personalizada, productos premium y agenda online — sin cruzar Santiago.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con productos hipoalergénicos que cuidan la piel sensible de tu perro

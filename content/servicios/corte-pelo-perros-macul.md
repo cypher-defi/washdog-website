@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Macul. Peluquería canina profesional
 keywords: "corte pelo perros Macul, peluquería canina Macul corte, grooming Macul, Washdog Macul"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Macul
-## Peluquería canina profesional a pasos de Macul.
-
----
-
 ### ¿Qué incluye el servicio?
 
 ✂️ **Corte de pelo según raza y preferencia del dueño**  

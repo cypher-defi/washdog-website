@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online. Sin fi
 keywords: "peluquería canina Providencia, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Providencia
-## Atención personalizada, productos premium y agenda online. Sin filas, sin estrés, sin sorpresas.
-
----
-
 ### ¿Qué incluye la peluquería canina?
 
 - 🛁 **Baño completo** con shampoo hipoalergénico, secado profesional y perfume premium

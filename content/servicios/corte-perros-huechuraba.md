@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y precio claro antes de
 keywords: "corte perros Huechuraba, peluquería canina Huechuraba, grooming Huechuraba, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Huechuraba que tu mascota va a amar
-## Atención personalizada, productos premium y precio claro antes de reservar. Sin sorpresas.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte profesional** adaptado a la raza y tipo de pelaje de tu perro

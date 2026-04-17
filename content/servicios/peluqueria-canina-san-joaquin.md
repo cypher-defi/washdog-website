@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online en minu
 keywords: "peluquería canina San Joaquín, peluquería canina San Joaquín, grooming San Joaquín, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro merece la mejor peluquería canina en San Joaquín
-## Atención personalizada, productos premium y agenda online en minutos — sin estrés para él ni para ti.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 * 🛁 **Baño completo** con productos hipoalergénicos que cuidan su piel desde la primera lavada

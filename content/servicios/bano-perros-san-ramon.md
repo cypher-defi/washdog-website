@@ -4,12 +4,6 @@ description: "Peluquería canina premium en Ñuñoa — a solo 15 minutos de San
 keywords: "baño perros San Ramón, peluquería canina San Ramón, grooming San Ramón, Washdog"
 date: "2026-03-11"
 ---
-
-# Tu perro merece el mejor baño perros San Ramón 🐾
-## Peluquería canina premium en Ñuñoa — a solo 15 minutos de San Ramón, La Granja y El Bosque.
-
----
-
 ### ¿Qué incluye el baño para perros?
 
 - 🚿 **Baño profundo** con productos hipoalergénicos que cuidan su piel, no solo su pelo

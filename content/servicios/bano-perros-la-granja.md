@@ -4,12 +4,6 @@ description: "Productos premium, atención personalizada y agenda online. Sin es
 keywords: "baño perros La Granja, peluquería canina La Granja, grooming La Granja, Washdog"
 date: "2026-03-12"
 ---
-
-# Baño perros La Granja que tu perro va a amar
-## Productos premium, atención personalizada y agenda online. Sin esperas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico, suave para todo tipo de pelaje

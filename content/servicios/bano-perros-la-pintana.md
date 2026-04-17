@@ -4,12 +4,6 @@ description: "Productos premium, trato personalizado y agenda online en 2 minuto
 keywords: "baño perros La Pintana, peluquería canina La Pintana, grooming La Pintana, Washdog"
 date: "2026-03-12"
 ---
-
-# Baño de perros en La Pintana que tu peludo va a amar
-## Productos premium, trato personalizado y agenda online en 2 minutos. Sin esperas, sin letra chica.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🚿 **Baño profundo con shampoo hipoalergénico** — apto para pieles sensibles y cachorros

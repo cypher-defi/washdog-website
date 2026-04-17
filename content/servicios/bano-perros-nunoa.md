@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención uno a uno y agenda online en
 keywords: "baño perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de perros en Ñuñoa que tu mejor amigo va a amar
-## Productos hipoalergénicos, atención uno a uno y agenda online en minutos. Sin esperas, sin estrés, sin sorpresas en el precio.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🚿 **Baño completo con champú hipoalergénico** — suave con pieles sensibles, libre de ingredientes agresivos

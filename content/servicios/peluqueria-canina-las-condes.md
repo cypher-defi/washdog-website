@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y un perro que vuelve f
 keywords: "peluquería canina Las Condes, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable. Peluquería canina Las Condes.
-## Atención personalizada, productos premium y un perro que vuelve feliz a casa — sin jaulas, sin apuro, sin sorpresas en el precio.
-
----
-
 ### ¿Qué incluye la peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos premium — suave con su piel, potente con la suciedad

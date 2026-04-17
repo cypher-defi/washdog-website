@@ -4,12 +4,6 @@ description: "Limpieza profesional, trato personalizado y sin el drama del baño
 keywords: "baño perros San Miguel, peluquería canina San Miguel, grooming San Miguel, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de Perros en San Miguel que Deja la Cola Moviéndose
-## Limpieza profesional, trato personalizado y sin el drama del baño en casa. Reserva en 2 minutos.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🧴 **Champú hipoalergénico premium** — suave con su piel, sin irritaciones ni reacciones  

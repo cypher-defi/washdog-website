@@ -33,9 +33,6 @@ communes:
   - la-cisterna
   - la-pintana
 ---
-
-# Corte de Pelo para Perros en Santiago: Grooming Profesional en Washdog
-
 Si estás buscando un **corte de pelo para perros en Santiago** que vaya más allá de lo básico, llegaste al lugar indicado. En Washdog entendemos que cada perro tiene necesidades distintas según su raza, tipo de pelaje y estilo de vida, por eso ofrecemos un servicio de grooming profesional que cuida tanto la estética como la salud de tu mascota.
 
 ## ¿Qué incluye nuestro servicio de corte de pelo canino?

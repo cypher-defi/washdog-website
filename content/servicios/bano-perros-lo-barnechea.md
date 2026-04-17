@@ -4,12 +4,6 @@ description: "Atención individual, productos premium hipoalergénicos y precios
 keywords: "baño perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de Perros en Lo Barnechea que Tu Mascota Va a Amar
-## Atención individual, productos premium hipoalergénicos y precios claros. Sin sorpresas, sin esperas, sin estrés.
-
----
-
 ### ¿Qué incluye el baño de perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico, libre de parabenos y químicos agresivos

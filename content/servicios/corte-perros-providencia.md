@@ -4,12 +4,6 @@ description: "Atención individual, productos premium y un resultado que lo har�
 keywords: "corte perros Providencia, peluquería canina Providencia, grooming Providencia, Washdog"
 date: "2026-03-12"
 ---
-
-# Corte de perros en Providencia que los deja impecables
-## Atención individual, productos premium y un resultado que lo hará lucir como nunca — reserva en minutos desde tu celular.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte personalizado por raza** — respetamos el estándar de cada pelaje, ya sea un Golden, un Schnauzer o un French Poodle

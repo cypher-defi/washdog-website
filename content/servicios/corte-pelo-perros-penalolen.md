@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Peñalolén. Grooming profesional con
 keywords: "corte pelo perros Peñalolén, peluquería canina Peñalolén corte, grooming Peñalolén Santiago"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Peñalolén
-## Tu peluquero canino de confianza, a minutos de Peñalolén.
-
----
-
 ### ¿Qué incluye el corte de pelo en Washdog?
 
 ✂️ **Corte de pelo adaptado a tu perro y a tu preferencia**  

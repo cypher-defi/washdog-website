@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y agenda onlin
 keywords: "baño perros Lo Prado, peluquería canina Lo Prado, grooming Lo Prado, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de perros en Lo Prado que tu compañero va a agradecer
-## Productos hipoalergénicos, atención personalizada y agenda online en 2 minutos. Sin esperas, sin estrés.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico premium, seguro para pieles sensibles

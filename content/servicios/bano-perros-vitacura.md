@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención uno a uno y reserva en 2 min
 keywords: "baño perros Vitacura, peluquería canina Vitacura, grooming Vitacura, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de perros en Vitacura que tu mejor amigo merece
-## Productos hipoalergénicos, atención uno a uno y reserva en 2 minutos. Sin estrés para él. Sin sorpresas para ti.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🛁 **Baño profundo con productos premium hipoalergénicos** — seguros para pieles sensibles y razas delicadas

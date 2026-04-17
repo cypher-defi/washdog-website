@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y un perro que
 keywords: "baño perros Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, Washdog"
 date: "2026-03-12"
 ---
-
-# Tu perro merece el mejor baño perros Lo Espejo 🐾
-## Productos hipoalergénicos, atención personalizada y un perro que vuelve a casa feliz — a pasos de tu barrio.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalérgénico premium, seguro para piel sensible

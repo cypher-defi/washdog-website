@@ -4,12 +4,6 @@ description: "Baño, corte y cuidado profesional con productos premium — sin e
 keywords: "peluquería canina Lo Barnechea, Washdog"
 date: "2026-03-06"
 ---
-
-# Peluquería canina Lo Barnechea que tu perro merece
-## Baño, corte y cuidado profesional con productos premium — sin estrés, sin apuros, con cariño de verdad.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 * 🛁 **Baño completo** con shampoo hipoalergénico, secado profesional y perfume de larga duración

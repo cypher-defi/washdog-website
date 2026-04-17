@@ -4,12 +4,6 @@ description: "Productos premium, atención uno a uno y un perro que vuelve limpi
 keywords: "baño perros La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, Washdog"
 date: "2026-03-12"
 ---
-
-# Baño para perros en La Cisterna que de verdad se nota 🐾
-## Productos premium, atención uno a uno y un perro que vuelve limpio, perfumado y contento — sin el estrés de siempre.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 * 🚿 **Baño completo con shampoo hipoalergénico** — sin parabenos ni sulfatos agresivos, seguro para pieles sensibles

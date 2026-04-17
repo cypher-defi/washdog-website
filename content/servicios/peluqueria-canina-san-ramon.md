@@ -4,12 +4,6 @@ description: "Peluquería canina en San Ramón con atención uno a uno, producto
 keywords: "peluquería canina San Ramón, peluquería canina San Ramón, grooming San Ramón, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro, impecable y feliz en San Ramón
-## Peluquería canina en San Ramón con atención uno a uno, productos premium y agenda online. Sin esperas, sin jaulas, sin estrés.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con shampoo hipoalergénico apto para piel sensible

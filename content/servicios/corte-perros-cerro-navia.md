@@ -4,12 +4,6 @@ description: "Productos premium, atención personalizada y agenda online. Sin fi
 keywords: "corte perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Cerro Navia que tu mejor amigo merece
-## Productos premium, atención personalizada y agenda online. Sin filas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte profesional adaptado a tu raza** — resultado prolijo que dura semanas

@@ -4,10 +4,6 @@ description: "Productos hipoalergénicos premium, atención personalizada y agen
 keywords: "baño perros Las Condes, peluquería canina Las Condes, grooming Las Condes, Washdog"
 date: "2026-03-10"
 ---
-
-# El mejor baño perros en Las Condes para tu mejor amigo
-## Productos hipoalergénicos premium, atención personalizada y agenda online en 2 minutos.
-
 *Porque para ti no es "solo un perro". Para nosotros tampoco.*
 
 ---

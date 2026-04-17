@@ -33,9 +33,6 @@ communes:
   - la-cisterna
   - la-pintana
 ---
-
-# Baño de Perros en Santiago: Cuidado Profesional para tu Mascota
-
 Si estás buscando un **baño de perros en Santiago** que combine productos de calidad con atención profesional, llegaste al lugar indicado. En Washdog sabemos que cada perro tiene necesidades distintas según su raza, tipo de pelaje y estilo de vida, por eso ofrecemos un servicio de baño completo pensado para cuidar la piel y el pelo de tu mascota como se merece.
 
 Bañar a tu perro con la frecuencia adecuada es fundamental para su salud. Un baño demasiado seguido puede resecar su piel, mientras que espaciar mucho las sesiones favorece la acumulación de suciedad, malos olores y posibles problemas dermatológicos. La diferencia entre un baño casero con champú genérico y uno profesional con productos hipoalergénicos es notable: menos irritaciones, un pelaje más brillante y una mascota mucho más cómoda.

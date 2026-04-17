@@ -4,12 +4,6 @@ description: "Baño, corte y cuidado premium con agenda online en 2 minutos — 
 keywords: "peluquería canina Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, Washdog"
 date: "2026-03-10"
 ---
-
-# Peluquería canina Pedro Aguirre Cerda que tu perro merece
-## Baño, corte y cuidado premium con agenda online en 2 minutos — sin filas, sin estrés.
-
----
-
 ### ¿Qué incluye nuestra peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos que cuidan su piel, no la irritan

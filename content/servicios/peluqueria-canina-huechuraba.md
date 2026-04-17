@@ -4,10 +4,6 @@ description: "Atención personalizada, productos premium y agenda online. A minu
 keywords: "peluquería canina Huechuraba, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Huechuraba
-## Atención personalizada, productos premium y agenda online. A minutos de donde vives.
-
 Porque él te lo da todo. Lo menos que puedes hacer es que esté impecable y feliz. 🐾
 
 ---

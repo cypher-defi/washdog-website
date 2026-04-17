@@ -5,9 +5,6 @@ keywords: "peluquería Golden Retriever Ñuñoa, corte Golden Retriever Santiago
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería Golden Retriever en Ñuñoa
-
 El Golden Retriever es una de las razas más atendidas en Washdog. Su doble capa — densa y suave por dentro, larga y sedosa por fuera — necesita un protocolo específico que va mucho más allá de un baño estándar.
 
 ---

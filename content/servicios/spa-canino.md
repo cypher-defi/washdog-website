@@ -33,9 +33,6 @@ communes:
   - la-cisterna
   - la-pintana
 ---
-
-# Spa Canino en Santiago: Una Experiencia de Bienestar Integral para tu Perro
-
 Tu perro merece mucho más que un baño común. En Washdog ofrecemos un **spa canino en Santiago** diseñado como una experiencia de bienestar completa, donde cada detalle está pensado para relajar, nutrir e hidratar a tu mascota de patas a cola. Desde nuestro centro en Ñuñoa, transformamos la rutina de higiene en un momento de cuidado profundo que tu perro realmente va a disfrutar.
 
 ## ¿Qué incluye nuestro spa canino?

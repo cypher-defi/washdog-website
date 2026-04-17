@@ -4,12 +4,6 @@ description: "Productos premium, manos expertas y agenda online — sin salir de
 keywords: "baño perros Peñalolén, peluquería canina Peñalolén, grooming Peñalolén, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de perros en Peñalolén que tu mascota va a amar
-## Productos premium, manos expertas y agenda online — sin salir de tu comuna.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico, seguro para todo tipo de piel y pelaje

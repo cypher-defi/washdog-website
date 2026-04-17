@@ -4,10 +4,6 @@ description: "Atención personalizada, productos premium y reserva online en min
 keywords: "peluquería canina Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro merece la mejor peluquería canina en Quinta Normal
-## Atención personalizada, productos premium y reserva online en minutos — sin esperas, sin estrés.
-
 [Botón principal: **"Reserva tu hora por WhatsApp →"**]
 
 ---

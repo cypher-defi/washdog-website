@@ -4,12 +4,6 @@ description: "Secado profesional, productos hipoalergénicos y atención uno a u
 keywords: "baño perros Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño perros Quilicura que tu mejor amigo merece
-## Secado profesional, productos hipoalergénicos y atención uno a uno — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño completo con champú hipoalergénico** — libre de parabenos, apto para pieles sensibles

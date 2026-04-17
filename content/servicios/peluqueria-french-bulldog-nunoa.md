@@ -5,9 +5,6 @@ keywords: "peluquería French Bulldog Ñuñoa, baño French Bulldog Santiago, gr
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería French Bulldog en Ñuñoa
-
 El French Bulldog es una raza que no necesita corte — pero sí necesita un baño que tenga en cuenta dos cosas que la mayoría de las peluquerías ignoran: sus **pliegues faciales** y su condición de **raza braquicéfala**.
 
 ---

@@ -4,10 +4,6 @@ description: "Atención personalizada, productos premium y agenda online en minu
 keywords: "peluquería canina Macul, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Macul
-## Atención personalizada, productos premium y agenda online en minutos. Sin estrés para él, sin complicaciones para ti.
-
 [Botón: "Reserva tu hora por WhatsApp →"]
 
 ---

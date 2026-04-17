@@ -5,9 +5,6 @@ keywords: "peluquería Poodle Ñuñoa, corte Poodle Santiago, grooming Poodle Ch
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería Poodle en Ñuñoa
-
 El Poodle (o Caniche) es una de las razas que más variedad de cortes admite — y también una de las que más fácil se enreda si no se mantiene con regularidad. En Washdog atendemos Poodles en todas sus variedades: toy, miniatura y estándar.
 
 ---

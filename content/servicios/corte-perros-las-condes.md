@@ -4,12 +4,6 @@ description: "Peluquería canina profesional, productos premium y agenda online 
 keywords: "corte perros Las Condes, peluquería canina Las Condes, grooming Las Condes, Washdog"
 date: "2026-03-12"
 ---
-
-# Corte de perros en Las Condes que tu compañero va a amar
-## Peluquería canina profesional, productos premium y agenda online en segundos — sin estrés para él ni para ti.
-
----
-
 ### ¿Qué incluye el corte de perros?
 
 * ✂️ **Corte personalizado por raza** — Golden, Schnauzer, Poodle, Bichón y todas las demás

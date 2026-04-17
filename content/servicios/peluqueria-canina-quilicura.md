@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y precios claros. Sin s
 keywords: "peluquería canina Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Quilicura
-## Atención personalizada, productos premium y precios claros. Sin sorpresas, sin esperas, sin estrés para tu perro.
-
----
-
 ### ¿Qué incluye nuestra peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos, secado profesional y perfume pet-friendly

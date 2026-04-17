@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y agenda online — sin
 keywords: "corte perros Ñuñoa, peluquería canina Ñuñoa, grooming Ñuñoa, Washdog"
 date: "2026-03-12"
 ---
-
-# Corte de perros en Ñuñoa que tu mejor amigo merece
-## Atención personalizada, productos premium y agenda online — sin llamadas, sin filas, sin estrés.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 ✂️ **Corte a medida según raza y estilo** — te consultamos antes de empezar, nunca adivinos

@@ -4,12 +4,6 @@ description: "Peluquería canina premium, con productos hipoalergénicos y atenc
 keywords: "corte perros Quilicura, peluquería canina Quilicura, grooming Quilicura, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Quilicura que tu mejor amigo merece
-## Peluquería canina premium, con productos hipoalergénicos y atención uno a uno. Sin jaulas de espera, sin apuros.
-
----
-
 ### ¿Qué incluye el corte de perros?
 
 - ✂️ **Corte personalizado según raza y preferencia del dueño** — adaptado a tu perro, no a una plantilla genérica

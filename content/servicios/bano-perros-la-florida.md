@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, atención personalizada y reserva en 2
 keywords: "baño perros La Florida, peluquería canina La Florida, grooming La Florida, Washdog"
 date: "2026-03-10"
 ---
-
-# Baño de perros en La Florida que tu mejor amigo merece
-## Productos hipoalergénicos, atención personalizada y reserva en 2 minutos — sin salir de La Florida.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🚿 **Baño profundo con shampoo hipoalergénico** — seguro para pieles sensibles, cachorros y perros mayores

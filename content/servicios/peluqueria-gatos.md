@@ -33,9 +33,6 @@ communes:
   - la-cisterna
   - la-pintana
 ---
-
-# Peluquería para Gatos en Santiago: Grooming Felino Especializado
-
 Si buscas una **peluquería para gatos en Santiago** que entienda las necesidades únicas de tu felino, en Washdog contamos con un servicio diseñado especialmente para ellos. Porque el grooming felino no es solo una cuestión de estética: es una práctica de salud que ayuda a prevenir bolas de pelo, detectar problemas de piel a tiempo y reducir significativamente la muda en tu hogar.
 
 Los gatos son animales con temperamentos muy distintos a los perros, y su manejo durante una sesión de peluquería requiere técnicas específicas, paciencia y un ambiente que minimice el estrés. En Washdog lo sabemos, y por eso hemos desarrollado un protocolo de atención felina que prioriza la calma y el bienestar de tu gato en cada paso del proceso.

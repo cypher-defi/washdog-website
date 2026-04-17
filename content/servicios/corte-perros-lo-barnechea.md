@@ -4,12 +4,6 @@ description: "Atención individual, productos premium y agenda online. Tu perro 
 keywords: "corte perros Lo Barnechea, peluquería canina Lo Barnechea, grooming Lo Barnechea, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en Lo Barnechea que se nota en cómo salen
-## Atención individual, productos premium y agenda online. Tu perro impecable y tranquilo — sin sorpresas.
-
----
-
 ### ¿Qué incluye el corte de perros?
 - ✂️ **Corte personalizado** según raza, tipo de pelo y la referencia que tú elijas
 - 🛁 **Baño completo** con productos hipoalergénicos antes del corte

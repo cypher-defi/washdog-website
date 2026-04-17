@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y reserva en segundos �
 keywords: "peluquería canina Lo Prado, peluquería canina Lo Prado, grooming Lo Prado, Washdog"
 date: "2026-03-09"
 ---
-
-# La peluquería canina en Lo Prado que cuida a tu perro como se merece
-## Atención personalizada, productos premium y reserva en segundos — sin filas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con secado y perfume hipoalergénico, suave para la piel de tu perro

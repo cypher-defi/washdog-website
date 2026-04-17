@@ -4,12 +4,6 @@ description: "Baño, corte y cuidado profesional para tu compañero — con prod
 keywords: "peluquería canina La Granja, peluquería canina La Granja, grooming La Granja, Washdog"
 date: "2026-03-10"
 ---
-
-# Peluquería canina La Granja que tu perro merece
-## Baño, corte y cuidado profesional para tu compañero — con productos premium y atención personalizada en Santiago Sur.
-
----
-
 ### ¿Qué incluye la peluquería canina?
 
 - 🛁 **Baño completo** con productos hipoalergénicos, secado profesional y perfume

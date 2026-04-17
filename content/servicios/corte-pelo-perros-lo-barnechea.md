@@ -4,12 +4,6 @@ description: "Corte de pelo para perros en Lo Barnechea. Grooming profesional co
 keywords: "corte pelo perros Lo Barnechea, peluquería canina Lo Barnechea corte, grooming Lo Barnechea Santiago"
 date: "2026-04-13"
 ---
-
-# Corte de pelo para perros en Lo Barnechea
-## Grooming profesional para los perros del sector cordillerano de Santiago.
-
----
-
 ### ¿Qué incluye el servicio de corte?
 
 ✂️ **Corte de pelo según raza y preferencia del dueño**  

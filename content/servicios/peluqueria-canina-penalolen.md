@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos premium, atención personalizada y hora
 keywords: "peluquería canina Peñalolén, Washdog"
 date: "2026-03-06"
 ---
-
-# Peluquería canina en Peñalolén que trata a tu perro como se merece
-## Productos hipoalergénicos premium, atención personalizada y hora reservada solo para él. Sin esperas, sin sorpresas.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 🛁 **Baño completo** — con productos hipoalergénicos que cuidan su piel y pelaje desde adentro

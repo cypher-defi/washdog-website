@@ -4,10 +4,6 @@ description: "Atención personalizada, productos hipoalergénicos y agenda onlin
 keywords: "baño perros Pedro Aguirre Cerda, peluquería canina Pedro Aguirre Cerda, grooming Pedro Aguirre Cerda, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de Perros en Pedro Aguirre Cerda que Deja a tu Perro Feliz
-## Atención personalizada, productos hipoalergénicos y agenda online. Tu perro limpio y perfumado, sin complicaciones.
-
 **[Botón: "Reserva tu hora por WhatsApp →"]**
 *Sin tarjeta. Sin compromiso. Solo trae a tu perro.*
 

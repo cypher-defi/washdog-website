@@ -4,12 +4,6 @@ description: "En Washdog lo tratamos como familia: con cuidado real, productos p
 keywords: "peluquería canina La Pintana, peluquería canina La Pintana, grooming La Pintana, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro, limpio y feliz — Peluquería canina La Pintana
-## En Washdog lo tratamos como familia: con cuidado real, productos premium y precios sin sorpresas.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño profundo con productos hipoalergénicos** — seguros para pieles sensibles y cachorros

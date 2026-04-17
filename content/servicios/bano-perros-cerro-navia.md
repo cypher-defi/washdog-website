@@ -4,12 +4,6 @@ description: "Productos premium, atención personalizada y agenda online en 2 mi
 keywords: "baño perros Cerro Navia, peluquería canina Cerro Navia, grooming Cerro Navia, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño para perros en Cerro Navia que tu peludo va a amar 🐾
-## Productos premium, atención personalizada y agenda online en 2 minutos — para que llegues cuando te acomode.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico, libre de químicos agresivos

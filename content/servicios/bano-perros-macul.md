@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos premium, atención uno a uno y agenda o
 keywords: "baño perros Macul, peluquería canina Macul, grooming Macul, Washdog"
 date: "2026-03-10"
 ---
-
-# El baño de perros en Macul que tu peludo merece
-## Productos hipoalergénicos premium, atención uno a uno y agenda online en 2 minutos. Sin filas, sin estrés — para ti ni para él.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 - 🚿 **Baño profundo** con shampoo hipoalergénico premium, seguro para toda piel

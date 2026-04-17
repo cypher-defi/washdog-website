@@ -4,12 +4,6 @@ description: "Peluquería canina premium con productos hipoalergénicos, atenci�
 keywords: "corte perros Renca, peluquería canina Renca, grooming Renca, Washdog"
 date: "2026-04-04"
 ---
-
-# Corte de perros en Renca que tu mascota va a amar
-## Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el corte de perros?
 
 - ✂️ **Corte personalizado según raza** — Yorkies, Golden, Schnauzer, French Bulldog y todas las razas

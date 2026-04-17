@@ -4,12 +4,6 @@ description: "Secado profesional, perfume incluido y atención individual — re
 keywords: "baño perros Quinta Normal, peluquería canina Quinta Normal, grooming Quinta Normal, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de Perros en Quinta Normal que los deja impecables 🐾
-## Secado profesional, perfume incluido y atención individual — reserva tu hora en 2 minutos.
-
----
-
 ### ¿Qué incluye el baño de perros?
 
 - 🚿 **Baño completo con shampoo hipoalergénico** — sin irritaciones, seguro para todo tipo de piel y pelaje

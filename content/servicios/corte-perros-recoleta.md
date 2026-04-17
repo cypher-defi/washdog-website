@@ -4,10 +4,6 @@ description: "Peluquería canina premium a minutos de tu casa — atención pers
 keywords: "corte perros Recoleta, peluquería canina Recoleta, grooming Recoleta, Washdog"
 date: "2026-03-13"
 ---
-
-# Tu perro merece el mejor corte perros Recoleta
-## Peluquería canina premium a minutos de tu casa — atención personalizada, productos hipoalergénicos y resultados que se notan.
-
 [Botón CTA] **Reserva tu hora →**
 *Sin tarjeta. Sin compromiso. Solo 2 minutos.*
 

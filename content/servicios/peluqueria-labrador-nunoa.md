@@ -5,9 +5,6 @@ keywords: "peluquería Labrador Retriever Ñuñoa, baño Labrador Santiago, groo
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería Labrador Retriever en Ñuñoa
-
 El Labrador Retriever no necesita corte de pelo — su pelo corto no crece de forma continua como el de un Poodle o Yorkshire. Lo que sí necesita, y con urgencia, es un **baño deslanador profundo** con técnica adecuada. Sin eso, la muda se convierte en un problema de meses.
 
 ---

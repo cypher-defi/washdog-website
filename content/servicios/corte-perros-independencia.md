@@ -4,12 +4,6 @@ description: "Peluquería canina premium cerca de vos — productos hipoalergén
 keywords: "corte perros Independencia, peluquería canina Independencia, grooming Independencia, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de Pelo para Perros en Independencia que Realmente Marca la Diferencia
-## Peluquería canina premium cerca de vos — productos hipoalergénicos, agenda online y atención 1:1 para tu compañero.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte personalizado** según la raza y lo que vos elegís — sin sorpresas al retirar

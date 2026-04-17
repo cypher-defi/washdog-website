@@ -4,12 +4,6 @@ description: "Baño completo, corte profesional y atención personalizada — si
 keywords: "peluquería canina Renca, peluquería canina Renca, grooming Renca, Washdog"
 date: "2026-03-09"
 ---
-
-# Tu perro merece la mejor peluquería canina en Renca
-## Baño completo, corte profesional y atención personalizada — sin salir de tu comuna. Desde $20.000 CLP.
-
----
-
 ### ¿Qué incluye nuestro servicio de peluquería canina?
 
 🛁 **Baño completo con secado y perfume** — productos hipoalergénicos premium, seguros para todo tipo de piel y pelaje.

@@ -5,9 +5,6 @@ keywords: "peluquería Yorkshire Terrier Ñuñoa, corte Yorkshire Terrier Santia
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería Yorkshire Terrier en Ñuñoa
-
 El Yorkshire Terrier tiene uno de los pelajes más finos y delicados del mundo canino. Su pelo sedoso se parece más a cabello humano que a pelaje de perro — lo que significa que los shampoos genéricos, el cepillado brusco y el secado con calor directo pueden dañarlo de forma permanente.
 
 ---

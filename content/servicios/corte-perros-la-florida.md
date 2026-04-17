@@ -4,12 +4,6 @@ description: "Peluquería canina premium con productos hipoalergénicos, atenci�
 keywords: "corte perros La Florida, peluquería canina La Florida, grooming La Florida, Washdog"
 date: "2026-03-13"
 ---
-
-# Corte de perros en La Florida que tu mascota va a amar
-## Peluquería canina premium con productos hipoalergénicos, atención personalizada y agenda online — a minutos de tu casa.
-
----
-
 ### ¿Qué incluye el corte de perros?
 
 - ✂️ **Corte personalizado según raza** — Yorkies, Golden, Schnauzer, French Bulldog y todas las razas

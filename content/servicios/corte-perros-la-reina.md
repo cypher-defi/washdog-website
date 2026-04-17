@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y un equipo que trata a
 keywords: "corte perros La Reina, peluquería canina La Reina, grooming La Reina, Washdog"
 date: "2026-03-12"
 ---
-
-# Corte de perros en La Reina que los deja perfectos
-## Atención personalizada, productos premium y un equipo que trata a tu perro como merece.
-
----
-
 ### ¿Qué incluye el corte perros?
 
 - ✂️ **Corte profesional adaptado a tu raza** — desde Schnauzer hasta Golden, el resultado que conversaste

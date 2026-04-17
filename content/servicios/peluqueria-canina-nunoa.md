@@ -4,12 +4,6 @@ description: "Peluquería canina en Ñuñoa. Baño completo, corte profesional y
 keywords: "peluquería canina Ñuñoa, baño perros Ñuñoa, Washdog Ñuñoa"
 date: "2026-03-06"
 ---
-
-# Tu perro, impecable y feliz — Peluquería Canina Ñuñoa
-## En Washdog cuidamos a tu compañero como si fuera nuestro: productos premium, atención one-to-one y agenda online en 2 minutos.
-
----
-
 ### ¿Qué incluye nuestra peluquería canina?
 
 🛁 **Baño completo** — Shampoo hipoalergénico, secado profesional y perfume incluido. Piel sana, pelo brillante.

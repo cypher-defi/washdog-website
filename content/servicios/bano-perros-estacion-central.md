@@ -4,12 +4,6 @@ description: "Productos hipoalergénicos, trato personalizado y resultado que du
 keywords: "baño perros Estación Central, peluquería canina Estación Central, grooming Estación Central, Washdog"
 date: "2026-03-11"
 ---
-
-# Baño de perros en Estación Central que realmente se nota
-## Productos hipoalergénicos, trato personalizado y resultado que dura. Tu perro merece más que un baño común.
-
----
-
 ### ¿Qué incluye el baño perros?
 
 🧴 **Lavado profundo con shampoo hipoalergénico premium** — sin irritación, sin reacciones

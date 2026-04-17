@@ -4,12 +4,6 @@ description: "Atención personalizada, productos premium y resultados que se not
 keywords: "peluquería canina Santiago Centro, Washdog"
 date: "2026-03-06"
 ---
-
-# Tu perro merece lo mejor: Peluquería Canina Santiago Centro
-## Atención personalizada, productos premium y resultados que se notan — reserva en 2 minutos desde tu celular.
-
----
-
 ### ¿Qué incluye nuestra peluquería canina?
 
 - 🛁 **Baño completo** — shampoo hipoalergénico, secado profesional y perfume premium incluido

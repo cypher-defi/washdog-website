@@ -33,9 +33,6 @@ communes:
   - la-cisterna
   - la-pintana
 ---
-
-# Auto Lavado de Perros en Ñuñoa, Santiago Chile
-
 Si buscas un **auto lavado de perros en Santiago, Chile** que combine comodidad, ahorro y equipamiento profesional, Washdog es tu mejor opción. Nuestro local está en **Irarrázaval 2086 B, Ñuñoa, Santiago** — a pasos del metro, accesible desde cualquier comuna del Gran Santiago. El servicio de auto lavado está diseñado para quienes disfrutan bañar a su propia mascota, pero quieren hacerlo con las herramientas adecuadas y sin dejar la casa hecha un desastre.
 
 ## ¿Qué incluye el servicio?

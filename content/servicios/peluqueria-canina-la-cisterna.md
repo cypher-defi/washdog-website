@@ -4,12 +4,6 @@ description: "Baño, corte y cuidado premium con productos hipoalergénicos — 
 keywords: "peluquería canina La Cisterna, peluquería canina La Cisterna, grooming La Cisterna, Washdog"
 date: "2026-03-10"
 ---
-
-# Tu perro merece la mejor peluquería canina La Cisterna
-## Baño, corte y cuidado premium con productos hipoalergénicos — agenda online en 2 minutos, sin llamadas ni esperas.
-
----
-
 ### ¿Qué incluye el servicio de peluquería canina?
 
 - 🛁 **Baño completo** con secado profesional y perfume de larga duración

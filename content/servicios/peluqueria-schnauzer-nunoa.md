@@ -5,9 +5,6 @@ keywords: "peluquería Schnauzer Ñuñoa, corte Schnauzer Santiago, grooming Sch
 date: "2026-04-04"
 lastModified: "2026-04-07"
 ---
-
-# Peluquería Schnauzer en Ñuñoa
-
 El Schnauzer es reconocible por su look característico: barba larga, cejas pobladas y falda definida. Lograr ese resultado — y mantenerlo — requiere un groomer que conozca la técnica específica de la raza, no solo tijeras y una máquina.
 
 ---
