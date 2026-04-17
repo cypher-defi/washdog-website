@@ -1,5 +1,6 @@
 {
   "slugs": [
+    "auto-lavado-perros-san-ramon",
     "auto-lavado-perros",
     "bano-perros-cerrillos",
     "bano-perros-cerro-navia",
@@ -98,6 +99,7 @@
     "peluqueria-canina-vitacura",
     "peluqueria-canina",
     "peluqueria-french-bulldog-nunoa",
+    "peluqueria-gatos-lo-prado",
     "peluqueria-gatos",
     "peluqueria-golden-retriever-nunoa",
     "peluqueria-labrador-nunoa",
@@ -106,7 +108,8 @@
     "peluqueria-yorkshire-nunoa",
     "precio-peluqueria-canina-santiago",
     "precio-peluqueria",
+    "spa-canino-san-miguel",
     "spa-canino"
   ],
-  "generated_at": "2026-04-17T08:30:38.864814"
+  "generated_at": "2026-04-17T08:40:12.036368"
 }
