@@ -41,20 +41,40 @@ export interface Servicio extends ServicioMeta {
 export function extractFaqs(content: string): FaqItem[] {
   const faqs: FaqItem[] = []
   const lines = content.split('\n')
+  let inFaqSection = false
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim()
-    if (/^#{2,3}\s+¿/.test(line)) {
-      const question = line.replace(/^#{2,3}\s+/, '').trim()
-      let answer = ''
-      for (let j = i + 1; j < Math.min(i + 8, lines.length); j++) {
-        const next = lines[j].trim()
-        if (next && !next.startsWith('#') && !next.startsWith('|')) {
-          answer = next.replace(/[*_[\]()]/g, '').replace(/\[.*?\]\(.*?\)/g, '').trim()
-          break
-        }
-      }
-      if (question && answer) faqs.push({ question, answer })
+
+    // Enter FAQ section on any H2/H3 with "preguntas" or "FAQ"
+    if (/^#{2,3}\s+.*(preguntas|faq)/i.test(line)) {
+      inFaqSection = true
+      continue
     }
+
+    // Exit FAQ section when a new H2 starts (not H3)
+    if (/^##\s/.test(line) && !/^###\s/.test(line)) {
+      inFaqSection = false
+    }
+
+    // Only extract Q&A inside the FAQ section — bold questions (**¿...?**) or H3 ¿...?
+    if (!inFaqSection) continue
+
+    const boldMatch = line.match(/^\*\*(¿[^*]+\??)\*\*/)
+    const headingMatch = line.match(/^#{2,3}\s+(¿.+)/)
+    const question = (boldMatch?.[1] ?? headingMatch?.[1] ?? '').trim()
+
+    if (!question) continue
+
+    let answer = ''
+    for (let j = i + 1; j < Math.min(i + 10, lines.length); j++) {
+      const next = lines[j].trim()
+      if (next && !next.startsWith('#') && !next.startsWith('|') && !next.startsWith('**¿')) {
+        answer = next.replace(/[*_]/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').trim()
+        break
+      }
+    }
+    if (question && answer) faqs.push({ question, answer })
   }
   return faqs
 }
