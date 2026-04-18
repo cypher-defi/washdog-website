@@ -15,14 +15,30 @@ const securityHeaders = [
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
       "font-src 'self' https://fonts.gstatic.com",
       "img-src 'self' data: https: blob:",
-      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://maps.googleapis.com https://api.iconify.design",
+      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://maps.googleapis.com https://api.iconify.design https://sbwtfddxkqnnfcbpytne.supabase.co",
       "frame-src 'self' https://www.google.com https://maps.google.com",
     ].join("; "),
   },
 ];
 
+// Set WASHDOG_POS_URL in Vercel env vars once the POS project is deployed
+// e.g. https://washdog-pos.vercel.app
+const POS_URL = process.env.WASHDOG_POS_URL || 'https://washdog-pos.vercel.app'
+
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  async rewrites() {
+    return [
+      {
+        source: '/pos',
+        destination: `${POS_URL}/pos/`,
+      },
+      {
+        source: '/pos/:path*',
+        destination: `${POS_URL}/pos/:path*`,
+      },
+    ]
+  },
   async redirects() {
     return [
       {
