@@ -37,10 +37,10 @@ const faqs: { question: string; answer: React.ReactNode }[] = [
           </thead>
           <tbody>
             {[
-              { label: "Pequeño", short: "$20.000", long: "$25.000" },
-              { label: "Mediano", short: "$25.000", long: "$30.000" },
-              { label: "Grande",  short: "$35.000", long: "$45.000" },
-              { label: "Gato",    short: "$40.000", long: "—" }
+              { label: "Pequeño", short: "$28.000", long: "$30.000" },
+              { label: "Mediano", short: "$30.000", long: "$35.000" },
+              { label: "Grande",  short: "$40.000", long: "$50.000" },
+              { label: "Gato",    short: "$45.000", long: "—" }
             ].map((row) => (
               <tr key={row.label} className='border-t border-primary/5'>
                 <td className='font-semibold text-primary/80 px-3 py-2'>{row.label}</td>

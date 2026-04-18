@@ -10,7 +10,7 @@ const faqSchema = {
     {
       "@type": "Question",
       name: "¿Cuánto cuesta la peluquería?",
-      acceptedAnswer: { "@type": "Answer", text: "La peluquería incluye baño, brushing y limpiado de orejas. Precios según tamaño y tipo de pelo: Pequeño $20.000–$25.000, Mediano $25.000–$30.000, Grande $35.000–$45.000, Gato $40.000." }
+      acceptedAnswer: { "@type": "Answer", text: "La peluquería incluye baño, brushing y limpiado de orejas. Precios según tamaño y tipo de pelo: Pequeño $28.000–$30.000, Mediano $30.000–$35.000, Grande $40.000–$50.000, Gato $45.000." }
     },
     {
       "@type": "Question",
