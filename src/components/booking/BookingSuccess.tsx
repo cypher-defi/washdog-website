@@ -38,9 +38,6 @@ export function BookingSuccess({ onClose, date, time }: BookingSuccessProps) {
           </p>
         </div>
       </div>
-      <p className="text-primary/50 text-xs mb-8">
-        Te enviamos los detalles por WhatsApp.
-      </p>
       <button
         onClick={onClose}
         className="px-10 py-3 bg-primary text-white font-bold rounded-xl text-xs uppercase tracking-widest hover:bg-primary/80 transition-colors"
