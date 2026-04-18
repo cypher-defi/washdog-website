@@ -42,9 +42,9 @@ Sabes exactamente qué incluye y cuánto vale según el tamaño de tu perro. Nad
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio final confirmado al momento de la reserva según raza y condición del pelaje. Sin cobros adicionales.*
 

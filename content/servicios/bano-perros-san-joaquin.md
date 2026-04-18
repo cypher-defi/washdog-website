@@ -44,9 +44,9 @@ Agenda tu hora por WhatsApp o a través de nuestro formulario online, disponible
 
 | Tamaño | Ejemplo de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | $25.000 CLP |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | $28.000 – $30.000 CLP |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | $33.000 CLP |
-| 🦮 **Grande** | Labrador, Golden, Husky | $45.000 CLP |
+| 🦮 **Grande** | Labrador, Golden, Husky | $40.000 – $50.000 CLP |
 
 > 💬 *¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te confirmamos el precio en el momento.*
 

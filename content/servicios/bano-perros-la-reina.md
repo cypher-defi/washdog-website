@@ -44,9 +44,9 @@ Nada de "depende" ni sorpresas al llegar. Sabes cuánto pagas antes de reservar.
 
 | Tamaño | Ejemplos de razas | Precio CLP |
 |---|---|---|
-| 🐩 Pequeño | Maltés, Yorkie, Chihuahua | $25.000 |
-| 🐕 Mediano | Beagle, Cocker, Schnauzer | $32.000 |
-| 🐕‍🦺 Grande | Golden, Labrador, Husky | $45.000 |
+| 🐩 Pequeño | Maltés, Yorkie, Chihuahua | $28.000 – $30.000 |
+| 🐕 Mediano | Beagle, Cocker, Schnauzer | $30.000 – $35.000 |
+| 🐕‍🦺 Grande | Golden, Labrador, Husky | $40.000 – $50.000 |
 
 > 💬 ¿Tienes una raza que no aparece acá? Escríbenos por WhatsApp y te cotizamos al tiro — sin compromiso.
 

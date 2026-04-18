@@ -46,9 +46,9 @@ Si el resultado no te convence, lo revisamos sin costo adicional. Así de serios
 
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Shih Tzu | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 *Precios incluyen baño, secado, perfume y cepillado. Servicios adicionales como corte de uñas o deslanado se cotizan al reservar.*
 

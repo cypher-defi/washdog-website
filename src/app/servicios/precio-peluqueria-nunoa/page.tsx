@@ -17,10 +17,10 @@ const bathPricing = [
 ]
 
 const cutPricing = [
-  { label: "Pequeño", short: "$20.000", long: "$25.000" },
-  { label: "Mediano", short: "$25.000", long: "$30.000" },
-  { label: "Grande",  short: "$35.000", long: "$45.000" },
-  { label: "Gato",    short: "$40.000", long: "—" }
+  { label: "Pequeño", short: "$28.000", long: "$30.000" },
+  { label: "Mediano", short: "$30.000", long: "$35.000" },
+  { label: "Grande",  short: "$40.000", long: "$50.000" },
+  { label: "Gato",    short: "$45.000", long: "—" }
 ]
 
 const faqs = [

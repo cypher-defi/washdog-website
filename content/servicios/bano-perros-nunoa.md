@@ -46,9 +46,9 @@ Sin cobros sorpresa al llegar. El precio depende solo del tamaño de tu perro y 
 
 | Tamaño del perro | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Bulldog | **$33.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 *Precio incluye: baño, secado, perfume, cepillado y limpieza de orejas.*
 *¿Tienes dudas sobre el tamaño de tu perro? Escríbenos antes de reservar.*

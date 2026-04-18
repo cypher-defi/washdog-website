@@ -42,9 +42,9 @@ Agenda tu hora 24/7 por WhatsApp o formulario online en menos de 2 minutos. Ubic
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 Pequeño (hasta 10 kg) | Poodle, Yorkie, Maltés | **$20.000 CLP** |
-| 🐕 Mediano (10–25 kg) | Beagle, Cocker, Bulldog | **$25.000 CLP** |
-| 🐕‍🦺 Grande (más de 25 kg) | Golden, Labrador, Husky | **$35.000 CLP** |
+| 🐩 Pequeño (hasta 10 kg) | Poodle, Yorkie, Maltés | **$28.000 – $30.000 CLP** |
+| 🐕 Mediano (10–25 kg) | Beagle, Cocker, Bulldog | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 Grande (más de 25 kg) | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 *Precios incluyen baño completo con secado y perfume. Servicios adicionales (corte, deslanado, uñas) se cotizan al agendar. Sin cobros sorpresa.*
 

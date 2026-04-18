@@ -42,9 +42,9 @@ Reserva en 2 minutos por WhatsApp o desde la web, cualquier día, a cualquier ho
 
 | Tamaño del perro | Descripción | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Hasta 10 kg · Yorkie, Poodle, Chihuahua | **$25.000 CLP** |
+| 🐩 **Pequeño** | Hasta 10 kg · Yorkie, Poodle, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | 10–25 kg · Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Más de 25 kg · Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Más de 25 kg · Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Todos los precios incluyen: baño, secado, perfume y cepillado.
 > 💬 ¿Tienes dudas sobre el tamaño de tu perro? Consúltanos sin compromiso.

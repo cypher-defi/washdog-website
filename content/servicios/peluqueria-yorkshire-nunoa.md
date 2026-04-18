@@ -67,7 +67,7 @@ Entre 60 y 90 minutos dependiendo del largo del pelo y el estado del pelaje al l
 
 | Servicio | Precio desde |
 |---|---|
-| Corte completo + baño | **$25.000 CLP** |
+| Corte completo + baño | **$28.000 CLP** |
 | Baño solo + secado | **$10.000 CLP** |
 
 > ✅ *El precio puede variar según el largo del pelo y el estado del pelaje al llegar.*

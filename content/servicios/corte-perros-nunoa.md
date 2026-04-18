@@ -42,9 +42,9 @@ Agenda online o directo por WhatsApp. Elige día, hora y listo. Sin esperar que 
 
 | Tamaño | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐾 **Pequeño** | Yorkie, Maltés, Schnauzer Mini | **$25.000 CLP** |
+| 🐾 **Pequeño** | Yorkie, Maltés, Schnauzer Mini | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Cocker, Beagle, Shih Tzu | **$33.000 CLP** |
-| 🐶 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐶 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > El precio incluye baño, secado, corte, uñas y perfume. Sin cobros sorpresa.
 > ¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te cotizamos al instante.

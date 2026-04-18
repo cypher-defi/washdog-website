@@ -72,7 +72,7 @@ Entre 45 y 60 minutos. El French Bulldog no tiene pelaje complejo — el tiempo 
 | Servicio | Precio desde |
 |---|---|
 | Baño completo + limpieza de pliegues + uñas | **$18.000 CLP** |
-| Baño + recorte higiénico + limpieza de pliegues + uñas | **$25.000 CLP** |
+| Baño + recorte higiénico + limpieza de pliegues + uñas | **$30.000 CLP** |
 
 > ✅ *El precio puede variar según el estado de la piel y los pliegues al llegar.*
 

@@ -54,9 +54,9 @@ El servicio de corte incluye **todo lo del baño más**:
 |---|---|---|
 | **Baño** (hasta 20 kg) | 15–30 min | $10.000 CLP |
 | **Baño** (más de 20 kg) | 20–40 min | $16.000 CLP |
-| **Corte** (perro pequeño) | 60–90 min | desde $20.000 CLP |
-| **Corte** (perro mediano) | 90 min | desde $25.000 CLP |
-| **Corte** (perro grande) | 90–120 min | desde $35.000 CLP |
+| **Corte** (perro pequeño) | 60–90 min | desde $28.000 CLP |
+| **Corte** (perro mediano) | 90 min | desde $28.000 CLP |
+| **Corte** (perro grande) | 90–120 min | desde $40.000 CLP |
 
 > *El precio puede variar según el estado del pelaje de tu perrito.*
 

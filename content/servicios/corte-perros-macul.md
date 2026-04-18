@@ -42,9 +42,9 @@ Sin llamadas, sin ir a preguntar si hay hora disponible. Reservas cuando quieras
 
 | Tamaño | Ejemplo de raza | Precio desde |
 |---|---|---|
-| 🐾 Pequeño | Schnauzer mini, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐾 Pequeño | Schnauzer mini, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐾 Mediano | Cocker Spaniel, Beagle, Border Collie | **$33.000 CLP** |
-| 🐾 Grande | Golden Retriever, Labrador, Husky | **$45.000 CLP** |
+| 🐾 Grande | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 *El precio final puede variar según condición del pelaje y tipo de corte. Te lo confirmamos antes de empezar — sin sorpresas.*
 

@@ -44,9 +44,9 @@ Sin llamar, sin esperar que alguien conteste. Reserva el horario que más te aco
 
 | Tamaño | Ejemplo de raza | Precio |
 |---|---|---|
-| 🐾 **Pequeño** | Yorkshire, Poodle mini, Maltés | **$25.000 CLP** |
+| 🐾 **Pequeño** | Yorkshire, Poodle mini, Maltés | **$28.000 – $30.000 CLP** |
 | 🐾 **Mediano** | Beagle, Cocker, Schnauzer | **$33.000 CLP** |
-| 🐾 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐾 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Todos los precios incluyen baño completo, secado, cepillado y perfume. Consulta por razas de pelaje especial o doble capa.*
 

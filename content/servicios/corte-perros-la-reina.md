@@ -24,7 +24,7 @@ Peluqueros con experiencia real en razas de doble capa, pelajes rizados, razas t
 En Washdog tu perro no espera encerrado mientras atendemos a otros. Llega, lo atendemos, se va feliz. Así de simple. Lo valoramos especialmente nuestros clientes de La Reina, Ñuñoa, Providencia y Peñalolén.
 
 **Reserva fácil, precio claro desde el primer momento**
-Sin llamadas interminables ni sorpresas al retirar. Agenda online 24/7 o por WhatsApp en segundos, con precios transparentes desde $25.000 CLP.
+Sin llamadas interminables ni sorpresas al retirar. Agenda online 24/7 o por WhatsApp en segundos, con precios transparentes desde $28.000 CLP.
 
 ---
 
@@ -42,9 +42,9 @@ Sin llamadas interminables ni sorpresas al retirar. Agenda online 24/7 o por Wha
 
 | Tamaño | Peso aprox. | Precio desde |
 |---|---|---|
-| 🐩 Pequeño | Hasta 10 kg | **$25.000 CLP** |
-| 🐕 Mediano | 10 – 25 kg | **$35.000 CLP** |
-| 🐕‍🦺 Grande | Más de 25 kg | **$45.000 CLP** |
+| 🐩 Pequeño | Hasta 10 kg | **$28.000 – $30.000 CLP** |
+| 🐕 Mediano | 10 – 25 kg | **$30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 Grande | Más de 25 kg | **$40.000 – $50.000 CLP** |
 
 > *El precio final puede variar según raza, tipo de pelaje y estado del manto. Te confirmamos el valor exacto antes de comenzar.*
 

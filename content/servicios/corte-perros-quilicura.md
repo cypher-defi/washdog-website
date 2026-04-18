@@ -42,9 +42,9 @@ Reserva tu hora por WhatsApp o desde la web en cualquier momento. Confirmamos en
 
 | Tamaño del perro | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Poodle Mini, Yorkshire | $25.000 CLP |
+| 🐩 **Pequeño** | Chihuahua, Poodle Mini, Yorkshire | $28.000 – $30.000 CLP |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | $33.000 CLP |
-| 🦮 **Grande** | Golden Retriever, Labrador, Husky | $45.000 CLP |
+| 🦮 **Grande** | Golden Retriever, Labrador, Husky | $40.000 – $50.000 CLP |
 
 > *Precio final confirmado al momento de la reserva según raza y estado del pelaje.*
 

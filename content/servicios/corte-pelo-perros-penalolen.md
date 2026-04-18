@@ -44,8 +44,8 @@ Para razas de pelo largo o rizado que salen al parque regularmente, el corte de 
 | Tamaño | Razas habituales | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Chihuahua | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, Caniche | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, Caniche | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Precio todo incluido. Sin sorpresas al llegar a buscar a tu perro.
 

@@ -44,9 +44,9 @@ Nada de shampoos genéricos. Usamos productos hipoalergénicos certificados, apt
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Todos los precios incluyen lavado, secado y perfume. Sin cobros sorpresa.*
 

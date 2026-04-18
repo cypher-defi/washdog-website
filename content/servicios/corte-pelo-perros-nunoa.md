@@ -51,8 +51,8 @@ No tienes que viajar lejos para dejar a tu perro en buenas manos.
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ El precio incluye baño, corte, secado, peinado, limpieza de oídos y corte de uñas.
 > Razas de doble capa o pelaje muy largo consultar — cotizamos sin compromiso.

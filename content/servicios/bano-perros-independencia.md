@@ -44,9 +44,9 @@ Usamos solo productos premium hipoalergénicos y atendemos a cada mascota con ca
 
 | Tamaño del perro | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkie, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkie, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > 💬 *¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te cotizamos sin compromiso.*
 

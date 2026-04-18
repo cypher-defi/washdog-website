@@ -44,9 +44,9 @@ Usamos línea premium hipoalergénica, segura para perros con piel delicada, ale
 
 | Tamaño | Ejemplos de razas | Precio desde |
 |---|---|---|
-| 🐕 **Pequeño** | Chihuahua, Yorkie, Maltés | **$25.000 CLP** |
+| 🐕 **Pequeño** | Chihuahua, Yorkie, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, French Poodle | **$33.000 CLP** |
-| 🐕 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐕 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio final según tamaño real, condición del pelaje y servicio seleccionado. El corte, las uñas y la revisión de orejas están incluidos.*
 

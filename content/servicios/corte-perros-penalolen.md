@@ -44,9 +44,9 @@ Agenda online disponible las 24 horas. Sin llamadas, sin ir hasta el local a pre
 
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Schnauzer Mini | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Schnauzer Mini | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Cocker, Beagle, Labrador | **$33.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Husky, Pastor Alemán | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Husky, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 > 💡 *¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te confirmamos el precio en minutos.*
 

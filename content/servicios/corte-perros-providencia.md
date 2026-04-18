@@ -42,9 +42,9 @@ Peluqueros especializados por raza y una garantía real: si el resultado no cump
 
 | Tamaño | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Husky, Labrador | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Husky, Labrador | **$40.000 – $50.000 CLP** |
 
 > *El precio final puede variar según el largo del pelo, el estado del pelaje y la raza. Te confirmamos el valor exacto al momento de la reserva — sin sorpresas.*
 

@@ -42,9 +42,9 @@ Nada de "depende" ni cobros inesperados al retirar a tu perro. Te decimos el pre
 
 | Tamaño del perro | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Bulldog | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precios incluyen baño completo, secado, perfume y limpieza de orejas. Servicios adicionales como corte de pelo o corte de uñas se cotizan aparte.*
 

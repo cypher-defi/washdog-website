@@ -44,9 +44,9 @@ Nada de sorpresas al final. Te cotizamos al tiro según el tamaño y la raza. Lo
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$20.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$35.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > 💬 *¿No sabes en qué categoría entra tu perro? Escríbenos y te cotizamos en el momento — sin compromiso.*
 

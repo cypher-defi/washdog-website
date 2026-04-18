@@ -42,9 +42,9 @@ Agenda online disponible 24/7, sin llamar ni esperar. Estamos a minutos del Metr
 
 | Tamaño | Ejemplo de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Poodle Toy | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Poodle Toy | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$32.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio incluye baño, secado, corte, lima de uñas y perfume. Sin letra chica.*
 

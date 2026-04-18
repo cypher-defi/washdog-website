@@ -44,7 +44,7 @@ Con nuestra agenda online reservas el horario exacto que más te acomoda, desde 
 
 | Tamaño | Ejemplo de raza | Precio CLP |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | Desde **$25.000** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | Desde **$28.000 – $30.000** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | Desde **$32.000** |
 | 🐕‍🦺 **Grande** | Golden, Labrador, Husky | Desde **$42.000** |
 

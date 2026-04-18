@@ -64,7 +64,7 @@ Sí. Atendemos de forma individual, sin otros perros presentes, lo que reduce co
 
 | Servicio | Precio desde |
 |---|---|
-| Corte completo + baño + secado profesional | **$45.000 CLP** |
+| Corte completo + baño + secado profesional | **$50.000 CLP** |
 | Baño + secado (sin corte) | **$18.000 CLP** |
 
 > ✅ *El precio puede variar según el estado del pelaje. Goldens con nudos o mucho subpelo pueden tener un recargo.*

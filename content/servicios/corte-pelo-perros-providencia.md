@@ -52,8 +52,8 @@ Si no sabes con qué frecuencia llevar a tu perro, cuéntanos la raza al reserva
 | Tamaño | Ejemplos | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Chihuahua | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, French Bulldog | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, French Bulldog | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Incluye baño, corte, secado, peinado, limpieza de oídos y revisión de uñas. Sin cobros ocultos.
 

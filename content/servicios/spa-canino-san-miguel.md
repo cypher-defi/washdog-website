@@ -45,9 +45,9 @@ Atendemos a familias de San Miguel, Pedro Aguirre Cerda, Lo Espejo y comunas cer
 
 | Tamaño | Ejemplo de razas | Precio desde |
 |---|---|---|
-| 🐩 Pequeño (hasta 10 kg) | Yorkie, Maltés, Poodle Toy | **$25.000 CLP** |
+| 🐩 Pequeño (hasta 10 kg) | Yorkie, Maltés, Poodle Toy | **$28.000 – $30.000 CLP** |
 | 🐕 Mediano (10–25 kg) | Beagle, Cocker, Bulldog | **$32.000 CLP** |
-| 🐕‍🦺 Grande (más de 25 kg) | Golden, Husky, Labrador | **$45.000 CLP** |
+| 🐕‍🦺 Grande (más de 25 kg) | Golden, Husky, Labrador | **$40.000 – $50.000 CLP** |
 
 > 💬 *Precio final según raza, largo de pelo y estado del manto. Sin cobros extra al retirar.*
 

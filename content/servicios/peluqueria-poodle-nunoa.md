@@ -64,8 +64,8 @@ Sí. Si tu veterinario te recomendó un shampoo específico, puedes traerlo y lo
 
 | Tamaño | Precio desde |
 |---|---|
-| Poodle toy / miniatura | **$25.000 CLP** |
-| Poodle estándar | **$35.000 CLP** |
+| Poodle toy / miniatura | **$28.000 CLP** |
+| Poodle estándar | **$40.000 CLP** |
 
 > ✅ *Incluye baño, corte completo y uñas. El precio puede variar según el estado del pelaje y el tipo de corte.*
 

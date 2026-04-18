@@ -48,9 +48,9 @@ Agenda online disponible las 24 horas por WhatsApp o formulario web. Sin llamada
 
 | Tamaño | Razas de ejemplo | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés, Poodle mini | **$20.000 CLP** |
-| 🐕 **Mediano** | Schnauzer, Cocker, Beagle, Shih Tzu | **$25.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Border Collie, Husky | **$35.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés, Poodle mini | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Schnauzer, Cocker, Beagle, Shih Tzu | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Border Collie, Husky | **$40.000 – $50.000 CLP** |
 
 *Precios varían según condición del pelaje y servicios adicionales. Sin letra chica.*
 

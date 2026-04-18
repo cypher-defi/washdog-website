@@ -24,7 +24,7 @@ Atendemos dueños de Lo Espejo, El Bosque, Pedro Aguirre Cerda y comunas cercana
 Sin jaulas de espera ni apuros. Tu perro recibe atención personalizada de principio a fin — por eso llegan nerviosos y se van moviendo la cola.
 
 **💬 Precio claro, sin cobros escondidos**
-Nada de *"te avisamos al final"*. Antes de reservar ya sabes cuánto pagas. Precio justo desde $25.000 CLP según el tamaño de tu perro.
+Nada de *"te avisamos al final"*. Antes de reservar ya sabes cuánto pagas. Precio justo desde $28.000 CLP según el tamaño de tu perro.
 
 ---
 

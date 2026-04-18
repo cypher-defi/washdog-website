@@ -4,7 +4,7 @@ description: "Sin estrés, sin sorpresas, con el cariño que él se merece."
 keywords: "peluquería canina Lo Espejo, peluquería canina Lo Espejo, grooming Lo Espejo, Washdog"
 date: "2026-03-10"
 ---
-En Washdog sabemos que tu perro es familia. Por eso cada baño, cada corte y cada uña cortada se hace con calma, productos premium y atención personalizada. **Precios claros desde $25.000 CLP — sin letras chicas.**
+En Washdog sabemos que tu perro es familia. Por eso cada baño, cada corte y cada uña cortada se hace con calma, productos premium y atención personalizada. **Precios claros desde $28.000 CLP — sin letras chicas.**
 
 ---
 
@@ -46,9 +46,9 @@ Agenda tu hora por WhatsApp o desde nuestra web en menos de 2 minutos. Tú elige
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio final confirmado al momento de la reserva según raza y estado del pelaje. Sin sorpresas.*
 

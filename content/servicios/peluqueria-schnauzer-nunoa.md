@@ -68,9 +68,9 @@ Sí. Respetamos el largo de barba que prefieras. Si quieres una barba más larga
 
 | Tamaño | Precio desde |
 |---|---|
-| Schnauzer miniatura | **$25.000 CLP** |
-| Schnauzer estándar | **$32.000 CLP** |
-| Schnauzer gigante | **$40.000 CLP** |
+| Schnauzer miniatura | **$28.000 CLP** |
+| Schnauzer estándar | **$35.000 CLP** |
+| Schnauzer gigante | **$45.000 CLP** |
 
 > ✅ *Incluye baño, corte completo y uñas. El precio puede variar según el estado del pelaje al llegar.*
 

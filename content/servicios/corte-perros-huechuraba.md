@@ -42,9 +42,9 @@ El corte perros Huechuraba tiene un valor cerrado según el tamaño de tu mascot
 
 | Tamaño del perro | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐾 **Pequeño** | Yorkshire, Maltés, Poodle Toy | **$25.000 CLP** |
-| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$35.000 CLP** |
-| 🐶 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐾 **Pequeño** | Yorkshire, Maltés, Poodle Toy | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Schnauzer, Cocker, Beagle | **$30.000 – $30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > 💬 ¿No sabes en qué categoría entra tu perro? Escríbenos y te confirmamos el precio antes de reservar.
 

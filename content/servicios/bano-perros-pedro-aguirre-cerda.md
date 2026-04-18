@@ -49,9 +49,9 @@ Agenda online 24/7 por WhatsApp o formulario web. Sin llamadas en horario de ofi
 
 | Tamaño | Ejemplo de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkie, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkie, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Bulldog | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 *Precios incluyen baño, secado, perfume y cepillado. Servicios adicionales con valor aparte.*
 

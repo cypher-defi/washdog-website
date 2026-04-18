@@ -42,9 +42,9 @@ Por WhatsApp o formulario online, desde el celular, a cualquier hora. Sin llamad
 
 | Tamaño del perro | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Schnauzer mini, Yorkie | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Schnauzer mini, Yorkie | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Shih Tzu | **$33.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > 💬 ¿No sabes en qué categoría entra tu perro? Escríbenos y te cotizamos en minutos, sin compromiso.
 

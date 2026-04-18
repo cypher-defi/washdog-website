@@ -42,9 +42,9 @@ Agenda 100% online, disponible las 24 horas. Sin llamadas, sin esperar. Recibe c
 
 | Tamaño del perro | Ejemplos de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$20.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer estándar | **$25.000 CLP** |
-| 🦮 **Grande** | Golden Retriever, Labrador, Border Collie | **$35.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer estándar | **$30.000 – $35.000 CLP** |
+| 🦮 **Grande** | Golden Retriever, Labrador, Border Collie | **$40.000 – $50.000 CLP** |
 
 *Precios finales según raza, largo de pelo y servicios adicionales. Sin sorpresas al momento de pagar.*
 
@@ -72,7 +72,7 @@ Estamos en Irarrázaval 2086 B. La forma más fácil es tomar **Metro Ñuñoa (L
 ### Preguntas frecuentes — Peluquería canina en Ñuñoa
 
 ### ¿Cuánto cuesta la peluquería canina en Ñuñoa?
-En Washdog los precios parten desde $20.000 CLP para perros pequeños, $25.000 para medianos y $35.000 para perros grandes. El precio final depende de la raza, el largo del pelo y el estado del pelaje. Sin cobros sorpresa.
+En Washdog los precios parten desde $28.000 CLP para perros pequeños, $30.000 para medianos y $40.000 para perros grandes. El precio final depende de la raza, el largo del pelo y el estado del pelaje. Sin cobros sorpresa.
 
 ### ¿Dónde está ubicada la peluquería canina en Ñuñoa?
 Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago, Chile. A menos de 10 minutos caminando desde el Metro Ñuñoa y el Metro Irarrázaval (Línea 3).

@@ -42,9 +42,9 @@ Sin llamadas, sin esperar que alguien conteste. Reserva tu hora desde el celular
 
 | Tamaño del perro | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐾 **Pequeño** | Yorkshire, Shih Tzu, Chihuahua | **$25.000 CLP** |
+| 🐾 **Pequeño** | Yorkshire, Shih Tzu, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Cocker, Beagle, French Bulldog | **$33.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$45.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Todos los precios incluyen baño, secado, perfume, limpieza de oídos y revisión de uñas.
 > Consulta por razas de doble capa o tamaños especiales — te cotizamos sin compromiso.

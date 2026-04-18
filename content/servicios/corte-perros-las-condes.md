@@ -42,9 +42,9 @@ Sin llamadas, sin esperas en línea. Agenda por WhatsApp o formulario web y reci
 
 | Tamaño | Ejemplos de raza | Precio CLP |
 |---|---|---|
-| 🐩 Pequeño | Bichón, Yorkie, Maltés | $25.000 |
-| 🐕 Mediano | Schnauzer, Cocker, Beagle | $32.000 |
-| 🦮 Grande | Golden, Labrador, Border Collie | $45.000 |
+| 🐩 Pequeño | Bichón, Yorkie, Maltés | $28.000 – $30.000 |
+| 🐕 Mediano | Schnauzer, Cocker, Beagle | $30.000 – $35.000 |
+| 🦮 Grande | Golden, Labrador, Border Collie | $40.000 – $50.000 |
 
 *Precios referenciales. El valor final se confirma al agendar según raza y condición del pelaje.*
 

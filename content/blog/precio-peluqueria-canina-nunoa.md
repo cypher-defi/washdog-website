@@ -32,10 +32,10 @@ No todos los perros cuestan lo mismo, y eso es normal. Los factores principales 
 
 | Tamaño | Pelo corto | Pelo largo o medio |
 |---|---|---|
-| Pequeño | $20.000 | $25.000 |
-| Mediano | $25.000 | $30.000 |
-| Grande | $35.000 | $45.000 |
-| Gato | $40.000 | — |
+| Pequeño | $28.000 | $30.000 |
+| Mediano | $30.000 | $35.000 |
+| Grande | $40.000 | $50.000 |
+| Gato | $45.000 | — |
 
 *El precio puede variar según el estado del pelaje de tu perrito.*
 
@@ -60,7 +60,7 @@ El precio refleja la calidad de los productos, la experiencia del equipo y las c
 Cada 3 a 6 semanas para pelo largo, cada 6 a 8 semanas para pelo corto.
 
 **¿También hacen peluquería para gatos?**
-Sí, contamos con [peluquería para gatos en Ñuñoa](/servicios/peluqueria-gatos-nunoa). El precio es $40.000 e incluye baño.
+Sí, contamos con [peluquería para gatos en Ñuñoa](/servicios/peluqueria-gatos-nunoa). El precio es $45.000 e incluye baño.
 
 **¿Puedo ver los precios completos antes de agendar?**
 Sí, en la [página de precios](/servicios/precio-peluqueria-nunoa) están todos los detalles.

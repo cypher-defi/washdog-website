@@ -46,9 +46,9 @@ Reserva tu hora directo por WhatsApp o desde nuestra web — cualquier día, a c
 
 | Tamaño del perro | Ejemplos de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua, Schnauzer Mini | **$20.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Bulldog, Labrador joven | **$25.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Husky, Labrador, Pastor Alemán | **$35.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua, Schnauzer Mini | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Bulldog, Labrador joven | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Husky, Labrador, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 *Precios referenciales. El valor final se confirma al agendar según raza, largo del pelo y servicio elegido.*
 

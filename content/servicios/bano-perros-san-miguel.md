@@ -44,9 +44,9 @@ Ambiente calmado, sin gritos ni perros de fondo estresando a todos. Cada mascota
 
 | Tamaño | Ejemplo de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio incluye baño completo, secado, perfume y cepillado. Servicios adicionales como corte de pelo o tratamiento antipulgas se cotizan por separado.*
 

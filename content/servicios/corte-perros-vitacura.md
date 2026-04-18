@@ -44,9 +44,9 @@ Agenda tu hora por WhatsApp o desde nuestro formulario web en menos de dos minut
 
 | Tamaño | Ejemplo de raza | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Maltés, Poodle Mini, Chihuahua | **$25.000 CLP** |
+| 🐩 **Pequeño** | Maltés, Poodle Mini, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Cocker, Schnauzer, Beagle | **$33.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio final según largo del pelo y condición del manto al momento del servicio. Sin cobros sorpresa.*
 

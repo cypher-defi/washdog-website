@@ -46,9 +46,9 @@ No somos una cadena ni un local donde entran 10 perros a la vez. En Washdog tu p
 
 | Tamaño | Ejemplo de raza | Precio |
 |---|---|---|
-| 🐩 Pequeño (hasta 10 kg) | Poodle, Shih Tzu, Chihuahua | $25.000 CLP |
+| 🐩 Pequeño (hasta 10 kg) | Poodle, Shih Tzu, Chihuahua | $28.000 – $30.000 CLP |
 | 🐕 Mediano (10–25 kg) | Beagle, Cocker, Schnauzer | $33.000 CLP |
-| 🦮 Grande (más de 25 kg) | Labrador, Golden, Husky | $45.000 CLP |
+| 🦮 Grande (más de 25 kg) | Labrador, Golden, Husky | $40.000 – $50.000 CLP |
 
 *Precios incluyen baño completo, secado y perfume. Servicios adicionales como corte de pelo o deslanado se cotizan por separado.*
 

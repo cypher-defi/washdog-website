@@ -42,9 +42,9 @@ Sabemos lo mucho que querís a tu perro. Por eso cada atención es personalizada
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Poodle mini, Yorkshire | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Poodle mini, Yorkshire | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Bulldog Francés | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Pastor Alemán | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 > *¿Tenés dudas sobre el tamaño de tu perro? Escríbenos y te confirmamos el precio antes de reservar.*
 

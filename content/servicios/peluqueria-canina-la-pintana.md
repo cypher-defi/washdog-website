@@ -42,9 +42,9 @@ Sin llamadas, sin filas, sin complicaciones. Agenda tu hora por WhatsApp o desde
 
 | Tamaño del perro | Servicio incluido | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Baño, secado, perfume + uñas | **$25.000 CLP** |
+| 🐩 **Pequeño** | Baño, secado, perfume + uñas | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Baño, secado, perfume + uñas | **$32.000 CLP** |
-| 🦮 **Grande** | Baño, secado, perfume + uñas | **$45.000 CLP** |
+| 🦮 **Grande** | Baño, secado, perfume + uñas | **$40.000 – $50.000 CLP** |
 
 > ✅ Corte de pelo, deslanado y tratamiento antipulgas tienen valor adicional según raza y tamaño. Consultá sin compromiso por WhatsApp.
 > 📍 Atendemos también a vecinos de El Bosque, San Ramón, Pedro Aguirre Cerda y comunas cercanas.

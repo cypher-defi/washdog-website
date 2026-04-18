@@ -48,8 +48,8 @@ En Washdog tenemos equipo profesional para el secado profundo de doble capa — 
 | Tamaño | Razas | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$36.000 CLP** |
-| 🐶 **Grande** | Golden, Labrador, Husky, Pastor Alemán | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden, Labrador, Husky, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 > ✅ Todo incluido: baño + corte o cepillado + secado + perfumado + oídos + uñas.
 > Consultar para doble capa muy densa o tamaños especiales.

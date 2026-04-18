@@ -18,7 +18,7 @@ date: "2026-03-11"
 ### ¿Por qué Washdog en Renca?
 
 **Precios transparentes, sin sorpresas al final**
-Publicamos los valores según tamaño antes de que reserves. Sabes exactamente cuánto vas a pagar — desde $25.000 CLP — sin letra chica ni cobros de último momento.
+Publicamos los valores según tamaño antes de que reserves. Sabes exactamente cuánto vas a pagar — desde $28.000 CLP — sin letra chica ni cobros de último momento.
 
 **Tu perro no es un número en la fila**
 Trabajamos con turnos limitados para garantizar atención one-to-one. Sin perros amontonados, sin esperas eternas. Tu compañero llega, lo atendemos con calma, y sale tranquilo y feliz.

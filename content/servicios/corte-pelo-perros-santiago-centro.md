@@ -48,8 +48,8 @@ Un corte de mantenimiento cada 4–6 semanas, combinado con baño regular, manti
 | Tamaño | Razas habituales | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés, Chihuahua | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, French Bulldog | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, French Bulldog | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador | **$40.000 – $50.000 CLP** |
 
 > ✅ Precio completo sin sorpresas: baño + corte + secado + perfumado + oídos + uñas.
 

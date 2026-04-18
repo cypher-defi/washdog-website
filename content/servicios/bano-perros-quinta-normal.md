@@ -44,9 +44,9 @@ Agenda por WhatsApp o formulario web a cualquier hora del día. Confirmación in
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐕 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
+| 🐕 **Pequeño** | Yorkshire, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🐕 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐕 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ *Todos los precios incluyen baño, secado, perfume y cepillado.*
 > ¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te confirmamos en segundos.

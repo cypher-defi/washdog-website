@@ -44,9 +44,9 @@ No cobramos el baño, el secado y el perfume por separado como hacen muchos en e
 
 | Tamaño del perro | Ejemplo de raza | Precio |
 |---|---|---|
-| 🐩 Pequeño (hasta 10 kg) | Yorkshire, Maltés, Chihuahua | **$25.000 CLP** |
+| 🐩 Pequeño (hasta 10 kg) | Yorkshire, Maltés, Chihuahua | **$28.000 – $30.000 CLP** |
 | 🐕 Mediano (10–25 kg) | Beagle, Cocker, mestizo mediano | **$32.000 CLP** |
-| 🐕‍🦺 Grande (más de 25 kg) | Labrador, Golden, Pastor Alemán | **$45.000 CLP** |
+| 🐕‍🦺 Grande (más de 25 kg) | Labrador, Golden, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 > *Precio incluye baño, secado, perfume y cepillado. Sin costos ocultos.*
 

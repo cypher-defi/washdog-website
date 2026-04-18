@@ -42,9 +42,9 @@ Atendemos a dueños de Peñalolén, La Reina, Macul y comunas cercanas que quier
 
 | Tamaño del perro | Ejemplo de raza | Precio desde |
 |---|---|---|
-| 🐩 Pequeño | Yorkie, Maltés, Poodle Mini | **$20.000 CLP** |
-| 🐕 Mediano | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
-| 🐕‍🦺 Grande | Golden, Labrador, Husky | **$35.000 CLP** |
+| 🐩 Pequeño | Yorkie, Maltés, Poodle Mini | **$28.000 – $30.000 CLP** |
+| 🐕 Mediano | Beagle, Cocker, Schnauzer | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🐕‍🦺 Grande | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precio final confirmado al momento de la reserva según raza y condición del pelaje. Sin sorpresas.*
 

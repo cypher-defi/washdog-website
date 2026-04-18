@@ -21,11 +21,11 @@ const includes = [
 ]
 
 const pricing = [
-  { label: "Toy", short: "$15.000", long: "$20.000" },
-  { label: "Pequeño", short: "$18.000", long: "$25.000" },
-  { label: "Mediano", short: "$22.000", long: "$30.000" },
-  { label: "Grande", short: "$30.000", long: "$35.000" },
-  { label: "Gigante", short: "$38.000", long: "$50.000" }
+  { label: "Toy", short: "$28.000", long: "$30.000" },
+  { label: "Pequeño", short: "$28.000", long: "$30.000" },
+  { label: "Mediano", short: "$30.000", long: "$35.000" },
+  { label: "Grande", short: "$40.000", long: "$50.000" },
+  { label: "Gigante", short: "$40.000", long: "$50.000" }
 ]
 
 const faqs = [

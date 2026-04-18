@@ -44,9 +44,9 @@ Sin llamadas, sin esperas. Elige día, hora y listo. Recibes confirmación inmed
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkshire, Chihuahua, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkshire, Chihuahua, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$33.000 CLP** |
-| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precios referenciales. El valor exacto se confirma al momento de la reserva según condición del pelaje.*
 

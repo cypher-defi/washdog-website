@@ -74,7 +74,7 @@ Sí. Atendemos Labradores de todos los tamaños. Si tu perro tiene dificultad pa
 | Servicio | Precio desde |
 |---|---|
 | Baño deslanador + secado + uñas | **$18.000 CLP** |
-| Baño deslanador + recorte higiénico + secado + uñas | **$25.000 CLP** |
+| Baño deslanador + recorte higiénico + secado + uñas | **$30.000 CLP** |
 
 > ✅ *El precio puede variar según el estado del pelaje. Labradores con mucho subpelo acumulado pueden tener un recargo.*
 

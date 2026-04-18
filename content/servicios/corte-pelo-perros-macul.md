@@ -48,8 +48,8 @@ La respuesta varía según la raza, pero aquí van las pautas generales:
 | Tamaño | Razas | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador | **$40.000 – $50.000 CLP** |
 
 > ✅ Todo incluido. Sin cobros extra por limpieza de oídos, uñas ni perfumado.
 

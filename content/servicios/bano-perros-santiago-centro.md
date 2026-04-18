@@ -48,9 +48,9 @@ Elige el día y hora que más te acomoda directamente desde tu celular. Sin espe
 
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Poodle Mini, Yorkshire | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Poodle Mini, Yorkshire | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$32.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Precio final, sin cobros adicionales. Todo lo indicado arriba siempre incluido.
 > 📍 Atendemos clientes de Santiago Centro, Providencia, Ñuñoa y comunas cercanas.

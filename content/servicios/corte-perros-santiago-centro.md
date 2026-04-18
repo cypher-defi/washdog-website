@@ -42,7 +42,7 @@ El valor del *corte perros Santiago Centro* se informa antes de agendar, según 
 
 | Tamaño del perro | Ejemplos de raza | Precio estimado |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Poodle Toy | desde **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Poodle Toy | desde **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Shih Tzu | desde **$32.000 CLP** |
 | 🐕‍🦺 **Grande** | Golden, Labrador, Husky | desde **$40.000 CLP** |
 

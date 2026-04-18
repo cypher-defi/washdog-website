@@ -68,9 +68,9 @@ Entre 1 y 2 horas según el tamaño del perro y el tipo de pelo. Perros de pelo 
 
 | Tamaño | Pelo corto | Pelo largo |
 |---|---|---|
-| Pequeño | $20.000 | $25.000 |
-| Mediano | $25.000 | $30.000 |
-| Grande | $35.000 | $45.000 |
+| Pequeño | $28.000 | $30.000 |
+| Mediano | $30.000 | $35.000 |
+| Grande | $40.000 | $50.000 |
 
 El baño está incluido en el precio del corte.
 

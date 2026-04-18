@@ -42,9 +42,9 @@ Nada de "depende" ni cobros sorpresa al llegar. Antes de la cita ya sabes exacta
 
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, French Bulldog | **$33.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > *Precios finales, sin cobros adicionales. ¿Tienes dudas sobre el tamaño de tu perro? Escríbenos y te confirmamos al instante.*
 

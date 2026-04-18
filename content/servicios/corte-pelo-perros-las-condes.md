@@ -51,8 +51,8 @@ Las Condes tiene una alta concentración de razas que requieren grooming especia
 | Tamaño | Razas habituales | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés, Chihuahua | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Poodle mediano, Bichón | **$36.000 CLP** |
-| 🐶 **Grande** | Golden, Labrador, Husky, Poodle grande | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Poodle mediano, Bichón | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden, Labrador, Husky, Poodle grande | **$40.000 – $50.000 CLP** |
 
 > ✅ Precio todo incluido: baño + corte + secado + peinado + limpieza oídos + uñas.
 > Consulta por razas de doble capa o muy voluminosas.

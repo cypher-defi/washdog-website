@@ -44,9 +44,9 @@ Cada baño lo hacemos con calma y atención individual. Tu perro no comparte esp
 
 | Tamaño del perro | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Chihuahua, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$33.000 CLP** |
-| 🦮 **Grande** | Labrador, Golden, Husky | **$45.000 CLP** |
+| 🦮 **Grande** | Labrador, Golden, Husky | **$40.000 – $50.000 CLP** |
 
 > 💡 *¿Tienes dudas sobre el tamaño de tu perro? Escríbenos por WhatsApp y te confirmamos el precio antes de reservar.*
 

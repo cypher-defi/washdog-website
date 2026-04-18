@@ -49,8 +49,8 @@ En Washdog hacemos eso. No es un baño rápido con una máquina — es un servic
 | Tamaño | Razas habituales | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Poodle Toy, Chihuahua | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, Poodle Mediano | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Poodle Standard | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón, Poodle Mediano | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Poodle Standard | **$40.000 – $50.000 CLP** |
 
 > ✅ Precio completo: baño + corte + secado + peinado + oídos + uñas. Sin cobros adicionales.
 > Consulta para razas de pelaje especial o voluminoso.

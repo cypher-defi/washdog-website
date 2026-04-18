@@ -48,8 +48,8 @@ La Reina es una de las comunas con mayor diversidad de razas en Santiago. En Was
 | Tamaño | Razas habituales | Precio |
 |---|---|---|
 | 🐾 **Pequeño** | Yorkshire, Shih Tzu, Maltés | **$28.000 CLP** |
-| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$36.000 CLP** |
-| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$48.000 CLP** |
+| 🐕 **Mediano** | Cocker, Schnauzer, Bichón | **$30.000 – $35.000 CLP** |
+| 🐶 **Grande** | Golden Retriever, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > ✅ Todo incluido: baño + corte + secado + perfumado + limpieza oídos + uñas.
 

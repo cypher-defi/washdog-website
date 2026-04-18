@@ -42,9 +42,9 @@ Reserva en menos de 2 minutos desde el celular, sin llamadas ni filas. Con horar
 
 | Tamaño | Raza de ejemplo | Precio desde |
 |---|---|---|
-| 🐕 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$25.000 CLP** |
+| 🐕 **Pequeño** | Chihuahua, Yorkshire, Maltés | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker Spaniel, Labrador joven | **$33.000 CLP** |
-| 🐕 **Grande** | Golden Retriever, Husky, Rottweiler | **$45.000 CLP** |
+| 🐕 **Grande** | Golden Retriever, Husky, Rottweiler | **$40.000 – $50.000 CLP** |
 
 > *Precio final según raza, tamaño y estado del pelaje. Consulta sin compromiso por WhatsApp.*
 

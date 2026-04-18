@@ -42,9 +42,9 @@ Tu perro no comparte espacio con otros. Atención individualizada de principio a
 
 | Tamaño | Ejemplos de razas | Precio desde |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua, Pomerania | **$25.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Chihuahua, Pomerania | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle, French Bulldog | **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky, Border Collie | **$45.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky, Border Collie | **$40.000 – $50.000 CLP** |
 
 > 💡 *Precio incluye baño, secado, corte, lima de uñas y perfumado. Sin cobros sorpresa.*
 > ✅ *El precio puede variar según el estado del pelaje de tu perrito.*

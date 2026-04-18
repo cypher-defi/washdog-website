@@ -44,9 +44,9 @@ Usamos cosmética hipoalergénica premium porque una piel sana evita visitas al 
 
 | Tamaño del perro | Ejemplos de raza | Precio aprox. |
 |---|---|---|
-| 🐩 **Pequeño** | Maltés, Chihuahua, Poodle mini | Desde **$25.000 CLP** |
+| 🐩 **Pequeño** | Maltés, Chihuahua, Poodle mini | Desde **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Schnauzer | Desde **$32.000 CLP** |
-| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | Desde **$40.000 CLP** |
+| 🐕‍🦺 **Grande** | Golden, Labrador, Husky | Desde **$40.000 – $50.000 CLP** |
 
 > *Precios finales según raza, largo de pelo y servicio solicitado. Consulta sin compromiso.*
 

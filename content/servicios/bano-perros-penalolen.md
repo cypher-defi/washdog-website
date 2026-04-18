@@ -42,9 +42,9 @@ Usamos línea premium hipoalergénica, apta para perros con piel sensible o aler
 
 | Tamaño | Ejemplos de razas | Precio |
 |---|---|---|
-| 🐾 **Pequeño** | Chihuahua, Yorkshire, Schnauzer mini | **$25.000 CLP** |
+| 🐾 **Pequeño** | Chihuahua, Yorkshire, Schnauzer mini | **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Beagle, Cocker, Labrador mini | **$32.000 CLP** |
-| 🦮 **Grande** | Golden, Husky, Pastor Alemán | **$45.000 CLP** |
+| 🦮 **Grande** | Golden, Husky, Pastor Alemán | **$40.000 – $50.000 CLP** |
 
 > *Precio incluye baño completo, secado, perfume y revisión de orejas. Sin cobros ocultos.*
 

@@ -22,10 +22,10 @@ const includes = [
 ]
 
 const pricing = [
-  { label: "Pequeño", short: "$20.000", long: "$25.000" },
-  { label: "Mediano", short: "$25.000", long: "$30.000" },
-  { label: "Grande",  short: "$35.000", long: "$45.000" },
-  { label: "Gato",    short: "$40.000", long: "—" }
+  { label: "Pequeño", short: "$28.000", long: "$30.000" },
+  { label: "Mediano", short: "$30.000", long: "$35.000" },
+  { label: "Grande",  short: "$40.000", long: "$50.000" },
+  { label: "Gato",    short: "$45.000", long: "—" }
 ]
 
 const faqs = [
@@ -55,13 +55,13 @@ const serviceSchema = {
   provider: { "@type": "LocalBusiness", name: "Washdog", url: "https://www.washdog.cl" },
   areaServed: { "@type": "City", name: "Ñuñoa, Santiago, Chile" },
   offers: [
-    { "@type": "Offer", name: "Corte perro pequeño (pelo corto)", price: "20000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte perro pequeño (pelo largo)", price: "25000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte perro mediano (pelo corto)", price: "25000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte perro mediano (pelo largo)", price: "30000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte perro grande (pelo corto)",  price: "35000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte perro grande (pelo largo)",  price: "45000", priceCurrency: "CLP" },
-    { "@type": "Offer", name: "Corte gato",                       price: "40000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro pequeño (pelo corto)", price: "28000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro pequeño (pelo largo)", price: "30000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro mediano (pelo corto)", price: "30000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro mediano (pelo largo)", price: "35000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro grande (pelo corto)",  price: "40000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte perro grande (pelo largo)",  price: "50000", priceCurrency: "CLP" },
+    { "@type": "Offer", name: "Corte gato",                       price: "45000", priceCurrency: "CLP" },
   ],
 }
 

@@ -42,9 +42,9 @@ Agenda tu hora por WhatsApp o desde nuestra web en menos de 2 minutos. Sin llama
 
 | Tamaño del perro | Ejemplos de raza | Precio estimado |
 |---|---|---|
-| 🐩 **Pequeño** | Yorkie, Maltés, Poodle mini | **$20.000 CLP** |
-| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$25.000 CLP** |
-| 🦮 **Grande** | Golden, Labrador, Husky | **$35.000 CLP** |
+| 🐩 **Pequeño** | Yorkie, Maltés, Poodle mini | **$28.000 – $30.000 CLP** |
+| 🐕 **Mediano** | Beagle, Cocker, Schnauzer | **$30.000 – $30.000 – $30.000 – $35.000 CLP** |
+| 🦮 **Grande** | Golden, Labrador, Husky | **$40.000 – $50.000 CLP** |
 
 > **Precio fijo según tamaño. Sin cobros sorpresa, sin letras chicas.**
 > ¿Tienes dudas sobre el precio de tu perro? Escríbenos y te cotizamos al tiro.

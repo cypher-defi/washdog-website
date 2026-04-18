@@ -42,7 +42,7 @@ Agenda tu hora por WhatsApp o formulario web en menos de 2 minutos. Sin llamadas
 
 | Tamaño | Ejemplos de raza | Precio |
 |---|---|---|
-| 🐾 **Pequeño** | Shih Tzu, Poodle Toy, Chihuahua | Desde **$25.000 CLP** |
+| 🐾 **Pequeño** | Shih Tzu, Poodle Toy, Chihuahua | Desde **$28.000 – $30.000 CLP** |
 | 🐕 **Mediano** | Schnauzer, Cocker, Beagle | Desde **$32.000 CLP** |
 | 🐶 **Grande** | Golden, Labrador, Husky | Desde **$42.000 CLP** |
 

@@ -49,7 +49,7 @@ Agenda tu hora online en menos de 2 minutos, desde el celular, a cualquier hora.
 
 | Tamaño | Ejemplos de raza | Precio aprox. |
 |---|---|---|
-| 🐕 **Pequeño** | Yorkshire, Poodle mini, Maltés | desde **$25.000 CLP** |
+| 🐕 **Pequeño** | Yorkshire, Poodle mini, Maltés | desde **$28.000 – $30.000 CLP** |
 | 🐕‍🦺 **Mediano** | Schnauzer, Cocker, Beagle | desde **$32.000 CLP** |
 | 🐩 **Grande** | Golden, Labrador, Husky | desde **$40.000 CLP** |
 
