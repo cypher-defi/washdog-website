@@ -14,7 +14,7 @@ Después de cada paseo por las calles de Santiago — el Parque Inés de Suárez
 
 ## ¿Qué trae tu perro de cada paseo urbano?
 
-Según un estudio de la *Journal of Applied Microbiology* (2021), las patas de los perros pueden transportar hasta **1.000 bacterias distintas** por centímetro cuadrado después de caminar por espacios urbanos. Las más comunes incluyen *E. coli*, *Salmonella* y *Staphylococcus*.
+Estudios de microbiología ambiental han documentado que las patas de los perros pueden transportar una amplia variedad de bacterias después de caminar por espacios urbanos, incluyendo cepas de *E. coli*, *Salmonella* y *Staphylococcus*.
 
 Lo que tu perro trae de la calle después de cada paseo:
 

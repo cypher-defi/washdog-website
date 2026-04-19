@@ -26,7 +26,7 @@ Si el baño se repite antes de que la piel haya podido recuperar ese manto (lo q
 | Dermatitis de contacto | Sensibilización de la piel | Variable según sensibilidad de la raza |
 | Proliferación de hongos | Piel con defensas disminuidas | Más frecuente en razas de piel plegada |
 
-*Fuente: Veterinary Dermatology, 2022. "Skin barrier function in domestic dogs and the effects of excessive bathing frequency."*
+*Basado en guías de dermatología veterinaria sobre frecuencia de baño y función de barrera cutánea en perros.*
 
 ## La frecuencia correcta según tipo de pelo y estilo de vida
 

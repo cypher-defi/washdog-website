@@ -16,7 +16,7 @@ Esta guía te dice exactamente qué preguntar, qué verificar y qué señales ev
 
 Los perros en Santiago viven mayoritariamente en departamentos o casas con jardín pequeño. Sin estimulación física y mental diaria, pueden desarrollar ansiedad, comportamientos destructivos y problemas de salud relacionados con el sedentarismo.
 
-Según la *Asociación Chilena de Medicina Veterinaria*, los perros necesitan entre **30 y 90 minutos de actividad física diaria** según la raza. Para dueños con jornada laboral completa, un paseador resuelve ese problema de forma profesional.
+Los perros necesitan entre **30 y 90 minutos de actividad física diaria** según la raza — una guía ampliamente aceptada por veterinarios y especialistas en comportamiento canino. Para dueños con jornada laboral completa, un paseador resuelve ese problema de forma profesional.
 
 ## Qué hace un buen paseador de perros
 

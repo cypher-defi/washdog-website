@@ -69,7 +69,7 @@ No necesariamente. Los estudios muestran beneficios inmunológicos de crecer con
 Los shampoos hipoalergénicos para perros, sin sulfatos ni fragancias sintéticas agresivas, son los más seguros. En Washdog usamos formulaciones suaves que no generan residuos irritantes. Consulta con tu veterinario si tu perro tiene piel sensible.
 
 **¿Con qué frecuencia debo llevar a mi perro al veterinario después de que llegó el bebé?**
-Mantén el calendario de vacunas y desparasitaciones. Una desparasitación interna cada 3 meses y externa mensual es lo recomendado para perros que conviven con bebés, según la *Sociedad Chilena de Medicina Veterinaria*.
+Mantén el calendario de vacunas y desparasitaciones. Para perros que conviven con bebés, lo habitual es desparasitación interna cada 3 meses y externa mensual — confirma la frecuencia exacta con tu veterinario según el estilo de vida de tu mascota.
 
 **¿Mi bebé puede alérgico a mi perro?**
 La alergia a mascotas existe, pero no es causada por el pelo — sino por la caspa animal (proteínas en la piel muerta del animal). Un baño regular reduce significativamente los niveles de alérgenos en el entorno. Si tienes antecedentes familiares de alergias, consulta con un pediatra.
