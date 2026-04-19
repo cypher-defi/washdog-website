@@ -94,8 +94,8 @@ export async function GET(req: NextRequest) {
           phone,
           serviceType,
           size,
-          startTime: e.start!.dateTime,
-          endTime: e.end!.dateTime,
+          startTime: e.start!.dateTime as string,
+          endTime: e.end!.dateTime as string,
         }
       })
       .filter((r): r is NonNullable<typeof r> => r !== null)
