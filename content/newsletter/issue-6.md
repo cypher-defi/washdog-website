@@ -1,10 +1,10 @@
 ---
 issue_number: 6
-title: "🐾 Macul tiene un rincón para ti y tu perro"
-subject_line: "🐾 Macul tiene un rincón para ti y tu perro"
+title: "🐾 La Reina tiene un rincón para ti y tu perro"
+subject_line: "🐾 La Reina tiene un rincón para ti y tu perro"
 description: "Parque Padre Hurtado, paseos de otoño y cómo preparar a tu perro para el cambio de estación."
 date: "2026-04-18"
-commune: "Macul"
+commune: "La Reina"
 ---
 
 Hola 🐾, aquí va tu dosis semanal de Santiago perruno.
