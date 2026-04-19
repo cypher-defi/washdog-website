@@ -37,11 +37,34 @@ export function BeforeAfter() {
                 sizes="(max-width: 768px) 100vw, 1200px"
                 priority={current === 0}
               />
+
+              {/* Antes / Después pills */}
+              <div className="absolute bottom-4 left-4">
+                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
+                  Antes
+                </span>
+              </div>
+              <div className="absolute bottom-4 right-4">
+                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-primary/90 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
+                  Después
+                </span>
+              </div>
+
+              {/* Logo watermark */}
+              <div className="absolute top-4 right-4">
+                <Image
+                  src="/Washdog.png"
+                  alt="Washdog"
+                  width={90}
+                  height={32}
+                  className="object-contain opacity-90 drop-shadow-md"
+                />
+              </div>
             </div>
           </div>
 
           {/* Caption */}
-          <p className="text-center text-sm text-primary/50 font-light mt-4">
+          <p className="text-center text-base text-primary/70 font-medium mt-5 tracking-tight">
             {CASES[current].caption}
           </p>
 
