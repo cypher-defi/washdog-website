@@ -98,8 +98,8 @@ export async function GET(req: NextRequest) {
           endTime: e.end!.dateTime,
         }
       })
-      .filter(Boolean)
-      .sort((a, b) => a!.startTime.localeCompare(b!.startTime))
+      .filter((r): r is NonNullable<typeof r> => r !== null)
+      .sort((a, b) => a.startTime.localeCompare(b.startTime))
 
     return NextResponse.json({ reservations }, { headers: CORS_HEADERS })
   } catch (err) {
