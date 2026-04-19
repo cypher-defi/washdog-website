@@ -21,7 +21,7 @@ Es uno de los parques más grandes y mejor equipados del sector oriente para ir 
 
 📌 **Av. Francisco Bilbao 8105, La Reina**
 🕐 **Horario:** martes a domingo, 8:30 a 18:00
-💰 **Entrada:** $500 por persona + $1.000 adicional si entras con mascota. Correa obligatoria y bolsitas para deposiciones.
+💰 **Entrada:** $500 por persona (sin mascota) · $1.000 por persona con mascota. Correa obligatoria y bolsitas para deposiciones.
 
 > 💬 *Ideal para un paseo largo de domingo. Con el clima fresco de abril, tu perro va a querer quedarse más de lo habitual.*
 
@@ -42,7 +42,7 @@ En esta época del año, con el sol de la mañana y el fresco de abril, el circu
 
 ---
 
-## 💡 Tip de la Semana: Preparar a tu perro para el otoño en Macul y La Reina
+## 💡 Tip de la Semana: Preparar a tu perro para el otoño en La Reina
 
 Abril es el mes en que el clima santiaguino cambia de verdad, y hay ajustes simples que marcan diferencia en el bienestar de tu perro durante esta transición.
 
