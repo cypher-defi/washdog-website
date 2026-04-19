@@ -73,12 +73,18 @@ export async function GET(req: NextRequest) {
       }),
     ])
 
-    const allEvents = [
-      ...(bathRes.data.items || []),
-      ...(cutRes.data.items || []),
-    ]
+    const bathItems = bathRes.data.items || []
+    const cutItems  = cutRes.data.items  || []
 
-    const reservations = allEvents
+    function findBlock(items: typeof bathItems) {
+      const e = items.find(e => e.start?.date === date && (e.summary || "").includes("BLOQUEADO"))
+      return e ? { eventId: e.id as string } : null
+    }
+
+    const blockedBath = findBlock(bathItems)
+    const blockedCut  = findBlock(cutItems)
+
+    const reservations = [...bathItems, ...cutItems]
       .filter(e => e.start?.dateTime)
       .map(e => {
         const startDT = new Date(e.start!.dateTime!)
@@ -101,7 +107,7 @@ export async function GET(req: NextRequest) {
       .filter((r): r is NonNullable<typeof r> => r !== null)
       .sort((a, b) => a.startTime.localeCompare(b.startTime))
 
-    return NextResponse.json({ reservations }, { headers: CORS_HEADERS })
+    return NextResponse.json({ reservations, blockedBath, blockedCut }, { headers: CORS_HEADERS })
   } catch (err) {
     console.error("[pos-reservations]", err)
     return NextResponse.json({ error: "Failed to fetch reservations" }, { status: 500, headers: CORS_HEADERS })
