@@ -4,6 +4,7 @@ export { Features } from './Features';
 export { MidPageCTA } from './MidPageCTA';
 export { Services } from './Services';
 export { Testimonials } from './Testimonials';
+export { BeforeAfter } from './BeforeAfter';
 export { EmotiveClose } from './EmotiveClose';
 export { FAQ } from './FAQ';
 export { Contact } from './Contact';

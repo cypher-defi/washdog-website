@@ -9,6 +9,7 @@ import {
   Features,
   MidPageCTA,
   Testimonials,
+  BeforeAfter,
   EmotiveClose,
   FAQ,
   Contact,
@@ -38,6 +39,7 @@ export function HomeClient({ rating, reviews, newsletterIssues }: { rating: numb
         <Features />
         <MidPageCTA onBookClick={booking.openModal} rating={rating} />
         <Testimonials reviews={reviews} />
+        <BeforeAfter />
         <NewsletterBanner />
         <FAQ />
         <EmotiveClose onBookClick={booking.openModal} rating={rating} />
