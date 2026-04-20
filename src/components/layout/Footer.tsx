@@ -147,7 +147,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
                 </a>
               </div>
               <div className='pt-2'>
-                <h4 className='text-white font-medium text-lg mb-4'>Horario</h3>
+                <h3 className='text-white font-medium text-lg mb-4'>Horario</h3>
                 <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                   <p>Lun - Dom</p>
                   <p className='whitespace-nowrap'>10:00 - 20:00</p>
