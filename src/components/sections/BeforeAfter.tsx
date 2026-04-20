@@ -28,7 +28,7 @@ export function BeforeAfter() {
 
         <div className="relative max-w-3xl mx-auto">
           <div className="overflow-hidden rounded-3xl border border-primary/5 shadow-sm">
-            <div className="relative aspect-[8/5] w-full">
+            <div className="relative aspect-[2400/1315] w-full">
               <Image
                 src={CASES[current].src}
                 alt={CASES[current].caption}
@@ -38,16 +38,16 @@ export function BeforeAfter() {
                 priority={current === 0}
               />
 
-              {/* Centered logo overlay */}
-              <div className="absolute top-4 left-1/2 -translate-x-1/2">
-                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-black/50 backdrop-blur-sm shadow-lg">
-                  <span className="flex items-center justify-center w-6 h-6 rounded-md bg-white/20">
-                    <Icon icon="lucide:dog" className="w-3.5 h-3.5 text-white" />
-                  </span>
-                  <span className="font-serif font-medium text-lg tracking-tight text-white leading-none">
-                    Wash<span className="text-accent-blue">dog.</span>
-                  </span>
-                </div>
+              {/* Antes / Después pills */}
+              <div className="absolute bottom-4 left-4">
+                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
+                  Antes
+                </span>
+              </div>
+              <div className="absolute bottom-4 right-4">
+                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-primary/90 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
+                  Después
+                </span>
               </div>
             </div>
           </div>
