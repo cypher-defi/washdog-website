@@ -112,7 +112,7 @@ export async function POST(req: NextRequest) {
       sendUpdates: "all",
       requestBody: {
         summary: `${name} - ${serviceLabel} (${sizeLabel})`,
-        description: `Reserva Washdog\n\nServicio: ${serviceLabel}\nTamaño: ${sizeLabel}\n\n${notes || ""}${email ? `, Email: ${email}` : ""}`,
+        description: `Reserva Washdog\n\nServicio: ${serviceLabel}\nTamaño: ${sizeLabel}\n\n${notes || ""}${email ? `\nEmail: ${email}` : ""}`,
         start: { dateTime: startTime, timeZone: "America/Santiago" },
         end: { dateTime: endTimeStr, timeZone: "America/Santiago" },
         attendees: [
