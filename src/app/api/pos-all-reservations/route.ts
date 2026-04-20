@@ -41,11 +41,12 @@ function parseNotes(description: string) {
   }
 }
 
-async function listAllEvents(calendar: ReturnType<typeof google.calendar>, calendarId: string, timeMin: string, timeMax: string) {
-  const items = []
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+async function listAllEvents(calendar: any, calendarId: string, timeMin: string, timeMax: string) {
+  const items: any[] = []
   let pageToken: string | undefined = undefined
   do {
-    const res = await calendar.events.list({
+    const res: any = await calendar.events.list({
       calendarId,
       timeMin,
       timeMax,
@@ -85,7 +86,7 @@ export async function GET(req: NextRequest) {
         const { name, serviceType, size } = parseEventSummary(e.summary || "")
         const { dogName, phone, email: emailFromDesc } = parseNotes(e.description || "")
         const email = emailFromDesc ||
-          (e.attendees || []).find(a => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
+          (e.attendees || []).find((a: any) => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
         const fecha = new Date(e.start!.dateTime!).toLocaleDateString("en-CA", { timeZone: "America/Santiago" })
 
         return { eventId: e.id, name, dogName, email, phone, serviceType, size, fecha }
