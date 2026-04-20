@@ -35,11 +35,13 @@ function parseEventSummary(summary: string) {
 }
 
 function parseNotes(description: string) {
-  const dogMatch = description?.match(/Dog:\s*([^\n,]+)/)
+  const dogMatch   = description?.match(/Dog:\s*([^\n,]+)/)
   const phoneMatch = description?.match(/Phone:\s*([^\n,]+)/)
+  const emailMatch = description?.match(/Email:\s*([^\n,]+)/)
   return {
-    dogName: dogMatch?.[1]?.trim() || "",
-    phone: phoneMatch?.[1]?.trim() || "",
+    dogName: dogMatch?.[1]?.trim()   || "",
+    phone:   phoneMatch?.[1]?.trim() || "",
+    email:   emailMatch?.[1]?.trim() || "",
   }
 }
 
@@ -91,9 +93,9 @@ export async function GET(req: NextRequest) {
         if (dateToDateString(startDT) !== date) return null
 
         const { name, serviceType, size } = parseEventSummary(e.summary || "")
-        const { dogName, phone } = parseNotes(e.description || "")
-        const email = (e.attendees || [])
-          .find(a => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
+        const { dogName, phone, email: emailFromDesc } = parseNotes(e.description || "")
+        const email = emailFromDesc ||
+          (e.attendees || []).find(a => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
 
         return {
           eventId: e.id,
