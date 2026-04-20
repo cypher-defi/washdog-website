@@ -275,6 +275,72 @@ Washdog - Peluquería Canina
   return result
 }
 
+interface ReceiptEmailData {
+  to: string
+  name: string
+  dogName?: string
+  services: { servicio: string; monto: number }[]
+  total: number
+  metodo: string
+  fecha: string
+}
+
+export async function sendReceiptEmail(data: ReceiptEmailData) {
+  const rows = data.services.map(s =>
+    `<tr><td style="padding:8px 0;color:#1a1f24;">${s.servicio}</td><td style="padding:8px 0;text-align:right;font-weight:600;color:#1a1f24;">$${s.monto.toLocaleString("es-CL")}</td></tr>`
+  ).join("")
+
+  const html = `
+<!DOCTYPE html><html><head><meta charset="utf-8"></head>
+<body style="margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f5f5f5;">
+  <table role="presentation" style="width:100%;border-collapse:collapse;">
+    <tr><td style="padding:40px 20px;">
+      <table role="presentation" style="max-width:520px;margin:0 auto;background:#ffffff;border-radius:16px;overflow:hidden;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+        <tr><td style="background:linear-gradient(135deg,#1a1f24 0%,#2d3748 100%);padding:36px 40px 28px;text-align:center;">
+          <h1 style="margin:0;color:#ffffff;font-size:26px;font-weight:700;">🐕 Washdog</h1>
+          <p style="margin:8px 0 0;color:rgba(255,255,255,0.7);font-size:13px;">Peluquería Canina · Boleta de Pago</p>
+        </td></tr>
+        <tr><td style="padding:28px 40px 0;">
+          <h2 style="margin:0 0 4px;color:#1a1f24;font-size:20px;font-weight:600;">¡Gracias, ${data.name}!</h2>
+          <p style="margin:0;color:#64748b;font-size:14px;">Aquí está el detalle de tu pago${data.dogName ? ` por ${data.dogName}` : ""}.</p>
+        </td></tr>
+        <tr><td style="padding:20px 40px;">
+          <table role="presentation" style="width:100%;border-collapse:collapse;border:1px solid #e2e8f0;border-radius:10px;overflow:hidden;">
+            <thead><tr style="background:#f8fafc;">
+              <th style="padding:10px 12px;text-align:left;font-size:11px;color:#64748b;text-transform:uppercase;letter-spacing:.05em;">Servicio</th>
+              <th style="padding:10px 12px;text-align:right;font-size:11px;color:#64748b;text-transform:uppercase;letter-spacing:.05em;">Precio</th>
+            </tr></thead>
+            <tbody style="border-top:1px solid #e2e8f0;">
+              ${rows}
+            </tbody>
+            <tfoot><tr style="background:#f0fdf4;border-top:2px solid #86efac;">
+              <td style="padding:12px;font-weight:700;color:#166534;">Total</td>
+              <td style="padding:12px;text-align:right;font-weight:700;color:#166534;font-size:16px;">$${data.total.toLocaleString("es-CL")}</td>
+            </tr></tfoot>
+          </table>
+        </td></tr>
+        <tr><td style="padding:0 40px 28px;">
+          <p style="margin:0;font-size:13px;color:#64748b;">Método de pago: <strong style="color:#1a1f24;">${data.metodo}</strong> &nbsp;·&nbsp; Fecha: <strong style="color:#1a1f24;">${data.fecha}</strong></p>
+        </td></tr>
+        <tr><td style="background:#f8fafc;padding:20px 40px;text-align:center;border-top:1px solid #e2e8f0;">
+          <p style="margin:0;color:#94a3b8;font-size:12px;">Washdog · Peluquería Canina</p>
+        </td></tr>
+      </table>
+    </td></tr>
+  </table>
+</body></html>`
+
+  const text = `Gracias ${data.name}!\n\n${data.services.map(s => `${s.servicio}: $${s.monto.toLocaleString("es-CL")}`).join("\n")}\n\nTotal: $${data.total.toLocaleString("es-CL")}\nMétodo: ${data.metodo}\nFecha: ${data.fecha}\n\nWashdog - Peluquería Canina`
+
+  return transporter.sendMail({
+    from: `"Washdog" <${process.env.GMAIL_USER}>`,
+    to: data.to,
+    subject: `Boleta de pago - Washdog`,
+    text,
+    html,
+  })
+}
+
 export async function sendBusinessNotification(data: BookingEmailData) {
   const serviceLabel = SERVICE_LABELS[data.service]
   const sizeLabel = SIZE_LABELS[data.size]

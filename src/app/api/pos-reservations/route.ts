@@ -92,12 +92,15 @@ export async function GET(req: NextRequest) {
 
         const { name, serviceType, size } = parseEventSummary(e.summary || "")
         const { dogName, phone } = parseNotes(e.description || "")
+        const email = (e.attendees || [])
+          .find(a => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
 
         return {
           eventId: e.id,
           name,
           dogName,
           phone,
+          email,
           serviceType,
           size,
           startTime: e.start!.dateTime as string,
