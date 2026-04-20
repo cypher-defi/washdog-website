@@ -68,10 +68,12 @@ export async function GET(req: NextRequest) {
       calendar.events.list({
         calendarId: process.env.GOOGLE_CALENDAR_BATH_ID!,
         timeMin, timeMax, singleEvents: true, orderBy: "startTime",
+        fields: "items(id,summary,description,start,end,attendees)",
       }),
       calendar.events.list({
         calendarId: process.env.GOOGLE_CALENDAR_CUT_ID!,
         timeMin, timeMax, singleEvents: true, orderBy: "startTime",
+        fields: "items(id,summary,description,start,end,attendees)",
       }),
     ])
 
