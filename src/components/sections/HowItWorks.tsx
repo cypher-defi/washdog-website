@@ -37,7 +37,7 @@ export function HowItWorks() {
     <section className='py-24 px-6 bg-white border-t border-primary/5'>
       <div className='max-w-7xl mx-auto'>
         <div className='text-center mb-16'>
-          <span className='text-[10px] font-bold uppercase tracking-[0.25em] text-accent-blue mb-3 block'>
+          <span className='text-[10px] font-bold uppercase tracking-[0.25em] text-primary/70 mb-3 block'>
             Simple y rápido
           </span>
           <h2 className='text-3xl md:text-4xl font-semibold text-primary tracking-tight'>

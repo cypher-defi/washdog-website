@@ -52,7 +52,7 @@ export function EmotiveClose({ onBookClick, rating = 4.9 }: EmotiveCloseProps) {
         </div>
 
         {/* Guarantee */}
-        <p className='mt-10 text-xs text-primary/35 font-light'>
+        <p className='mt-10 text-xs text-primary/60 font-light'>
           Si no quedas satisfecho con el servicio, te buscamos una solución — sin burocracia.
         </p>
       </div>

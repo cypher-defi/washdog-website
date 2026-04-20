@@ -12,7 +12,7 @@ export function Services({ onBookClick }: ServicesProps) {
       <div className='max-w-7xl mx-auto px-6'>
         {/* Header */}
         <div className='text-center mb-20'>
-          <span className='text-xs font-bold uppercase tracking-[0.25em] text-accent-blue mb-3 block'>
+          <span className='text-xs font-bold uppercase tracking-[0.25em] text-primary/70 mb-3 block'>
             Nuestros Servicios
           </span>
           <h2 className='text-4xl md:text-5xl font-semibold text-primary mb-6 tracking-tight'>

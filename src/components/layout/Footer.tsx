@@ -51,7 +51,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
 
             {/* Servicios */}
             <div className='md:col-span-2 md:col-start-4 text-sm space-y-4'>
-              <h4 className='text-white font-medium text-lg'>Servicios</h4>
+              <h3 className='text-white font-medium text-lg'>Servicios</h3>
               <ul className='space-y-2'>
                 {[
                   { label: 'Todos los servicios', href: '/servicios' },
@@ -75,7 +75,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
 
             {/* Comunas */}
             <div className='md:col-span-2 md:col-start-6 text-sm space-y-4'>
-              <h4 className='text-white font-medium text-lg'>Comunas</h4>
+              <h3 className='text-white font-medium text-lg'>Comunas</h3>
               <ul className='space-y-2'>
                 {[
                   { label: 'Ñuñoa',           href: '/servicios/peluqueria-canina-nunoa' },
@@ -101,7 +101,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
 
             {/* Newsletter */}
             <div className='md:col-span-2 md:col-start-8 text-sm space-y-4'>
-              <h4 className='text-white font-medium text-lg'>Newsletter</h4>
+              <h3 className='text-white font-medium text-lg'>Newsletter</h3>
               <ul className='space-y-2'>
                 <li>
                   <Link href='/newsletter' className='text-white/60 hover:text-white transition-colors'>
@@ -120,7 +120,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
 
             {/* Contact Info + Hours */}
             <div className='col-span-2 md:col-span-3 md:col-start-10 text-sm space-y-4'>
-              <h4 className='text-white font-medium text-lg'>Contacto</h4>
+              <h3 className='text-white font-medium text-lg'>Contacto</h3>
               <div className='flex flex-wrap gap-x-5 gap-y-3 md:flex-col md:gap-x-0 md:space-y-6'>
                 <a
                   href='https://share.google/8t1bo1xyYIfTKyDAw'
@@ -147,7 +147,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
                 </a>
               </div>
               <div className='pt-2'>
-                <h4 className='text-white font-medium text-lg mb-4'>Horario</h4>
+                <h4 className='text-white font-medium text-lg mb-4'>Horario</h3>
                 <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
                   <p>Lun - Dom</p>
                   <p className='whitespace-nowrap'>10:00 - 20:00</p>

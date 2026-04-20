@@ -76,7 +76,7 @@ export function NewsletterBanner() {
           <p className="text-red-400 text-sm mt-3">{message}</p>
         )}
 
-        <p className="text-white/25 text-xs mt-5">
+        <p className="text-white/50 text-xs mt-5">
           by Washdog · Ñuñoa, Santiago
         </p>
       </div>

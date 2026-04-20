@@ -92,8 +92,10 @@ export function BeforeAfter() {
               key={i}
               onClick={() => setCurrent(i)}
               aria-label={`Ir a imagen ${i + 1}`}
-              className={`w-3 h-3 rounded-full transition-colors ${i === current ? 'bg-primary' : 'bg-primary/20'}`}
-            />
+              className="p-3 flex items-center justify-center"
+            >
+              <span className={`block w-3 h-3 rounded-full transition-colors ${i === current ? 'bg-primary' : 'bg-primary/20'}`} />
+            </button>
           ))}
         </div>
       </div>
