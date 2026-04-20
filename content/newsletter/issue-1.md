@@ -1,10 +1,10 @@
 ---
 issue_number: 1
-title: "🐾 Tu finde en Ñuñoa empieza con 4 patas"
-subject_line: "🐾 Tu finde en Ñuñoa empieza con 4 patas"
-description: "Parque, feria canina y un tip que puede salvarle las almohadillas a tu perro este verano."
+title: "🐾 Tu finde en Santiago empieza con 4 patas"
+subject_line: "🐾 Tu finde en Santiago empieza con 4 patas"
+description: "Parque de los Reyes y un tip que puede salvarle las almohadillas a tu perro este verano."
 date: "2026-03-14"
-commune: "Ñuñoa"
+commune: "Santiago Centro"
 ---
 
 # Santiago a Cuatro Patas — Edición #1
@@ -15,7 +15,7 @@ commune: "Ñuñoa"
 
 Hola 🐾, aquí va tu primera dosis semanal de Santiago perruno.
 
-Arrancamos con parque, feria y un tip que vale doble en estos calores. Ojalá lo disfruten tanto tú como el peludo que seguramente está mirándote mientras lees esto.
+Arrancamos con parque y un tip que vale doble en estos calores. Ojalá lo disfruten tanto tú como el peludo que seguramente está mirándote mientras lees esto.
 
 ---
 
@@ -27,25 +27,21 @@ El **Parque de los Reyes** —en el límite entre Providencia y Ñuñoa— es un
 
 Entre semana tiene una calma ideal para un paseo tranquilo. Los fines de semana el ambiente cambia: familias con mascotas por todos lados y una energía muy sociable que a la mayoría de los perros (y dueños) les encanta.
 
-**📌 Cómo llegar:** Av. Condell con Av. Italia, Providencia.
+**📌 Cómo llegar:** Av. Balmaceda, sector Barrio Yungay, Santiago Centro — a pasos del Mapocho.
 
 > *Tip de uso:* Si tu perro acaba de pasar por el baño del sábado en Washdog, el parque queda a pocos minutos y es el cierre perfecto para la mañana.
 
 ---
 
-## 🗓️ Evento: Feria Canina "Huellitas en el Barrio"
+## 🗓️ Plan de la Semana: Fines de semana en el Parque de los Reyes
 
-**¿Cuándo?** Último sábado del mes, de 10:00 a 14:00
-**¿Dónde?** Plaza Condell, Barrio Italia, Providencia
+Los fines de semana en el Parque de los Reyes son un punto de encuentro natural para perreros de Santiago Centro. No hay evento organizado — simplemente pasa: familias, perros de todos los tamaños y un ambiente que se arma solo cuando el sol acompaña.
 
-Este encuentro mensual en el corazón del Barrio Italia es exactamente lo que suena: perros, dueños, y ganas de compartir. Además de la parte social —que para algunos perros es lo mejor del mes—, vas a encontrar stands de alimentación natural, accesorios y organizaciones con perros en adopción buscando familia.
-
-Es un buen plan para conocer a otros perreros de la zona y descubrir marcas locales que quizás no conocías. Sin pretensiones, con buen ambiente y a la vuelta de la esquina para quienes viven en Ñuñoa o Providencia.
+Es un buen lugar para que tu perro socialice si recién está aprendiendo a convivir con otros animales en espacios abiertos, y para que tú conozcas a otros dueños del sector.
 
 ---
 
-> 🇨🇱 **¿Sabías esto?** Chile es uno de los países con más perros por habitante en América Latina. Se estima que hay más de 3,5 millones de perros con dueño en todo el país, y en Santiago **una de cada tres familias tiene al menos un perro en casa**. No es raro que la ciudad se esté adaptando a ellos.
-> *(Fuente estimada: SAG, 2022)*
+> 🇨🇱 **¿Sabías esto?** Chile es uno de los países con más mascotas por habitante en América Latina. Según un estudio de la UC Chile (2022), hay aproximadamente **12,5 millones de perros y gatos con dueño** en el país, y cerca del **65% de los hogares chilenos tiene al menos una mascota**. No es raro que la ciudad se esté adaptando a ellos.
 
 ---
 

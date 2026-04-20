@@ -27,7 +27,7 @@ Son más de 30 hectáreas con zonas verdes, caminos anchos y mucha sombra de ár
 
 Tiene laguna artificial —los bordes son favoritos de los perros, aunque el ingreso al agua está restringido— y bebederos distribuidos por el parque. Entre semana es tranquilo para pasear sin apuros; los sábados el ambiente se anima bastante.
 
-**📌 Cómo llegar:** Av. Manquehue Norte con Av. Presidente Kennedy, Las Condes. Metro línea 1, estación El Golf (10 min caminando) o Escuela Militar.
+**📌 Cómo llegar:** Av. Presidente Riesco 5330, Las Condes. Metro línea 1, estación Manquehue (7 min caminando).
 
 > *Tip:* Si tu perro viene de Washdog, el parque queda de camino natural de vuelta — el paseo post-baño es parte del ritual.
 
@@ -50,7 +50,7 @@ No es un problema serio si se atiende a tiempo. La mayoría de los casos se resu
 
 ---
 
-> 🐾 **¿Sabías esto?** El 68% de los perros que desarrollan dermatitis interdigital en invierno presentaron los primeros síntomas en otoño — cuando el suelo húmedo y el pelo sin recortar crean las condiciones perfectas. El problema no es el barro, es dejarlo incubarse. *(Veterinary Dermatology, estimación 2023)*
+> 🐾 **¿Sabías esto?** La dermatitis interdigital es una de las consultas veterinarias más frecuentes en otoño e invierno. La causa más común no es el barro en sí, sino la humedad que queda atrapada entre los dedos cuando el pelo interdigital está largo. El problema no es el paseo, es no secar bien al volver.
 
 ---
 

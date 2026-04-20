@@ -13,32 +13,29 @@ Edición cortita pero cargada: un café de terraza para cerrar el sábado bien, 
 
 ---
 
-## 📍 Lugar de la Semana: Balmaceda Café & Terraza
+## 📍 Lugar de la Semana: Barrio Italia y sus terrazas dog-friendly
 
-Si todavía no conocen este rincón de Providencia, anótenlo ahora.
+Providencia y el eje de Barrio Italia concentran algunas de las terrazas más dog-friendly de Santiago. Son locales con mesas amplias en la vereda, ambiente tranquilo entre semana y animado los fines de semana — el tipo de lugar donde hasta el perro más inquieto termina echado a tus pies sin que te des cuenta.
 
-**Balmaceda Café & Terraza** tiene una terraza sombreada sobre Av. Balmaceda con mesas amplias y ambiente tranquilo — el tipo de lugar donde hasta el perro más inquieto termina echado a tus pies sin que te des cuenta. El local tiene un bowl de agua fresca disponible, sin que tengas que pedirlo.
+Si salen a pasear por el sector de Av. Italia, vale la pena explorar las terrazas del eje Condell–Italia. Muchos locales tienen bowl de agua disponible; si no lo ven, no duden en pedirlo.
 
 Perfecto para cerrar un sábado con calma después de un paseo largo (o después del groomer, si tu perro viene recién bañado y contento).
 
-📌 **Av. Condell con Loreto, Providencia** — a dos cuadras del Metro Baquedano.
+📌 **Eje Av. Italia / Av. Condell, Providencia** — barrio caminable desde Metro Baquedano o Manuel Montt.
 
 ---
 
-> 🇨🇱 **¿Sabías esto?** Chile es uno de los países con mayor tasa de tenencia de mascotas en América Latina. Se estima que más del 65% de los hogares chilenos tiene al menos un perro — cerca de 4 millones de canes en todo el país. *(Estimación en base a datos de la Subsecretaría de Salud Pública, 2022.)* Somos muchos en esto.
+> 🇨🇱 **¿Sabías esto?** Chile es uno de los países con mayor tasa de tenencia de mascotas en América Latina. Según un estudio de la UC Chile (2022), el **65% de los hogares chilenos tiene al menos una mascota**, y hay aproximadamente **12,5 millones de perros y gatos con dueño** en todo el país. Somos muchos en esto.
 
 ---
 
-## 🗓️ Evento / Actividad: Patitas en el Parque
+## 🗓️ Actividad de la Semana: Parque Uruguay en la mañana
 
-Cada dos semanas, un grupo de dueños de perros se junta en el **Parque Uruguay** para dejar que los perritos jueguen libres en la zona habilitada sin correa, mientras los humanos comparten tips, conversan y toman aire.
+El **Parque Uruguay** (Av. Providencia con Loreto) es uno de los puntos de encuentro más orgánicos de Providencia para perreros. Los sábados y domingos en la mañana, entre las 09:00 y las 11:00, el parque se llena de dueños que llegan con sus perros antes de que el calor apriete.
 
-Sin inscripción, sin formularios. Solo llegas con tu perro y buena energía.
+No hay inscripción ni organización formal — simplemente pasa. Es un buen plan para perros que necesitan socializar más, y para dueños que recién están aprendiendo a manejar la convivencia con otros animales en espacios abiertos.
 
-- 📅 **Cuándo:** Segundo y cuarto sábado del mes, de 09:00 a 11:00
-- 📌 **Dónde:** Parque Uruguay, Providencia — entrada por Av. Condell
-
-Es un buen plan para perros que necesitan socializar más, y también para dueños que recién están aprendiendo a manejar la convivencia con otros animales en espacios abiertos.
+📌 **Parque Uruguay, Providencia** — entrada por Av. Loreto.
 
 ---
 

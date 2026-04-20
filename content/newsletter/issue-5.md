@@ -21,34 +21,31 @@ Esta semana toca hablar de patitas, de terrazas con sombra y de ese rato del dom
 
 ## 📍 Lugar de la Semana
 
-### Café Barrio Italia – Sucursal Parque Bustamante
+### El eje Parque Bustamante y sus terrazas
 
-Si aún no conocen este rincón, anótenlo para el fin de semana.
+El borde del **Parque Bustamante** (límite Santiago Centro / Providencia) es una de las zonas más caminables de la ciudad para ir con perro. El parque tiene sombra, caminos amplios y ambiente tranquilo — y el eje de Av. Providencia al costado tiene varios locales con terraza donde los perros son bienvenidos.
 
-El café tiene terraza al aire libre, sombra natural gracias a los árboles del entorno, y desde el primer momento queda claro que los perros son bienvenidos: hay un bowl de agua fresca esperando en la entrada. Las mesas tienen espacio suficiente para que un perro mediano o grande se acomode sin estar encima de nadie, y el ambiente — tranquilo entre semana, animado pero ordenado los fines de semana — hace que sea fácil quedarse más de una vuelta de café.
+Si salen por el sector, exploren las veredas de Av. Bustamante con Av. Providencia. Es fácil encontrar un lugar donde sentarse con el perro después de un paseo por el parque.
 
-**Por qué ir esta semana:** combinen la visita con una caminata por Parque Bustamante. Si el sábado viene el baño, el domingo es el momento ideal para estrenar pelaje limpio en un paseo con parada incluida.
+**Por qué ir esta semana:** Si el sábado viene el baño, el domingo es el momento ideal para estrenar pelaje limpio en un paseo con parada incluida.
 
-📌 *Av. Bustamante con Av. Providencia, borde Parque Bustamante — límite Santiago Centro / Providencia*
+📌 *Parque Bustamante, límite Santiago Centro / Providencia — Metro Baquedano.*
 
 ---
 
 ## 🗓️ Evento / Actividad
 
-### Domingo de Perros en Parque Almagro
+### Domingo en Parque Almagro
 
-Cada domingo en la mañana, un grupo de dueños del sector se reúne de manera informal en el sector verde de Parque Almagro. No hay inscripción, no hay cuota, no hay organización formal — solo perros corriendo, humanos tomando café en vaso térmico e intercambio de recomendaciones entre gente que entiende bien lo que significa vivir en el Centro con un perro.
-
-También hay snacks caseros para los cachorros, por si acaso.
+El **Parque Almagro** es uno de los parques más concurridos de Santiago Centro los domingos en la mañana. No hay evento organizado — simplemente llegan familias con perros, la dinámica se arma sola y el ambiente es de los más tranquilos y sociables que vas a encontrar en el centro.
 
 Es uno de esos puntos de encuentro que hacen que Santiago se sienta más chico — y eso no siempre es malo.
 
-🕘 **Cuándo:** Domingos de 09:00 a 11:00
-📌 **Dónde:** Parque Almagro, Santiago Centro — sector cancha de pasto, acceso por Av. Almagro
+📌 **Parque Almagro, Santiago Centro** — acceso por Av. Almagro.
 
 ---
 
-> **¿Sabías esto?** Chile es uno de los países con mayor cantidad de perros por habitante en América Latina. Según estimaciones del Ministerio de Salud (2022), hay aproximadamente 3,2 millones de perros con dueño registrados en el país — casi uno por cada seis personas. No es casualidad que los parques santiaguinos se vean así los domingos.
+> **¿Sabías esto?** Chile es uno de los países con mayor cantidad de mascotas por habitante en América Latina. Según un estudio de la UC Chile (2022), hay aproximadamente **12,5 millones de perros y gatos con dueño** en el país, y el **65% de los hogares chilenos tiene al menos una mascota**. No es casualidad que los parques santiaguinos se vean así los domingos.
 
 ---
 
