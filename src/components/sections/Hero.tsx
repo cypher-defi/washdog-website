@@ -19,6 +19,7 @@ export function Hero({ onBookClick, rating = 4.9 }: HeroProps) {
           sizes='100vw'
           className='object-cover'
           priority
+          fetchPriority='high'
         />
         {/* Blue overlay */}
         <div className='absolute inset-0 bg-accent-blue/35' />

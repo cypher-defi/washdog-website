@@ -18,7 +18,7 @@ export function StaticNavbar() {
             <Icon icon='lucide:dog' className='w-4 h-4' />
           </span>
           <span className='font-serif font-medium text-2xl tracking-tight text-primary'>
-            Wash<span className='text-accent-blue'>dog.</span>
+            Wash<span className='text-accent-blue-text'>dog.</span>
           </span>
         </Link>
 

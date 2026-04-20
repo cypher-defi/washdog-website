@@ -12,10 +12,10 @@ export function EmotiveClose({ onBookClick, rating = 4.9 }: EmotiveCloseProps) {
         {/* Emotive headline */}
         <h2 className='text-3xl md:text-4xl font-semibold text-primary tracking-tight leading-snug mb-4'>
           Tu perro merece lo mejor.<br />
-          <span className='font-serif italic font-normal text-accent-blue'>Y tú lo sabes.</span>
+          <span className='font-serif italic font-normal text-accent-blue-text'>Y tú lo sabes.</span>
         </h2>
 
-        <p className='text-primary/60 font-light leading-relaxed mb-10 text-lg'>
+        <p className='text-primary/75 font-light leading-relaxed mb-10 text-lg'>
           Agenda en 2 minutos. Confirmación inmediata. Sin llamadas, sin colas,
           sin sorpresas en el precio.
         </p>

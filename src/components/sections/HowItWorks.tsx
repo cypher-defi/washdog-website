@@ -47,7 +47,7 @@ export function HowItWorks() {
 
         <div className='grid grid-cols-1 md:grid-cols-3 gap-6 relative'>
           {/* Connector line (desktop only) */}
-          <div className='hidden md:block absolute top-12 left-[calc(16.67%+2rem)] right-[calc(16.67%+2rem)] h-px bg-gradient-to-r from-accent-blue/20 via-accent-peach/20 to-accent-green/20 z-0' />
+          <div className='hidden md:block absolute top-12 left-[calc(16.67%+2rem)] right-[calc(16.67%+2rem)] h-px bg-linear-to-r from-accent-blue/20 via-accent-peach/20 to-accent-green/20 z-0' />
 
           {steps.map((step) => (
             <div
@@ -58,14 +58,14 @@ export function HowItWorks() {
                 <div className={`w-12 h-12 rounded-xl ${step.bg} ${step.color} flex items-center justify-center shrink-0`}>
                   <Icon icon={step.icon} className='w-6 h-6' />
                 </div>
-                <span className={`text-4xl font-serif font-light ${step.color} opacity-30`}>
+                <span className={`text-4xl font-serif font-light ${step.color} opacity-30`} aria-hidden="true">
                   {step.number}
                 </span>
               </div>
               <h3 className='text-xl font-semibold text-primary tracking-tight'>
                 {step.title}
               </h3>
-              <p className='text-primary/60 font-light text-sm leading-relaxed'>
+              <p className='text-primary/75 font-light text-sm leading-relaxed'>
                 {step.description}
               </p>
             </div>
