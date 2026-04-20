@@ -38,27 +38,16 @@ export function BeforeAfter() {
                 priority={current === 0}
               />
 
-              {/* Antes / Después pills */}
-              <div className="absolute bottom-4 left-4">
-                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-black/60 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
-                  Antes
-                </span>
-              </div>
-              <div className="absolute bottom-4 right-4">
-                <span className="inline-flex items-center px-4 py-1.5 rounded-full bg-primary/90 backdrop-blur-sm text-white text-sm font-semibold tracking-wide shadow-lg">
-                  Después
-                </span>
-              </div>
-
-              {/* Logo watermark */}
-              <div className="absolute top-4 right-4">
-                <Image
-                  src="/Washdog.png"
-                  alt="Washdog"
-                  width={90}
-                  height={32}
-                  className="object-contain opacity-90 drop-shadow-md"
-                />
+              {/* Centered logo overlay */}
+              <div className="absolute top-4 left-1/2 -translate-x-1/2">
+                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-black/50 backdrop-blur-sm shadow-lg">
+                  <span className="flex items-center justify-center w-6 h-6 rounded-md bg-white/20">
+                    <Icon icon="lucide:dog" className="w-3.5 h-3.5 text-white" />
+                  </span>
+                  <span className="font-serif font-medium text-lg tracking-tight text-white leading-none">
+                    Wash<span className="text-accent-blue">dog.</span>
+                  </span>
+                </div>
               </div>
             </div>
           </div>
