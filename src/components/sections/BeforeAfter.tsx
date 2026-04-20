@@ -28,7 +28,7 @@ export function BeforeAfter() {
 
         <div className="relative max-w-3xl mx-auto">
           <div className="overflow-hidden rounded-3xl border border-primary/5 shadow-sm">
-            <div className="relative aspect-[2400/1315] w-full">
+            <div className="relative aspect-[2400/1275] w-full">
               <Image
                 src={CASES[current].src}
                 alt={CASES[current].caption}
