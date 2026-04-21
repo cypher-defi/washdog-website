@@ -69,10 +69,8 @@ export async function sendBookingConfirmation(data: BookingEmailData) {
           <!-- Header -->
           <tr>
             <td style="background: linear-gradient(135deg, #1a1f24 0%, #2d3748 100%); padding: 40px 40px 30px; text-align: center;">
-              <h1 style="margin: 0; color: #ffffff; font-size: 28px; font-weight: 700;">
-                🐕 Washdog
-              </h1>
-              <p style="margin: 10px 0 0; color: rgba(255,255,255,0.8); font-size: 14px;">
+              <img src="https://www.washdog.cl/Washdog.png" alt="Washdog" width="80" height="80" style="display:block;margin:0 auto 10px;border-radius:50%;">
+              <p style="margin: 0; color: rgba(255,255,255,0.8); font-size: 14px;">
                 Peluquería Canina
               </p>
             </td>
@@ -297,8 +295,8 @@ export async function sendReceiptEmail(data: ReceiptEmailData) {
     <tr><td style="padding:40px 20px;">
       <table role="presentation" style="max-width:520px;margin:0 auto;background:#ffffff;border-radius:16px;overflow:hidden;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
         <tr><td style="background:linear-gradient(135deg,#1a1f24 0%,#2d3748 100%);padding:36px 40px 28px;text-align:center;">
-          <h1 style="margin:0;color:#ffffff;font-size:26px;font-weight:700;">🐕 Washdog</h1>
-          <p style="margin:8px 0 0;color:rgba(255,255,255,0.7);font-size:13px;">Peluquería Canina · Boleta de Pago</p>
+          <img src="https://www.washdog.cl/Washdog.png" alt="Washdog" width="80" height="80" style="display:block;margin:0 auto 8px;border-radius:50%;">
+          <p style="margin:0;color:rgba(255,255,255,0.7);font-size:13px;">Peluquería Canina · Boleta de Pago</p>
         </td></tr>
         <tr><td style="padding:28px 40px 0;">
           <h2 style="margin:0 0 4px;color:#1a1f24;font-size:20px;font-weight:600;">¡Gracias, ${data.name}!</h2>
