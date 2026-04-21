@@ -295,7 +295,7 @@ export async function sendReceiptEmail(data: ReceiptEmailData) {
     <tr><td style="padding:40px 20px;">
       <table role="presentation" style="max-width:520px;margin:0 auto;background:#ffffff;border-radius:16px;overflow:hidden;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
         <tr><td style="background:linear-gradient(135deg,#1a1f24 0%,#2d3748 100%);padding:36px 40px 28px;text-align:center;">
-          <img src="https://www.washdog.cl/Washdog.png" alt="Washdog" width="80" height="80" style="display:block;margin:0 auto 8px;border-radius:50%;">
+          <img src="https://www.washdog.cl/Washdog-transparent.png" alt="Washdog" width="90" height="90" style="display:block;margin:0 auto 8px;">
           <p style="margin:0;color:rgba(255,255,255,0.7);font-size:13px;">Peluquería Canina · Boleta de Pago</p>
         </td></tr>
         <tr><td style="padding:28px 40px 0;">
