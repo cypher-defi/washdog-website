@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server"
 import { google } from "googleapis"
 
+export const dynamic = 'force-dynamic'
+
 const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "GET, OPTIONS",
