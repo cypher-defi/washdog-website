@@ -89,7 +89,7 @@ export async function GET(req: NextRequest) {
           (e.attendees || []).find((a: any) => a.email && !a.email.endsWith("@washdog.cl"))?.email || ""
         const fecha = new Date(e.start!.dateTime!).toLocaleDateString("en-CA", { timeZone: "America/Santiago" })
 
-        return { eventId: e.id, name, dogName, email, phone, serviceType, size, fecha }
+        return { eventId: e.id, name, dogName, email, phone, serviceType, size, fecha, startTime: e.start!.dateTime! }
       })
 
     return NextResponse.json({ reservations }, { headers: CORS_HEADERS })
