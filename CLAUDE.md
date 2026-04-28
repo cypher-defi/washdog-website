@@ -21,3 +21,10 @@ Use `store_memory` to save important knowledge:
 - Include WHY (reasoning), not just WHAT (the decision)
 - Reference related files or code when relevant
 - Use descriptive tags for better retrieval
+
+## Global Skills
+
+Custom skills live in `~/.claude/skills/software/` and `~/.claude/skills/marketing/`.
+To invoke one: `Read` the file at `~/.claude/skills/[category]/[skill-name].md` and follow it.
+The `Skill` tool does not work for these — always use `Read` instead.
+To browse available skills: `ls ~/.claude/skills/software/` or `ls ~/.claude/skills/marketing/`.

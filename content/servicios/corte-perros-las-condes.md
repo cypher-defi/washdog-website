@@ -21,7 +21,7 @@ date: "2026-03-12"
 Atendemos de forma personalizada, sin sobreagendamiento. Mientras tu perro está con nosotros, tiene toda nuestra atención — igual que en Vitacura, Providencia o La Reina, donde nuestros clientes ya nos conocen.
 
 **Peluqueros caninos con formación profesional en todas las razas**
-¿Tienes un Samoyedo de doble capa o un French Bulldog con pliegues delicados? Los conocemos a todos. Más de [X] perros atendidos en Santiago nos respaldan.
+¿Tienes un Samoyedo de doble capa o un French Bulldog con pliegues delicados? Los conocemos a todos. Más de 200 perros atendidos en Santiago nos respaldan.
 
 **Reserva en menos de 2 minutos, 24/7**
 Sin llamadas, sin esperas en línea. Agenda por WhatsApp o formulario web y recibe confirmación en minutos. El corte de perros en Las Condes nunca fue tan fácil de coordinar.
@@ -56,7 +56,7 @@ Porque para ti no es "solo un perro" — para nosotros tampoco.
 
 Agenda ahora y recibe confirmación en minutos. Sin llamadas, sin complicaciones.
 
-**[Reserva tu hora por WhatsApp →](https://wa.me/56XXXXXXXXX)**
+**[Reserva tu hora por WhatsApp →](https://wa.me/56987230388)**
 
 ¿Prefieres ver los horarios disponibles primero?
 **[Ver disponibilidad online](#formulario)**
