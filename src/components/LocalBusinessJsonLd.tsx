@@ -89,11 +89,15 @@ export async function LocalBusinessJsonLd() {
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
-        dayOfWeek: [
-          "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
-        ],
+        dayOfWeek: ["Monday", "Wednesday", "Thursday", "Friday", "Saturday"],
         opens: "10:00",
-        closes: "20:00"
+        closes: "19:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek: ["Sunday"],
+        opens: "10:00",
+        closes: "17:30"
       }
     ],
     priceRange: "$$",

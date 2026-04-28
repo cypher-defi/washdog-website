@@ -113,7 +113,7 @@ Si estás en Ñuñoa, Providencia, Las Condes o La Reina y prefieres dejarlo en 
 
 ### Cómo agendar online tu visita a WashDog en Santiago
 
-Agendar es muy simple. Entra a nuestra agenda online, elige el servicio que necesitas, selecciona el horario que más te acomode y listo. Sin llamadas, sin esperas, sin complicaciones. Puedes reservar cualquier día de la semana, de lunes a domingo entre las 10:00 y las 20:00.
+Agendar es muy simple. Entra a nuestra agenda online, elige el servicio que necesitas, selecciona el horario que más te acomode y listo. Sin llamadas, sin esperas, sin complicaciones. Puedes reservar lunes, miércoles a sábado entre las 10:00 y las 19:00, o domingos hasta las 17:30. Cerrado los martes.
 
 ---
 
@@ -145,7 +145,7 @@ Agenda en **WashDog** — atención individual, sin jaulas, sin apuro:
 - 🐾 [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) — atención one-to-one
 - 🐱 [Peluquería para gatos](/servicios/peluqueria-gatos)
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
 

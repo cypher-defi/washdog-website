@@ -117,7 +117,7 @@ Agenda fácil online, atención personalizada y productos premium para que tu pe
 
 En **Washdog** cuidamos a tu perro como si fuera el nuestro: baño hipoalergénico, [corte de pelo profesional](/servicios/corte-perros) para todas las razas y atención one-to-one en Ñuñoa.
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
 - [Las Condes](/servicios/bano-perros-las-condes)

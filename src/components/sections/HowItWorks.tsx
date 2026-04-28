@@ -16,7 +16,7 @@ const steps = [
     number: "02",
     icon: "lucide:calendar",
     title: "Escoge tu horario",
-    description: "Disponible todos los días de 10 a 20h. Reserva online en 2 minutos.",
+    description: "Disponible lunes, mié–sáb 10–19h y dom 10–17:30h. Cerrado martes. Reserva online en 2 minutos.",
     color: "text-accent-peach-dark",
     bg: "bg-accent-peach/10",
     border: "border-accent-peach/20"

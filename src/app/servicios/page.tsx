@@ -94,7 +94,7 @@ export default function ServiciosPage() {
               Servicios de peluquería canina en Ñuñoa
             </h1>
             <p className="text-primary/60 text-lg font-light leading-relaxed">
-              Baño, corte y auto-lavado con atención personalizada. Productos hipoalergénicos, sin jaulas, sin esperas. Abierto todos los días de 10:00 a 20:00.
+              Baño, corte y auto-lavado con atención personalizada. Productos hipoalergénicos, sin jaulas, sin esperas. Abierto lunes, miércoles a sábado 10:00–19:00 · domingos hasta 17:30 · cerrado martes.
             </p>
           </div>
         </section>
@@ -156,7 +156,7 @@ export default function ServiciosPage() {
               Agenda tu hora en Washdog
             </h2>
             <p className="text-primary/60 mb-8 font-light">
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <Link
               href="https://share.google/8t1bo1xyYIfTKyDAw"

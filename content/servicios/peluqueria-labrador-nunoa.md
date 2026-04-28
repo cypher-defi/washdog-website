@@ -91,4 +91,4 @@ Sí. Atendemos Labradores de todos los tamaños. Si tu perro tiene dificultad pa
 ## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
-🕐 Lunes a domingo, 10:00–20:00
+🕐 Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado

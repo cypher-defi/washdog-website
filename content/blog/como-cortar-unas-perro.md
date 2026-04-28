@@ -126,7 +126,7 @@ Aprender **cómo cortar uñas perro Chile** en casa es valioso, pero contar con 
 
 ### Cómo agendar online tu cita en WashDog desde Ñuñoa, La Reina o Las Condes
 
-Agendar en WashDog es simple y toma menos de 2 minutos. Desde nuestra [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) puedes revisar disponibilidad en tiempo real y elegir el horario que más te acomode, sin llamadas ni esperas. Atendemos de lunes a domingo de 10:00 a 20:00 horas, así que siempre hay un espacio para tu compañero de vida.
+Agendar en WashDog es simple y toma menos de 2 minutos. Desde nuestra [peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) puedes revisar disponibilidad en tiempo real y elegir el horario que más te acomode, sin llamadas ni esperas. Atendemos lunes, miércoles a sábado de 10:00 a 19:00, y domingos hasta las 17:30. Cerrado los martes.
 
 ---
 
@@ -139,7 +139,7 @@ En **WashDog** cuidamos a tu perro como si fuera el nuestro:
 - 🐾 [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) — atención one-to-one
 - 🐱 [Peluquería para gatos](/servicios/peluqueria-gatos)
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
 

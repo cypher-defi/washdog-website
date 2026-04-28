@@ -70,7 +70,7 @@ export default function BanoPage() {
             </h1>
             <p className='text-primary/60 text-lg font-light leading-relaxed max-w-2xl mb-8'>
               Baño profesional con shampoo hipoalergénico libre de parabenos y sulfatos, secado profesional y atención individual. Sin jaulas — tu perro es el único en la sala.
-              Abierto todos los días de 10 a 20h en Irarrázaval 2086 B, Ñuñoa.
+              Abierto lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes. Irarrázaval 2086 B, Ñuñoa.
             </p>
             <button
               onClick={booking.openModal}
@@ -177,7 +177,7 @@ export default function BanoPage() {
               Agenda el baño de tu perro
             </h2>
             <p className='text-primary/60 mb-8 font-light'>
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <button
               onClick={booking.openModal}

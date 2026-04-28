@@ -141,7 +141,7 @@ En **Washdog** ofrecemos todo lo que tu perro necesita en un solo lugar:
 - 🐾 [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) — atención one-to-one
 - 🐱 [Peluquería para gatos](/servicios/peluqueria-gatos)
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Agenda tu hora →**](https://share.google/8t1bo1xyYIfTKyDAw)
 

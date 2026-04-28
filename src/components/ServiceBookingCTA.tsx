@@ -20,7 +20,7 @@ export function ServiceBookingCTA() {
             ¿Listo para darle lo mejor a tu perro?
           </h2>
           <p className='text-primary/60 mb-2 font-light'>
-            Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+            Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
           </p>
           <p className='text-primary/40 text-sm mb-8 font-light'>
             Confirmación inmediata · Sin llamadas · Sin cobros sorpresa

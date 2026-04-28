@@ -33,7 +33,7 @@ export function MidPageCTA({ onBookClick, rating = 4.9 }: MidPageCTAProps) {
             Más de 100 perros de Ñuñoa ya reservaron online.
           </p>
           <p className='text-white/70 text-sm mt-1 font-light'>
-            Confirmación inmediata · Sin llamadas · Lunes a domingo 10–20h
+            Confirmación inmediata · Sin llamadas · Lun, Mié–Sáb 10–19h · Dom 10–17:30h
           </p>
         </div>
 

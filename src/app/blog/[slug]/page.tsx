@@ -122,7 +122,7 @@ export default async function BlogPostPage({ params }: Props) {
               ¿Listo para reservar?
             </h2>
             <p className='text-primary/60 mb-8 font-light'>
-              Baño y peluquería canina en Ñuñoa. Abierto todos los días de 10 a 20h.
+              Baño y peluquería canina en Ñuñoa. Lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes.
             </p>
             <Link
               href='https://share.google/8t1bo1xyYIfTKyDAw'

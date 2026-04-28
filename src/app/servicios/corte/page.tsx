@@ -97,7 +97,7 @@ export default function CortePage() {
             </h1>
             <p className='text-primary/60 text-lg font-light leading-relaxed max-w-2xl mb-8'>
               Peluquería canina profesional con baño incluido, corte adaptado a tu raza y atención individual.
-              Abierto todos los días de 10 a 20h en Irarrázaval 2086 B, Ñuñoa.
+              Abierto lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes. Irarrázaval 2086 B, Ñuñoa.
             </p>
             <button
               onClick={booking.openModal}
@@ -207,7 +207,7 @@ export default function CortePage() {
               Agenda el corte de tu perro
             </h2>
             <p className='text-primary/60 mb-8 font-light'>
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <button
               onClick={booking.openModal}

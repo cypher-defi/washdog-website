@@ -109,7 +109,7 @@ Trabajamos con [peluquería canina en Santiago](/servicios/peluqueria-canina) y 
 
 ### Atención personalizada y agenda online para el cuidado de tu perro
 
-Sabemos que el tiempo es valioso. Por eso tenemos una agenda online simple y rápida donde puedes reservar el horario que más te acomode, sin filas ni esperas. Atendemos de lunes a domingo, de 10:00 a 20:00, en nuestra sucursal de Av. Irarrázaval 2086 B, Ñuñoa. Si quieres conocer nuestras tarifas antes de reservar, puedes revisar el [precio peluquería canina](/servicios/precio-peluqueria) directamente en nuestro sitio.
+Sabemos que el tiempo es valioso. Por eso tenemos una agenda online simple y rápida donde puedes reservar el horario que más te acomode, sin filas ni esperas. Atendemos lunes, miércoles a sábado de 10:00 a 19:00 y domingos hasta las 17:30 (cerrado martes), en nuestra sucursal de Av. Irarrázaval 2086 B, Ñuñoa. Si quieres conocer nuestras tarifas antes de reservar, puedes revisar el [precio peluquería canina](/servicios/precio-peluqueria) directamente en nuestro sitio.
 
 ---
 
@@ -141,7 +141,7 @@ En **WashDog** cuidamos a tu perro como si fuera el nuestro:
 - 🐾 [Peluquería canina Ñuñoa](/servicios/peluqueria-canina-nunoa) — atención one-to-one
 - 🐱 [Peluquería para gatos](/servicios/peluqueria-gatos)
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Ver disponibilidad →**](https://share.google/8t1bo1xyYIfTKyDAw)
 

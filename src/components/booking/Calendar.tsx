@@ -62,11 +62,11 @@ export function Calendar({ selectedDate, onSelectDate }: CalendarProps) {
   // Get number of days in the month
   const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
 
-  // Check if a date is selectable (today or future, within the allowed range)
+  // Check if a date is selectable (today or future, within the allowed range, not Tuesday)
   const isDateSelectable = (day: number) => {
     const date = new Date(currentYear, currentMonth, day);
     date.setHours(0, 0, 0, 0);
-    return date >= today;
+    return date >= today && date.getDay() !== 2; // 2 = Tuesday (closed)
   };
 
   // Check if a date is selected

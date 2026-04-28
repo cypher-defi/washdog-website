@@ -150,8 +150,9 @@ export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: New
               <div className='pt-2'>
                 <h4 className='text-white font-medium text-lg mb-4'>Horario</h4>
                 <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
-                  <p>Lun - Dom</p>
-                  <p className='whitespace-nowrap'>10:00 - 20:00</p>
+                  <p className='whitespace-nowrap'>Lun, Mié–Sáb: 10:00–19:00</p>
+                  <p className='whitespace-nowrap'>Dom: 10:00–17:30</p>
+                  <p className='whitespace-nowrap'>Mar: Cerrado</p>
                 </div>
               </div>
             </div>

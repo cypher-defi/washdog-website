@@ -82,7 +82,7 @@ Si buscás la **mejor peluquería canina en Santiago** cerca de tu hogar, estamo
 
 ## Reserva en Washdog
 
-📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun-Dom 10:00-20:00
+📍 Av. Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
 
 [**Agenda tu hora →**](https://share.google/8t1bo1xyYIfTKyDAw)
 

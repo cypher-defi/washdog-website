@@ -18,7 +18,9 @@ interface TimeSlotsProps {
 // Always check availability in 15-min steps to catch any existing booking
 const AVAILABILITY_CHECK_INTERVAL = 15;
 const START_HOUR = 10;
-const END_HOUR = 20;
+const END_HOUR = 19; // used for slot generation (19:00 closing)
+const SUNDAY_END_MINUTES = 17 * 60 + 30; // 17:30 — closes earlier on Sunday
+const DEFAULT_END_MINUTES = 19 * 60;     // 19:00
 
 function generateBaseSlots(intervalMinutes: number): string[] {
   const slots: string[] = [];
@@ -44,11 +46,12 @@ function minutesToTime(minutes: number): string {
 function isSlotAvailable(
   startTime: string,
   durationMinutes: number,
-  bookedSlots: string[]
+  bookedSlots: string[],
+  endLimitMinutes: number
 ): boolean {
   const startMinutes = timeToMinutes(startTime);
   const endMinutes = startMinutes + durationMinutes;
-  if (endMinutes > END_HOUR * 60) return false;
+  if (endMinutes > endLimitMinutes) return false;
   // Check in 15-min steps regardless of slot interval to catch all conflicts
   for (let min = startMinutes; min < endMinutes; min += AVAILABILITY_CHECK_INTERVAL) {
     if (bookedSlots.includes(minutesToTime(min))) return false;
@@ -95,11 +98,13 @@ function getAvailableSlots(
   const baseSlots = generateBaseSlots(slotIntervalMinutes);
   const availableSlots: string[] = [];
   const currentMinutes = selectedDate && isToday(selectedDate) ? getCurrentTimeMinutes() : 0;
+  const isSunday = selectedDate && selectedDate.getDay() === 0;
+  const endLimitMinutes = isSunday ? SUNDAY_END_MINUTES : DEFAULT_END_MINUTES;
 
   for (const slot of baseSlots) {
     const slotMinutes = timeToMinutes(slot);
     if (slotMinutes <= currentMinutes) continue;
-    if (isSlotAvailable(slot, durationMinutes, bookedSlots)) {
+    if (isSlotAvailable(slot, durationMinutes, bookedSlots, endLimitMinutes)) {
       availableSlots.push(slot);
     }
   }

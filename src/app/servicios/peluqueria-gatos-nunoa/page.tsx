@@ -35,7 +35,7 @@ const faqs = [
   },
   {
     q: "¿Dónde están ubicados?",
-    a: "Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago. Abierto de lunes a domingo de 10:00 a 20:00."
+    a: "Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago. Abierto lunes, miércoles a sábado de 10:00 a 19:00, domingos hasta las 17:30. Cerrado los martes."
   }
 ]
 
@@ -164,7 +164,7 @@ export default function PeluqueriaGatosNunoaPage() {
               Agenda la peluquería de tu gato
             </h2>
             <p className='text-primary/60 mb-8 font-light'>
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <button
               onClick={booking.openModal}

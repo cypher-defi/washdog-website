@@ -145,7 +145,7 @@ export default function EquipoPage() {
               Agenda tu hora en Washdog
             </h2>
             <p className="text-primary/60 mb-8 font-light">
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <Link
               href="https://share.google/8t1bo1xyYIfTKyDAw"

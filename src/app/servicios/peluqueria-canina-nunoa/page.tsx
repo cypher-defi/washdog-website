@@ -35,7 +35,7 @@ const faqs = [
   },
   {
     q: "¿Dónde queda la peluquería canina?",
-    a: "Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago. Abierto de lunes a domingo de 10:00 a 20:00."
+    a: "Estamos en Irarrázaval 2086 B, Ñuñoa, Santiago. Abierto lunes, miércoles a sábado de 10:00 a 19:00, domingos hasta las 17:30. Cerrado los martes."
   },
   {
     q: "¿Necesito reservar con anticipación?",
@@ -74,7 +74,7 @@ export default function PeluqueriaCaninaNunoaPage() {
             </h1>
             <p className='text-primary/60 text-lg font-light leading-relaxed max-w-2xl mb-8'>
               Corte y arreglo profesional para tu perro en Ñuñoa. Baño incluido, atención individual
-              y cuidado adaptado a cada raza. Abierto todos los días de 10 a 20h.
+              y cuidado adaptado a cada raza. Abierto lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes.
             </p>
             <button
               onClick={booking.openModal}
@@ -181,7 +181,7 @@ export default function PeluqueriaCaninaNunoaPage() {
               Agenda la peluquería de tu perro
             </h2>
             <p className='text-primary/60 mb-8 font-light'>
-              Irarrázaval 2086 B, Ñuñoa · Lunes a domingo 10:00–20:00
+              Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <button
               onClick={booking.openModal}

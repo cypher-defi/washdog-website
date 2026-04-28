@@ -85,4 +85,4 @@ Entre 60 y 90 minutos dependiendo del largo del pelo y el estado del pelaje al l
 ## Agenda tu hora en Washdog
 
 📍 Irarrázaval 2086 B, Ñuñoa — a 5 minutos de Providencia, Macul y La Reina
-🕐 Lunes a domingo, 10:00–20:00
+🕐 Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
