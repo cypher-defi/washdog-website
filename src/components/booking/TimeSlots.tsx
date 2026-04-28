@@ -143,7 +143,7 @@ export function TimeSlots({
   }
 
   return (
-    <div className="grid grid-cols-3 gap-2">
+    <div className="grid grid-cols-3 gap-2 max-h-52 overflow-y-auto slots-scroll pr-2">
       {availableTimes.map((time) => (
         <button
           key={time}
