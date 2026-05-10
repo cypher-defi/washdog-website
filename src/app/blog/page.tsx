@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import { getAllPosts } from "@/lib/blog"
-import { StaticNavbar } from "@/components/layout/StaticNavbar"
+import { BookingNavbar } from "@/components/layout/BookingNavbar"
 
 const POSTS_PER_PAGE = 12
 
@@ -35,7 +35,7 @@ export default async function BlogPage({ searchParams }: Props) {
 
   return (
     <>
-      <StaticNavbar />
+      <BookingNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
         <section className='py-20 bg-white border-b border-primary/5'>

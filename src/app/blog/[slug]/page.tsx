@@ -3,7 +3,7 @@ import { notFound } from "next/navigation"
 import Link from "next/link"
 import { getAllPosts, getPost } from "@/lib/blog"
 import { getAllIssues } from "@/lib/newsletter"
-import { StaticNavbar } from "@/components/layout/StaticNavbar"
+import { BookingNavbar } from "@/components/layout/BookingNavbar"
 import { StaticFooter } from "@/components/layout/StaticFooter"
 import { NewsletterInline } from "@/components/sections/NewsletterInline"
 import { GroomingCalculator } from "@/components/GroomingCalculator"
@@ -52,7 +52,7 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <>
-      <StaticNavbar />
+      <BookingNavbar />
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
         <section className='py-16 bg-white border-b border-primary/5'>
@@ -125,9 +125,7 @@ export default async function BlogPostPage({ params }: Props) {
               Baño y peluquería canina en Ñuñoa. Lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes.
             </p>
             <Link
-              href='https://share.google/8t1bo1xyYIfTKyDAw'
-              target='_blank'
-              rel='noopener noreferrer'
+              href='/#servicios'
               className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-blue transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
             >
               Reservar en Washdog
