@@ -654,7 +654,7 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/blog/autolavado-vs-peluqueria-canina</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-09</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
@@ -847,6 +847,12 @@
   <url>
     <loc>https://www.washdog.cl/blog/peluqueria-canina-nunoa</loc>
     <lastmod>2026-04-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/blog/peluqueria-casa-vs-profesional</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
