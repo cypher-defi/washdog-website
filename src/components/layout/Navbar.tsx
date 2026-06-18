@@ -39,7 +39,7 @@ export function Navbar({ onBookClick }: NavbarProps) {
     if (isHomepage) {
       scrollToSection(href)
     } else {
-      router.push(`/#${href}`)
+      window.location.href = `/#${href}`
     }
     setIsMenuOpen(false)
   }
