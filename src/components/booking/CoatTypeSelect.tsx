@@ -40,51 +40,55 @@ export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelect
         {/* Pelo corto */}
         <button
           onClick={() => onSelectCoat('short')}
-          className="group flex items-center gap-5 p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
+          className="group flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-5 p-5 sm:p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
         >
-          <div className="w-14 h-14 rounded-xl bg-accent-blue/10 text-accent-blue flex items-center justify-center group-hover:scale-110 transition-all">
-            <Icon icon="lucide:scissors" className="w-7 h-7" />
+          <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-xl bg-accent-blue/10 text-accent-blue flex items-center justify-center shrink-0 group-hover:scale-110 transition-all">
+            <Icon icon="lucide:scissors" className="w-6 sm:w-7 h-6 sm:h-7" />
           </div>
-          <div className="flex-1">
-            <p className="font-semibold text-primary group-hover:text-accent-peach-dark transition-colors">
+          <div className="flex-1 min-w-0">
+            <p className="font-semibold text-primary group-hover:text-accent-peach-dark transition-colors text-sm">
               Pelo corto
             </p>
             <p className="text-xs text-primary/50 mt-1">
               Recto, sin enredos, fácil de manejar
             </p>
           </div>
-          <span className="text-lg font-bold text-primary/70 group-hover:text-accent-peach-dark transition-colors shrink-0">
-            {prices.short}
-          </span>
-          <Icon
-            icon="lucide:chevron-right"
-            className="w-5 h-5 text-primary/20 group-hover:text-accent-peach group-hover:translate-x-1 transition-all"
-          />
+          <div className="flex items-center gap-3 sm:gap-2">
+            <span className="text-base sm:text-lg font-bold text-primary/70 group-hover:text-accent-peach-dark transition-colors">
+              {prices.short}
+            </span>
+            <Icon
+              icon="lucide:chevron-right"
+              className="w-5 h-5 text-primary/20 group-hover:text-accent-peach group-hover:translate-x-1 transition-all shrink-0"
+            />
+          </div>
         </button>
 
         {/* Pelo largo o medio */}
         <button
           onClick={() => onSelectCoat('long')}
-          className="group flex items-center gap-5 p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
+          className="group flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-5 p-5 sm:p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
         >
-          <div className="w-14 h-14 rounded-xl bg-accent-peach/20 text-accent-peach-dark flex items-center justify-center group-hover:scale-110 transition-all">
-            <Icon icon="lucide:wind" className="w-7 h-7" />
+          <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-xl bg-accent-peach/20 text-accent-peach-dark flex items-center justify-center shrink-0 group-hover:scale-110 transition-all">
+            <Icon icon="lucide:wind" className="w-6 sm:w-7 h-6 sm:h-7" />
           </div>
-          <div className="flex-1">
-            <p className="font-semibold text-primary group-hover:text-accent-peach-dark transition-colors">
+          <div className="flex-1 min-w-0">
+            <p className="font-semibold text-primary group-hover:text-accent-peach-dark transition-colors text-sm">
               Pelo largo o medio
             </p>
             <p className="text-xs text-primary/50 mt-1">
               Abundante, con capa, o que crece rápido
             </p>
           </div>
-          <span className="text-lg font-bold text-primary/70 group-hover:text-accent-peach-dark transition-colors shrink-0">
-            {prices.long}
-          </span>
-          <Icon
-            icon="lucide:chevron-right"
-            className="w-5 h-5 text-primary/20 group-hover:text-accent-peach group-hover:translate-x-1 transition-all"
-          />
+          <div className="flex items-center gap-3 sm:gap-2">
+            <span className="text-base sm:text-lg font-bold text-primary/70 group-hover:text-accent-peach-dark transition-colors">
+              {prices.long}
+            </span>
+            <Icon
+              icon="lucide:chevron-right"
+              className="w-5 h-5 text-primary/20 group-hover:text-accent-peach group-hover:translate-x-1 transition-all shrink-0"
+            />
+          </div>
         </button>
       </div>
 
