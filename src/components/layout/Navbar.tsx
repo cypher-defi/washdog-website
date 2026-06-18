@@ -1,6 +1,7 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
+import { useRouter, usePathname } from "next/navigation"
 import Link from "next/link"
 import { Icon } from "@iconify/react"
 
@@ -16,6 +17,9 @@ const navLinks = [
 
 export function Navbar({ onBookClick }: NavbarProps) {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const router = useRouter()
+  const pathname = usePathname()
+  const isHomepage = pathname === "/"
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" })
@@ -32,13 +36,31 @@ export function Navbar({ onBookClick }: NavbarProps) {
   }
 
   const handleNavClick = (href: string) => {
-    scrollToSection(href)
+    if (isHomepage) {
+      scrollToSection(href)
+    } else {
+      router.push(`/#${href}`)
+    }
     setIsMenuOpen(false)
   }
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen)
   }
+
+  useEffect(() => {
+    const handleHashChange = () => {
+      const hash = window.location.hash.slice(1)
+      if (hash && isHomepage) {
+        setTimeout(() => scrollToSection(hash), 0)
+      }
+    }
+
+    window.addEventListener("hashchange", handleHashChange)
+    handleHashChange()
+
+    return () => window.removeEventListener("hashchange", handleHashChange)
+  }, [isHomepage])
 
   return (
     <nav className='fixed top-0 w-full z-50 glass transition-all duration-300'>
@@ -135,7 +157,7 @@ export function Navbar({ onBookClick }: NavbarProps) {
                 key={link.href}
                 href={`/${link.href}`}
                 onClick={() => setIsMenuOpen(false)}
-                className='text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
+                className='block w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
               >
                 {link.label}
               </Link>
@@ -143,7 +165,7 @@ export function Navbar({ onBookClick }: NavbarProps) {
               <button
                 key={link.href}
                 onClick={() => handleNavClick(link.href)}
-                className='text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
+                className='w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
               >
                 {link.label}
               </button>
@@ -152,7 +174,7 @@ export function Navbar({ onBookClick }: NavbarProps) {
           <Link
             href='/blog'
             onClick={() => setIsMenuOpen(false)}
-            className='text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
+            className='block w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
           >
             Blog
           </Link>
