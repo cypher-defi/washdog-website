@@ -113,6 +113,15 @@ export function DogSizeSelect({ serviceType, onSelectSize, onBack }: DogSizeSele
           );
         })}
       </div>
+
+      <div className="mt-8 p-5 bg-primary/5 rounded-2xl border border-primary/10 max-w-md mx-auto">
+        <p className="text-xs text-primary/60 leading-relaxed">
+          <span className="font-semibold text-primary/80">Nota importante:</span> Los valores son referenciales y pueden variar según el estado del pelaje, presencia de nudos, comportamiento de la mascota y complejidad del servicio. Los cortes de raza y trabajos de estilismo tienen un valor desde $35.000, independientemente del tamaño del perro.
+        </p>
+        <p className="text-xs text-primary/70 font-medium mt-3">
+          En Washdog cuidamos a tu mascota con amor y profesionalismo.
+        </p>
+      </div>
     </div>
   );
 }

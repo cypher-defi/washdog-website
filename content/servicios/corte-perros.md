@@ -35,6 +35,36 @@ communes:
 ---
 Si estás buscando un **corte de pelo para perros en Santiago** que vaya más allá de lo básico, llegaste al lugar indicado. En Washdog entendemos que cada perro tiene necesidades distintas según su raza, tipo de pelaje y estilo de vida, por eso ofrecemos un servicio de grooming profesional que cuida tanto la estética como la salud de tu mascota.
 
+## Nuestros servicios de grooming
+
+Ofrecemos dos opciones según las necesidades de tu mascota:
+
+### Baño y estética básica
+
+Perfecto para mantención regular. Incluye baño, secado, cepillado, limpieza de oídos y corte higiénico (cara, patitas y zona sanitaria).
+
+| Tamaño | Precio | Duración |
+|---|---|---|
+| Pequeño (hasta 5 kg) | $28.000 | ~1 hora |
+| Mediano (6 a 18 kg) | $30.000 | ~1.5 horas |
+| Grande (19 kg o más) | $40.000 | ~2 horas |
+
+### Cortes de raza y estilismo
+
+Trabajos personalizados según el estándar de cada raza. Diseño a medida, técnica especializada y atención a cada detalle.
+
+**Precio:** desde $35.000 (independiente del tamaño)
+
+---
+
+## Nota importante sobre nuestros precios
+
+Los valores son referenciales y pueden variar según el estado del pelaje, presencia de nudos, comportamiento de la mascota y complejidad del servicio. Los cortes de raza y trabajos de estilismo tienen un valor desde $35.000, independientemente del tamaño del perro.
+
+**En Washdog cuidamos a tu mascota con amor y profesionalismo.**
+
+---
+
 ## ¿Qué incluye nuestro servicio de corte de pelo canino?
 
 Un buen corte de pelo no es solo cuestión de estética. En Washdog, nuestro **corte de pelo profesional para perros** está diseñado para adaptarse a cada raza y a las necesidades específicas de tu compañero peludo. El servicio incluye:

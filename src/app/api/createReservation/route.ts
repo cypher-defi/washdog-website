@@ -4,7 +4,7 @@ import { sendBusinessNotification } from "@/lib/email"
 
 const SLOT_DURATIONS: Record<string, Record<string, number>> = {
   bath: { toy: 15, small: 15, medium: 15, large: 30, giant: 30, cat: 15 },
-  cut:  { toy: 60, small: 60, medium: 90, large: 120, giant: 120, cat: 60 }
+  cut:  { toy: 60, small: 60, medium: 90, large: 120, giant: 120, cat: 60 }  // Baño y estética básica durations
 }
 
 const SIZE_LABELS: Record<string, string> = {

@@ -21,20 +21,20 @@ export const SLOT_DURATIONS = {
     cat: 15,      // cat (15 min)
   },
   cut: {
-    toy: 60,      // 1 hour
-    small: 60,    // 1 hour
-    medium: 90,   // 1.5 hours
-    large: 120,   // 2 hours
-    giant: 120,   // 2 hours
+    toy: 60,      // ~1 hour
+    small: 60,    // ~1 hour (hasta 5 kg)
+    medium: 90,   // ~1.5 hours (6 a 18 kg)
+    large: 120,   // ~2 hours (19+ kg)
+    giant: 120,   // ~2 hours (19+ kg)
     cat: 60,      // 1 hour
   },
 } as const;
 
 export const DOG_SIZE_LABELS = {
   toy: 'Toy (hasta ~5 kg)',
-  small: '5–10 kg (pequeño)',
-  medium: '10–20 kg (mediano)',
-  large: '20–40 kg (grande)',
+  small: 'Pequeño (hasta 5 kg)',
+  medium: 'Mediano (6–18 kg)',
+  large: 'Grande (19+ kg)',
   giant: 'Más de 40 kg (gigante)',
   cat: 'Gato',
 } as const;
@@ -49,13 +49,15 @@ export const BATH_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' 
 };
 
 export const CUT_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' | 'cat', { short: string; long: string; start: string }> = {
-  toy:    { short: '$28.000', long: '$30.000', start: '$28.000' },
-  small:  { short: '$28.000', long: '$30.000', start: '$28.000' },
-  medium: { short: '$30.000', long: '$35.000', start: '$30.000' },
-  large:  { short: '$40.000', long: '$50.000', start: '$40.000' },
-  giant:  { short: '$40.000', long: '$50.000', start: '$40.000' },
+  toy:    { short: '$28.000', long: '$28.000', start: '$28.000' },
+  small:  { short: '$28.000', long: '$28.000', start: '$28.000' },
+  medium: { short: '$30.000', long: '$30.000', start: '$30.000' },
+  large:  { short: '$40.000', long: '$40.000', start: '$40.000' },
+  giant:  { short: '$40.000', long: '$40.000', start: '$40.000' },
   cat:    { short: '$45.000', long: '$45.000', start: '$45.000' },
 };
+
+export const BREED_CUT_PRICES = '$35.000';
 
 export interface BookingContextValue {
   state: BookingState;

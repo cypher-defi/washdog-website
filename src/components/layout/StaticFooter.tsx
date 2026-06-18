@@ -74,34 +74,8 @@ export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: New
               </ul>
             </div>
 
-            {/* Comunas */}
-            <div className='md:col-span-2 md:col-start-6 text-sm space-y-4'>
-              <h4 className='text-white font-medium text-lg'>Comunas</h4>
-              <ul className='space-y-2'>
-                {[
-                  { label: 'Ñuñoa',           href: '/servicios/peluqueria-canina-nunoa' },
-                  { label: 'Providencia',      href: '/servicios/peluqueria-canina-providencia' },
-                  { label: 'Las Condes',       href: '/servicios/peluqueria-canina-las-condes' },
-                  { label: 'Vitacura',         href: '/servicios/peluqueria-canina-vitacura' },
-                  { label: 'La Reina',         href: '/servicios/peluqueria-canina-la-reina' },
-                  { label: 'Macul',            href: '/servicios/peluqueria-canina-macul' },
-                  { label: 'La Florida',       href: '/servicios/peluqueria-canina-la-florida' },
-                  { label: 'Peñalolén',        href: '/servicios/peluqueria-canina-penalolen' },
-                  { label: 'Santiago Centro',  href: '/servicios/peluqueria-canina-santiago-centro' },
-                  { label: 'Huechuraba',       href: '/servicios/peluqueria-canina-huechuraba' },
-                  { label: 'Lo Barnechea',     href: '/servicios/peluqueria-canina-lo-barnechea' },
-                ].map(({ label, href }) => (
-                  <li key={href}>
-                    <Link href={href} className='text-white/60 hover:text-white transition-colors'>
-                      {label}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
             {/* Newsletter */}
-            <div className='md:col-span-2 md:col-start-8 text-sm space-y-4'>
+            <div className='md:col-span-2 md:col-start-6 text-sm space-y-4'>
               <h4 className='text-white font-medium text-lg'>Newsletter</h4>
               <ul className='space-y-2'>
                 <li>
@@ -120,7 +94,7 @@ export function StaticFooter({ newsletterIssues = [] }: { newsletterIssues?: New
             </div>
 
             {/* Contact Info + Hours */}
-            <div className='col-span-2 md:col-span-3 md:col-start-10 text-sm space-y-4'>
+            <div className='col-span-2 md:col-span-3 md:col-start-8 text-sm space-y-4'>
               <h4 className='text-white font-medium text-lg'>Contacto</h4>
               <div className='flex flex-wrap gap-x-5 gap-y-3 md:flex-col md:gap-x-0 md:space-y-6'>
                 <a

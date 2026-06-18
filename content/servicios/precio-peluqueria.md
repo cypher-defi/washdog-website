@@ -33,13 +33,31 @@ Los precios de peluquería canina en Santiago varían bastante según el servici
 | Hasta 20 kg | $10.000 |
 | Más de 20 kg | $16.000 |
 
-### Peluquería canina (incluye baño, brushing, corte sanitario, deslanado, corte de uñas y limpieza de orejas)
+### Baño y estética básica (incluye baño, secado, cepillado, limpieza de oídos y corte higiénico)
 
-| Tamaño | Pelo corto | Pelo largo o medio |
+| Tamaño | Precio | Duración |
 |---|---|---|
-| Pequeño | $28.000 | $30.000 |
-| Mediano | $30.000 | $35.000 |
-| Grande | $40.000 | $50.000 |
+| Pequeño (hasta 5 kg) | $28.000 | ~1 hora |
+| Mediano (6 a 18 kg) | $30.000 | ~1.5 horas |
+| Grande (19 kg o más) | $40.000 | ~2 horas |
+
+### Cortes de raza y estilismo (independiente del tamaño)
+
+Trabajos personalizados según el estándar de cada raza.
+
+| Servicio | Precio |
+|---|---|
+| Desde | $35.000 |
+
+---
+
+## Nota importante sobre nuestros precios
+
+Los valores son referenciales y pueden variar según el estado del pelaje, presencia de nudos, comportamiento de la mascota y complejidad del servicio. Los cortes de raza y trabajos de estilismo tienen un valor desde $35.000, independientemente del tamaño del perro.
+
+**En Washdog cuidamos a tu mascota con amor y profesionalismo.**
+
+---
 
 ### Peluquería para gatos (incluye baño)
 

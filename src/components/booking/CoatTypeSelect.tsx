@@ -89,7 +89,7 @@ export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelect
       </div>
 
       <p className="text-center text-xs text-primary/40 mt-6">
-        * Incluye baño, brushing y limpiado de orejas
+        * Baño y estética básica: baño, secado, cepillado, limpieza de oídos y corte higiénico
       </p>
     </div>
   );
