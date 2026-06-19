@@ -63,25 +63,13 @@ export function BookingModal({
   // Prevent body scroll when modal is open
   useEffect(() => {
     if (isOpen) {
+      const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth
       document.body.style.overflow = "hidden"
-      document.documentElement.style.overflow = "hidden"
-
-      const preventScroll = (e: WheelEvent | TouchEvent) => {
-        e.preventDefault()
-      }
-
-      document.addEventListener("wheel", preventScroll, { passive: false })
-      document.addEventListener("touchmove", preventScroll, { passive: false })
-
+      document.body.style.paddingRight = `${scrollbarWidth}px`
       return () => {
         document.body.style.overflow = "unset"
-        document.documentElement.style.overflow = "unset"
-        document.removeEventListener("wheel", preventScroll)
-        document.removeEventListener("touchmove", preventScroll)
+        document.body.style.paddingRight = "unset"
       }
-    } else {
-      document.body.style.overflow = "unset"
-      document.documentElement.style.overflow = "unset"
     }
   }, [isOpen])
 
