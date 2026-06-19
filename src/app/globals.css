@@ -48,6 +48,11 @@ html {
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* Prevent body scroll when modal is open */
+body.modal-open {
+  overflow: hidden;
+}
 .no-scrollbar {
   -ms-overflow-style: none;
   scrollbar-width: none;

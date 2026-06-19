@@ -19,30 +19,8 @@ export function BookingModal() {
   // Prevent body scroll when modal is open
   useEffect(() => {
     if (isOpen) {
-      const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth
-      document.body.style.overflow = "hidden"
-      document.body.style.paddingRight = `${scrollbarWidth}px`
-      document.documentElement.style.overflow = "hidden"
-
-      const preventBodyScroll = (e: Event) => {
-        const target = e.target as HTMLElement
-        // Only prevent scroll if it's not inside the modal
-        if (!target.closest('[role="dialog"]') && !target.closest('.modal-content')) {
-          e.preventDefault()
-        }
-      }
-
-      // Prevent scroll events on body
-      document.addEventListener('wheel', preventBodyScroll, { passive: false })
-      document.addEventListener('touchmove', preventBodyScroll, { passive: false })
-
-      return () => {
-        document.body.style.overflow = "unset"
-        document.body.style.paddingRight = "unset"
-        document.documentElement.style.overflow = "unset"
-        document.removeEventListener('wheel', preventBodyScroll)
-        document.removeEventListener('touchmove', preventBodyScroll)
-      }
+      document.body.classList.add('modal-open')
+      return () => document.body.classList.remove('modal-open')
     }
   }, [isOpen])
 
