@@ -49,12 +49,12 @@ export const BATH_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' 
 };
 
 export const CUT_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' | 'cat', { short: string; long: string; start: string }> = {
-  toy:    { short: '$28.000', long: '$28.000', start: '$28.000' },
-  small:  { short: '$28.000', long: '$28.000', start: '$28.000' },
-  medium: { short: '$30.000', long: '$30.000', start: '$30.000' },
-  large:  { short: '$40.000', long: '$40.000', start: '$40.000' },
-  giant:  { short: '$40.000', long: '$40.000', start: '$40.000' },
-  cat:    { short: '$45.000', long: '$45.000', start: '$45.000' },
+  toy:    { short: '$28.000', long: '$30.000', start: '$28.000' },
+  small:  { short: '$28.000', long: '$30.000', start: '$28.000' },
+  medium: { short: '$30.000', long: '$35.000', start: '$30.000' },
+  large:  { short: '$40.000', long: '$50.000', start: '$40.000' },
+  giant:  { short: '$40.000', long: '$50.000', start: '$40.000' },
+  cat:    { short: '$45.000', long: '$50.000', start: '$45.000' },
 };
 
 export const BREED_CUT_PRICES = '$35.000';
