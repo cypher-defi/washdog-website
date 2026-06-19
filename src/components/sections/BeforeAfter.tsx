@@ -61,14 +61,14 @@ export function BeforeAfter() {
           <button
             onClick={prev}
             aria-label="Anterior"
-            className="absolute left-3 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/90 shadow-md flex items-center justify-center hover:bg-white transition-colors"
+            className="absolute left-4 sm:left-3 top-1/3 w-12 h-12 sm:w-10 sm:h-10 rounded-full bg-white/90 shadow-md flex items-center justify-center hover:bg-white transition-colors"
           >
             <Icon icon="lucide:chevron-left" className="w-5 h-5 text-primary" />
           </button>
           <button
             onClick={next}
             aria-label="Siguiente"
-            className="absolute right-3 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/90 shadow-md flex items-center justify-center hover:bg-white transition-colors"
+            className="absolute right-4 sm:right-3 top-1/3 w-12 h-12 sm:w-10 sm:h-10 rounded-full bg-white/90 shadow-md flex items-center justify-center hover:bg-white transition-colors"
           >
             <Icon icon="lucide:chevron-right" className="w-5 h-5 text-primary" />
           </button>

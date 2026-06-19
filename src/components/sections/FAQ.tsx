@@ -99,7 +99,7 @@ export function FAQ() {
               >
                 <button
                   onClick={() => setOpenIndex(isOpen ? null : index)}
-                  className='w-full flex items-center justify-between gap-4 px-6 py-5 text-left'
+                  className='w-full flex items-center justify-between gap-2 sm:gap-4 px-4 sm:px-6 py-4 sm:py-5 text-left'
                 >
                   <span className='font-semibold text-primary text-sm md:text-base'>
                     {faq.question}
