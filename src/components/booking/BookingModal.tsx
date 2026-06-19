@@ -2,64 +2,39 @@
 
 import { useEffect } from "react"
 import { Icon } from "@iconify/react"
+import { useBookingContext } from "@/context/BookingContext"
 import { ServiceSelect } from "./ServiceSelect"
 import { DogSizeSelect } from "./DogSizeSelect"
 import { CoatTypeSelect } from "./CoatTypeSelect"
 import { DateTimeSelect } from "./DateTimeSelect"
 import { BookingSuccess } from "./BookingSuccess"
-import { BookingState, DogSize, CoatType } from "@/types"
 
-interface BookingModalProps {
-  isOpen: boolean
-  onClose: () => void
-  state: BookingState
-  isSuccess: boolean
-  onSelectService: (service: "bath" | "cut") => void
-  onSelectDogSize: (size: DogSize) => void
-  onSelectCoatType: (coat: CoatType) => void
-  onSelectDate: (date: Date) => void
-  onSelectTime: (time: string) => void
-  onReset: () => void
-  onGoBackToSize: () => void
-  onGoBackToCoat: () => void
-  onSubmit: () => void
-  canSubmit: boolean
-  summary: string
-  name: string
-  phoneNumber: string
-  email: string
-  dogName: string
-  onChangeName: (value: string) => void
-  onChangePhoneNumber: (value: string) => void
-  onChangeEmail: (value: string) => void
-  onChangeDogName: (value: string) => void
-}
-
-export function BookingModal({
-  isOpen,
-  onClose,
-  state,
-  isSuccess,
-  onSelectService,
-  onSelectDogSize,
-  onSelectCoatType,
-  onSelectDate,
-  onSelectTime,
-  onReset,
-  onGoBackToSize,
-  onGoBackToCoat,
-  onSubmit,
-  canSubmit,
-  summary,
-  name,
-  phoneNumber,
-  email,
-  dogName,
-  onChangeName,
-  onChangePhoneNumber,
-  onChangeEmail,
-  onChangeDogName
-}: BookingModalProps) {
+export function BookingModal() {
+  const {
+    isOpen,
+    closeModal,
+    state,
+    isSuccess,
+    onSelectService,
+    onSelectDogSize,
+    onSelectCoatType,
+    onSelectDate,
+    onSelectTime,
+    onReset,
+    onGoBackToSize,
+    onGoBackToCoat,
+    onSubmit,
+    canSubmit,
+    summary,
+    name,
+    phoneNumber,
+    email,
+    dogName,
+    onChangeName,
+    onChangePhoneNumber,
+    onChangeEmail,
+    onChangeDogName
+  } = useBookingContext()
   // Prevent body scroll when modal is open
   useEffect(() => {
     if (isOpen) {
@@ -108,7 +83,7 @@ export function BookingModal({
       {/* Backdrop */}
       <div
         className='absolute inset-0 bg-primary/60 backdrop-blur-md transition-opacity'
-        onClick={onClose}
+        onClick={closeModal}
       />
 
       {/* Modal Container */}
@@ -116,7 +91,7 @@ export function BookingModal({
         <div className='modal-content relative bg-white w-full sm:max-w-2xl max-h-[85vh] md:max-h-[90vh] overflow-y-auto rounded-2xl md:rounded-4xl shadow-2xl flex flex-col transition-all duration-300 ring-1 ring-primary/5'>
           {/* Close Button */}
           <button
-            onClick={onClose}
+            onClick={closeModal}
             className='absolute top-7 right-6 z-20 p-2 text-primary hover:text-primary/70 transition-colors'
             aria-label='Close modal'
           >
@@ -126,7 +101,7 @@ export function BookingModal({
           {/* Success View */}
           {isSuccess && (
             <BookingSuccess
-              onClose={onClose}
+              onClose={closeModal}
               date={state.date}
               time={state.time}
             />

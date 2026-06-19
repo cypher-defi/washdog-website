@@ -1,6 +1,7 @@
 "use client"
 
 import dynamic from "next/dynamic"
+import { BookingProvider, useBookingContext } from "@/context/BookingContext"
 import { Navbar, Footer } from "@/components/layout"
 import {
   Hero,
@@ -18,63 +19,46 @@ import {
 import type { PlaceReview } from "@/lib/google-places"
 import type { IssueMeta } from "@/lib/newsletter"
 import { FloatingCTA } from "@/components/ui"
-import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
   () => import("@/components/booking").then(mod => mod.BookingModal),
   { ssr: false }
 )
 
-export function HomeClient({ rating, reviews, newsletterIssues }: { rating: number; reviews: PlaceReview[]; newsletterIssues: IssueMeta[] }) {
-  const booking = useBooking()
+function HomeClientContent({ rating, reviews, newsletterIssues }: { rating: number; reviews: PlaceReview[]; newsletterIssues: IssueMeta[] }) {
+  const { openModal } = useBookingContext()
 
   return (
     <>
-      <Navbar onBookClick={booking.openModal} />
+      <Navbar onBookClick={openModal} />
 
       <main className='grow pt-20'>
-        <Hero onBookClick={booking.openModal} rating={rating} />
+        <Hero onBookClick={openModal} rating={rating} />
         <HowItWorks />
-        <Services onBookClick={booking.openModal} />
+        <Services onBookClick={openModal} />
         <Features />
-        <MidPageCTA onBookClick={booking.openModal} rating={rating} />
+        <MidPageCTA onBookClick={openModal} rating={rating} />
         <Testimonials reviews={reviews} />
         <BeforeAfter />
         <NewsletterBanner />
         <FAQ />
-        <EmotiveClose onBookClick={booking.openModal} rating={rating} />
+        <EmotiveClose onBookClick={openModal} rating={rating} />
         <Contact />
       </main>
 
-      <Footer onBookClick={booking.openModal} newsletterIssues={newsletterIssues} />
+      <Footer onBookClick={openModal} newsletterIssues={newsletterIssues} />
 
-      <FloatingCTA onClick={booking.openModal} />
+      <FloatingCTA onClick={openModal} />
 
-      <BookingModal
-        isOpen={booking.isOpen}
-        onClose={booking.closeModal}
-        state={booking.state}
-        isSuccess={booking.isSuccess}
-        onSelectService={booking.selectService}
-        onSelectDogSize={booking.selectDogSize}
-        onSelectCoatType={booking.selectCoatType}
-        onSelectDate={booking.selectDate}
-        onSelectTime={booking.selectTime}
-        onReset={booking.resetBooking}
-        onGoBackToSize={booking.goBackToSize}
-        onGoBackToCoat={booking.goBackToCoat}
-        onSubmit={booking.submitBooking}
-        canSubmit={booking.canSubmit}
-        summary={booking.summary}
-        name={booking.name}
-        phoneNumber={booking.phoneNumber}
-        email={booking.email}
-        dogName={booking.dogName}
-        onChangeName={booking.setName}
-        onChangePhoneNumber={booking.setPhoneNumber}
-        onChangeEmail={booking.setEmail}
-        onChangeDogName={booking.setDogName}
-      />
+      <BookingModal />
     </>
+  )
+}
+
+export function HomeClient({ rating, reviews, newsletterIssues }: { rating: number; reviews: PlaceReview[]; newsletterIssues: IssueMeta[] }) {
+  return (
+    <BookingProvider>
+      <HomeClientContent rating={rating} reviews={reviews} newsletterIssues={newsletterIssues} />
+    </BookingProvider>
   )
 }

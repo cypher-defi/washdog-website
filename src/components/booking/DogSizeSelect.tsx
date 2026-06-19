@@ -1,15 +1,14 @@
 'use client';
 
 import { Icon } from '@iconify/react';
-import { DogSize, DOG_SIZE_LABELS, SLOT_DURATIONS, BATH_PRICES, CUT_PRICES } from '@/types';
-
-interface DogSizeSelectProps {
-  serviceType: 'bath' | 'cut';
-  onSelectSize: (size: DogSize) => void;
-  onBack: () => void;
-}
+import { useBookingContext } from '@/context/BookingContext';
+import { SLOT_DURATIONS, BATH_PRICES, CUT_PRICES } from '@/types';
 
 type ValidSize = 'toy' | 'small' | 'medium' | 'large' | 'giant' | 'cat';
+
+export function DogSizeSelect() {
+  const { state, onSelectDogSize, onReset } = useBookingContext();
+  const serviceType = state.service as 'bath' | 'cut';
 
 const BATH_OPTIONS: { size: ValidSize; icon: string; label: string }[] = [
   { size: 'small', icon: 'lucide:dog', label: 'Hasta 20 kg (pequeño o mediano)' },
@@ -54,14 +53,13 @@ const SIZE_ICON_SIZES: Record<ValidSize, string> = {
   cat:    'w-7 h-7',
 };
 
-export function DogSizeSelect({ serviceType, onSelectSize, onBack }: DogSizeSelectProps) {
   const serviceLabel = serviceType === 'bath' ? 'baño' : 'corte';
   const options = serviceType === 'bath' ? BATH_OPTIONS : CUT_OPTIONS;
 
   return (
     <div className="flex-1 p-8 md:p-12 pb-32">
       <button
-        onClick={onBack}
+        onClick={onReset}
         className="mb-6 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors"
       >
         <Icon icon="lucide:arrow-left" className="w-4 h-4" /> Volver
@@ -88,7 +86,7 @@ export function DogSizeSelect({ serviceType, onSelectSize, onBack }: DogSizeSele
           return (
             <button
               key={size}
-              onClick={() => onSelectSize(size)}
+              onClick={() => onSelectDogSize(size)}
               className="group flex flex-col md:flex-row md:items-center gap-3 md:gap-4 p-4 md:p-5 rounded-xl md:rounded-2xl border border-primary/10 bg-white hover:border-accent-blue hover:shadow-lg hover:shadow-accent-blue/10 transition-all text-left"
             >
               <div className={`w-10 h-10 md:w-12 md:h-12 rounded-lg md:rounded-xl flex items-center justify-center transition-all group-hover:scale-110 shrink-0 ${SIZE_COLORS[size]}`}>

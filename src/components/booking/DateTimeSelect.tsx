@@ -2,11 +2,12 @@
 
 import { FormEvent, useEffect, useState } from "react"
 import { Icon } from "@iconify/react"
+import { useBookingContext } from "@/context/BookingContext"
 import { Calendar } from "./Calendar"
 import { TimeSlots } from "./TimeSlots"
-import { DogSize, DOG_SIZE_LABELS, SLOT_DURATIONS } from "@/types"
+import { DOG_SIZE_LABELS, SLOT_DURATIONS } from "@/types"
 
-type ValidSize = NonNullable<DogSize>
+type ValidSize = NonNullable<ReturnType<typeof useBookingContext>["state"]["dogSize"]>
 
 const BASE_SLOT_MINUTES = 15
 
@@ -41,27 +42,6 @@ function expandToSlots(startTime: string, durationMinutes: number): string[] {
   return slots
 }
 
-interface DateTimeSelectProps {
-  selectedDate: Date | null
-  selectedTime: string | null
-  onSelectDate: (date: Date) => void
-  onSelectTime: (time: string) => void
-  onBack: () => void
-  onSubmit: () => void
-  canSubmit: boolean
-  summary: string
-  serviceType: "bath" | "cut" | null
-  dogSize: DogSize
-  name: string
-  phoneNumber: string
-  email: string
-  dogName: string
-  onChangeName: (value: string) => void
-  onChangePhoneNumber: (value: string) => void
-  onChangeEmail: (value: string) => void
-  onChangeDogName: (value: string) => void
-}
-
 function getDurationLabel(serviceType: "bath" | "cut", size: ValidSize): string {
   const duration = SLOT_DURATIONS[serviceType][size]
   if (duration < 60) return `${duration} min`
@@ -70,26 +50,30 @@ function getDurationLabel(serviceType: "bath" | "cut", size: ValidSize): string 
   return `${duration / 60} horas`
 }
 
-export function DateTimeSelect({
-  selectedDate,
-  selectedTime,
-  onSelectDate,
-  onSelectTime,
-  onBack,
-  onSubmit,
-  canSubmit,
-  summary,
-  serviceType,
-  dogSize,
-  name,
-  phoneNumber,
-  email,
-  dogName,
-  onChangeName,
-  onChangePhoneNumber,
-  onChangeEmail,
-  onChangeDogName
-}: DateTimeSelectProps) {
+export function DateTimeSelect() {
+  const {
+    state,
+    onSelectDate,
+    onSelectTime,
+    onGoBackToCoat,
+    onReset,
+    onSubmit,
+    canSubmit,
+    summary,
+    name,
+    phoneNumber,
+    email,
+    dogName,
+    onChangeName,
+    onChangePhoneNumber,
+    onChangeEmail,
+    onChangeDogName
+  } = useBookingContext()
+
+  const selectedDate = state.date
+  const selectedTime = state.time
+  const serviceType = state.service as "bath" | "cut" | null
+  const dogSize = state.dogSize
   const [bookedSlots, setBookedSlots] = useState<string[]>([])
   const [errors, setErrors] = useState<{ email?: string; phone?: string }>({})
 
@@ -141,7 +125,7 @@ export function DateTimeSelect({
       {/* Left Panel - Calendar */}
       <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 pb-32 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
         <button
-          onClick={onBack}
+          onClick={state.service === "cut" && state.dogSize !== "cat" ? onGoBackToCoat : onReset}
           className='mb-4 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors'
         >
           <Icon icon='lucide:arrow-left' className='w-4 h-4' /> Volver

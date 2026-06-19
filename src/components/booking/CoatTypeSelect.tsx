@@ -1,15 +1,13 @@
 'use client';
 
 import { Icon } from '@iconify/react';
-import { CoatType, DogSize, CUT_PRICES, DOG_SIZE_LABELS } from '@/types';
+import { useBookingContext } from '@/context/BookingContext';
+import { CUT_PRICES, DOG_SIZE_LABELS } from '@/types';
 
-interface CoatTypeSelectProps {
-  dogSize: DogSize;
-  onSelectCoat: (coat: CoatType) => void;
-  onBack: () => void;
-}
+export function CoatTypeSelect() {
+  const { state, onSelectCoatType, onGoBackToSize } = useBookingContext();
+  const dogSize = state.dogSize;
 
-export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelectProps) {
   if (!dogSize || dogSize === 'cat') return null;
 
   const prices = CUT_PRICES[dogSize];
@@ -18,7 +16,7 @@ export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelect
   return (
     <div className="flex-1 p-8 md:p-12 pb-32">
       <button
-        onClick={onBack}
+        onClick={onGoBackToSize}
         className="mb-6 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors"
       >
         <Icon icon="lucide:arrow-left" className="w-4 h-4" /> Volver
@@ -39,7 +37,7 @@ export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelect
       <div className="grid grid-cols-1 gap-4 max-w-md mx-auto">
         {/* Pelo corto */}
         <button
-          onClick={() => onSelectCoat('short')}
+          onClick={() => onSelectCoatType('short')}
           className="group flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-5 p-5 sm:p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
         >
           <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-xl bg-accent-blue/10 text-accent-blue flex items-center justify-center shrink-0 group-hover:scale-110 transition-all">
@@ -66,7 +64,7 @@ export function CoatTypeSelect({ dogSize, onSelectCoat, onBack }: CoatTypeSelect
 
         {/* Pelo largo o medio */}
         <button
-          onClick={() => onSelectCoat('long')}
+          onClick={() => onSelectCoatType('long')}
           className="group flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-5 p-5 sm:p-6 rounded-2xl border border-primary/10 bg-white hover:border-accent-peach/60 hover:shadow-lg hover:shadow-accent-peach/10 transition-all text-left"
         >
           <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-xl bg-accent-peach/20 text-accent-peach-dark flex items-center justify-center shrink-0 group-hover:scale-110 transition-all">

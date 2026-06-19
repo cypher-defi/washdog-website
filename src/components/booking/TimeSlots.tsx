@@ -1,16 +1,12 @@
 'use client';
 
 import { useMemo } from 'react';
-import { DogSize, SLOT_DURATIONS } from '@/types';
+import { useBookingContext } from '@/context/BookingContext';
+import { SLOT_DURATIONS } from '@/types';
 
-type ValidSize = NonNullable<DogSize>;
+type ValidSize = NonNullable<ReturnType<typeof useBookingContext>["state"]["dogSize"]>;
 
 interface TimeSlotsProps {
-  selectedTime: string | null;
-  onSelectTime: (time: string) => void;
-  selectedDate: Date | null;
-  serviceType: 'bath' | 'cut' | null;
-  dogSize: DogSize;
   bookedSlots?: string[];
   slotIntervalMinutes?: number; // interval between offered start times
 }
@@ -113,14 +109,15 @@ function getAvailableSlots(
 }
 
 export function TimeSlots({
-  selectedTime,
-  onSelectTime,
-  selectedDate,
-  serviceType,
-  dogSize,
   bookedSlots = [],
   slotIntervalMinutes = 15,
 }: TimeSlotsProps) {
+  const { state, onSelectTime } = useBookingContext();
+  const selectedTime = state.time;
+  const selectedDate = state.date;
+  const serviceType = state.service as 'bath' | 'cut' | null;
+  const dogSize = state.dogSize;
+
   const availableTimes = useMemo(() => {
     if (!serviceType || !dogSize) return [];
     return getAvailableSlots(serviceType, dogSize as ValidSize, bookedSlots, selectedDate, slotIntervalMinutes);
