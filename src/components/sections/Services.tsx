@@ -95,10 +95,10 @@ export function Services({ onBookClick }: ServicesProps) {
               </p>
               {/* Price table */}
               <div className='rounded-2xl border border-accent-peach/20 overflow-hidden mb-4'>
-                <div className='grid grid-cols-3 bg-accent-peach/10 px-4 py-2'>
+                <div className='grid grid-cols-2 sm:grid-cols-3 bg-accent-peach/10 px-3 py-2 sm:px-4 sm:py-2'>
                   <span className='text-[10px] font-bold uppercase tracking-widest text-primary/70'>Tamaño</span>
-                  <span className='text-[10px] font-bold uppercase tracking-widest text-primary/70 text-center'>Pelo corto</span>
-                  <span className='text-[10px] font-bold uppercase tracking-widest text-primary/70 text-right'>Pelo largo</span>
+                  <span className='text-[10px] font-bold uppercase tracking-widest text-primary/70 text-center'>Corto</span>
+                  <span className='text-[10px] font-bold uppercase tracking-widest text-primary/70 text-right hidden sm:block'>Largo</span>
                 </div>
                 {[
                   { label: 'Pequeño', short: '$28.000', long: '$30.000' },
@@ -106,10 +106,10 @@ export function Services({ onBookClick }: ServicesProps) {
                   { label: 'Grande',  short: '$40.000', long: '$50.000' },
                   { label: 'Gato',    short: '$45.000', long: '—' },
                 ].map((row, i) => (
-                  <div key={i} className='grid grid-cols-3 px-4 py-2 border-t border-accent-peach/10'>
+                  <div key={i} className='grid grid-cols-2 sm:grid-cols-3 px-3 py-2 sm:px-4 sm:py-2 border-t border-accent-peach/10'>
                     <span className='text-xs font-semibold text-primary/80'>{row.label}</span>
                     <span className='text-xs font-bold text-primary/80 text-center'>{row.short}</span>
-                    <span className='text-xs font-bold text-primary/80 text-right'>{row.long}</span>
+                    <span className='text-xs font-bold text-primary/80 text-right hidden sm:block'>{row.long}</span>
                   </div>
                 ))}
               </div>

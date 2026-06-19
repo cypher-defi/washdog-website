@@ -23,7 +23,7 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
     <footer className='bg-white pb-6 pt-10'>
       <div className='max-w-7xl mx-auto px-6'>
         <div className='bg-primary rounded-5xl text-[#E6E1DE] p-10 md:p-16 relative overflow-hidden shadow-2xl shadow-primary/10'>
-          <div className='grid grid-cols-2 md:grid-cols-12 gap-8 md:gap-10 relative z-10'>
+          <div className='grid grid-cols-2 md:grid-cols-12 gap-4 md:gap-8 relative z-10'>
             {/* Brand & CTA */}
             <div className='col-span-2 md:col-span-3'>
               <button
@@ -123,9 +123,9 @@ export function Footer({ onBookClick, newsletterIssues = [] }: FooterProps) {
               <div className='pt-2'>
                 <h3 className='text-white font-medium text-lg mb-4'>Horario</h3>
                 <div className='border-l-2 border-accent-blue/30 pl-4 text-white/70 space-y-1'>
-                  <p className='whitespace-nowrap'>Lun, Mié–Sáb: 10:00–19:00</p>
-                  <p className='whitespace-nowrap'>Dom: 10:00–17:30</p>
-                  <p className='whitespace-nowrap'>Mar: Cerrado</p>
+                  <p className='wrap-break-word'>Lun, Mié–Sáb: 10:00–19:00</p>
+                  <p className='wrap-break-word'>Dom: 10:00–17:30</p>
+                  <p className='wrap-break-word'>Mar: Cerrado</p>
                 </div>
               </div>
             </div>

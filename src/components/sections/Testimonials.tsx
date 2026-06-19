@@ -37,7 +37,7 @@ export function Testimonials({ reviews }: TestimonialsProps) {
           return (
             <div
               key={i}
-              className={`min-w-72 snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${style.hoverBorder} transition-colors shadow-sm`}
+              className={`min-w-64 sm:min-w-72 snap-center bg-white p-10 rounded-3xl border border-primary/5 flex flex-col ${style.hoverBorder} transition-colors shadow-sm`}
             >
               <div className="flex items-center gap-4 mb-6">
                 <div
