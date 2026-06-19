@@ -123,7 +123,7 @@ export function DateTimeSelect() {
   return (
     <div className='flex flex-col md:flex-row flex-1'>
       {/* Left Panel - Calendar */}
-      <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 pb-32 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
+      <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
         <button
           onClick={state.service === "cut" && state.dogSize !== "cat" ? onGoBackToCoat : onReset}
           className='mb-4 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors'
@@ -167,7 +167,7 @@ export function DateTimeSelect() {
       </div>
 
       {/* Right Panel - Form */}
-      <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 pb-32 flex flex-col justify-start md:justify-center bg-white'>
+      <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 flex flex-col justify-start md:justify-center bg-white'>
         <h3 className='font-bold text-primary mb-6 text-xl'>Tus datos</h3>
         <form onSubmit={handleSubmit} className='space-y-4'>
           <div>

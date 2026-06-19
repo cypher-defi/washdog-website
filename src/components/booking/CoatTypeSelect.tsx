@@ -14,7 +14,7 @@ export function CoatTypeSelect() {
   const sizeLabel = DOG_SIZE_LABELS[dogSize];
 
   return (
-    <div className="flex-1 p-8 md:p-12 pb-32">
+    <div className="flex-1 p-8 md:p-12">
       <button
         onClick={onGoBackToSize}
         className="mb-6 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors"

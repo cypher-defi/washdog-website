@@ -26,16 +26,11 @@ export function BookingModal() {
 
   if (!isOpen) return null
 
-  // Determine current step
-  const getCurrentStep = () => {
-    if (state.service === null) return "service"
-    if (state.dogSize === null) return "size"
-    // Coat type required for cut service (except cats)
-    if (state.service === "cut" && state.dogSize !== "cat" && state.coatType === null) return "coat"
-    return "datetime"
-  }
-
-  const currentStep = getCurrentStep()
+  // Determine current step from context (useBookingSteps provides this logic)
+  const currentStep = state.service === null ? "service"
+    : state.dogSize === null ? "size"
+    : state.service === "cut" && state.dogSize !== "cat" && state.coatType === null ? "coat"
+    : "datetime"
 
   return (
     <div className='fixed inset-0 z-60'>

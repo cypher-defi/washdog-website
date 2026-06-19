@@ -57,7 +57,7 @@ const SIZE_ICON_SIZES: Record<ValidSize, string> = {
   const options = serviceType === 'bath' ? BATH_OPTIONS : CUT_OPTIONS;
 
   return (
-    <div className="flex-1 p-8 md:p-12 pb-32">
+    <div className="flex-1 p-8 md:p-12">
       <button
         onClick={onReset}
         className="mb-6 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors"

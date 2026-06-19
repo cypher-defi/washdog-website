@@ -59,21 +59,6 @@ export const CUT_PRICES: Record<'toy' | 'small' | 'medium' | 'large' | 'giant' |
 
 export const BREED_CUT_PRICES = '$35.000';
 
-export interface BookingContextValue {
-  state: BookingState;
-  isOpen: boolean;
-  openModal: () => void;
-  closeModal: () => void;
-  selectService: (service: 'bath' | 'cut') => void;
-  selectDogSize: (size: DogSize) => void;
-  selectCoatType: (coat: CoatType) => void;
-  selectDate: (date: Date) => void;
-  selectTime: (time: string) => void;
-  resetBooking: () => void;
-  submitBooking: () => void;
-  isSuccess: boolean;
-}
-
 export interface Feature {
   icon: React.ComponentType<{ className?: string }>;
   title: string;

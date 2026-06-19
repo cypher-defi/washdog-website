@@ -6,7 +6,7 @@ import { useBookingContext } from '@/context/BookingContext';
 export function ServiceSelect() {
   const { onSelectService } = useBookingContext();
   return (
-    <div className="flex flex-col flex-1 p-8 md:p-14 pb-32">
+    <div className="flex flex-col flex-1 p-8 md:p-14">
       <h3 className="text-3xl font-bold text-primary mb-3 text-center tracking-tight">
         Elige el servicio
       </h3>
