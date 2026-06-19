@@ -66,9 +66,26 @@ export function BookingModal({
       const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth
       document.body.style.overflow = "hidden"
       document.body.style.paddingRight = `${scrollbarWidth}px`
+      document.documentElement.style.overflow = "hidden"
+
+      const preventBodyScroll = (e: Event) => {
+        const target = e.target as HTMLElement
+        // Only prevent scroll if it's not inside the modal
+        if (!target.closest('[role="dialog"]') && !target.closest('.modal-content')) {
+          e.preventDefault()
+        }
+      }
+
+      // Prevent scroll events on body
+      document.addEventListener('wheel', preventBodyScroll, { passive: false })
+      document.addEventListener('touchmove', preventBodyScroll, { passive: false })
+
       return () => {
         document.body.style.overflow = "unset"
         document.body.style.paddingRight = "unset"
+        document.documentElement.style.overflow = "unset"
+        document.removeEventListener('wheel', preventBodyScroll)
+        document.removeEventListener('touchmove', preventBodyScroll)
       }
     }
   }, [isOpen])
@@ -95,8 +112,8 @@ export function BookingModal({
       />
 
       {/* Modal Container */}
-      <div className='absolute inset-0 flex items-start md:items-center justify-center p-4 pt-4 md:pt-0'>
-        <div className='relative bg-white w-full sm:max-w-2xl max-h-[90vh] overflow-y-auto rounded-2xl md:rounded-4xl shadow-2xl flex flex-col min-h-0 transition-all duration-300 ring-1 ring-primary/5' style={{overflow: 'hidden', overflowY: 'auto'}}>
+      <div className='absolute inset-0 flex items-start md:items-center justify-center p-4 pt-4 md:pt-0' role="dialog">
+        <div className='modal-content relative bg-white w-full sm:max-w-2xl max-h-[90vh] overflow-y-auto rounded-2xl md:rounded-4xl shadow-2xl flex flex-col min-h-0 transition-all duration-300 ring-1 ring-primary/5' style={{overflow: 'hidden', overflowY: 'auto'}}>
           {/* Close Button */}
           <button
             onClick={onClose}
