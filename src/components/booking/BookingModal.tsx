@@ -112,8 +112,8 @@ export function BookingModal({
       />
 
       {/* Modal Container */}
-      <div className='absolute inset-0 flex items-start md:items-center justify-center p-4 pt-4 md:pt-0' role="dialog">
-        <div className='modal-content relative bg-white w-full sm:max-w-2xl max-h-[90vh] overflow-y-auto rounded-2xl md:rounded-4xl shadow-2xl flex flex-col min-h-0 transition-all duration-300 ring-1 ring-primary/5' style={{overflow: 'hidden', overflowY: 'auto'}}>
+      <div className='absolute inset-0 flex items-start md:items-center justify-center p-4 pt-4 md:pt-0 overflow-hidden' role="dialog">
+        <div className='modal-content relative bg-white w-full sm:max-w-2xl max-h-[85vh] md:max-h-[90vh] overflow-y-auto rounded-2xl md:rounded-4xl shadow-2xl flex flex-col transition-all duration-300 ring-1 ring-primary/5'>
           {/* Close Button */}
           <button
             onClick={onClose}
