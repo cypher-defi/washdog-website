@@ -80,28 +80,16 @@ export function Navbar({ onBookClick }: NavbarProps) {
 
         {/* Desktop Menu */}
         <div className='hidden md:flex items-center gap-8'>
-          {navLinks.map((link) => {
-            const isExternalPage = link.href === 'servicios'
-            return isExternalPage ? (
-              <Link
-                key={link.href}
-                href={`/${link.href}`}
-                className='text-xs font-medium uppercase tracking-[0.15em] text-primary/60 hover:text-primary transition-colors relative group'
-              >
-                {link.label}
-                <span className='absolute -bottom-1 left-0 w-0 h-px bg-accent-blue transition-all duration-300 group-hover:w-full' />
-              </Link>
-            ) : (
-              <button
-                key={link.href}
-                onClick={() => handleNavClick(link.href)}
-                className='text-xs font-medium uppercase tracking-[0.15em] text-primary/60 hover:text-primary transition-colors relative group'
-              >
-                {link.label}
-                <span className='absolute -bottom-1 left-0 w-0 h-px bg-accent-blue transition-all duration-300 group-hover:w-full' />
-              </button>
-            )
-          })}
+          {navLinks.map((link) => (
+            <button
+              key={link.href}
+              onClick={() => handleNavClick(link.href)}
+              className='text-xs font-medium uppercase tracking-[0.15em] text-primary/60 hover:text-primary transition-colors relative group'
+            >
+              {link.label}
+              <span className='absolute -bottom-1 left-0 w-0 h-px bg-accent-blue transition-all duration-300 group-hover:w-full' />
+            </button>
+          ))}
           <Link
             href='/blog'
             className='text-xs font-medium uppercase tracking-[0.15em] text-primary/60 hover:text-primary transition-colors relative group'
@@ -150,27 +138,18 @@ export function Navbar({ onBookClick }: NavbarProps) {
         `}
       >
         <div className='flex flex-col p-6 gap-2'>
-          {navLinks.map((link) => {
-            const isExternalPage = link.href === 'servicios'
-            return isExternalPage ? (
-              <Link
-                key={link.href}
-                href={`/${link.href}`}
-                onClick={() => setIsMenuOpen(false)}
-                className='block w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
-              >
-                {link.label}
-              </Link>
-            ) : (
-              <button
-                key={link.href}
-                onClick={() => handleNavClick(link.href)}
-                className='w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
-              >
-                {link.label}
-              </button>
-            )
-          })}
+          {navLinks.map((link) => (
+            <button
+              key={link.href}
+              onClick={() => {
+                handleNavClick(link.href)
+                setIsMenuOpen(false)
+              }}
+              className='w-full text-sm font-medium uppercase tracking-widest text-primary/70 hover:text-primary hover:bg-black/5 py-3 px-4 rounded-lg transition-colors text-left'
+            >
+              {link.label}
+            </button>
+          ))}
           <Link
             href='/blog'
             onClick={() => setIsMenuOpen(false)}
