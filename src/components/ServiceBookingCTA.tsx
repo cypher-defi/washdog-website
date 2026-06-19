@@ -1,15 +1,15 @@
 "use client"
 
 import dynamic from "next/dynamic"
-import { useBooking } from "@/hooks/useBooking"
+import { BookingProvider, useBookingContext } from "@/context/BookingContext"
 
 const BookingModal = dynamic(
   () => import("@/components/booking").then(mod => mod.BookingModal),
   { ssr: false }
 )
 
-export function ServiceBookingCTA() {
-  const booking = useBooking()
+function ServiceBookingCTAContent() {
+  const { openModal } = useBookingContext()
 
   return (
     <>
@@ -27,7 +27,7 @@ export function ServiceBookingCTA() {
           </p>
 
           <button
-            onClick={booking.openModal}
+            onClick={openModal}
             className='inline-flex w-full sm:w-auto justify-center items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-blue transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
           >
             Reservar mi hora
@@ -44,31 +44,15 @@ export function ServiceBookingCTA() {
       </section>
 
       {/* Booking modal */}
-      <BookingModal
-        isOpen={booking.isOpen}
-        onClose={booking.closeModal}
-        state={booking.state}
-        isSuccess={booking.isSuccess}
-        onSelectService={booking.selectService}
-        onSelectDogSize={booking.selectDogSize}
-        onSelectCoatType={booking.selectCoatType}
-        onSelectDate={booking.selectDate}
-        onSelectTime={booking.selectTime}
-        onReset={booking.resetBooking}
-        onGoBackToSize={booking.goBackToSize}
-        onGoBackToCoat={booking.goBackToCoat}
-        onSubmit={booking.submitBooking}
-        canSubmit={booking.canSubmit}
-        summary={booking.summary}
-        name={booking.name}
-        phoneNumber={booking.phoneNumber}
-        email={booking.email}
-        dogName={booking.dogName}
-        onChangeName={booking.setName}
-        onChangePhoneNumber={booking.setPhoneNumber}
-        onChangeEmail={booking.setEmail}
-        onChangeDogName={booking.setDogName}
-      />
+      <BookingModal />
     </>
+  )
+}
+
+export function ServiceBookingCTA() {
+  return (
+    <BookingProvider>
+      <ServiceBookingCTAContent />
+    </BookingProvider>
   )
 }

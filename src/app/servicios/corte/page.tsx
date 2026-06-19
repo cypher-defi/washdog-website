@@ -3,9 +3,9 @@
 import dynamic from "next/dynamic"
 import Link from "next/link"
 import { Icon } from "@iconify/react"
+import { BookingProvider, useBookingContext } from "@/context/BookingContext"
 import { Navbar } from "@/components/layout"
 import { ServiceJsonLd } from "@/components/ServiceJsonLd"
-import { useBooking } from "@/hooks/useBooking"
 
 const BookingModal = dynamic(
   () => import("@/components/booking").then(mod => mod.BookingModal),
@@ -65,8 +65,8 @@ const serviceSchema = {
   ],
 }
 
-export default function CortePage() {
-  const booking = useBooking()
+function CortepageContent() {
+  const { openModal } = useBookingContext()
 
   return (
     <>
@@ -75,7 +75,7 @@ export default function CortePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
       <ServiceJsonLd slug="peluqueria-canina" />
-      <Navbar onBookClick={booking.openModal} />
+      <Navbar onBookClick={openModal} />
       <main className='min-h-screen bg-background pt-20'>
         {/* Hero */}
         <section className='py-20 bg-white border-b border-primary/5'>
@@ -100,7 +100,7 @@ export default function CortePage() {
               Abierto lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes. Irarrázaval 2086 B, Ñuñoa.
             </p>
             <button
-              onClick={booking.openModal}
+              onClick={openModal}
               className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-peach-dark transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
             >
               <Icon icon='lucide:calendar' className='w-4 h-4' />
@@ -210,7 +210,7 @@ export default function CortePage() {
               Irarrázaval 2086 B, Ñuñoa · Lun, Mié–Sáb 10:00–19:00 · Dom 10:00–17:30 · Mar cerrado
             </p>
             <button
-              onClick={booking.openModal}
+              onClick={openModal}
               className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-peach-dark transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
             >
               <Icon icon='lucide:calendar' className='w-4 h-4' />
@@ -220,31 +220,15 @@ export default function CortePage() {
         </section>
       </main>
 
-      <BookingModal
-        isOpen={booking.isOpen}
-        onClose={booking.closeModal}
-        state={booking.state}
-        isSuccess={booking.isSuccess}
-        onSelectService={booking.selectService}
-        onSelectDogSize={booking.selectDogSize}
-        onSelectCoatType={booking.selectCoatType}
-        onSelectDate={booking.selectDate}
-        onSelectTime={booking.selectTime}
-        onReset={booking.resetBooking}
-        onGoBackToSize={booking.goBackToSize}
-        onGoBackToCoat={booking.goBackToCoat}
-        onSubmit={booking.submitBooking}
-        canSubmit={booking.canSubmit}
-        summary={booking.summary}
-        name={booking.name}
-        phoneNumber={booking.phoneNumber}
-        email={booking.email}
-        dogName={booking.dogName}
-        onChangeName={booking.setName}
-        onChangePhoneNumber={booking.setPhoneNumber}
-        onChangeEmail={booking.setEmail}
-        onChangeDogName={booking.setDogName}
-      />
+      <BookingModal />
     </>
+  )
+}
+
+export default function CortePage() {
+  return (
+    <BookingProvider>
+      <CortepageContent />
+    </BookingProvider>
   )
 }

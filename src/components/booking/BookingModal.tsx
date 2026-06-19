@@ -14,26 +14,7 @@ export function BookingModal() {
     isOpen,
     closeModal,
     state,
-    isSuccess,
-    onSelectService,
-    onSelectDogSize,
-    onSelectCoatType,
-    onSelectDate,
-    onSelectTime,
-    onReset,
-    onGoBackToSize,
-    onGoBackToCoat,
-    onSubmit,
-    canSubmit,
-    summary,
-    name,
-    phoneNumber,
-    email,
-    dogName,
-    onChangeName,
-    onChangePhoneNumber,
-    onChangeEmail,
-    onChangeDogName
+    isSuccess
   } = useBookingContext()
   // Prevent body scroll when modal is open
   useEffect(() => {
@@ -109,49 +90,22 @@ export function BookingModal() {
 
           {/* Step 1: Service Selection */}
           {!isSuccess && currentStep === "service" && (
-            <ServiceSelect onSelectService={onSelectService} />
+            <ServiceSelect />
           )}
 
           {/* Step 2: Dog Size Selection */}
           {!isSuccess && currentStep === "size" && state.service && (
-            <DogSizeSelect
-              serviceType={state.service}
-              onSelectSize={onSelectDogSize}
-              onBack={onReset}
-            />
+            <DogSizeSelect />
           )}
 
           {/* Step 3: Coat Type (cut only, non-cat) */}
           {!isSuccess && currentStep === "coat" && (
-            <CoatTypeSelect
-              dogSize={state.dogSize}
-              onSelectCoat={onSelectCoatType}
-              onBack={onGoBackToSize}
-            />
+            <CoatTypeSelect />
           )}
 
           {/* Step 4: Date/Time Selection */}
           {!isSuccess && currentStep === "datetime" && (
-            <DateTimeSelect
-              selectedDate={state.date}
-              selectedTime={state.time}
-              onSelectDate={onSelectDate}
-              onSelectTime={onSelectTime}
-              onBack={state.service === "cut" && state.dogSize !== "cat" ? onGoBackToCoat : onGoBackToSize}
-              onSubmit={onSubmit}
-              canSubmit={canSubmit}
-              summary={summary}
-              serviceType={state.service}
-              dogSize={state.dogSize}
-              name={name}
-              phoneNumber={phoneNumber}
-              email={email}
-              dogName={dogName}
-              onChangeName={onChangeName}
-              onChangePhoneNumber={onChangePhoneNumber}
-              onChangeEmail={onChangeEmail}
-              onChangeDogName={onChangeDogName}
-            />
+            <DateTimeSelect />
           )}
         </div>
       </div>

@@ -161,11 +161,6 @@ export function DateTimeSelect() {
         </h4>
 
         <TimeSlots
-          selectedTime={selectedTime}
-          onSelectTime={onSelectTime}
-          selectedDate={selectedDate}
-          serviceType={serviceType}
-          dogSize={dogSize}
           bookedSlots={bookedSlots}
           slotIntervalMinutes={serviceType === 'cut' ? 30 : 15}
         />

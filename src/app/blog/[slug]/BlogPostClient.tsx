@@ -5,7 +5,7 @@ import Link from "next/link"
 import { Navbar, Footer } from "@/components/layout"
 import { NewsletterInline } from "@/components/sections/NewsletterInline"
 import { GroomingCalculator } from "@/components/GroomingCalculator"
-import { useBooking } from "@/hooks/useBooking"
+import { BookingProvider, useBookingContext } from "@/context/BookingContext"
 import type { Post } from "@/lib/blog"
 import type { IssueMeta } from "@/lib/newsletter"
 
@@ -28,12 +28,12 @@ interface Props {
   newsletterIssues: IssueMeta[]
 }
 
-export function BlogPostClient({ post, newsletterIssues }: Props) {
-  const booking = useBooking()
+function BlogPostClientContent({ post, newsletterIssues }: Props) {
+  const { openModal } = useBookingContext()
 
   return (
     <>
-      <Navbar onBookClick={booking.openModal} />
+      <Navbar onBookClick={openModal} />
 
       <main className='min-h-screen bg-background pt-20'>
         {/* Header */}
@@ -107,7 +107,7 @@ export function BlogPostClient({ post, newsletterIssues }: Props) {
               Baño y peluquería canina en Ñuñoa. Lunes, mié–sáb 10–19h · dom 10–17:30h · cerrado martes.
             </p>
             <button
-              onClick={booking.openModal}
+              onClick={openModal}
               className='inline-flex items-center gap-2 bg-primary text-white text-xs font-semibold px-8 py-4 rounded-full hover:bg-accent-blue transition-all tracking-[0.2em] uppercase shadow-lg shadow-primary/20 hover:-translate-y-0.5'
             >
               Reservar en Washdog
@@ -116,33 +116,17 @@ export function BlogPostClient({ post, newsletterIssues }: Props) {
         </section>
       </main>
 
-      <Footer onBookClick={booking.openModal} newsletterIssues={newsletterIssues} />
+      <Footer onBookClick={openModal} newsletterIssues={newsletterIssues} />
 
-      <BookingModal
-        isOpen={booking.isOpen}
-        onClose={booking.closeModal}
-        state={booking.state}
-        isSuccess={booking.isSuccess}
-        onSelectService={booking.selectService}
-        onSelectDogSize={booking.selectDogSize}
-        onSelectCoatType={booking.selectCoatType}
-        onSelectDate={booking.selectDate}
-        onSelectTime={booking.selectTime}
-        onReset={booking.resetBooking}
-        onGoBackToSize={booking.goBackToSize}
-        onGoBackToCoat={booking.goBackToCoat}
-        onSubmit={booking.submitBooking}
-        canSubmit={booking.canSubmit}
-        summary={booking.summary}
-        name={booking.name}
-        phoneNumber={booking.phoneNumber}
-        email={booking.email}
-        dogName={booking.dogName}
-        onChangeName={booking.setName}
-        onChangePhoneNumber={booking.setPhoneNumber}
-        onChangeEmail={booking.setEmail}
-        onChangeDogName={booking.setDogName}
-      />
+      <BookingModal />
     </>
+  )
+}
+
+export function BlogPostClient(props: Props) {
+  return (
+    <BookingProvider>
+      <BlogPostClientContent {...props} />
+    </BookingProvider>
   )
 }
