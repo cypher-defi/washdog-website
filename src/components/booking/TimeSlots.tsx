@@ -143,14 +143,14 @@ export function TimeSlots({
   }
 
   return (
-    <div className="grid grid-cols-3 gap-2 max-h-52 overflow-y-auto slots-scroll pr-2">
+    <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 max-h-52 overflow-y-auto slots-scroll pr-2">
       {availableTimes.map((time) => (
         <button
           key={time}
           type="button"
           onClick={() => onSelectTime(time)}
           className={`
-            py-2 rounded-lg border border-primary/10 text-xs font-medium transition-all time-slot
+            h-12 rounded-lg border border-primary/10 text-xs font-medium transition-all time-slot
             ${
               selectedTime === time
                 ? 'bg-accent-blue text-white border-accent-blue shadow-md'

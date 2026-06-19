@@ -27,7 +27,7 @@ export function Services({ onBookClick }: ServicesProps) {
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-6 lg:gap-8 auto-rows-min'>
           {/* Bath Card - Large */}
           <div className='card-hover lg:col-span-7 bg-white border border-accent-blue/20 rounded-5xl p-10 relative overflow-hidden flex flex-col justify-between group hover:border-accent-blue/60 hover:shadow-2xl hover:shadow-accent-blue/10 transition-all'>
-            <div className='absolute top-8 right-8 text-accent-blue opacity-[0.15] group-hover:opacity-25 group-hover:scale-110 transition-all duration-700'>
+            <div className='hidden md:block absolute top-8 right-8 text-accent-blue opacity-[0.15] group-hover:opacity-25 group-hover:scale-110 transition-all duration-700'>
               <Icon icon='lucide:droplets' className='w-48 h-48' />
             </div>
             <div className='relative z-10'>
@@ -70,7 +70,7 @@ export function Services({ onBookClick }: ServicesProps) {
 
           {/* Cut Card - Tall */}
           <div className='card-hover lg:col-span-5 lg:row-span-2 bg-white border border-accent-peach/30 rounded-5xl p-10 relative overflow-hidden flex flex-col justify-between group hover:border-accent-peach/70 hover:shadow-2xl hover:shadow-accent-peach/10 transition-all'>
-            <div className='absolute -bottom-20 -right-20 text-accent-peach opacity-[0.15] group-hover:opacity-25 transition-all duration-700'>
+            <div className='hidden md:block absolute -bottom-20 -right-20 text-accent-peach opacity-[0.15] group-hover:opacity-25 transition-all duration-700'>
               <Icon icon='lucide:scissors' className='w-64 h-64' />
             </div>
             <div className='relative z-10'>

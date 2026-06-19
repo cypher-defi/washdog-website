@@ -29,13 +29,13 @@ export function Hero({ onBookClick, rating = 4.9 }: HeroProps) {
       <div className='relative z-10 px-4 md:px-6 w-full max-w-4xl mx-auto text-center fade-in'>
         {/* Headline */}
         <h1 className='flex flex-col items-center justify-center drop-shadow-sm mb-6 md:mb-8'>
-          <span className='font-serif text-5xl sm:text-6xl md:text-8xl lg:text-[7rem] leading-none tracking-widest uppercase mb-2 md:mb-4 text-primary'>
+          <span className='font-serif text-3xl sm:text-5xl md:text-8xl lg:text-[7rem] leading-tight tracking-widest uppercase mb-2 md:mb-4 text-primary'>
             Tu perro,
           </span>
-          <span className='font-serif italic font-normal text-6xl sm:text-7xl md:text-9xl lg:text-[8rem] leading-[0.85] tracking-tight text-white'>
+          <span className='font-serif italic font-normal text-3xl sm:text-6xl md:text-9xl lg:text-[8rem] leading-[0.85] tracking-tight text-white'>
             limpio y tranquilo.
           </span>
-          <span className='font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-tight tracking-widest uppercase mt-4 text-primary'>
+          <span className='font-serif text-2xl sm:text-4xl md:text-6xl lg:text-7xl leading-tight tracking-widest uppercase mt-4 text-primary'>
             En Ñuñoa.
           </span>
         </h1>
