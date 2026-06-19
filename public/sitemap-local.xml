@@ -412,7 +412,7 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/corte-perros</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -624,7 +624,7 @@
   </url>
   <url>
     <loc>https://www.washdog.cl/servicios/precio-peluqueria</loc>
-    <lastmod>2026-04-18</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -787,6 +787,12 @@
   <url>
     <loc>https://www.washdog.cl/blog/cuidados-higiene-perros</loc>
     <lastmod>2026-05-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.washdog.cl/blog/cuidar-perro-invierno</loc>
+    <lastmod>2026-06-19</lastmod>
     <changefreq>never</changefreq>
     <priority>0.6</priority>
   </url>
