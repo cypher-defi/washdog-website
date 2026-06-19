@@ -139,10 +139,10 @@ export function DateTimeSelect({
   return (
     <div className='flex flex-col md:flex-row flex-1 h-full'>
       {/* Left Panel - Calendar */}
-      <div className='w-full md:w-1/2 p-4 md:p-8 pt-16 md:pt-8 pb-32 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
+      <div className='w-full md:w-1/2 p-4 md:p-8 pt-12 md:pt-8 pb-32 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
         <button
           onClick={onBack}
-          className='mb-6 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors'
+          className='mb-4 text-xs font-bold text-primary/40 hover:text-primary uppercase tracking-wide flex items-center gap-1 transition-colors'
         >
           <Icon icon='lucide:arrow-left' className='w-4 h-4' /> Volver
         </button>
