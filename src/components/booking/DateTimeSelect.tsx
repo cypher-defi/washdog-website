@@ -188,7 +188,7 @@ export function DateTimeSelect({
       </div>
 
       {/* Right Panel - Form */}
-      <div className='w-full md:w-1/2 p-4 md:p-8 pt-16 pb-32 flex flex-col justify-center bg-white'>
+      <div className='w-full md:w-1/2 p-4 md:p-8 pt-16 pb-32 flex flex-col justify-start bg-white'>
         <h3 className='font-bold text-primary mb-6 text-xl'>Tus datos</h3>
         <form onSubmit={handleSubmit} className='space-y-4'>
           <div>
