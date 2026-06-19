@@ -137,7 +137,7 @@ export function DateTimeSelect({
       : ""
 
   return (
-    <div className='flex flex-col md:flex-row flex-1 h-full rounded-b-3xl md:rounded-b-4xl'>
+    <div className='flex flex-col md:flex-row flex-1 h-full'>
       {/* Left Panel - Calendar */}
       <div className='w-full md:w-1/2 p-4 md:p-8 pb-32 border-b md:border-b-0 md:border-r border-primary/5 bg-background/50'>
         <button
