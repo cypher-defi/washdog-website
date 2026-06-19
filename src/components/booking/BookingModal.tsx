@@ -112,7 +112,7 @@ export function BookingModal({
           {/* Close Button */}
           <button
             onClick={onClose}
-            className='absolute top-4 right-6 z-20 p-2 text-primary hover:text-primary/70 transition-colors'
+            className='absolute top-7 right-6 z-20 p-2 text-primary hover:text-primary/70 transition-colors'
             aria-label='Close modal'
           >
             <Icon icon='lucide:x' className='w-6 h-6' />
