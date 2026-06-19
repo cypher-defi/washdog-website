@@ -89,26 +89,28 @@ export function DogSizeSelect({ serviceType, onSelectSize, onBack }: DogSizeSele
             <button
               key={size}
               onClick={() => onSelectSize(size)}
-              className="group flex items-center gap-3 p-5 rounded-2xl border border-primary/10 bg-white hover:border-accent-blue hover:shadow-lg hover:shadow-accent-blue/10 transition-all text-left"
+              className="group flex flex-col md:flex-row md:items-center gap-3 md:gap-4 p-4 md:p-5 rounded-xl md:rounded-2xl border border-primary/10 bg-white hover:border-accent-blue hover:shadow-lg hover:shadow-accent-blue/10 transition-all text-left"
             >
-              <div className={`w-12 h-12 rounded-xl flex items-center justify-center transition-all group-hover:scale-110 shrink-0 ${SIZE_COLORS[size]}`}>
+              <div className={`w-10 h-10 md:w-12 md:h-12 rounded-lg md:rounded-xl flex items-center justify-center transition-all group-hover:scale-110 shrink-0 ${SIZE_COLORS[size]}`}>
                 <Icon icon={icon} className={SIZE_ICON_SIZES[size]} />
               </div>
               <div className="flex-1 min-w-0">
-                <p className="font-semibold text-primary group-hover:text-accent-blue transition-colors text-sm">
+                <p className="font-semibold text-primary group-hover:text-accent-blue transition-colors text-sm leading-tight">
                   {label}
                 </p>
-                <p className="text-xs text-primary/50 mt-0.5">
+                <p className="text-xs text-primary/50 mt-1">
                   Duración aprox: <span className="font-medium">{duration}</span>
                 </p>
               </div>
-              <span className="text-sm font-bold text-primary/70 group-hover:text-accent-blue transition-colors shrink-0 text-right whitespace-nowrap">
-                {price}
-              </span>
-              <Icon
-                icon="lucide:chevron-right"
-                className="w-4 h-4 text-primary/20 group-hover:text-accent-blue group-hover:translate-x-1 transition-all shrink-0"
-              />
+              <div className="flex items-center gap-2 md:gap-3 shrink-0 self-end md:self-auto">
+                <span className="text-sm md:text-base font-bold text-primary/70 group-hover:text-accent-blue transition-colors whitespace-nowrap">
+                  {price}
+                </span>
+                <Icon
+                  icon="lucide:chevron-right"
+                  className="w-4 h-4 text-primary/20 group-hover:text-accent-blue group-hover:translate-x-1 transition-all"
+                />
+              </div>
             </button>
           );
         })}
