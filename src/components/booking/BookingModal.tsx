@@ -64,11 +64,24 @@ export function BookingModal({
   useEffect(() => {
     if (isOpen) {
       document.body.style.overflow = "hidden"
+      document.documentElement.style.overflow = "hidden"
+
+      const preventScroll = (e: WheelEvent | TouchEvent) => {
+        e.preventDefault()
+      }
+
+      document.addEventListener("wheel", preventScroll, { passive: false })
+      document.addEventListener("touchmove", preventScroll, { passive: false })
+
+      return () => {
+        document.body.style.overflow = "unset"
+        document.documentElement.style.overflow = "unset"
+        document.removeEventListener("wheel", preventScroll)
+        document.removeEventListener("touchmove", preventScroll)
+      }
     } else {
       document.body.style.overflow = "unset"
-    }
-    return () => {
-      document.body.style.overflow = "unset"
+      document.documentElement.style.overflow = "unset"
     }
   }, [isOpen])
 
